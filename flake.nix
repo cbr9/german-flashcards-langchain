@@ -54,11 +54,10 @@
                 venv = {
                   enable = true;
                   requirements = ''
+                    tqdm
                     langchain
                     openai
                     pydantic
-                    hydra-core
-                    omegaconf
                     genanki
                     spacy
                   '';

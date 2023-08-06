@@ -1,8 +1,6 @@
-from genanki.model import cached_property
-import hydra
 from langchain import PromptTemplate
+from tqdm import tqdm
 from langchain.chat_models import ChatOpenAI
-from omegaconf import DictConfig, OmegaConf
 from typing import Any
 import json
 from pathlib import Path
@@ -55,10 +53,6 @@ class Card(BaseModel):
         )
 
 
-class Config(BaseModel):
-    words: list[str]
-
-
 def ulify(elements: list[Any]):
     string = "<ul>\n"
     string += "\n".join(["<li>" + str(s) + "</li>" for s in elements])
@@ -66,12 +60,10 @@ def ulify(elements: list[Any]):
     return string
 
 
-@hydra.main(config_path="conf", config_name="config", version_base=None)
-def main(cfg: DictConfig):
-    outputs = Path("outputs")
-    outputs.mkdir(parents=True, exist_ok=True)
+def main():
+    dictionary = Path("dictionary")
+    dictionary.mkdir(parents=True, exist_ok=True)
 
-    config = Config(**OmegaConf.to_object(cfg))  # type: ignore
     llm = ChatOpenAI(temperature=0)
     nlp = spacy.load("de_core_news_lg")
     deck = genanki.Deck(deck_id=1381290381, name="German Words")
@@ -91,7 +83,7 @@ def main(cfg: DictConfig):
         ),
         "examples": PromptTemplate(
             input_variables=["word"],
-            template="Return a JSON object containing one field called examples, whose elements are lists consisting of two elements, the first of which is an example sentence of the German word {word} and the second is its English translation. Provide at least five examples.",
+            template="Return a JSON object containing one field called examples, whose elements are lists consisting of two elements, the first of which is an example sentence of the German word {word} and the second is its English translation",
         ),
         "translations": PromptTemplate(
             input_variables=["word"],
@@ -101,45 +93,54 @@ def main(cfg: DictConfig):
 
     gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
 
-    for word in config.words:
-        card_information = {}
-        doc = nlp(word)
-        token = doc[0]
-        pos = token.pos_
-        print(token.morph)
+    with open(file="words.txt", mode="r", encoding="utf8") as f:
+        words = [w.strip() for w in f.readlines()]
 
-        if pos == "VERB":
-            card_information["word"] = llm.predict(
-                templates["verb_inflections"].format(word=word)
+    pbar = tqdm(words)
+    for word in pbar:
+        pbar.set_description(word)
+        if not (dictionary / f"{word}.json").exists():
+            card_information = {}
+            doc = nlp(word)
+            token = doc[0]
+            pos = token.pos_
+
+            if pos == "VERB":
+                card_information["word"] = llm.predict(
+                    templates["verb_inflections"].format(word=word)
+                )
+
+            elif pos == "NOUN" or pos == "PROPN":
+                gender = token.morph.get(field="Gender", default=None)[0]
+                article = gender2article[gender]
+                plural = llm.predict(templates["plural"].format(word=word))
+                card_information[
+                    "word"
+                ] = f"{article} {word.capitalize()}, die {plural.capitalize()}"
+            else:
+                card_information["word"] = word
+
+            card_information["definition"] = llm.predict(
+                templates["definition"].format(word=word)
             )
 
-        elif pos == "NOUN":
-            gender = token.morph.get(field="Gender", default=None)[0]
-            article = gender2article[gender]
-            plural = llm.predict(templates["plural"].format(word=word))
-            card_information[
-                "word"
-            ] = f"{article} {word.capitalize()}, die {plural.capitalize()}"
+            card_information["examples"] = json.loads(
+                llm.predict(templates["examples"].format(word=word))
+            )["examples"]
+
+            translations = llm.predict(templates["translations"].format(word=word))
+            translations = [t.strip() for t in translations.split(",")]
+            card_information["translations"] = translations
+
+            card = Card(**card_information)
+
+            with open(
+                file=dictionary / f"{word}.json", mode="w", encoding="utf-8"
+            ) as f:
+                f.write(json.dumps(card_information, indent=4, ensure_ascii=False))
         else:
-            card_information["word"] = word
-
-        card_information["definition"] = llm.predict(
-            templates["definition"].format(word=word)
-        )
-
-        card_information["examples"] = json.loads(
-            llm.predict(templates["examples"].format(word=word))
-        )["examples"]
-
-        translations = llm.predict(templates["translations"].format(word=word))
-        translations = [t.strip() for t in translations.split(",")]
-        card_information["translations"] = translations
-
-        card = Card(**card_information)
-        print(card)
-
-        with open(file=outputs / f"{word}.json", mode="w", encoding="utf-8") as f:
-            f.write(json.dumps(card_information, indent=4, ensure_ascii=False))
+            with open(file=dictionary / f"{word}.json", mode="r", encoding="utf8") as f:
+                card = Card(**json.load(f))
 
         deck.add_note(card.to_anki())
 
