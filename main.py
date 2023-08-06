@@ -7,18 +7,29 @@ from pathlib import Path
 from pydantic import BaseModel
 import genanki
 import spacy
+from typing import Self
 
 
-class Card(BaseModel):
+class Word(BaseModel):
     word: str
     translations: list[str]
     definition: str
     examples: list[tuple[str, str]]
 
-    def model(self) -> genanki.Model:
+    @property
+    def formatted_examples(self) -> list[str]:
+        return [f"{german} - {english}" for german, english in self.examples]
+
+
+class Deck(genanki.Deck):
+    def __init__(self, deck_id=1381290381, name="German Words", description=""):
+        super().__init__(deck_id, name, description)
+
+    @property
+    def reverse_model(self) -> genanki.Model:
         return genanki.Model(
             model_id=1000000,
-            name="Simple",
+            name="Simple + Reverse",
             fields=[
                 {"name": "Word"},
                 {"name": "Definition"},
@@ -38,22 +49,22 @@ class Card(BaseModel):
             ],
         )
 
-    def to_anki(self) -> genanki.Note:
-        formatted_examples = []
-        for german, english in self.examples:
-            formatted_examples.append(f"{german} - {english}")
-
-        return genanki.Note(
-            model=self.model(),
+    def __add__(self, word: Word) -> Self:
+        reverse_note = genanki.Note(
+            model=self.reverse_model,
             fields=[
-                self.word,
-                self.definition,
-                ulify(formatted_examples),
+                word.word,
+                word.definition,
+                ulify(word.formatted_examples),
             ],
+            guid=genanki.guid_for(word.word),
         )
 
+        self.add_note(reverse_note)
+        return self
 
-def ulify(elements: list[Any]):
+
+def ulify(elements: list[Any]) -> str:
     string = "<ul>\n"
     string += "\n".join(["<li>" + str(s) + "</li>" for s in elements])
     string += "\n</ul>"
@@ -64,9 +75,9 @@ def main():
     dictionary = Path("dictionary")
     dictionary.mkdir(parents=True, exist_ok=True)
 
+    deck = Deck()
     llm = ChatOpenAI(temperature=0)
     nlp = spacy.load("de_core_news_lg")
-    deck = genanki.Deck(deck_id=1381290381, name="German Words")
 
     templates = {
         "plural": PromptTemplate(
@@ -132,7 +143,7 @@ def main():
             translations = [t.strip() for t in translations.split(",")]
             card_information["translations"] = translations
 
-            card = Card(**card_information)
+            card = Word(**card_information)
 
             with open(
                 file=dictionary / f"{word}.json", mode="w", encoding="utf-8"
@@ -140,9 +151,9 @@ def main():
                 f.write(json.dumps(card_information, indent=4, ensure_ascii=False))
         else:
             with open(file=dictionary / f"{word}.json", mode="r", encoding="utf8") as f:
-                card = Card(**json.load(f))
+                card = Word(**json.load(f))
 
-        deck.add_note(card.to_anki())
+        deck += card
 
     genanki.Package(deck).write_to_file("output.apkg")
 

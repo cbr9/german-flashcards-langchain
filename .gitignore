@@ -1,4 +1,4 @@
 .devenv
 .direnv
 .env
-outputs/
+output.apkg
