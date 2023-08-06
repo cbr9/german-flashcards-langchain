@@ -61,7 +61,6 @@
                     omegaconf
                     genanki
                     spacy
-                    pyinflect
                   '';
                 };
               };
