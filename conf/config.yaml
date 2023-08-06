@@ -1,3 +1,4 @@
-speaker_language: english
-target_language: german
-word: ???
+words: ???
+
+hydra:
+  output_subdir: null

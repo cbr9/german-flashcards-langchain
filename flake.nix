@@ -32,6 +32,7 @@
               # https://devenv.sh/reference/options/
               packages = with pkgs; [
                 gcc
+                zlib
                 stdenv.cc.cc.lib
                 nodePackages.pyright
                 python310Packages.ruff-lsp
@@ -42,6 +43,10 @@
               env = {
                 # LD_LIBRARY_PATH = "${pkgs.ncurses5}/lib:${pkgs.gcc}/lib";
               };
+
+              enterShell = ''
+                # python main.py -sc install=fish | source
+              '';
 
               languages.python = {
                 enable = true;
@@ -54,6 +59,9 @@
                     pydantic
                     hydra-core
                     omegaconf
+                    genanki
+                    spacy
+                    pyinflect
                   '';
                 };
               };

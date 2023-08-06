@@ -1,0 +1,31 @@
+{
+    "word": "das Haus, die Häuser",
+    "definition": "A building or structure used as a dwelling or residence.",
+    "examples": [
+        [
+            "Das Haus ist groß.",
+            "The house is big."
+        ],
+        [
+            "Ich wohne in einem kleinen Haus.",
+            "I live in a small house."
+        ],
+        [
+            "Das Haus hat einen schönen Garten.",
+            "The house has a beautiful garden."
+        ],
+        [
+            "Meine Eltern haben ein altes Haus.",
+            "My parents have an old house."
+        ],
+        [
+            "Wir haben gestern ein neues Haus gekauft.",
+            "We bought a new house yesterday."
+        ]
+    ],
+    "translations": [
+        "house",
+        "home",
+        "building"
+    ]
+}
