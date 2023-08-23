@@ -38,10 +38,8 @@
                 python310Packages.ruff-lsp
               ];
 
-              dotenv.enable = true;
-
               env = {
-                # LD_LIBRARY_PATH = "${pkgs.ncurses5}/lib:${pkgs.gcc}/lib";
+                OPENAI_API_KEY = "op://Personal/OpenAI/api-key";
               };
 
               enterShell = ''
