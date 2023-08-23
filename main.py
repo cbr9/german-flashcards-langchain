@@ -105,7 +105,7 @@ def main():
     gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
 
     with open(file="words.txt", mode="r", encoding="utf8") as f:
-        words = [w.strip() for w in f.readlines()]
+        words = [w.strip() for w in f.readlines() if not w.startswith("//")]
 
     pbar = tqdm(words)
     for word in pbar:
