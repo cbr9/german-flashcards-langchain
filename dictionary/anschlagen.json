@@ -1,35 +1,28 @@
 {
     "word": "anschlagen, schlug an, angeschlagen",
-    "definition": "to strike or hit something, often with force or violence; to attack or assault; to sound or ring (e.g., a bell); to post or put up (e.g., a notice or sign)",
-    "examples": [
-        [
-            "Ich habe gestern an die Tür angeschlagen.",
-            "I bumped into the door yesterday."
-        ],
-        [
-            "Der Hund hat angeschlagen, als er den Fremden gesehen hat.",
-            "The dog barked when he saw the stranger."
-        ],
-        [
-            "Er hat den Nagel mit dem Hammer angeschlagen.",
-            "He hammered the nail."
-        ],
-        [
-            "Die Uhr hat gerade angeschlagen.",
-            "The clock just struck."
-        ],
-        [
-            "Die Polizei hat den Verdächtigen angeschlagen.",
-            "The police identified the suspect."
+    "definition": "To strike or hit an object with force, typically producing a sound or vibration. It is commonly used to describe the action of striking a musical instrument, such as a piano or a drum, to produce a sound.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich habe den Zettel an die Tür angeschlagen.",
+                "english": "I pinned the note to the door."
+            },
+            {
+                "german": "Die Regierung hat neue Steuern angeschlagen.",
+                "english": "The government has announced new taxes."
+            },
+            {
+                "german": "Er hat den Nagel mit dem Hammer angeschlagen.",
+                "english": "He hammered the nail in."
+            },
+            {
+                "german": "Die Glocke schlägt zwölf Mal an.",
+                "english": "The bell chimes twelve times."
+            },
+            {
+                "german": "Der Hund hat angeschlagen, als er den Fremden sah.",
+                "english": "The dog barked when he saw the stranger."
+            }
         ]
-    ],
-    "translations": [
-        "to strike",
-        "to hit",
-        "to post",
-        "to attach",
-        "to ring",
-        "to sound",
-        "to announce"
-    ]
+    }
 }

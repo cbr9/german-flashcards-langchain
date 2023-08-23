@@ -1,9 +1,11 @@
 anschlagen
 ansteuern
 verfahren
+Geschichte
 zaubern
 erwähnte
 Nachspann
+liegen
 Überlegung
 erwerben
 Schnellverfahren
@@ -15,15 +17,15 @@ abgrenzen
 abraten
 abschliessen
 abteilen
-// abwehren
+abwehren
 ahnungslos
 allerdings
-// allgemein
+allgemein
 sich gewöhnen
 angenehm
 anmuten
 anmutig
-// anpassen
+anpassen
 anrühren
 anrührend
 antragen
@@ -45,11 +47,11 @@ beeinflussen
 begegnen
 begnadigen
 behaart
-// behalten
-// beharrlich
+behalten
+beharrlich
 bekannt
 bekanntgeben
-// belegen
+belegen
 beleidigen
 überfallen
 Veranstaltung
@@ -68,7 +70,7 @@ lebende
 Wesen
 abspeisen
 erwissen
-// bereichen
+bereichen
 zugleich
 verunsicheren
 Geschlossenheit

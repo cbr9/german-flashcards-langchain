@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     systems.url = "github:nix-systems/default";
     devenv.url = "github:cachix/devenv";
     nixpkgs-python.url = "github:cachix/nixpkgs-python";
@@ -38,9 +38,7 @@
                 python310Packages.ruff-lsp
               ];
 
-              env = {
-                OPENAI_API_KEY = "op://Personal/OpenAI/api-key";
-              };
+              dotenv.enable = true;
 
               enterShell = ''
                 # python main.py -sc install=fish | source

@@ -1,40 +1,124 @@
+import json
 from langchain import PromptTemplate
+from langchain.schema.language_model import BaseLanguageModel
+from langchain.schema.output_parser import BaseOutputParser
+from spacy.tokens import Token
 from tqdm import tqdm
 from langchain.chat_models import ChatOpenAI
-from typing import Any
-import json
+from langchain.output_parsers import PydanticOutputParser
+from typing import Any, Iterator, Optional
 from pathlib import Path
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 import genanki
 import spacy
 from typing import Self
 import re
 
 input_variables_pattern = re.compile(pattern=r"\{\w+\}")
+gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
 
 
-def load_template(path: Path | str) -> PromptTemplate:
-    if isinstance(path, str):
-        path = Path(path)
+class Plural(BaseModel):
+    plural: str
+
+
+class Inflection(BaseModel):
+    infinitive: str
+    past: str
+    participle: str
+
+
+class Example(BaseModel):
+    german: str
+    english: str
+
+
+class Examples(BaseModel):
+    examples: list[Example]
+
+    def __iter__(self) -> Iterator[Example]:
+        return self.examples.__iter__()
+
+
+def load_template(
+    name: str,
+    parser: Optional[BaseOutputParser[Any]] = None,
+) -> PromptTemplate:
+    path = Path("templates") / f"{name}.tmpl"
 
     with path.open(mode="r", encoding="utf8") as f:
         text = f.read()
-        input_variables = [
+        variables = {
             var.replace("{", "").replace("}", "")
             for var in input_variables_pattern.findall(text)
-        ]
-        return PromptTemplate(input_variables=input_variables, template=f.read())
+        }
+
+        partial_variables = {}
+        if "format_instructions" in variables:
+            assert parser is not None
+            partial_variables = {
+                "format_instructions": parser.get_format_instructions()
+            }
+            variables.remove("format_instructions")
+
+        return PromptTemplate(
+            template=text,
+            input_variables=list(variables),
+            partial_variables=partial_variables,
+        )
 
 
 class Word(BaseModel):
     word: str
-    translations: list[str]
-    definition: str
-    examples: list[tuple[str, str]]
+    token: Optional[Token] = Field(exclude=True, default=None)
+    definition: str = Field(default="")
+    examples: Examples = Field(default_factory=lambda: Examples(examples=[]))
+
+    class Config:
+        arbitrary_types_allowed = True
 
     @property
     def formatted_examples(self) -> list[str]:
         return [f"{german} - {english}" for german, english in self.examples]
+
+    def define(self, llm: BaseLanguageModel) -> Self:
+        assert self.token is not None
+        template = load_template("definition")
+        self.definition = llm.predict(template.format(word=self.token.lemma_))
+        return self
+
+    def get_examples(self, llm: BaseLanguageModel) -> Self:
+        assert self.token is not None
+        parser = PydanticOutputParser(pydantic_object=Examples)
+        template = load_template("examples", parser=parser)
+        prediction = llm.predict(template.format(word=self.token.lemma_))
+        self.examples = parser.parse(prediction)
+        return self
+
+    def inflect(self, llm: BaseLanguageModel) -> Self:
+        assert self.token is not None
+        if self.token.pos_ == "VERB":
+            parser = PydanticOutputParser(pydantic_object=Inflection)  # type: ignore
+            template = load_template(
+                "verb_inflections",
+                parser=parser,
+            )
+            inflections: Inflection = parser.parse(
+                llm.predict(template.format(word=self.token.lemma_))
+            )
+            self.word = f"{inflections.infinitive}, {inflections.past}, {inflections.participle}"
+        elif self.token.pos_ in {"NOUN", "PROPN"}:
+            template = load_template("plural")
+            gender = self.token.morph.get(field="Gender", default=None)[0]
+            article = gender2article[gender]
+            plural = llm.predict(
+                template.format(word=f"article {self.token.lemma_.capitalize()}")
+            )
+            self.word = (
+                f"{article} {self.token.lemma_.capitalize()}, die {plural.capitalize()}"
+            )
+
+        return self
 
 
 class Deck(genanki.Deck):
@@ -65,18 +149,19 @@ class Deck(genanki.Deck):
             ],
         )
 
-    def __add__(self, word: Word) -> Self:
-        reverse_note = genanki.Note(
-            model=self.reverse_model,
-            fields=[
-                word.word,
-                word.definition,
-                ulify(word.formatted_examples),
-            ],
-            guid=genanki.guid_for(word.word),
-        )
+    def __add__(self, word: Word | None) -> Self:
+        if word is not None:
+            reverse_note = genanki.Note(
+                model=self.reverse_model,
+                fields=[
+                    word.word,
+                    word.definition,
+                    ulify(word.formatted_examples),
+                ],
+                guid=genanki.guid_for(word.word),
+            )
 
-        self.add_note(reverse_note)
+            self.add_note(reverse_note)
         return self
 
 
@@ -87,6 +172,30 @@ def ulify(elements: list[Any]) -> str:
     return string
 
 
+def process_lemma(
+    dictionary: Path,
+    lemma: str,
+    token: Optional[Token] = None,
+    llm: Optional[BaseLanguageModel] = None,
+) -> Word:
+    if not (dictionary / f"{lemma}.json").exists():
+        assert token is not None and llm is not None
+        word = Word(word=lemma, token=token).inflect(llm).define(llm).get_examples(llm)
+
+        assert word.token is not None
+
+        with open(
+            file=dictionary / f"{word.token.lemma_}.json",
+            mode="w",
+            encoding="utf-8",
+        ) as f:
+            f.write(word.model_dump_json(indent=4))
+    else:
+        with open(file=dictionary / f"{lemma}.json", mode="r", encoding="utf8") as f:
+            word = Word(**json.load(f))
+    return word
+
+
 def main():
     dictionary = Path("dictionary")
     dictionary.mkdir(parents=True, exist_ok=True)
@@ -95,59 +204,25 @@ def main():
     llm = ChatOpenAI(temperature=0)
     nlp = spacy.load("de_core_news_lg")
 
-    templates = {f.name: load_template(f) for f in Path("templates").glob("*.tmpl")}
-    gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
-
     with open(file="words.txt", mode="r", encoding="utf8") as f:
-        words = [w.strip() for w in f.readlines() if not w.startswith("//")]
+        lemmas = [w.strip() for w in f.readlines() if not w.startswith("//")]
 
-    pbar = tqdm(words)
-    for word in pbar:
-        pbar.set_description(word)
-        if not (dictionary / f"{word}.json").exists():
-            card_information = {}
-            doc = nlp(word)
-            token = doc[0]
-            pos = token.pos_
+    pbar = tqdm(lemmas)
+    for lemma in pbar:
+        pbar.set_description(lemma)
+        doc = nlp(lemma)
+        word = process_lemma(dictionary, lemma, doc[0], llm)
+        deck += word
 
-            if pos == "VERB":
-                card_information["word"] = llm.predict(
-                    templates["verb_inflections"].format(word=word)
-                )
-
-            elif pos == "NOUN" or pos == "PROPN":
-                gender = token.morph.get(field="Gender", default=None)[0]
-                article = gender2article[gender]
-                plural = llm.predict(templates["plural"].format(word=word))
-                card_information[
-                    "word"
-                ] = f"{article} {word.capitalize()}, die {plural.capitalize()}"
-            else:
-                card_information["word"] = word
-
-            card_information["definition"] = llm.predict(
-                templates["definition"].format(word=word)
-            )
-
-            card_information["examples"] = json.loads(
-                llm.predict(templates["examples"].format(word=word))
-            )["examples"]
-
-            translations = llm.predict(templates["translations"].format(word=word))
-            translations = [t.strip() for t in translations.split(",")]
-            card_information["translations"] = translations
-
-            card = Word(**card_information)
-
-            with open(
-                file=dictionary / f"{word}.json", mode="w", encoding="utf-8"
-            ) as f:
-                f.write(json.dumps(card_information, indent=4, ensure_ascii=False))
-        else:
-            with open(file=dictionary / f"{word}.json", mode="r", encoding="utf8") as f:
-                card = Word(**json.load(f))
-
-        deck += card
+        for example in word.examples:
+            doc = nlp(example.german)
+            for token in doc:
+                if (
+                    token.pos_ in {"VERB", "PROPN", "NOUN", "ADV", "ADJ"}
+                    and token.text not in word.word
+                ):
+                    pbar.set_description(token.lemma_)
+                    deck += process_lemma(dictionary, token.lemma_, token, llm)
 
     genanki.Package(deck).write_to_file("output.apkg")
 

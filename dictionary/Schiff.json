@@ -1,0 +1,28 @@
+{
+    "word": "das Schiff, die Schiffe",
+    "definition": "A vehicle that is designed to travel on water, typically used for transportation of people, goods, or military purposes. It is commonly seen in various sizes and shapes, ranging from small recreational vessels to large cargo ships or naval vessels.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Schiff fährt über den Ozean.",
+                "english": "The ship is sailing across the ocean."
+            },
+            {
+                "german": "Das Schiff ist aus Holz gebaut.",
+                "english": "The ship is made of wood."
+            },
+            {
+                "german": "Das Schiff legt im Hafen an.",
+                "english": "The ship is docking at the harbor."
+            },
+            {
+                "german": "Das Schiff transportiert Fracht.",
+                "english": "The ship is transporting cargo."
+            },
+            {
+                "german": "Das Schiff hat eine beeindruckende Größe.",
+                "english": "The ship has an impressive size."
+            }
+        ]
+    }
+}
