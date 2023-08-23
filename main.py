@@ -95,23 +95,7 @@ def main():
     llm = ChatOpenAI(temperature=0)
     nlp = spacy.load("de_core_news_lg")
 
-    templates = {
-        "plural": load_template(path="templates/plural.tmpl"),
-        "verb_inflections": load_template(path="templates/verb_inflections.tmpl"),
-        "definition": PromptTemplate(
-            input_variables=["word"],
-            template="Give a dictionary definition of the German word {word}. The definition should include usage information, such as what it is most usually used for. Respond only with the definition, without mentioning the language, the word or its part-of-speech tag",
-        ),
-        "examples": PromptTemplate(
-            input_variables=["word"],
-            template="Return a JSON object containing one field called examples, whose elements are lists consisting of two elements, the first of which is an example sentence of the German word {word} and the second is its English translation",
-        ),
-        "translations": PromptTemplate(
-            input_variables=["word"],
-            template="Give a comma-separated list of accurate translations for the German word {word}",
-        ),
-    }
-
+    templates = {f.name: load_template(f) for f in Path("templates").glob("*.tmpl")}
     gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
 
     with open(file="words.txt", mode="r", encoding="utf8") as f:
