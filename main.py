@@ -90,7 +90,7 @@ def main():
         ),
         "definition": PromptTemplate(
             input_variables=["word"],
-            template="Give a dictionary definition of the German word {word}. The definition should include usage information, such as what it is most usually used for. Respond only with the definition, without mentioning the language, the word or its part-of-speech tag)",
+            template="Give a dictionary definition of the German word {word}. The definition should include usage information, such as what it is most usually used for. Respond only with the definition, without mentioning the language, the word or its part-of-speech tag",
         ),
         "examples": PromptTemplate(
             input_variables=["word"],
