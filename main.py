@@ -8,6 +8,22 @@ from pydantic import BaseModel
 import genanki
 import spacy
 from typing import Self
+import re
+
+input_variables_pattern = re.compile(pattern=r"\{\w+\}")
+
+
+def load_template(path: Path | str) -> PromptTemplate:
+    if isinstance(path, str):
+        path = Path(path)
+
+    with path.open(mode="r", encoding="utf8") as f:
+        text = f.read()
+        input_variables = [
+            var.replace("{", "").replace("}", "")
+            for var in input_variables_pattern.findall(text)
+        ]
+        return PromptTemplate(input_variables=input_variables, template=f.read())
 
 
 class Word(BaseModel):
@@ -80,14 +96,8 @@ def main():
     nlp = spacy.load("de_core_news_lg")
 
     templates = {
-        "plural": PromptTemplate(
-            input_variables=["word"],
-            template="What is the plural form of the German word {word}? Respond only with the plural form.",
-        ),
-        "verb_inflections": PromptTemplate(
-            input_variables=["word"],
-            template="What are the present, past, and past participle forms of the German verb {word}? Respond only with each of the forms separated by a comma. For example, for the verb 'machen', you should respond with 'machen, machte, gemacht'. Do not include any auxiliar verb for the participle.",
-        ),
+        "plural": load_template(path="templates/plural.tmpl"),
+        "verb_inflections": load_template(path="templates/verb_inflections.tmpl"),
         "definition": PromptTemplate(
             input_variables=["word"],
             template="Give a dictionary definition of the German word {word}. The definition should include usage information, such as what it is most usually used for. Respond only with the definition, without mentioning the language, the word or its part-of-speech tag",
