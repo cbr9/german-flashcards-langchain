@@ -1,0 +1,28 @@
+{
+    "word": "das Wetter, die Wetter",
+    "definition": "The term refers to the atmospheric conditions and state of the atmosphere at a particular time and place. It encompasses various elements such as temperature, precipitation, wind, and cloud cover. It is commonly used to describe and discuss the current or forecasted weather conditions in a specific location.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Wetter ist schön.",
+                "english": "The weather is nice."
+            },
+            {
+                "german": "Heute wird es regnen.",
+                "english": "It will rain today."
+            },
+            {
+                "german": "Ich mag das kalte Wetter.",
+                "english": "I like the cold weather."
+            },
+            {
+                "german": "Das Wetter ändert sich ständig.",
+                "english": "The weather is constantly changing."
+            },
+            {
+                "german": "Morgen wird es sonnig sein.",
+                "english": "Tomorrow will be sunny."
+            }
+        ]
+    }
+}

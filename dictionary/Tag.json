@@ -1,0 +1,28 @@
+{
+    "word": "der Tag, die Tage",
+    "definition": "A unit of time that typically refers to a period of approximately 24 hours, beginning at midnight and ending at the following midnight. It is commonly used to describe a specific day or to indicate the passing of time within a day.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Guten Tag!",
+                "english": "Good day!"
+            },
+            {
+                "german": "Ich habe heute frei.",
+                "english": "I have the day off today."
+            },
+            {
+                "german": "Der Tag war sehr anstrengend.",
+                "english": "The day was very exhausting."
+            },
+            {
+                "german": "Es wird ein schöner Tag werden.",
+                "english": "It will be a beautiful day."
+            },
+            {
+                "german": "Ich wünsche dir einen schönen Tag!",
+                "english": "I wish you a nice day!"
+            }
+        ]
+    }
+}

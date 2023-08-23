@@ -1,0 +1,28 @@
+{
+    "word": "das Sandwich, die Sandwiches",
+    "definition": "A food item consisting of two slices of bread with a filling in between, typically eaten as a quick and convenient meal. It is commonly enjoyed for lunch or as a snack.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich esse ein Sandwich.",
+                "english": "I am eating a sandwich."
+            },
+            {
+                "german": "Kann ich ein Sandwich bestellen?",
+                "english": "Can I order a sandwich?"
+            },
+            {
+                "german": "Das Sandwich schmeckt lecker.",
+                "english": "The sandwich tastes delicious."
+            },
+            {
+                "german": "Ich habe ein vegetarisches Sandwich bestellt.",
+                "english": "I ordered a vegetarian sandwich."
+            },
+            {
+                "german": "Das Sandwich ist mit Schinken und Käse belegt.",
+                "english": "The sandwich is topped with ham and cheese."
+            }
+        ]
+    }
+}

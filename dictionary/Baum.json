@@ -1,0 +1,28 @@
+{
+    "word": "der Baum, die Bäume",
+    "definition": "A tall, perennial woody plant with a single main stem, typically characterized by branches and leaves, often used for shade, timber, or ornamental purposes.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Baum steht im Garten.",
+                "english": "The tree is in the garden."
+            },
+            {
+                "german": "Der Baum hat viele Blätter.",
+                "english": "The tree has many leaves."
+            },
+            {
+                "german": "Der Baum wächst schnell.",
+                "english": "The tree grows fast."
+            },
+            {
+                "german": "Der Baum spendet Schatten.",
+                "english": "The tree provides shade."
+            },
+            {
+                "german": "Der Baum ist sehr hoch.",
+                "english": "The tree is very tall."
+            }
+        ]
+    }
+}

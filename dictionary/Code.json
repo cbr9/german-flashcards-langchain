@@ -1,0 +1,28 @@
+{
+    "word": "der Code, die Articles code",
+    "definition": "A system of symbols or signals used to represent information, often in a secret or encrypted manner, typically employed in computer programming, cryptography, and communication protocols. It is commonly used to encode and decode messages, ensuring secure and efficient transmission of data.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Code ist geheim.",
+                "english": "The code is secret."
+            },
+            {
+                "german": "Bitte geben Sie den Code ein.",
+                "english": "Please enter the code."
+            },
+            {
+                "german": "Der Code wurde erfolgreich entschlüsselt.",
+                "english": "The code has been successfully decrypted."
+            },
+            {
+                "german": "Der Sicherheitscode wurde geändert.",
+                "english": "The security code has been changed."
+            },
+            {
+                "german": "Der Code ist ungültig.",
+                "english": "The code is invalid."
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "word": "das Fenster, die Fenster",
+    "definition": "A transparent opening in a wall or door of a building, typically made of glass, allowing light and air to enter and providing a view to the outside. It is commonly used in architecture and construction to provide illumination and ventilation to enclosed spaces.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Fenster ist offen.",
+                "english": "The window is open."
+            },
+            {
+                "german": "Ich schaue aus dem Fenster.",
+                "english": "I am looking out of the window."
+            },
+            {
+                "german": "Das Fenster ist geschlossen.",
+                "english": "The window is closed."
+            },
+            {
+                "german": "Ich öffne das Fenster.",
+                "english": "I am opening the window."
+            },
+            {
+                "german": "Das Fenster ist kaputt.",
+                "english": "The window is broken."
+            }
+        ]
+    }
+}

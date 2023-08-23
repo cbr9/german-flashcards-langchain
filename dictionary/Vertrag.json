@@ -1,0 +1,28 @@
+{
+    "word": "der Vertrag, die Verträge",
+    "definition": "A legally binding agreement between two or more parties, typically involving rights, obligations, and conditions. It is commonly used in various contexts, such as business, employment, or rental agreements, to outline the terms and conditions that all parties involved must adhere to.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Vertrag wurde unterzeichnet.",
+                "english": "The contract was signed."
+            },
+            {
+                "german": "Wir haben einen Mietvertrag abgeschlossen.",
+                "english": "We have entered into a rental agreement."
+            },
+            {
+                "german": "Der Vertrag ist gültig bis zum 31. Dezember.",
+                "english": "The contract is valid until December 31st."
+            },
+            {
+                "german": "Er hat den Vertrag gebrochen.",
+                "english": "He broke the contract."
+            },
+            {
+                "german": "Der Arbeitsvertrag wurde verlängert.",
+                "english": "The employment contract was extended."
+            }
+        ]
+    }
+}

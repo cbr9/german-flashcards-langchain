@@ -1,0 +1,28 @@
+{
+    "word": "genau",
+    "definition": "A term commonly employed to express precision, accuracy, or exactness in various contexts. It is often used to emphasize the need for specific details, to indicate agreement or confirmation, or to describe something as being very close or identical to a particular state or condition.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Genau das habe ich gesagt.",
+                "english": "That's exactly what I said."
+            },
+            {
+                "german": "Kannst du mir genau erklären, wie es funktioniert?",
+                "english": "Can you explain to me exactly how it works?"
+            },
+            {
+                "german": "Ich weiß genau, was du meinst.",
+                "english": "I know exactly what you mean."
+            },
+            {
+                "german": "Das ist genau das, was ich gesucht habe.",
+                "english": "That's exactly what I've been looking for."
+            },
+            {
+                "german": "Er hat genau das Richtige getan.",
+                "english": "He did exactly the right thing."
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "word": "sehr",
+    "definition": "\"Sehr\" is an adverb that is commonly used to intensify the degree or extent of something. It is often employed to express a high level of quality, quantity, or intensity. Additionally, \"sehr\" can be used to emphasize emotions, opinions, or descriptions.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich bin sehr müde.",
+                "english": "I am very tired."
+            },
+            {
+                "german": "Das Essen schmeckt sehr gut.",
+                "english": "The food tastes very good."
+            },
+            {
+                "german": "Er ist sehr groß.",
+                "english": "He is very tall."
+            },
+            {
+                "german": "Sie ist sehr nett.",
+                "english": "She is very nice."
+            },
+            {
+                "german": "Das Buch ist sehr interessant.",
+                "english": "The book is very interesting."
+            }
+        ]
+    }
+}

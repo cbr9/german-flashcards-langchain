@@ -1,0 +1,28 @@
+{
+    "word": "der Nebel, die Nebel",
+    "definition": "A weather phenomenon characterized by the presence of condensed water droplets suspended in the air, resulting in reduced visibility. It is commonly associated with low-lying areas, forests, and bodies of water, and often occurs during the colder seasons.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Nebel ist dicht.",
+                "english": "The fog is thick."
+            },
+            {
+                "german": "Der Nebel lichtet sich langsam.",
+                "english": "The fog is slowly clearing."
+            },
+            {
+                "german": "Der Nebel hängt tief über dem See.",
+                "english": "The fog hangs low over the lake."
+            },
+            {
+                "german": "Der Nebel verdeckt die Sicht.",
+                "english": "The fog obscures the view."
+            },
+            {
+                "german": "In den Bergen herrscht oft Nebel.",
+                "english": "There is often fog in the mountains."
+            }
+        ]
+    }
+}

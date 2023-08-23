@@ -1,0 +1,28 @@
+{
+    "word": "automatisch",
+    "definition": "The term \"automatisch\" refers to an action or process that occurs without the need for human intervention or control. It commonly describes the functionality of devices, systems, or mechanisms that operate automatically, often based on predetermined instructions or programmed settings. This word is frequently used in the context of technology, machinery, and automated processes.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Gerät schaltet sich automatisch aus.",
+                "english": "The device automatically turns off."
+            },
+            {
+                "german": "Die Tür öffnet sich automatisch.",
+                "english": "The door opens automatically."
+            },
+            {
+                "german": "Die Maschine arbeitet automatisch.",
+                "english": "The machine operates automatically."
+            },
+            {
+                "german": "Die Uhr stellt sich automatisch um.",
+                "english": "The clock automatically adjusts."
+            },
+            {
+                "german": "Der Roboter bewegt sich automatisch.",
+                "english": "The robot moves automatically."
+            }
+        ]
+    }
+}

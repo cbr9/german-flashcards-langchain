@@ -201,7 +201,7 @@ def main():
     dictionary.mkdir(parents=True, exist_ok=True)
 
     deck = Deck()
-    llm = ChatOpenAI(temperature=0)
+    llm = ChatOpenAI(temperature=0.2)
     nlp = spacy.load("de_core_news_lg")
 
     with open(file="words.txt", mode="r", encoding="utf8") as f:
@@ -211,18 +211,24 @@ def main():
     for lemma in pbar:
         pbar.set_description(lemma)
         doc = nlp(lemma)
-        word = process_lemma(dictionary, lemma, doc[0], llm)
-        deck += word
+        try:
+            word = process_lemma(dictionary, lemma, doc[0], llm)
+            deck += word
+        except (KeyboardInterrupt, IndexError):
+            continue
 
         for example in word.examples:
             doc = nlp(example.german)
             for token in doc:
                 if (
                     token.pos_ in {"VERB", "PROPN", "NOUN", "ADV", "ADJ"}
-                    and token.text not in word.word
+                    and token.lemma_.lower() not in word.word
                 ):
                     pbar.set_description(token.lemma_)
-                    deck += process_lemma(dictionary, token.lemma_, token, llm)
+                    try:
+                        deck += process_lemma(dictionary, token.lemma_, token, llm)
+                    except (KeyboardInterrupt, IndexError):
+                        continue
 
     genanki.Package(deck).write_to_file("output.apkg")
 

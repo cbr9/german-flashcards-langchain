@@ -1,0 +1,28 @@
+{
+    "word": "nächster",
+    "definition": "The term \"nächster\" refers to the immediate individual or item in a sequence, typically used to describe the closest or nearest person, object, or occurrence in relation to a specific context. It is commonly employed when discussing proximity, order, or selection.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der nächste Zug fährt um 10 Uhr ab.",
+                "english": "The next train departs at 10 o'clock."
+            },
+            {
+                "german": "Der nächste Supermarkt ist nur wenige Gehminuten entfernt.",
+                "english": "The nearest supermarket is only a few minutes' walk away."
+            },
+            {
+                "german": "Der nächste Termin ist am Montag um 14 Uhr.",
+                "english": "The next appointment is on Monday at 2 o'clock."
+            },
+            {
+                "german": "Der nächste Flug nach Berlin startet in einer Stunde.",
+                "english": "The next flight to Berlin will depart in one hour."
+            },
+            {
+                "german": "Der nächste Bus kommt in 10 Minuten.",
+                "english": "The next bus will arrive in 10 minutes."
+            }
+        ]
+    }
+}

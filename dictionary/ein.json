@@ -1,0 +1,28 @@
+{
+    "word": "ein",
+    "definition": "A word used to indicate the presence of a single object or entity, often used as an indefinite article or numeral. It is commonly employed to introduce a noun or determine the quantity of something.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ein Apfel liegt auf dem Tisch.",
+                "english": "An apple is on the table."
+            },
+            {
+                "german": "Ich habe ein Buch gekauft.",
+                "english": "I bought a book."
+            },
+            {
+                "german": "Er hat ein Auto.",
+                "english": "He has a car."
+            },
+            {
+                "german": "Ein Glas Wasser, bitte.",
+                "english": "A glass of water, please."
+            },
+            {
+                "german": "Ich möchte ein Eis essen.",
+                "english": "I want to eat an ice cream."
+            }
+        ]
+    }
+}

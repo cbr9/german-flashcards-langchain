@@ -1,0 +1,28 @@
+{
+    "word": "der Schatten, die Schatten",
+    "definition": "A term commonly employed to describe the absence or reduction of light caused by an object blocking the source of illumination. It is often used to refer to the dark area or shape that appears on a surface when an object is placed between it and a light source.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Schatten der Bäume spendet angenehme Kühle.",
+                "english": "The shade of the trees provides pleasant coolness."
+            },
+            {
+                "german": "Die Katze versteckt sich im Schatten.",
+                "english": "The cat hides in the shadow."
+            },
+            {
+                "german": "Der Schatten des Turms erstreckt sich über den Platz.",
+                "english": "The shadow of the tower stretches across the square."
+            },
+            {
+                "german": "Im Schatten der Berge ist es kühler als in der Sonne.",
+                "english": "It is cooler in the shade of the mountains than in the sun."
+            },
+            {
+                "german": "Der Schatten des Vogels zeichnete sich auf dem Boden ab.",
+                "english": "The shadow of the bird was cast on the ground."
+            }
+        ]
+    }
+}

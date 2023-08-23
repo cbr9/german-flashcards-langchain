@@ -1,0 +1,28 @@
+{
+    "word": "ausmachen, machte aus, ausgemacht",
+    "definition": "To determine the conclusion or outcome of a situation, event, or problem, often by settling or resolving it. It is commonly used when referring to turning off or switching off something, such as a device or a light.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Was möchtest du heute Abend ausmachen?",
+                "english": "What do you want to arrange for tonight?"
+            },
+            {
+                "german": "Ich kann den Fehler im Code nicht ausmachen.",
+                "english": "I can't identify the error in the code."
+            },
+            {
+                "german": "Kannst du bitte das Licht ausmachen?",
+                "english": "Can you please turn off the light?"
+            },
+            {
+                "german": "Wir müssen noch die Details ausmachen.",
+                "english": "We still need to finalize the details."
+            },
+            {
+                "german": "Das Geräusch kommt von der Maschine, die du ausgemacht hast.",
+                "english": "The noise is coming from the machine you turned off."
+            }
+        ]
+    }
+}

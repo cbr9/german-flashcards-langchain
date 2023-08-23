@@ -1,0 +1,28 @@
+{
+    "word": "das Datum, die Daten",
+    "definition": "A piece of information that represents a specific point in time, typically used to record or indicate the occurrence of an event, appointment, or deadline. It is commonly utilized in various contexts, such as scheduling, organizing, and documenting activities.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Datum heute ist der 15. Oktober 2021.",
+                "english": "The date today is October 15, 2021."
+            },
+            {
+                "german": "Bitte geben Sie das Datum Ihrer Geburt an.",
+                "english": "Please provide the date of your birth."
+            },
+            {
+                "german": "Das genaue Datum der Veranstaltung steht noch nicht fest.",
+                "english": "The exact date of the event is not yet determined."
+            },
+            {
+                "german": "Können Sie mir das Datum der nächsten Sitzung mitteilen?",
+                "english": "Can you inform me of the date of the next meeting?"
+            },
+            {
+                "german": "Das Datum des Vertragsbeginns ist der 1. Januar 2022.",
+                "english": "The date of contract commencement is January 1, 2022."
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "word": "der Schlüssel, die Schlüssel",
+    "definition": "A small object typically made of metal, used to unlock or lock doors, gates, or other mechanisms by turning it in a corresponding lock mechanism. It is commonly carried by individuals to gain access to their homes, vehicles, or other secured areas.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Wo ist mein Schlüssel?",
+                "english": "Where is my key?"
+            },
+            {
+                "german": "Ich habe meinen Schlüssel verloren.",
+                "english": "I lost my key."
+            },
+            {
+                "german": "Kannst du mir den Schlüssel geben?",
+                "english": "Can you give me the key?"
+            },
+            {
+                "german": "Der Schlüssel passt nicht.",
+                "english": "The key doesn't fit."
+            },
+            {
+                "german": "Ich habe einen Ersatzschlüssel.",
+                "english": "I have a spare key."
+            }
+        ]
+    }
+}

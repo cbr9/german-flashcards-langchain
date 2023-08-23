@@ -1,0 +1,28 @@
+{
+    "word": "nur",
+    "definition": "A word typically used to express exclusivity or limitation, often indicating that something is the sole or only option, or that a particular action or condition applies solely to a specific circumstance. It is commonly employed to emphasize a restriction or to convey a sense of \"only\" or \"just\" in various contexts.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich habe nur einen Kaffee bestellt.",
+                "english": "I only ordered one coffee."
+            },
+            {
+                "german": "Er kann nur Deutsch sprechen.",
+                "english": "He can only speak German."
+            },
+            {
+                "german": "Nur du kannst das schaffen.",
+                "english": "Only you can do it."
+            },
+            {
+                "german": "Sie hat nur wenig Zeit.",
+                "english": "She has only a little time."
+            },
+            {
+                "german": "Nur heute gibt es Rabatt.",
+                "english": "Only today there is a discount."
+            }
+        ]
+    }
+}

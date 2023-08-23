@@ -1,0 +1,28 @@
+{
+    "word": "der Tisch, die Tische",
+    "definition": "A piece of furniture typically used for various activities such as dining, studying, or working, consisting of a flat horizontal surface supported by legs or a pedestal.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Tisch ist aus Holz.",
+                "english": "The table is made of wood."
+            },
+            {
+                "german": "Ich habe einen neuen Tisch gekauft.",
+                "english": "I bought a new table."
+            },
+            {
+                "german": "Bitte stellen Sie das Glas auf den Tisch.",
+                "english": "Please put the glass on the table."
+            },
+            {
+                "german": "Der Tisch ist zu groß für das Zimmer.",
+                "english": "The table is too big for the room."
+            },
+            {
+                "german": "Komm, setz dich an den Tisch.",
+                "english": "Come, sit at the table."
+            }
+        ]
+    }
+}

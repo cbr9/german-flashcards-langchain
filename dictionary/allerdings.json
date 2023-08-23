@@ -1,0 +1,28 @@
+{
+    "word": "allerdings",
+    "definition": "A term commonly employed to express agreement or concession in a conversation, often used to introduce a contrasting or qualifying statement. It is frequently utilized to acknowledge a point made by someone else while adding additional information or expressing a different perspective.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Allerdings habe ich keine Zeit.",
+                "english": "However, I don't have time."
+            },
+            {
+                "german": "Das Essen war gut, allerdings teuer.",
+                "english": "The food was good, albeit expensive."
+            },
+            {
+                "german": "Ich habe viel gearbeitet, allerdings ohne Erfolg.",
+                "english": "I worked a lot, though without success."
+            },
+            {
+                "german": "Er ist sehr intelligent, allerdings faul.",
+                "english": "He is very intelligent, though lazy."
+            },
+            {
+                "german": "Ich wollte kommen, allerdings konnte ich nicht.",
+                "english": "I wanted to come, but I couldn't."
+            }
+        ]
+    }
+}
