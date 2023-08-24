@@ -1,0 +1,28 @@
+{
+    "word": "das Teilaufgab, die Teilaufgaben",
+    "definition": "A component or segment of a larger task or assignment, typically used in the context of project management or problem-solving. It refers to a specific subtask that contributes to the completion of a larger objective.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Teilaufgabe besteht darin, die Daten zu analysieren.",
+                "english": "The subtask is to analyze the data."
+            },
+            {
+                "german": "Die Teilaufgabe erfordert spezifische Kenntnisse in der Programmierung.",
+                "english": "The subtask requires specific knowledge in programming."
+            },
+            {
+                "german": "Die Teilaufgabe muss bis morgen erledigt sein.",
+                "english": "The subtask must be completed by tomorrow."
+            },
+            {
+                "german": "Die Teilaufgabe ist Teil eines größeren Projekts.",
+                "english": "The subtask is part of a larger project."
+            },
+            {
+                "german": "Die Teilaufgabe kann von verschiedenen Teammitgliedern bearbeitet werden.",
+                "english": "The subtask can be worked on by different team members."
+            }
+        ]
+    }
+}

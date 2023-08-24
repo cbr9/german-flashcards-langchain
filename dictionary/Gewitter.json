@@ -1,0 +1,28 @@
+{
+    "word": "der Gewitter, die Gewitter",
+    "definition": "A meteorological phenomenon characterized by atmospheric disturbances, including thunder, lightning, and precipitation, typically occurring during warmer seasons. It is commonly used to describe a sudden and intense storm with thunder and lightning.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Gewitter zieht langsam auf.",
+                "english": "The thunderstorm is slowly approaching."
+            },
+            {
+                "german": "Wir hatten gestern ein heftiges Gewitter.",
+                "english": "We had a severe thunderstorm yesterday."
+            },
+            {
+                "german": "Das Gewitter hat den Strom ausgeknipst.",
+                "english": "The thunderstorm caused a power outage."
+            },
+            {
+                "german": "Ich habe Angst vor Gewittern.",
+                "english": "I am afraid of thunderstorms."
+            },
+            {
+                "german": "Das Gewitter hat den Himmel erhellt.",
+                "english": "The thunderstorm illuminated the sky."
+            }
+        ]
+    }
+}

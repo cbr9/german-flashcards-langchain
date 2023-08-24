@@ -1,0 +1,28 @@
+{
+    "word": "die Kategorie, die Kategorien",
+    "definition": "A classification or grouping system used to organize and categorize various entities or concepts based on shared characteristics or criteria. It is commonly employed in various fields, such as academic disciplines, literature, and online platforms, to facilitate organization, search, and retrieval of information.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Kategorie der Tiere umfasst verschiedene Arten.",
+                "english": "The category of animals includes different species."
+            },
+            {
+                "german": "In welcher Kategorie ist dieses Produkt?",
+                "english": "In which category is this product?"
+            },
+            {
+                "german": "Die Filme sind nach Genre in verschiedene Kategorien eingeteilt.",
+                "english": "The movies are categorized into different categories by genre."
+            },
+            {
+                "german": "Die Kategorie der Bücher umfasst Romane, Sachbücher und Gedichtsammlungen.",
+                "english": "The category of books includes novels, non-fiction books, and poetry collections."
+            },
+            {
+                "german": "Die Kategorie der Lebensmittel ist in verschiedene Unterkategorien unterteilt.",
+                "english": "The category of food is divided into different subcategories."
+            }
+        ]
+    }
+}

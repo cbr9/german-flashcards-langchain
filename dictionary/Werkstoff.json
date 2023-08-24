@@ -1,0 +1,28 @@
+{
+    "word": "der Werkstoff, die Werkstoffe",
+    "definition": "A substance or material that is commonly employed in the creation or construction of various objects, structures, or products. It is typically utilized in manufacturing processes or engineering applications to provide specific physical properties or characteristics to the end product.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Werkstoffeigenschaften",
+                "english": "material properties"
+            },
+            {
+                "german": "Werkstoffprüfung",
+                "english": "material testing"
+            },
+            {
+                "german": "Werkstoffkunde",
+                "english": "materials science"
+            },
+            {
+                "german": "Werkstofftechnik",
+                "english": "materials engineering"
+            },
+            {
+                "german": "Werkstoffauswahl",
+                "english": "material selection"
+            }
+        ]
+    }
+}

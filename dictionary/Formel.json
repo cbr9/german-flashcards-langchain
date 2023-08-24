@@ -1,0 +1,28 @@
+{
+    "word": "die Formel, die Formeln",
+    "definition": "A concise and standardized expression or set of symbols used to represent a concept, formula, or procedure, typically employed in scientific, mathematical, or technical contexts. It is commonly utilized to describe mathematical equations, scientific principles, or procedural instructions.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Formel für die Fläche eines Rechtecks lautet Länge mal Breite.",
+                "english": "The formula for the area of a rectangle is length times width."
+            },
+            {
+                "german": "In der Chemie gibt es viele verschiedene Formeln für chemische Verbindungen.",
+                "english": "In chemistry, there are many different formulas for chemical compounds."
+            },
+            {
+                "german": "Die Quadratwurzel ist eine mathematische Formel, um die Wurzel einer Zahl zu berechnen.",
+                "english": "The square root is a mathematical formula to calculate the root of a number."
+            },
+            {
+                "german": "Die Formel E ist eine Rennserie für Elektroautos.",
+                "english": "Formula E is a racing series for electric cars."
+            },
+            {
+                "german": "Die Formel zur Berechnung des Umfangs eines Kreises lautet 2 mal Pi mal Radius.",
+                "english": "The formula for calculating the circumference of a circle is 2 times Pi times radius."
+            }
+        ]
+    }
+}

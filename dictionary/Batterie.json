@@ -1,0 +1,28 @@
+{
+    "word": "die Batterie, die Batterien",
+    "definition": "A device that stores and provides electrical energy, typically consisting of multiple cells connected in series or parallel. It is commonly used to power various electronic devices and vehicles.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Batterie meines Handys ist leer.",
+                "english": "The battery of my phone is empty."
+            },
+            {
+                "german": "Wir haben eine neue Batterie für das Auto gekauft.",
+                "english": "We bought a new battery for the car."
+            },
+            {
+                "german": "Die Fernbedienung braucht neue Batterien.",
+                "english": "The remote control needs new batteries."
+            },
+            {
+                "german": "Die Batterie ist ausgelaufen und hat den Taschenrechner beschädigt.",
+                "english": "The battery leaked and damaged the calculator."
+            },
+            {
+                "german": "Die Batterie des Rauchmelders muss regelmäßig gewechselt werden.",
+                "english": "The battery of the smoke detector needs to be changed regularly."
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "word": "das Dach, die Dächer",
+    "definition": "A structure that covers and protects the uppermost part of a building or vehicle, typically made of various materials such as tiles, shingles, or metal sheets. It is commonly used to shield against weather elements such as rain, snow, and sunlight, providing shelter and insulation.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Dach ist rot.",
+                "english": "The roof is red."
+            },
+            {
+                "german": "Das Dach ist undicht.",
+                "english": "The roof is leaking."
+            },
+            {
+                "german": "Das Dach wurde neu gedeckt.",
+                "english": "The roof was re-tiled."
+            },
+            {
+                "german": "Das Dachgeschoss ist sehr geräumig.",
+                "english": "The attic is very spacious."
+            },
+            {
+                "german": "Das Dach ist mit Schnee bedeckt.",
+                "english": "The roof is covered with snow."
+            }
+        ]
+    }
+}

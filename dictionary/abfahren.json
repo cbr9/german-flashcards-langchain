@@ -1,0 +1,28 @@
+{
+    "word": "abfahren, fuhr ab, abgefahren",
+    "definition": "To depart from a location, typically used to describe the action of leaving a place, such as a station, airport, or bus stop.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Wann fährst du ab?",
+                "english": "When are you leaving?"
+            },
+            {
+                "german": "Der Zug fährt um 8 Uhr ab.",
+                "english": "The train departs at 8 o'clock."
+            },
+            {
+                "german": "Wir müssen gleich abfahren, sonst verpassen wir den Bus.",
+                "english": "We have to leave soon, otherwise we'll miss the bus."
+            },
+            {
+                "german": "Die Fähre fährt alle zwei Stunden ab.",
+                "english": "The ferry departs every two hours."
+            },
+            {
+                "german": "Er ist gestern nach London abgefahren.",
+                "english": "He left for London yesterday."
+            }
+        ]
+    }
+}

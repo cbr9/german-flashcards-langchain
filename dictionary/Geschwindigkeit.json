@@ -1,0 +1,28 @@
+{
+    "word": "die Geschwindigkeit, die Geschwindigkeiten",
+    "definition": "The term refers to the measure of how fast an object or person is moving, typically expressed in units of distance per unit of time. It is commonly used in various contexts, such as describing the speed of vehicles, the pace of an activity, or the rate of change in a process.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Geschwindigkeit des Autos beträgt 120 km/h.",
+                "english": "The speed of the car is 120 km/h."
+            },
+            {
+                "german": "Bitte reduzieren Sie Ihre Geschwindigkeit in der Baustelle.",
+                "english": "Please reduce your speed in the construction zone."
+            },
+            {
+                "german": "Die Geschwindigkeit des Zuges nimmt stetig zu.",
+                "english": "The speed of the train is increasing steadily."
+            },
+            {
+                "german": "Die Geschwindigkeit des Internets ist sehr langsam.",
+                "english": "The speed of the internet is very slow."
+            },
+            {
+                "german": "Die Geschwindigkeit des Windes beträgt 30 km/h.",
+                "english": "The speed of the wind is 30 km/h."
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "word": "der Rahmen, die Rahmen",
+    "definition": "A structural framework or outline that provides a boundary or structure for something, often used to enclose or support other elements within it. It is commonly employed in various fields, such as art, construction, and design, to establish a framework or structure for organizing and arranging different components.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Rahmen des Bildes ist aus Holz.",
+                "english": "The frame of the picture is made of wood."
+            },
+            {
+                "german": "Bitte füllen Sie das Formular im vorgegebenen Rahmen aus.",
+                "english": "Please fill out the form within the given framework."
+            },
+            {
+                "german": "Der Rahmen der Veranstaltung wurde sorgfältig geplant.",
+                "english": "The framework of the event was carefully planned."
+            },
+            {
+                "german": "Das Bild passt perfekt in den Rahmen.",
+                "english": "The picture fits perfectly into the frame."
+            },
+            {
+                "german": "Der Rahmen des Fahrrads ist aus Aluminium.",
+                "english": "The frame of the bicycle is made of aluminum."
+            }
+        ]
+    }
+}

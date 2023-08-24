@@ -1,0 +1,28 @@
+{
+    "word": "rot",
+    "definition": "A color often associated with fire, blood, and passion. It is commonly used to describe objects, natural phenomena, and emotions.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Ampel ist rot.",
+                "english": "The traffic light is red."
+            },
+            {
+                "german": "Die Tomate ist rot.",
+                "english": "The tomato is red."
+            },
+            {
+                "german": "Das Feuerwehrauto ist rot.",
+                "english": "The fire truck is red."
+            },
+            {
+                "german": "Die Rose ist rot.",
+                "english": "The rose is red."
+            },
+            {
+                "german": "Seine Wangen sind rot vor Kälte.",
+                "english": "His cheeks are red from the cold."
+            }
+        ]
+    }
+}

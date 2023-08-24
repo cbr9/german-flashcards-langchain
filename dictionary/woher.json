@@ -1,0 +1,28 @@
+{
+    "word": "woher",
+    "definition": "The term \"woher\" refers to the question word used to inquire about the origin or source of something. It is commonly employed to ask about the place or location from which someone or something comes or originates.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Woher kommst du?",
+                "english": "Where are you from?"
+            },
+            {
+                "german": "Woher weißt du das?",
+                "english": "How do you know that?"
+            },
+            {
+                "german": "Woher hast du das Buch?",
+                "english": "Where did you get the book?"
+            },
+            {
+                "german": "Woher kommst du gerade?",
+                "english": "Where are you coming from?"
+            },
+            {
+                "german": "Woher stammt dieser Wein?",
+                "english": "Where does this wine come from?"
+            }
+        ]
+    }
+}

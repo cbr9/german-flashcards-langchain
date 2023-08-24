@@ -1,0 +1,28 @@
+{
+    "word": "die Anzahl, die Anzahlen",
+    "definition": "A numerical value representing the quantity or count of something, often used to describe the total number of items, elements, or individuals in a group or set. It is commonly employed in various contexts, such as statistics, mathematics, data analysis, and general counting purposes.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Anzahl der Teilnehmer beträgt 20.",
+                "english": "The number of participants is 20."
+            },
+            {
+                "german": "Die Anzahl der Bücher in der Bibliothek ist beeindruckend.",
+                "english": "The number of books in the library is impressive."
+            },
+            {
+                "german": "Die Anzahl der Fehler in diesem Bericht ist unakzeptabel.",
+                "english": "The number of errors in this report is unacceptable."
+            },
+            {
+                "german": "Die Anzahl der verfügbaren Plätze ist begrenzt.",
+                "english": "The number of available seats is limited."
+            },
+            {
+                "german": "Die Anzahl der Stunden, die ich pro Woche arbeite, variiert.",
+                "english": "The number of hours I work per week varies."
+            }
+        ]
+    }
+}

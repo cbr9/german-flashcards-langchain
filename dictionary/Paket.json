@@ -1,0 +1,28 @@
+{
+    "word": "das Paket, die Pakete",
+    "definition": "A bundle or container that typically contains multiple items or objects, often used for the purpose of transportation or delivery. It is commonly employed in the context of sending or receiving goods, parcels, or packages.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich habe ein Paket erhalten.",
+                "english": "I received a package."
+            },
+            {
+                "german": "Das Paket wurde gestern verschickt.",
+                "english": "The package was sent yesterday."
+            },
+            {
+                "german": "Kannst du das Paket bitte abholen?",
+                "english": "Can you please pick up the package?"
+            },
+            {
+                "german": "Das Paket ist noch nicht angekommen.",
+                "english": "The package hasn't arrived yet."
+            },
+            {
+                "german": "Ich habe das Paket verloren.",
+                "english": "I lost the package."
+            }
+        ]
+    }
+}

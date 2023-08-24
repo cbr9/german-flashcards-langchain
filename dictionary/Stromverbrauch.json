@@ -1,0 +1,28 @@
+{
+    "word": "der Stromverbrauch, die Stromverbrauche",
+    "definition": "The term refers to the measurement or quantification of the amount of electric energy consumed by a device, system, or entity over a specific period of time. It is commonly used in discussions related to energy efficiency, sustainability, and electricity consumption analysis.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Stromverbrauch ist in den letzten Jahren gestiegen.",
+                "english": "Electricity consumption has increased in recent years."
+            },
+            {
+                "german": "Der hohe Stromverbrauch führt zu steigenden Energiekosten.",
+                "english": "High electricity consumption leads to rising energy costs."
+            },
+            {
+                "german": "Es ist wichtig, den Stromverbrauch zu reduzieren, um die Umwelt zu schonen.",
+                "english": "It is important to reduce electricity consumption in order to protect the environment."
+            },
+            {
+                "german": "Der durchschnittliche Stromverbrauch pro Haushalt liegt bei 3000 Kilowattstunden pro Jahr.",
+                "english": "The average electricity consumption per household is 3000 kilowatt hours per year."
+            },
+            {
+                "german": "Der Stromverbrauch kann durch den Einsatz energieeffizienter Geräte gesenkt werden.",
+                "english": "Electricity consumption can be reduced by using energy-efficient devices."
+            }
+        ]
+    }
+}

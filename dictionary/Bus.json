@@ -1,0 +1,28 @@
+{
+    "word": "der Bus, die Busse",
+    "definition": "A large motor vehicle designed to transport a significant number of passengers, typically along scheduled routes, often equipped with seating and standing areas. It is commonly used for public transportation purposes, such as commuting, city tours, and long-distance travel.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Bus fährt um 8 Uhr ab.",
+                "english": "The bus departs at 8 o'clock."
+            },
+            {
+                "german": "Ich nehme immer den Bus zur Arbeit.",
+                "english": "I always take the bus to work."
+            },
+            {
+                "german": "Der Bus ist voll.",
+                "english": "The bus is full."
+            },
+            {
+                "german": "Der Busfahrer war sehr freundlich.",
+                "english": "The bus driver was very friendly."
+            },
+            {
+                "german": "Der Bus hält an der nächsten Haltestelle.",
+                "english": "The bus stops at the next bus stop."
+            }
+        ]
+    }
+}

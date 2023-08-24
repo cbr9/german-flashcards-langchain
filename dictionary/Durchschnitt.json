@@ -1,0 +1,28 @@
+{
+    "word": "der Durchschnitt, die Durchschnitte",
+    "definition": "The term refers to a statistical measure that represents the central tendency of a set of values. It is commonly used to calculate the average or mean value of a data set, often in the context of mathematics, statistics, or data analysis.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Durchschnitt der Klasse liegt bei 2,5.",
+                "english": "The class average is 2.5."
+            },
+            {
+                "german": "Der Durchschnittspreis für das Produkt beträgt 10 Euro.",
+                "english": "The average price for the product is 10 euros."
+            },
+            {
+                "german": "Die Durchschnittstemperatur im Sommer liegt bei 25 Grad Celsius.",
+                "english": "The average temperature in summer is 25 degrees Celsius."
+            },
+            {
+                "german": "Der Durchschnittsalter der Teilnehmer beträgt 35 Jahre.",
+                "english": "The average age of the participants is 35 years."
+            },
+            {
+                "german": "Der Durchschnittsverbrauch des Autos liegt bei 6 Litern pro 100 Kilometer.",
+                "english": "The average fuel consumption of the car is 6 liters per 100 kilometers."
+            }
+        ]
+    }
+}

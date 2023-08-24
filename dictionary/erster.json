@@ -1,0 +1,28 @@
+{
+    "word": "erster",
+    "definition": "The word \"erster\" refers to the ordinal number that denotes the initial position in a sequence or order. It is commonly used to describe the first item, person, or occurrence in a series.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Erster Platz",
+                "english": "First place"
+            },
+            {
+                "german": "Der erste Tag im Monat",
+                "english": "The first day of the month"
+            },
+            {
+                "german": "Mein erster Job",
+                "english": "My first job"
+            },
+            {
+                "german": "Erster Eindruck",
+                "english": "First impression"
+            },
+            {
+                "german": "Der erste Schritt",
+                "english": "The first step"
+            }
+        ]
+    }
+}

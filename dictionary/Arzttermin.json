@@ -1,0 +1,28 @@
+{
+    "word": "der Arzttermin, die Arzttermine",
+    "definition": "A scheduled appointment with a medical professional, typically a doctor, for the purpose of receiving medical advice, diagnosis, or treatment.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich habe einen Arzttermin um 10 Uhr.",
+                "english": "I have a doctor's appointment at 10 o'clock."
+            },
+            {
+                "german": "Können Sie mir einen Arzttermin geben?",
+                "english": "Can you give me a doctor's appointment?"
+            },
+            {
+                "german": "Ich muss einen Arzttermin vereinbaren.",
+                "english": "I need to make a doctor's appointment."
+            },
+            {
+                "german": "Mein Arzttermin wurde verschoben.",
+                "english": "My doctor's appointment has been rescheduled."
+            },
+            {
+                "german": "Ich habe einen Arzttermin nächste Woche.",
+                "english": "I have a doctor's appointment next week."
+            }
+        ]
+    }
+}

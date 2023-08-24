@@ -1,0 +1,28 @@
+{
+    "word": "die Werkstoffeigenschaft, die Werkstoffeigenschaften",
+    "definition": "A term used to describe the characteristics or properties of materials, typically referring to their physical, chemical, or mechanical attributes. It is commonly employed in the field of engineering, manufacturing, or materials science to analyze, compare, or evaluate different substances based on their specific qualities.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Werkstoffeigenschaften beeinflussen die Haltbarkeit des Produkts.",
+                "english": "The material properties affect the durability of the product."
+            },
+            {
+                "german": "Die Werkstoffeigenschaften bestimmen die Festigkeit des Bauteils.",
+                "english": "The material properties determine the strength of the component."
+            },
+            {
+                "german": "Die Werkstoffeigenschaften spielen eine wichtige Rolle bei der Auswahl des richtigen Materials.",
+                "english": "The material properties play an important role in selecting the right material."
+            },
+            {
+                "german": "Die Werkstoffeigenschaften können durch verschiedene Prüfverfahren ermittelt werden.",
+                "english": "The material properties can be determined through various testing methods."
+            },
+            {
+                "german": "Die Werkstoffeigenschaften beeinflussen die Verarbeitbarkeit des Materials.",
+                "english": "The material properties affect the processability of the material."
+            }
+        ]
+    }
+}

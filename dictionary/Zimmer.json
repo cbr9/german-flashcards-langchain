@@ -1,0 +1,28 @@
+{
+    "word": "das Zimmer, die Zimmer",
+    "definition": "A designated space within a building, typically enclosed by walls and a door, serving as a private area for various activities such as resting, studying, or working. It is commonly found in residential settings and is often associated with providing shelter and privacy.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Zimmer ist groß.",
+                "english": "The room is big."
+            },
+            {
+                "german": "Ich habe ein eigenes Zimmer.",
+                "english": "I have my own room."
+            },
+            {
+                "german": "Das Hotelzimmer hat einen Balkon.",
+                "english": "The hotel room has a balcony."
+            },
+            {
+                "german": "Kannst du mir bitte ein Zimmer reservieren?",
+                "english": "Can you please reserve a room for me?"
+            },
+            {
+                "german": "Das Zimmermädchen kommt täglich, um das Zimmer zu reinigen.",
+                "english": "The maid comes daily to clean the room."
+            }
+        ]
+    }
+}

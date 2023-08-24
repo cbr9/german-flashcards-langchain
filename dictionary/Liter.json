@@ -1,0 +1,28 @@
+{
+    "word": "der Liter, die Liter",
+    "definition": "A unit of volume commonly used for measuring beverages, particularly alcoholic ones, in Germany and Austria. It is often used in the context of ordering or serving drinks in bars, restaurants, and beer gardens.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Liter ist eine Maßeinheit für Volumen.",
+                "english": "The liter is a unit of measurement for volume."
+            },
+            {
+                "german": "Ein Liter Wasser wiegt etwa ein Kilogramm.",
+                "english": "One liter of water weighs about one kilogram."
+            },
+            {
+                "german": "Die Flasche enthält einen halben Liter Saft.",
+                "english": "The bottle contains half a liter of juice."
+            },
+            {
+                "german": "Der Tank fasst 60 Liter Benzin.",
+                "english": "The tank holds 60 liters of gasoline."
+            },
+            {
+                "german": "In Deutschland wird Bier oft in 0,5-Liter-Flaschen verkauft.",
+                "english": "In Germany, beer is often sold in 0.5-liter bottles."
+            }
+        ]
+    }
+}

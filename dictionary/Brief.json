@@ -1,0 +1,28 @@
+{
+    "word": "der Brief, die Briefe",
+    "definition": "A written message or communication typically used for conveying information, thoughts, or feelings between individuals. It is commonly employed for personal correspondence, business communication, or official purposes.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich schreibe einen Brief.",
+                "english": "I am writing a letter."
+            },
+            {
+                "german": "Der Brief ist bereits angekommen.",
+                "english": "The letter has already arrived."
+            },
+            {
+                "german": "Kannst du den Brief bitte abschicken?",
+                "english": "Can you please send the letter?"
+            },
+            {
+                "german": "Ich habe gestern einen Brief erhalten.",
+                "english": "I received a letter yesterday."
+            },
+            {
+                "german": "Der Briefträger bringt die Post.",
+                "english": "The mailman delivers the mail."
+            }
+        ]
+    }
+}

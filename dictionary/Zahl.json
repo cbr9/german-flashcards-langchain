@@ -1,0 +1,28 @@
+{
+    "word": "die Zahl, die Zahlen",
+    "definition": "A term commonly employed to refer to a numerical value or quantity, often used in mathematical or scientific contexts. It is frequently utilized to express a specific count, figure, or amount in various domains.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Zahl der Teilnehmer ist begrenzt.",
+                "english": "The number of participants is limited."
+            },
+            {
+                "german": "Ich habe eine große Zahl von Büchern.",
+                "english": "I have a large number of books."
+            },
+            {
+                "german": "Die Zahl der Arbeitslosen ist gesunken.",
+                "english": "The number of unemployed has decreased."
+            },
+            {
+                "german": "Die Zahlung erfolgt per Überweisung.",
+                "english": "The payment is made by bank transfer."
+            },
+            {
+                "german": "Die Zahl der Infektionen steigt weiter an.",
+                "english": "The number of infections continues to rise."
+            }
+        ]
+    }
+}

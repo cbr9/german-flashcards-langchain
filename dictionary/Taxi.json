@@ -1,0 +1,28 @@
+{
+    "word": "das Taxi, die Taxis",
+    "definition": "A mode of transportation that typically involves a hired vehicle with a driver, used to transport individuals from one location to another, often in exchange for a fare. It is commonly utilized by people seeking convenient and quick transportation services within urban areas.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das Taxi ist gelb.",
+                "english": "The taxi is yellow."
+            },
+            {
+                "german": "Ich nehme ein Taxi zum Flughafen.",
+                "english": "I'm taking a taxi to the airport."
+            },
+            {
+                "german": "Könnten Sie bitte ein Taxi für mich rufen?",
+                "english": "Could you please call a taxi for me?"
+            },
+            {
+                "german": "Der Taxifahrer war sehr freundlich.",
+                "english": "The taxi driver was very friendly."
+            },
+            {
+                "german": "Das Taxi hat mich direkt vor dem Hotel abgesetzt.",
+                "english": "The taxi dropped me off right in front of the hotel."
+            }
+        ]
+    }
+}

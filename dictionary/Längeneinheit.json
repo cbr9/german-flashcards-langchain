@@ -1,0 +1,28 @@
+{
+    "word": "die Längeneinheit, die Längeneinheiten",
+    "definition": "A unit of measurement commonly employed to quantify distances or lengths, often utilized in various fields such as mathematics, physics, engineering, and geography. It is frequently used to express the magnitude of physical dimensions or spatial extents.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Längeneinheit Meter wird oft verwendet.",
+                "english": "The length unit meter is often used."
+            },
+            {
+                "german": "Die Längeneinheit Kilometer wird für große Entfernungen verwendet.",
+                "english": "The length unit kilometer is used for long distances."
+            },
+            {
+                "german": "Die Längeneinheit Zentimeter wird für kleine Maße verwendet.",
+                "english": "The length unit centimeter is used for small measurements."
+            },
+            {
+                "german": "Die Längeneinheit Fuß wird in einigen Ländern verwendet.",
+                "english": "The length unit foot is used in some countries."
+            },
+            {
+                "german": "Die Längeneinheit Meile wird in den USA verwendet.",
+                "english": "The length unit mile is used in the USA."
+            }
+        ]
+    }
+}

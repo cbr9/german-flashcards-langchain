@@ -1,0 +1,28 @@
+{
+    "word": "der Bildschirm, die Bildschirme",
+    "definition": "A device that displays visual information and allows users to interact with it, typically through the use of images, text, and graphical user interfaces. It is commonly used for viewing and navigating digital content, such as websites, applications, videos, and documents.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Bildschirm meines Laptops ist kaputt.",
+                "english": "The screen of my laptop is broken."
+            },
+            {
+                "german": "Kannst du bitte den Bildschirm heller machen?",
+                "english": "Can you please make the screen brighter?"
+            },
+            {
+                "german": "Ich habe ein Bildschirmfoto von der Webseite gemacht.",
+                "english": "I took a screenshot of the webpage."
+            },
+            {
+                "german": "Der Bildschirm zeigt eine Fehlermeldung an.",
+                "english": "The screen displays an error message."
+            },
+            {
+                "german": "Der Bildschirm ist zu klein, um alles anzuzeigen.",
+                "english": "The screen is too small to display everything."
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "word": "wo",
+    "definition": "The term \"wo\" refers to an interrogative word that is commonly employed to inquire about the location or place of something or someone. It is frequently used in questions to ask where an object, person, or event is situated.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Wo ist der Bahnhof?",
+                "english": "Where is the train station?"
+            },
+            {
+                "german": "Wo wohnst du?",
+                "english": "Where do you live?"
+            },
+            {
+                "german": "Woher kommst du?",
+                "english": "Where are you from?"
+            },
+            {
+                "german": "Wo ist mein Buch?",
+                "english": "Where is my book?"
+            },
+            {
+                "german": "Woher weißt du das?",
+                "english": "How do you know that?"
+            }
+        ]
+    }
+}

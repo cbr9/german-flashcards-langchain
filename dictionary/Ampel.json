@@ -1,0 +1,28 @@
+{
+    "word": "die Ampel, die Ampeln",
+    "definition": "A device consisting of multiple colored lights arranged vertically, typically used to control and regulate vehicular and pedestrian traffic at intersections.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Ampel steht auf Rot.",
+                "english": "The traffic light is red."
+            },
+            {
+                "german": "Gehen Sie bei Grün über die Ampel.",
+                "english": "Cross the street when the traffic light is green."
+            },
+            {
+                "german": "Die Ampel schaltet auf Gelb um.",
+                "english": "The traffic light changes to yellow."
+            },
+            {
+                "german": "Die Ampel ist defekt.",
+                "english": "The traffic light is broken."
+            },
+            {
+                "german": "Die Ampelregelung verbessert den Verkehrsfluss.",
+                "english": "The traffic light control improves traffic flow."
+            }
+        ]
+    }
+}

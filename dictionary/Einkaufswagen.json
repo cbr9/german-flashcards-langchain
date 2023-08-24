@@ -1,0 +1,28 @@
+{
+    "word": "der Einkaufswagen, die Einkaufswagen",
+    "definition": "A wheeled object typically found in supermarkets or grocery stores, used by customers to transport their selected items throughout the store.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Ich habe einen Einkaufswagen genommen.",
+                "english": "I took a shopping cart."
+            },
+            {
+                "german": "Der Einkaufswagen ist voll mit Lebensmitteln.",
+                "english": "The shopping cart is full of groceries."
+            },
+            {
+                "german": "Kannst du mir bitte einen Einkaufswagen holen?",
+                "english": "Can you please get me a shopping cart?"
+            },
+            {
+                "german": "Der Einkaufswagen hat ein kaputtes Rad.",
+                "english": "The shopping cart has a broken wheel."
+            },
+            {
+                "german": "Ich habe den Einkaufswagen zurückgebracht.",
+                "english": "I returned the shopping cart."
+            }
+        ]
+    }
+}

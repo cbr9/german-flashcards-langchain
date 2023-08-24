@@ -1,0 +1,28 @@
+{
+    "word": "die Telefonnummer, die Telefonnummern",
+    "definition": "A sequence of digits used to establish communication with a person or entity through a device that transmits sound over long distances. It is commonly used to contact individuals or businesses for various purposes, such as making inquiries, placing orders, or seeking assistance.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Was ist deine Telefonnummer?",
+                "english": "What is your phone number?"
+            },
+            {
+                "german": "Kann ich deine Telefonnummer haben?",
+                "english": "Can I have your phone number?"
+            },
+            {
+                "german": "Meine Telefonnummer hat sieben Ziffern.",
+                "english": "My phone number has seven digits."
+            },
+            {
+                "german": "Bitte hinterlassen Sie Ihre Telefonnummer auf dem Anrufbeantworter.",
+                "english": "Please leave your phone number on the answering machine."
+            },
+            {
+                "german": "Die Telefonnummer des Kundenservice ist 0800-123456.",
+                "english": "The customer service phone number is 0800-123456."
+            }
+        ]
+    }
+}

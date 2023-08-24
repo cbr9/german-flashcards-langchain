@@ -1,0 +1,28 @@
+{
+    "word": "die Maßeinheit, die Maßeinheiten",
+    "definition": "A unit of measurement used to quantify and compare different quantities or dimensions. It is commonly employed in various scientific, technical, and mathematical contexts to express the magnitude or size of something.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Die Maßeinheit für Länge ist der Meter.",
+                "english": "The unit of measurement for length is the meter."
+            },
+            {
+                "german": "Die Maßeinheit für Gewicht ist das Kilogramm.",
+                "english": "The unit of measurement for weight is the kilogram."
+            },
+            {
+                "german": "Die Maßeinheit für Zeit ist die Sekunde.",
+                "english": "The unit of measurement for time is the second."
+            },
+            {
+                "german": "Die Maßeinheit für Temperatur ist das Grad Celsius.",
+                "english": "The unit of measurement for temperature is degrees Celsius."
+            },
+            {
+                "german": "Die Maßeinheit für Fläche ist der Quadratmeter.",
+                "english": "The unit of measurement for area is the square meter."
+            }
+        ]
+    }
+}
