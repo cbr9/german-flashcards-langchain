@@ -2,6 +2,7 @@ import json
 from langchain import PromptTemplate
 from langchain.schema.language_model import BaseLanguageModel
 from langchain.schema.output_parser import BaseOutputParser
+from spacy.language import Language
 from spacy.tokens import Token
 from tqdm import tqdm
 from langchain.chat_models import ChatOpenAI
@@ -16,6 +17,8 @@ import re
 
 input_variables_pattern = re.compile(pattern=r"\{\w+\}")
 gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
+
+MAX_DEPTH = 3
 
 
 class Plural(BaseModel):
@@ -111,13 +114,23 @@ class Word(BaseModel):
             )
             self.word = f"{inflections.infinitive}, {inflections.past}, {inflections.participle}"
         elif self.token.pos_ in {"NOUN", "PROPN"}:
-            template = load_template("plural")
-            gender = self.token.morph.get(field="Gender", default=None)[0]
-            article = gender2article[gender]
-            plural = llm.predict(
-                template.format(word=f"article {self.word.capitalize()}")
-            )
-            self.word = f"{article} {self.word.capitalize()}, die {plural.capitalize()}"
+            gender = self.token.morph.get(field="Gender", default=None)
+            if len(gender) == 0:
+                plural = f"die {self.word.capitalize()}"
+                number = self.token.morph.get(field="Number", default=None)[0]
+                assert number == "Plur"
+                template = load_template("singular")
+                singular = llm.predict(template.format(word=plural))
+            else:
+                article = gender2article[gender[0]]
+                singular = f"{article} {self.word.capitalize()}"
+                template = load_template("plural")
+                plural = llm.predict(
+                    template.format(word=f"article {self.word.capitalize()}")
+                )
+                plural = f"die {plural.capitalize()}"
+
+            self.word = f"{singular}, {plural}"
 
         return self
 
@@ -178,12 +191,22 @@ def ulify(elements: list[Any]) -> str:
 def process_lemma(
     dictionary: Path,
     lemma: str,
+    deck: Deck,
+    ignored_lemmas: set[str],
+    pbar: Any,
+    depth: int = 0,
     token: Optional[Token] = None,
     llm: Optional[BaseLanguageModel] = None,
-) -> Word:
+    nlp: Optional[Language] = None,
+) -> Word | None:
     if not (dictionary / f"{lemma}.json").exists():
-        assert token is not None and llm is not None
+        assert token is not None and llm is not None and nlp is not None
+
+        if depth > MAX_DEPTH:
+            return None
+
         word = Word(word=lemma, token=token).define(llm).get_examples(llm).inflect(llm)
+        deck += word
 
         assert word.token is not None
 
@@ -193,32 +216,6 @@ def process_lemma(
             encoding="utf-8",
         ) as f:
             f.write(word.model_dump_json(indent=4))
-    else:
-        with open(file=dictionary / f"{lemma}.json", mode="r", encoding="utf8") as f:
-            word = Word(**json.load(f))
-    return word
-
-
-def main():
-    dictionary = Path("dictionary")
-    dictionary.mkdir(parents=True, exist_ok=True)
-
-    deck = Deck()
-    llm = ChatOpenAI(temperature=0.2)
-    nlp = spacy.load("de_core_news_lg")
-
-    with open(file="words.txt", mode="r", encoding="utf8") as f:
-        lemmas = [w.strip() for w in f.readlines() if not w.startswith("//")]
-
-    pbar = tqdm(lemmas)
-    for lemma in pbar:
-        pbar.set_description(lemma)
-        doc = nlp(lemma)
-        try:
-            word = process_lemma(dictionary, lemma, doc[0], llm)
-            deck += word
-        except (KeyboardInterrupt, IndexError):
-            continue
 
         for example in word.examples:
             doc = nlp(example.german)
@@ -229,10 +226,71 @@ def main():
                     and token.is_alpha
                 ):
                     pbar.set_description(token.lemma_)
-                    try:
-                        deck += process_lemma(dictionary, token.lemma_, token, llm)
-                    except (KeyboardInterrupt, IndexError):
+                    if token.lemma_ in ignored_lemmas:
                         continue
+                    try:
+                        deck += process_lemma(
+                            dictionary,
+                            token.lemma_,
+                            deck,
+                            ignored_lemmas,
+                            pbar,
+                            depth + 1,
+                            token,
+                            llm,
+                            nlp,
+                        )
+                    except KeyboardInterrupt:
+                        continue
+    else:
+        with open(file=dictionary / f"{lemma}.json", mode="r", encoding="utf8") as f:
+            word = Word(**json.load(f))
+            deck += word
+    return word
+
+
+def main():
+    dictionary = Path("dictionary")
+    dictionary.mkdir(parents=True, exist_ok=True)
+
+    deck = Deck()
+    llm = ChatOpenAI(temperature=0)
+    nlp = spacy.load("de_core_news_lg")
+
+    with open(file="ignored_lemmas.txt", mode="r", encoding="utf8") as f:
+        ignored_lemmas = {w.strip() for w in f.readlines() if not w.startswith("//")}
+
+    with open(file="words.txt", mode="r", encoding="utf8") as f:
+        lemmas = {w.strip() for w in f.readlines() if not w.startswith("//")} | {
+            word.stem for word in dictionary.glob("*.json")
+        }
+
+    pbar = tqdm(lemmas)
+    for lemma in pbar:
+        if lemma in ignored_lemmas:
+            continue
+        pbar.set_description(lemma)
+        doc = nlp(lemma)
+
+        try:
+            process_lemma(
+                dictionary,
+                lemma,
+                deck,
+                ignored_lemmas,
+                pbar,
+                0,
+                doc[0],
+                llm,
+                nlp,
+            )
+        except KeyboardInterrupt:
+            continue
+
+    with open(file="ignored_lemmas.txt", mode="w", encoding="utf8") as f:
+        for lemma in ignored_lemmas:
+            f.write(lemma)
+            f.write("\n")
 
     genanki.Package(deck).write_to_file("output.apkg")
 
