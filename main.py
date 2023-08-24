@@ -224,7 +224,7 @@ def main():
             doc = nlp(example.german)
             for token in doc:
                 if (
-                    token.pos_ in {"VERB", "PROPN", "NOUN", "ADV", "ADJ"}
+                    token.pos_ in {"VERB", "NOUN", "ADV", "ADJ"}
                     and token.lemma_.lower() not in word.word
                 ):
                     pbar.set_description(token.lemma_)
