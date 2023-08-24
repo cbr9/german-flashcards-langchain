@@ -1,27 +1,27 @@
 {
-    "word": "das Erwissen, die There seems to be a typo in the example \"article erwissen.\" it should be \"das erwissen.\" the plural form of \"das erwissen\" is \"die erwissens.\"",
-    "definition": "To acquire knowledge or information through personal experience, observation, or learning, often resulting in a deeper understanding or awareness. This term is commonly employed when referring to the process of gaining knowledge by actively engaging with a subject matter or through direct involvement.",
+    "word": "das Erwissen, die There seems to be a typo in the example \"article erwissen.\" it is unclear what the intended word is. could you please provide the correct word so that i can provide the plural form?",
+    "definition": "To gain knowledge or information about something through personal experience, observation, or learning from others. It is commonly used to describe the act of acquiring knowledge or understanding through various means.",
     "examples": {
         "examples": [
             {
-                "german": "Ich erwisse, dass du recht hast.",
-                "english": "I acknowledge that you are right."
+                "german": "Ich erwisse, dass du gestern Geburtstag hattest.",
+                "english": "I found out that you had a birthday yesterday."
             },
             {
-                "german": "Er erwies sich als zuverlässiger Mitarbeiter.",
-                "english": "He proved to be a reliable employee."
+                "german": "Wir erwissen, dass der Zug Verspätung hat.",
+                "english": "We discovered that the train is delayed."
             },
             {
-                "german": "Sie erwiesen ihm ihre Dankbarkeit.",
-                "english": "They showed him their gratitude."
+                "german": "Sie erwissen, dass er ein Geheimnis hat.",
+                "english": "They learned that he has a secret."
             },
             {
-                "german": "Das Ergebnis erwies sich als positiv.",
-                "english": "The result turned out to be positive."
+                "german": "Er erwiss, dass sie ihn belogen hat.",
+                "english": "He realized that she lied to him."
             },
             {
-                "german": "Er erwies sich als wahrer Freund.",
-                "english": "He proved to be a true friend."
+                "german": "Ich erwisse, dass du mich angelogen hast.",
+                "english": "I found out that you lied to me."
             }
         ]
     }

@@ -1,0 +1,28 @@
+{
+    "word": "das Tier, die Tiere",
+    "definition": "A living organism that belongs to the animal kingdom, typically characterized by being multicellular, having the ability to move voluntarily, and obtaining energy through consumption of organic matter. This term is commonly used to refer to various creatures found in nature, excluding humans.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Das ist ein Tier.",
+                "english": "This is an animal."
+            },
+            {
+                "german": "Ich habe ein Haustier.",
+                "english": "I have a pet."
+            },
+            {
+                "german": "Der Zoo hat viele verschiedene Tiere.",
+                "english": "The zoo has many different animals."
+            },
+            {
+                "german": "Mein Lieblingstier ist der Hund.",
+                "english": "My favorite animal is the dog."
+            },
+            {
+                "german": "In Afrika gibt es viele wilde Tiere.",
+                "english": "There are many wild animals in Africa."
+            }
+        ]
+    }
+}

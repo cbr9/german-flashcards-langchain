@@ -1,0 +1,28 @@
+{
+    "word": "der Angeklagter, die Angeklagte",
+    "definition": "A term used to refer to an individual involved in a legal process, specifically someone who has been formally accused of committing a crime and is currently facing charges in a court of law.",
+    "examples": {
+        "examples": [
+            {
+                "german": "Der Angeklagte wurde freigesprochen.",
+                "english": "The accused was acquitted."
+            },
+            {
+                "german": "Der Angeklagte hat seine Unschuld beteuert.",
+                "english": "The accused has pleaded his innocence."
+            },
+            {
+                "german": "Der Angeklagte wurde zu einer Haftstrafe verurteilt.",
+                "english": "The accused was sentenced to imprisonment."
+            },
+            {
+                "german": "Der Angeklagte hat ein Alibi vorgebracht.",
+                "english": "The accused has presented an alibi."
+            },
+            {
+                "german": "Der Angeklagte hat die Tat gestanden.",
+                "english": "The accused has confessed to the crime."
+            }
+        ]
+    }
+}

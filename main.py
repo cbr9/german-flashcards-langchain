@@ -79,19 +79,22 @@ class Word(BaseModel):
 
     @property
     def formatted_examples(self) -> list[str]:
-        return [f"{german} - {english}" for german, english in self.examples]
+        return [
+            f"{example.german} - {example.english}"
+            for example in self.examples.examples
+        ]
 
     def define(self, llm: BaseLanguageModel) -> Self:
         assert self.token is not None
         template = load_template("definition")
-        self.definition = llm.predict(template.format(word=self.token.lemma_))
+        self.definition = llm.predict(template.format(word=self.word))
         return self
 
     def get_examples(self, llm: BaseLanguageModel) -> Self:
         assert self.token is not None
         parser = PydanticOutputParser(pydantic_object=Examples)
         template = load_template("examples", parser=parser)
-        prediction = llm.predict(template.format(word=self.token.lemma_))
+        prediction = llm.predict(template.format(word=self.word))
         self.examples = parser.parse(prediction)
         return self
 
@@ -104,7 +107,7 @@ class Word(BaseModel):
                 parser=parser,
             )
             inflections: Inflection = parser.parse(
-                llm.predict(template.format(word=self.token.lemma_))
+                llm.predict(template.format(word=self.word))
             )
             self.word = f"{inflections.infinitive}, {inflections.past}, {inflections.participle}"
         elif self.token.pos_ in {"NOUN", "PROPN"}:
@@ -112,11 +115,9 @@ class Word(BaseModel):
             gender = self.token.morph.get(field="Gender", default=None)[0]
             article = gender2article[gender]
             plural = llm.predict(
-                template.format(word=f"article {self.token.lemma_.capitalize()}")
+                template.format(word=f"article {self.word.capitalize()}")
             )
-            self.word = (
-                f"{article} {self.token.lemma_.capitalize()}, die {plural.capitalize()}"
-            )
+            self.word = f"{article} {self.word.capitalize()}, die {plural.capitalize()}"
 
         return self
 
@@ -124,6 +125,7 @@ class Word(BaseModel):
 class Deck(genanki.Deck):
     def __init__(self, deck_id=1381290381, name="German Words", description=""):
         super().__init__(deck_id, name, description)
+        self.deck = set()
 
     @property
     def reverse_model(self) -> genanki.Model:
@@ -141,16 +143,16 @@ class Deck(genanki.Deck):
                     "qfmt": "{{Word}}",
                     "afmt": '{{FrontSide}}<hr id="answer">{{Definition}}<br>{{Examples}}',
                 },
-                {
-                    "name": "Card 2",
-                    "qfmt": "{{Definition}}",
-                    "afmt": '{{FrontSide}}<hr id="answer">{{Word}}<br>{{Examples}}',
-                },
+                # {
+                #     "name": "Card 2",
+                #     "qfmt": "{{Definition}}",
+                #     "afmt": '{{FrontSide}}<hr id="answer">{{Word}}<br>{{Examples}}',
+                # },
             ],
         )
 
     def __add__(self, word: Word | None) -> Self:
-        if word is not None:
+        if word is not None and word.word not in self.deck:
             reverse_note = genanki.Note(
                 model=self.reverse_model,
                 fields=[
@@ -162,6 +164,7 @@ class Deck(genanki.Deck):
             )
 
             self.add_note(reverse_note)
+            self.deck.add(word.word)
         return self
 
 
@@ -180,12 +183,12 @@ def process_lemma(
 ) -> Word:
     if not (dictionary / f"{lemma}.json").exists():
         assert token is not None and llm is not None
-        word = Word(word=lemma, token=token).inflect(llm).define(llm).get_examples(llm)
+        word = Word(word=lemma, token=token).define(llm).get_examples(llm).inflect(llm)
 
         assert word.token is not None
 
         with open(
-            file=dictionary / f"{word.token.lemma_}.json",
+            file=dictionary / f"{lemma}.json",
             mode="w",
             encoding="utf-8",
         ) as f:

@@ -1,6 +1,6 @@
 {
     "word": "lebende",
-    "definition": "A term used to describe something that possesses the quality of being alive, active, or animated. It is commonly used to refer to living beings or organisms, indicating their state of being alive and capable of movement or growth.",
+    "definition": "A descriptive term used to refer to something that possesses vitality, actively existing or functioning, and typically associated with living organisms or animate entities. It is commonly employed to describe the state of being alive, lively, or animated.",
     "examples": {
         "examples": [
             {
@@ -12,16 +12,16 @@
                 "english": "The city is vibrant and full of energy."
             },
             {
+                "german": "Die lebenden Organismen sind Teil des Ökosystems.",
+                "english": "The living organisms are part of the ecosystem."
+            },
+            {
+                "german": "Sie hat ein lebendiges Interesse an Kunst.",
+                "english": "She has a lively interest in art."
+            },
+            {
                 "german": "Die lebendige Diskussion führte zu neuen Erkenntnissen.",
                 "english": "The lively discussion led to new insights."
-            },
-            {
-                "german": "Die lebendige Musik brachte die Menschen zum Tanzen.",
-                "english": "The lively music made people dance."
-            },
-            {
-                "german": "Die lebendige Natur umgibt uns.",
-                "english": "The living nature surrounds us."
             }
         ]
     }
