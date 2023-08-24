@@ -226,6 +226,7 @@ def main():
                 if (
                     token.pos_ in {"VERB", "NOUN", "ADV", "ADJ"}
                     and token.lemma_.lower() not in word.word
+                    and token.is_alpha
                 ):
                     pbar.set_description(token.lemma_)
                     try:
