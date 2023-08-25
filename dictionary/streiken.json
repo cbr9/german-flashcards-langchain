@@ -1,28 +1,26 @@
 {
     "word": "streiken, streikte, gestreikt",
     "definition": "To engage in a collective action by refusing to work or perform duties, typically as a form of protest or to demand better working conditions or rights. This action is often organized by a group of workers or employees within a specific industry or organization.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Arbeiter streiken für bessere Arbeitsbedingungen.",
-                "english": "The workers are striking for better working conditions."
-            },
-            {
-                "german": "Die Gewerkschaft hat beschlossen, in den Streik zu treten.",
-                "english": "The union has decided to go on strike."
-            },
-            {
-                "german": "Die Fluglotsen streiken gegen die geplante Arbeitszeitverlängerung.",
-                "english": "The air traffic controllers are striking against the planned extension of working hours."
-            },
-            {
-                "german": "Die Busfahrer streiken seit einer Woche.",
-                "english": "The bus drivers have been on strike for a week."
-            },
-            {
-                "german": "Die Streikenden fordern eine Lohnerhöhung.",
-                "english": "The strikers are demanding a wage increase."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Arbeiter streiken für bessere Arbeitsbedingungen.",
+            "english": "The workers are striking for better working conditions."
+        },
+        {
+            "german": "Die Gewerkschaft hat beschlossen, in den Streik zu treten.",
+            "english": "The union has decided to go on strike."
+        },
+        {
+            "german": "Die Fluglotsen streiken gegen die geplante Arbeitszeitverlängerung.",
+            "english": "The air traffic controllers are striking against the planned extension of working hours."
+        },
+        {
+            "german": "Die Busfahrer streiken seit einer Woche.",
+            "english": "The bus drivers have been on strike for a week."
+        },
+        {
+            "german": "Die Streikenden fordern eine Lohnerhöhung.",
+            "english": "The strikers are demanding a wage increase."
+        }
+    ]
 }

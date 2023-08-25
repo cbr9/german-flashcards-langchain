@@ -1,28 +1,26 @@
 {
     "word": "ziemlich",
     "definition": "\"Ziemlich\" is an adverb that is commonly used to describe a degree or extent of something. It typically indicates a moderate or considerable level, often implying that something is fairly or quite a certain way. It is frequently used to express a subjective opinion or judgment about the intensity, quality, or quantity of an action, state, or characteristic.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ziemlich groß.",
-                "english": "He is quite tall."
-            },
-            {
-                "german": "Das Essen war ziemlich gut.",
-                "english": "The food was pretty good."
-            },
-            {
-                "german": "Sie ist ziemlich müde.",
-                "english": "She is rather tired."
-            },
-            {
-                "german": "Es ist ziemlich kalt draußen.",
-                "english": "It is quite cold outside."
-            },
-            {
-                "german": "Das Buch ist ziemlich teuer.",
-                "english": "The book is quite expensive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ziemlich groß.",
+            "english": "He is quite tall."
+        },
+        {
+            "german": "Das Essen war ziemlich gut.",
+            "english": "The food was pretty good."
+        },
+        {
+            "german": "Sie ist ziemlich müde.",
+            "english": "She is rather tired."
+        },
+        {
+            "german": "Es ist ziemlich kalt draußen.",
+            "english": "It is quite cold outside."
+        },
+        {
+            "german": "Das Buch ist ziemlich teuer.",
+            "english": "The book is quite expensive."
+        }
+    ]
 }

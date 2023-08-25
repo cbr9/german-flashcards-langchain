@@ -1,28 +1,26 @@
 {
     "word": "anfragen, fragte an, angefragt",
     "definition": "To make a formal request for information, assistance, or clarification, typically directed towards a specific individual or organization. This term is commonly employed in professional or business contexts, often involving inquiries, proposals, or seeking details about a particular matter.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kann ich Sie um Hilfe anfragen?",
-                "english": "Can I ask you for help?"
-            },
-            {
-                "german": "Ich möchte anfragen, ob das Zimmer noch verfügbar ist.",
-                "english": "I would like to inquire if the room is still available."
-            },
-            {
-                "german": "Er hat bei mehreren Unternehmen nach einem Praktikum angefragt.",
-                "english": "He has requested an internship from several companies."
-            },
-            {
-                "german": "Wir haben bei der Bank nach einem Kredit angefragt.",
-                "english": "We have applied for a loan at the bank."
-            },
-            {
-                "german": "Kannst du beim Veranstalter nach den Einzelheiten anfragen?",
-                "english": "Can you inquire with the organizer about the details?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kann ich Sie um Hilfe anfragen?",
+            "english": "Can I ask you for help?"
+        },
+        {
+            "german": "Ich möchte anfragen, ob das Zimmer noch verfügbar ist.",
+            "english": "I would like to inquire if the room is still available."
+        },
+        {
+            "german": "Er hat bei mehreren Unternehmen nach einem Praktikum angefragt.",
+            "english": "He has requested an internship from several companies."
+        },
+        {
+            "german": "Wir haben bei der Bank nach einem Kredit angefragt.",
+            "english": "We have applied for a loan at the bank."
+        },
+        {
+            "german": "Kannst du beim Veranstalter nach den Einzelheiten anfragen?",
+            "english": "Can you inquire with the organizer about the details?"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "loben, lobte, gelobt",
     "definition": "To express admiration, appreciation, or approval towards someone or something, often in response to their actions, achievements, or qualities. It is commonly used to provide positive feedback, acknowledge accomplishments, or praise someone's efforts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte dich loben für deine gute Arbeit.",
-                "english": "I want to praise you for your good work."
-            },
-            {
-                "german": "Die Lehrerin lobte den Schüler für seine Bemühungen.",
-                "english": "The teacher praised the student for his efforts."
-            },
-            {
-                "german": "Er lobte seine Freundin für ihre Schönheit.",
-                "english": "He praised his girlfriend for her beauty."
-            },
-            {
-                "german": "Die Firma lobte den Mitarbeiter für seine hohe Produktivität.",
-                "english": "The company praised the employee for his high productivity."
-            },
-            {
-                "german": "Die Eltern lobten ihr Kind für seine gute Note.",
-                "english": "The parents praised their child for his good grade."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte dich loben für deine gute Arbeit.",
+            "english": "I want to praise you for your good work."
+        },
+        {
+            "german": "Die Lehrerin lobte den Schüler für seine Bemühungen.",
+            "english": "The teacher praised the student for his efforts."
+        },
+        {
+            "german": "Er lobte seine Freundin für ihre Schönheit.",
+            "english": "He praised his girlfriend for her beauty."
+        },
+        {
+            "german": "Die Firma lobte den Mitarbeiter für seine hohe Produktivität.",
+            "english": "The company praised the employee for his high productivity."
+        },
+        {
+            "german": "Die Eltern lobten ihr Kind für seine gute Note.",
+            "english": "The parents praised their child for his good grade."
+        }
+    ]
 }

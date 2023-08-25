@@ -1,28 +1,26 @@
 {
     "word": "kletteren, kletterte, geklettert",
     "definition": "The word \"kletteren\" refers to the action of ascending or climbing in a vertical or steep manner, typically involving the use of hands and feet to grip and pull oneself up. It is commonly used to describe the physical activity of scaling rocks, mountains, or other challenging surfaces.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich klettere gerne auf Berge.",
-                "english": "I like to climb mountains."
-            },
-            {
-                "german": "Er klettert an der Felswand hoch.",
-                "english": "He climbs up the rock wall."
-            },
-            {
-                "german": "Wir kletterten den steilen Pfad hinunter.",
-                "english": "We climbed down the steep path."
-            },
-            {
-                "german": "Sie klettert geschickt auf den Baum.",
-                "english": "She climbs skillfully up the tree."
-            },
-            {
-                "german": "Kletterst du gerne auf Türme?",
-                "english": "Do you like to climb towers?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich klettere gerne auf Berge.",
+            "english": "I like to climb mountains."
+        },
+        {
+            "german": "Er klettert an der Felswand hoch.",
+            "english": "He climbs up the rock wall."
+        },
+        {
+            "german": "Wir kletterten den steilen Pfad hinunter.",
+            "english": "We climbed down the steep path."
+        },
+        {
+            "german": "Sie klettert geschickt auf den Baum.",
+            "english": "She climbs skillfully up the tree."
+        },
+        {
+            "german": "Kletterst du gerne auf Türme?",
+            "english": "Do you like to climb towers?"
+        }
+    ]
 }

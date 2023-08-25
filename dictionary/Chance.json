@@ -1,28 +1,26 @@
 {
     "word": "die Chance, die Chancen",
     "definition": "A possibility or opportunity that arises in a given situation, often associated with a favorable outcome or potential success. It is commonly used to refer to the prospect of achieving something positive or advantageous, typically in relation to a specific event, circumstance, or goal.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Chance auf Erfolg ist hoch.",
-                "english": "The chance of success is high."
-            },
-            {
-                "german": "Er hat eine gute Chance, den Wettbewerb zu gewinnen.",
-                "english": "He has a good chance of winning the competition."
-            },
-            {
-                "german": "Es besteht eine geringe Chance, dass es regnen wird.",
-                "english": "There is a slight chance of rain."
-            },
-            {
-                "german": "Sie hat die Chance genutzt, um ihre Fähigkeiten zu zeigen.",
-                "english": "She took the opportunity to showcase her skills."
-            },
-            {
-                "german": "Die Chance, dass er rechtzeitig kommt, ist sehr gering.",
-                "english": "The likelihood of him arriving on time is very low."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Chance auf Erfolg ist hoch.",
+            "english": "The chance of success is high."
+        },
+        {
+            "german": "Er hat eine gute Chance, den Wettbewerb zu gewinnen.",
+            "english": "He has a good chance of winning the competition."
+        },
+        {
+            "german": "Es besteht eine geringe Chance, dass es regnen wird.",
+            "english": "There is a slight chance of rain."
+        },
+        {
+            "german": "Sie hat die Chance genutzt, um ihre Fähigkeiten zu zeigen.",
+            "english": "She took the opportunity to showcase her skills."
+        },
+        {
+            "german": "Die Chance, dass er rechtzeitig kommt, ist sehr gering.",
+            "english": "The likelihood of him arriving on time is very low."
+        }
+    ]
 }

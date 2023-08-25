@@ -1,28 +1,26 @@
 {
     "word": "erben, erbte, geerbt",
     "definition": "To receive possessions, assets, or property from a deceased person through legal inheritance. This term is commonly used in legal and familial contexts, referring to the transfer of wealth or belongings from one generation to another.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde von meinem Großvater erben.",
-                "english": "I will inherit from my grandfather."
-            },
-            {
-                "german": "Sie hat ein großes Vermögen geerbt.",
-                "english": "She inherited a large fortune."
-            },
-            {
-                "german": "Er hat das Haus von seinen Eltern geerbt.",
-                "english": "He inherited the house from his parents."
-            },
-            {
-                "german": "Die Kinder werden das Unternehmen erben.",
-                "english": "The children will inherit the company."
-            },
-            {
-                "german": "Sie erbt die Schönheit ihrer Mutter.",
-                "english": "She inherits the beauty of her mother."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde von meinem Großvater erben.",
+            "english": "I will inherit from my grandfather."
+        },
+        {
+            "german": "Sie hat ein großes Vermögen geerbt.",
+            "english": "She inherited a large fortune."
+        },
+        {
+            "german": "Er hat das Haus von seinen Eltern geerbt.",
+            "english": "He inherited the house from his parents."
+        },
+        {
+            "german": "Die Kinder werden das Unternehmen erben.",
+            "english": "The children will inherit the company."
+        },
+        {
+            "german": "Sie erbt die Schönheit ihrer Mutter.",
+            "english": "She inherits the beauty of her mother."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Träne, die Tränen",
     "definition": "A liquid droplet that is produced by the eyes as a result of strong emotions, such as sadness, grief, or joy. It is commonly associated with crying and can be used metaphorically to represent deep emotional pain or sentimentality.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eine Träne lief über ihre Wange.",
-                "english": "A tear ran down her cheek."
-            },
-            {
-                "german": "Er konnte die Tränen in ihren Augen sehen.",
-                "english": "He could see the tears in her eyes."
-            },
-            {
-                "german": "Die kleine Träne rollte langsam über ihre Nase.",
-                "english": "The little tear rolled slowly down her nose."
-            },
-            {
-                "german": "Sie wischte sich die Tränen mit einem Taschentuch ab.",
-                "english": "She wiped away the tears with a tissue."
-            },
-            {
-                "german": "Tränen der Freude liefen über ihr Gesicht.",
-                "english": "Tears of joy ran down her face."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eine Träne lief über ihre Wange.",
+            "english": "A tear ran down her cheek."
+        },
+        {
+            "german": "Er konnte die Tränen in ihren Augen sehen.",
+            "english": "He could see the tears in her eyes."
+        },
+        {
+            "german": "Die kleine Träne rollte langsam über ihre Nase.",
+            "english": "The little tear rolled slowly down her nose."
+        },
+        {
+            "german": "Sie wischte sich die Tränen mit einem Taschentuch ab.",
+            "english": "She wiped away the tears with a tissue."
+        },
+        {
+            "german": "Tränen der Freude liefen über ihr Gesicht.",
+            "english": "Tears of joy ran down her face."
+        }
+    ]
 }

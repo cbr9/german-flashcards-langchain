@@ -1,28 +1,26 @@
 {
     "word": "der Marathon, die Marathons",
     "definition": "A long-distance race, typically covering a distance of 42.195 kilometers, known for its demanding physical endurance and mental stamina requirements. It is commonly used to describe a challenging athletic event that tests participants' perseverance and determination.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe gestern einen Marathon gelaufen.",
-                "english": "I ran a marathon yesterday."
-            },
-            {
-                "german": "Der Berlin-Marathon findet jedes Jahr im September statt.",
-                "english": "The Berlin Marathon takes place every year in September."
-            },
-            {
-                "german": "Sie hat den Marathon in Rekordzeit beendet.",
-                "english": "She finished the marathon in record time."
-            },
-            {
-                "german": "Mein Ziel ist es, einen Marathon zu laufen.",
-                "english": "My goal is to run a marathon."
-            },
-            {
-                "german": "Der Marathon war sehr anstrengend, aber es hat sich gelohnt.",
-                "english": "The marathon was very exhausting, but it was worth it."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe gestern einen Marathon gelaufen.",
+            "english": "I ran a marathon yesterday."
+        },
+        {
+            "german": "Der Berlin-Marathon findet jedes Jahr im September statt.",
+            "english": "The Berlin Marathon takes place every year in September."
+        },
+        {
+            "german": "Sie hat den Marathon in Rekordzeit beendet.",
+            "english": "She finished the marathon in record time."
+        },
+        {
+            "german": "Mein Ziel ist es, einen Marathon zu laufen.",
+            "english": "My goal is to run a marathon."
+        },
+        {
+            "german": "Der Marathon war sehr anstrengend, aber es hat sich gelohnt.",
+            "english": "The marathon was very exhausting, but it was worth it."
+        }
+    ]
 }

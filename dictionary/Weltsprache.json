@@ -1,28 +1,26 @@
 {
     "word": "die Weltsprache, die Weltsprachen",
     "definition": "A widely spoken and understood language that serves as a means of communication between people from different countries and cultures. It is commonly used to facilitate international interactions, such as in diplomacy, business, and global communication.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Deutsch ist eine Weltsprache.",
-                "english": "German is a world language."
-            },
-            {
-                "german": "Englisch ist die meistgesprochene Weltsprache.",
-                "english": "English is the most widely spoken world language."
-            },
-            {
-                "german": "Spanisch ist eine wichtige Weltsprache.",
-                "english": "Spanish is an important world language."
-            },
-            {
-                "german": "Chinesisch wird als Weltsprache immer bedeutender.",
-                "english": "Chinese is becoming increasingly important as a world language."
-            },
-            {
-                "german": "Französisch ist eine der sechs offiziellen Weltsprachen der Vereinten Nationen.",
-                "english": "French is one of the six official world languages of the United Nations."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Deutsch ist eine Weltsprache.",
+            "english": "German is a world language."
+        },
+        {
+            "german": "Englisch ist die meistgesprochene Weltsprache.",
+            "english": "English is the most widely spoken world language."
+        },
+        {
+            "german": "Spanisch ist eine wichtige Weltsprache.",
+            "english": "Spanish is an important world language."
+        },
+        {
+            "german": "Chinesisch wird als Weltsprache immer bedeutender.",
+            "english": "Chinese is becoming increasingly important as a world language."
+        },
+        {
+            "german": "Französisch ist eine der sechs offiziellen Weltsprachen der Vereinten Nationen.",
+            "english": "French is one of the six official world languages of the United Nations."
+        }
+    ]
 }

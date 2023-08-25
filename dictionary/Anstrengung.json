@@ -1,28 +1,26 @@
 {
     "word": "die Anstrengung, die Anstrengungen",
     "definition": "A state or act of exerting physical or mental effort towards achieving a goal or completing a task. It is commonly used to describe the process of putting in strenuous effort, often in the context of physical or mental activities, such as exercise, work, studying, or problem-solving.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Anstrengung hat sich gelohnt.",
-                "english": "The effort was worth it."
-            },
-            {
-                "german": "Er gab sich große Anstrengungen.",
-                "english": "He made great efforts."
-            },
-            {
-                "german": "Die Anstrengung war zu viel für ihn.",
-                "english": "The effort was too much for him."
-            },
-            {
-                "german": "Sie setzte sich mit Anstrengung durch.",
-                "english": "She pushed through with effort."
-            },
-            {
-                "german": "Die Anstrengung führte zum Erfolg.",
-                "english": "The effort led to success."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Anstrengung hat sich gelohnt.",
+            "english": "The effort was worth it."
+        },
+        {
+            "german": "Er gab sich große Anstrengungen.",
+            "english": "He made great efforts."
+        },
+        {
+            "german": "Die Anstrengung war zu viel für ihn.",
+            "english": "The effort was too much for him."
+        },
+        {
+            "german": "Sie setzte sich mit Anstrengung durch.",
+            "english": "She pushed through with effort."
+        },
+        {
+            "german": "Die Anstrengung führte zum Erfolg.",
+            "english": "The effort led to success."
+        }
+    ]
 }

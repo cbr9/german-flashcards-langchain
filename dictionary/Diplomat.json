@@ -1,28 +1,26 @@
 {
     "word": "der Diplomat, die Diplomaten",
     "definition": "A person who represents their country's interests abroad, often engaging in negotiations and maintaining diplomatic relations with other nations. They typically work in embassies or consulates and are responsible for promoting their country's political, economic, and cultural interests while fostering international cooperation and resolving conflicts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Diplomat verhandelt im Namen seines Landes.",
-                "english": "The diplomat negotiates on behalf of his country."
-            },
-            {
-                "german": "Der Diplomat wurde zum Botschafter ernannt.",
-                "english": "The diplomat was appointed as an ambassador."
-            },
-            {
-                "german": "Die Diplomatin ist für die internationalen Beziehungen zuständig.",
-                "english": "The female diplomat is responsible for international relations."
-            },
-            {
-                "german": "Der Diplomat hat eine wichtige Rolle bei der Friedensverhandlung gespielt.",
-                "english": "The diplomat played an important role in the peace negotiation."
-            },
-            {
-                "german": "Die Diplomatenkonferenz findet nächste Woche statt.",
-                "english": "The diplomatic conference will take place next week."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Diplomat verhandelt im Namen seines Landes.",
+            "english": "The diplomat negotiates on behalf of his country."
+        },
+        {
+            "german": "Der Diplomat wurde zum Botschafter ernannt.",
+            "english": "The diplomat was appointed as an ambassador."
+        },
+        {
+            "german": "Die Diplomatin ist für die internationalen Beziehungen zuständig.",
+            "english": "The female diplomat is responsible for international relations."
+        },
+        {
+            "german": "Der Diplomat hat eine wichtige Rolle bei der Friedensverhandlung gespielt.",
+            "english": "The diplomat played an important role in the peace negotiation."
+        },
+        {
+            "german": "Die Diplomatenkonferenz findet nächste Woche statt.",
+            "english": "The diplomatic conference will take place next week."
+        }
+    ]
 }

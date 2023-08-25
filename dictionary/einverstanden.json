@@ -1,28 +1,26 @@
 {
     "word": "einverstanden",
     "definition": "A term used to express agreement or consent, often in response to a proposal, suggestion, or agreement. It is commonly used in informal conversations and can be employed to indicate one's acceptance or approval of a given situation or idea.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Bist du einverstanden?",
-                "english": "Are you in agreement?"
-            },
-            {
-                "german": "Ich bin einverstanden.",
-                "english": "I agree."
-            },
-            {
-                "german": "Wir sind einverstanden.",
-                "english": "We are in agreement."
-            },
-            {
-                "german": "Sind Sie mit den Bedingungen einverstanden?",
-                "english": "Do you agree with the terms?"
-            },
-            {
-                "german": "Erklärst du dich einverstanden?",
-                "english": "Do you declare yourself in agreement?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Bist du einverstanden?",
+            "english": "Are you in agreement?"
+        },
+        {
+            "german": "Ich bin einverstanden.",
+            "english": "I agree."
+        },
+        {
+            "german": "Wir sind einverstanden.",
+            "english": "We are in agreement."
+        },
+        {
+            "german": "Sind Sie mit den Bedingungen einverstanden?",
+            "english": "Do you agree with the terms?"
+        },
+        {
+            "german": "Erklärst du dich einverstanden?",
+            "english": "Do you declare yourself in agreement?"
+        }
+    ]
 }

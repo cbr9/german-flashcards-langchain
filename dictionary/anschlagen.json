@@ -1,28 +1,26 @@
 {
     "word": "anschlagen, schlug an, angeschlagen",
     "definition": "To strike or hit an object with force, typically producing a sound or vibration. It is commonly used to describe the action of striking a musical instrument, such as a piano or a drum, to produce a sound.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe den Zettel an die Tür angeschlagen.",
-                "english": "I pinned the note to the door."
-            },
-            {
-                "german": "Die Regierung hat neue Steuern angeschlagen.",
-                "english": "The government has announced new taxes."
-            },
-            {
-                "german": "Er hat den Nagel mit dem Hammer angeschlagen.",
-                "english": "He hammered the nail in."
-            },
-            {
-                "german": "Die Glocke schlägt zwölf Mal an.",
-                "english": "The bell chimes twelve times."
-            },
-            {
-                "german": "Der Hund hat angeschlagen, als er den Fremden sah.",
-                "english": "The dog barked when he saw the stranger."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe den Zettel an die Tür angeschlagen.",
+            "english": "I pinned the note to the door."
+        },
+        {
+            "german": "Die Regierung hat neue Steuern angeschlagen.",
+            "english": "The government has announced new taxes."
+        },
+        {
+            "german": "Er hat den Nagel mit dem Hammer angeschlagen.",
+            "english": "He hammered the nail in."
+        },
+        {
+            "german": "Die Glocke schlägt zwölf Mal an.",
+            "english": "The bell chimes twelve times."
+        },
+        {
+            "german": "Der Hund hat angeschlagen, als er den Fremden sah.",
+            "english": "The dog barked when he saw the stranger."
+        }
+    ]
 }

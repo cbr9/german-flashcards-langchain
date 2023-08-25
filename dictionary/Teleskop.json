@@ -1,28 +1,26 @@
 {
     "word": "das Teleskop, die Teleskope",
     "definition": "A device used for observing distant objects by means of lenses or mirrors, typically consisting of a long cylindrical tube with an eyepiece at one end and an objective lens or mirror at the other. It is commonly employed for astronomical observations, terrestrial viewing, or surveillance purposes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Teleskop ermöglicht es, weit entfernte Objekte zu beobachten.",
-                "english": "The telescope allows for observing distant objects."
-            },
-            {
-                "german": "Er hat ein Teleskop, um Sterne zu beobachten.",
-                "english": "He has a telescope to observe stars."
-            },
-            {
-                "german": "Das Teleskop ist sehr leistungsstark und ermöglicht klare Sicht.",
-                "english": "The telescope is very powerful and provides clear visibility."
-            },
-            {
-                "german": "Sie hat das Teleskop auf den Mond gerichtet.",
-                "english": "She pointed the telescope towards the moon."
-            },
-            {
-                "german": "Das Teleskop kann auf verschiedene Vergrößerungen eingestellt werden.",
-                "english": "The telescope can be adjusted to different magnifications."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Teleskop ermöglicht es, weit entfernte Objekte zu beobachten.",
+            "english": "The telescope allows for observing distant objects."
+        },
+        {
+            "german": "Er hat ein Teleskop, um Sterne zu beobachten.",
+            "english": "He has a telescope to observe stars."
+        },
+        {
+            "german": "Das Teleskop ist sehr leistungsstark und ermöglicht klare Sicht.",
+            "english": "The telescope is very powerful and provides clear visibility."
+        },
+        {
+            "german": "Sie hat das Teleskop auf den Mond gerichtet.",
+            "english": "She pointed the telescope towards the moon."
+        },
+        {
+            "german": "Das Teleskop kann auf verschiedene Vergrößerungen eingestellt werden.",
+            "english": "The telescope can be adjusted to different magnifications."
+        }
+    ]
 }

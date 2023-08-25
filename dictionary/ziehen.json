@@ -1,28 +1,26 @@
 {
     "word": "ziehen, zog, gezogen",
     "definition": "To move or pull something in a specific direction, often involving physical force or effort. It can refer to actions like dragging, hauling, or tugging objects. Additionally, it can be used to describe the act of relocating oneself or someone/something else from one place to another.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich ziehe meine Jacke an.",
-                "english": "I put on my jacket."
-            },
-            {
-                "german": "Er zieht an der Tür.",
-                "english": "He pulls on the door."
-            },
-            {
-                "german": "Sie ziehen um.",
-                "english": "They move."
-            },
-            {
-                "german": "Wir ziehen eine Linie.",
-                "english": "We draw a line."
-            },
-            {
-                "german": "Der Arzt zieht den Verband ab.",
-                "english": "The doctor removes the bandage."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich ziehe meine Jacke an.",
+            "english": "I put on my jacket."
+        },
+        {
+            "german": "Er zieht an der Tür.",
+            "english": "He pulls on the door."
+        },
+        {
+            "german": "Sie ziehen um.",
+            "english": "They move."
+        },
+        {
+            "german": "Wir ziehen eine Linie.",
+            "english": "We draw a line."
+        },
+        {
+            "german": "Der Arzt zieht den Verband ab.",
+            "english": "The doctor removes the bandage."
+        }
+    ]
 }

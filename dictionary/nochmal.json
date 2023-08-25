@@ -1,28 +1,26 @@
 {
     "word": "nochmal",
     "definition": "A term commonly employed to express the idea of repeating or doing something again, often used in informal conversations or casual contexts. It is frequently utilized to request a repetition of an action, to emphasize the need for further clarification, or to suggest the performance of a task once more.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du das nochmal erklären?",
-                "english": "Can you explain that again?"
-            },
-            {
-                "german": "Ich möchte nochmal versuchen.",
-                "english": "I want to try again."
-            },
-            {
-                "german": "Kannst du mir das bitte nochmal zeigen?",
-                "english": "Can you please show me that again?"
-            },
-            {
-                "german": "Ich habe es nochmal überprüft.",
-                "english": "I checked it again."
-            },
-            {
-                "german": "Wir sollten das nochmal besprechen.",
-                "english": "We should discuss that again."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du das nochmal erklären?",
+            "english": "Can you explain that again?"
+        },
+        {
+            "german": "Ich möchte nochmal versuchen.",
+            "english": "I want to try again."
+        },
+        {
+            "german": "Kannst du mir das bitte nochmal zeigen?",
+            "english": "Can you please show me that again?"
+        },
+        {
+            "german": "Ich habe es nochmal überprüft.",
+            "english": "I checked it again."
+        },
+        {
+            "german": "Wir sollten das nochmal besprechen.",
+            "english": "We should discuss that again."
+        }
+    ]
 }

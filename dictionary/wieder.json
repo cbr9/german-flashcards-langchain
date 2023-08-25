@@ -1,28 +1,26 @@
 {
     "word": "wieder",
     "definition": "\"Wieder\" is an adverb commonly used to express the idea of repetition or return. It is often used to indicate the occurrence of an action, event, or state that is happening again or being repeated after a previous instance. Additionally, \"wieder\" can also convey the notion of restoration or recovery, suggesting the return to a previous condition or state.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin wieder zu Hause.",
-                "english": "I am back home."
-            },
-            {
-                "german": "Kannst du das bitte wiederholen?",
-                "english": "Can you please repeat that?"
-            },
-            {
-                "german": "Wir sehen uns wieder.",
-                "english": "We will see each other again."
-            },
-            {
-                "german": "Er hat es wieder vergessen.",
-                "english": "He forgot it again."
-            },
-            {
-                "german": "Die Blumen blühen wieder.",
-                "english": "The flowers are blooming again."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin wieder zu Hause.",
+            "english": "I am back home."
+        },
+        {
+            "german": "Kannst du das bitte wiederholen?",
+            "english": "Can you please repeat that?"
+        },
+        {
+            "german": "Wir sehen uns wieder.",
+            "english": "We will see each other again."
+        },
+        {
+            "german": "Er hat es wieder vergessen.",
+            "english": "He forgot it again."
+        },
+        {
+            "german": "Die Blumen blühen wieder.",
+            "english": "The flowers are blooming again."
+        }
+    ]
 }

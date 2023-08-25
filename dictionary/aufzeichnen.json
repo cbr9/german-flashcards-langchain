@@ -1,28 +1,26 @@
 {
     "word": "aufzeichnen, zeichnete auf, aufgezeichnet",
     "definition": "To make a record of something, typically by writing or drawing, often with the intention of preserving or documenting information. It is commonly used in various contexts, such as note-taking, documenting events, recording data, or capturing details for future reference.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde das Meeting aufzeichnen.",
-                "english": "I will record the meeting."
-            },
-            {
-                "german": "Kannst du die Sendung für mich aufzeichnen?",
-                "english": "Can you record the show for me?"
-            },
-            {
-                "german": "Er hat seine Gedanken in einem Tagebuch aufgezeichnet.",
-                "english": "He recorded his thoughts in a diary."
-            },
-            {
-                "german": "Die Kamera zeichnete den Vorfall auf.",
-                "english": "The camera recorded the incident."
-            },
-            {
-                "german": "Sie müssen Ihre Daten vor dem Update aufzeichnen.",
-                "english": "You need to back up your data before the update."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde das Meeting aufzeichnen.",
+            "english": "I will record the meeting."
+        },
+        {
+            "german": "Kannst du die Sendung für mich aufzeichnen?",
+            "english": "Can you record the show for me?"
+        },
+        {
+            "german": "Er hat seine Gedanken in einem Tagebuch aufgezeichnet.",
+            "english": "He recorded his thoughts in a diary."
+        },
+        {
+            "german": "Die Kamera zeichnete den Vorfall auf.",
+            "english": "The camera recorded the incident."
+        },
+        {
+            "german": "Sie müssen Ihre Daten vor dem Update aufzeichnen.",
+            "english": "You need to back up your data before the update."
+        }
+    ]
 }

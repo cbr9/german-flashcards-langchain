@@ -1,28 +1,26 @@
 {
     "word": "die Software, die Software",
     "definition": "A collection of programs, data, and instructions that enable a computer system to perform specific tasks, typically used for operating, managing, and controlling various computer hardware and software components. It is commonly utilized for running applications, managing databases, and facilitating user interactions on electronic devices.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Software muss aktualisiert werden.",
-                "english": "The software needs to be updated."
-            },
-            {
-                "german": "Diese Software ist sehr benutzerfreundlich.",
-                "english": "This software is very user-friendly."
-            },
-            {
-                "german": "Die Softwareentwicklung ist ein komplexer Prozess.",
-                "english": "Software development is a complex process."
-            },
-            {
-                "german": "Die Software ist mit verschiedenen Betriebssystemen kompatibel.",
-                "english": "The software is compatible with various operating systems."
-            },
-            {
-                "german": "Die Software bietet viele nützliche Funktionen.",
-                "english": "The software offers many useful features."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Software muss aktualisiert werden.",
+            "english": "The software needs to be updated."
+        },
+        {
+            "german": "Diese Software ist sehr benutzerfreundlich.",
+            "english": "This software is very user-friendly."
+        },
+        {
+            "german": "Die Softwareentwicklung ist ein komplexer Prozess.",
+            "english": "Software development is a complex process."
+        },
+        {
+            "german": "Die Software ist mit verschiedenen Betriebssystemen kompatibel.",
+            "english": "The software is compatible with various operating systems."
+        },
+        {
+            "german": "Die Software bietet viele nützliche Funktionen.",
+            "english": "The software offers many useful features."
+        }
+    ]
 }

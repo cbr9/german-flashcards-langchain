@@ -1,28 +1,26 @@
 {
     "word": "der Einsatz, die Einsätze",
     "definition": "A term commonly employed to describe the act of utilizing resources, skills, or efforts in a purposeful and strategic manner, often in response to a specific situation or problem. It is frequently used in contexts related to emergency services, military operations, or professional assignments where individuals or teams are deployed to carry out a particular task or mission.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Einsatz der Polizei war erfolgreich.",
-                "english": "The police operation was successful."
-            },
-            {
-                "german": "Sie hat viel Einsatz gezeigt, um das Projekt abzuschließen.",
-                "english": "She showed a lot of commitment to complete the project."
-            },
-            {
-                "german": "Der Einsatz von Chemikalien ist in diesem Bereich verboten.",
-                "english": "The use of chemicals is prohibited in this area."
-            },
-            {
-                "german": "Der Einsatz von erneuerbaren Energien ist umweltfreundlicher.",
-                "english": "The use of renewable energy is more environmentally friendly."
-            },
-            {
-                "german": "Der Einsatz von Technologie hat die Produktivität gesteigert.",
-                "english": "The implementation of technology has increased productivity."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Einsatz der Polizei war erfolgreich.",
+            "english": "The police operation was successful."
+        },
+        {
+            "german": "Sie hat viel Einsatz gezeigt, um das Projekt abzuschließen.",
+            "english": "She showed a lot of commitment to complete the project."
+        },
+        {
+            "german": "Der Einsatz von Chemikalien ist in diesem Bereich verboten.",
+            "english": "The use of chemicals is prohibited in this area."
+        },
+        {
+            "german": "Der Einsatz von erneuerbaren Energien ist umweltfreundlicher.",
+            "english": "The use of renewable energy is more environmentally friendly."
+        },
+        {
+            "german": "Der Einsatz von Technologie hat die Produktivität gesteigert.",
+            "english": "The implementation of technology has increased productivity."
+        }
+    ]
 }

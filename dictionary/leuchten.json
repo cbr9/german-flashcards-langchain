@@ -1,28 +1,26 @@
 {
     "word": "leuchten, leuchtete, geleuchtet",
     "definition": "To emit a bright and radiant light, often used to describe the action of a lamp, flashlight, or any other source of illumination.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Sterne leuchten am Himmel.",
-                "english": "The stars shine in the sky."
-            },
-            {
-                "german": "Die Taschenlampe leuchtet hell.",
-                "english": "The flashlight shines brightly."
-            },
-            {
-                "german": "Die Ampel leuchtet grün.",
-                "english": "The traffic light is green."
-            },
-            {
-                "german": "Seine Augen leuchten vor Freude.",
-                "english": "His eyes sparkle with joy."
-            },
-            {
-                "german": "Die Kerzen leuchten im Dunkeln.",
-                "english": "The candles glow in the dark."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Sterne leuchten am Himmel.",
+            "english": "The stars shine in the sky."
+        },
+        {
+            "german": "Die Taschenlampe leuchtet hell.",
+            "english": "The flashlight shines brightly."
+        },
+        {
+            "german": "Die Ampel leuchtet grün.",
+            "english": "The traffic light is green."
+        },
+        {
+            "german": "Seine Augen leuchten vor Freude.",
+            "english": "His eyes sparkle with joy."
+        },
+        {
+            "german": "Die Kerzen leuchten im Dunkeln.",
+            "english": "The candles glow in the dark."
+        }
+    ]
 }

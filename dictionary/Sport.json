@@ -1,28 +1,26 @@
 {
     "word": "der Sport, die Sports",
     "definition": "A physical activity or competitive game that involves physical exertion and skill, often organized into teams or individual events, and typically governed by a set of rules. It is commonly practiced for recreational purposes, as a means of improving physical fitness, or as a professional pursuit.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich treibe gerne Sport.",
-                "english": "I enjoy doing sports."
-            },
-            {
-                "german": "Sport ist gut für die Gesundheit.",
-                "english": "Sport is good for your health."
-            },
-            {
-                "german": "Fußball ist ein beliebter Sport in Deutschland.",
-                "english": "Football is a popular sport in Germany."
-            },
-            {
-                "german": "Sie betreibt Leistungssport.",
-                "english": "She does competitive sports."
-            },
-            {
-                "german": "Sportvereine bieten verschiedene Sportarten an.",
-                "english": "Sports clubs offer various sports."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich treibe gerne Sport.",
+            "english": "I enjoy doing sports."
+        },
+        {
+            "german": "Sport ist gut für die Gesundheit.",
+            "english": "Sport is good for your health."
+        },
+        {
+            "german": "Fußball ist ein beliebter Sport in Deutschland.",
+            "english": "Football is a popular sport in Germany."
+        },
+        {
+            "german": "Sie betreibt Leistungssport.",
+            "english": "She does competitive sports."
+        },
+        {
+            "german": "Sportvereine bieten verschiedene Sportarten an.",
+            "english": "Sports clubs offer various sports."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Gipfel, die Gipfel",
     "definition": "A term commonly used to describe the highest point or summit of a mountain or hill, often used in the context of mountaineering or hiking. It can also refer to a meeting or conference where important discussions or negotiations take place, typically involving high-ranking officials or experts in a particular field.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Gipfel des Berges ist mit Schnee bedeckt.",
-                "english": "The summit of the mountain is covered in snow."
-            },
-            {
-                "german": "Wir haben den Gipfel erreicht und können die Aussicht genießen.",
-                "english": "We have reached the summit and can enjoy the view."
-            },
-            {
-                "german": "Der Gipfel des Erfolgs wurde endlich erreicht.",
-                "english": "The summit of success has finally been reached."
-            },
-            {
-                "german": "Die Politiker treffen sich auf dem Gipfel, um über wichtige Themen zu diskutieren.",
-                "english": "The politicians meet at the summit to discuss important issues."
-            },
-            {
-                "german": "Der Gipfel des Berges ist ein beliebtes Ziel für Wanderer.",
-                "english": "The summit of the mountain is a popular destination for hikers."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Gipfel des Berges ist mit Schnee bedeckt.",
+            "english": "The summit of the mountain is covered in snow."
+        },
+        {
+            "german": "Wir haben den Gipfel erreicht und können die Aussicht genießen.",
+            "english": "We have reached the summit and can enjoy the view."
+        },
+        {
+            "german": "Der Gipfel des Erfolgs wurde endlich erreicht.",
+            "english": "The summit of success has finally been reached."
+        },
+        {
+            "german": "Die Politiker treffen sich auf dem Gipfel, um über wichtige Themen zu diskutieren.",
+            "english": "The politicians meet at the summit to discuss important issues."
+        },
+        {
+            "german": "Der Gipfel des Berges ist ein beliebtes Ziel für Wanderer.",
+            "english": "The summit of the mountain is a popular destination for hikers."
+        }
+    ]
 }

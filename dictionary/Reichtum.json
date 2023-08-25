@@ -1,28 +1,26 @@
 {
     "word": "der Reichtum, die Reichtümer",
     "definition": "A state of possessing an abundance of valuable resources, assets, or wealth, often referring to material possessions, financial prosperity, or affluence. This term is commonly employed to describe the accumulation of resources or the possession of great wealth.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Reichtum kann man nicht kaufen.",
-                "english": "You can't buy wealth."
-            },
-            {
-                "german": "Er hat seinen Reichtum geerbt.",
-                "english": "He inherited his wealth."
-            },
-            {
-                "german": "Reichtum bedeutet nicht automatisch Glück.",
-                "english": "Wealth doesn't automatically mean happiness."
-            },
-            {
-                "german": "Sie träumt von Reichtum und Luxus.",
-                "english": "She dreams of wealth and luxury."
-            },
-            {
-                "german": "Reichtum kann auch eine Last sein.",
-                "english": "Wealth can also be a burden."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Reichtum kann man nicht kaufen.",
+            "english": "You can't buy wealth."
+        },
+        {
+            "german": "Er hat seinen Reichtum geerbt.",
+            "english": "He inherited his wealth."
+        },
+        {
+            "german": "Reichtum bedeutet nicht automatisch Glück.",
+            "english": "Wealth doesn't automatically mean happiness."
+        },
+        {
+            "german": "Sie träumt von Reichtum und Luxus.",
+            "english": "She dreams of wealth and luxury."
+        },
+        {
+            "german": "Reichtum kann auch eine Last sein.",
+            "english": "Wealth can also be a burden."
+        }
+    ]
 }

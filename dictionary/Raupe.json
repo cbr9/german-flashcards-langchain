@@ -1,28 +1,26 @@
 {
     "word": "die Raupe, die Raupen",
     "definition": "A small creature that typically has a long, segmented body and many legs, often found crawling on plants or trees. It undergoes a metamorphosis to transform into a different form later in its life cycle. It is commonly associated with the natural world and is frequently observed in gardens, forests, and other outdoor environments.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Raupe frisst Blätter.",
-                "english": "The caterpillar eats leaves."
-            },
-            {
-                "german": "Die Raupe verwandelt sich in einen Schmetterling.",
-                "english": "The caterpillar transforms into a butterfly."
-            },
-            {
-                "german": "Die Raupe kriecht auf dem Boden.",
-                "english": "The caterpillar crawls on the ground."
-            },
-            {
-                "german": "Die Raupe hat viele Beine.",
-                "english": "The caterpillar has many legs."
-            },
-            {
-                "german": "Die Raupe baut einen Kokon.",
-                "english": "The caterpillar builds a cocoon."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Raupe frisst Blätter.",
+            "english": "The caterpillar eats leaves."
+        },
+        {
+            "german": "Die Raupe verwandelt sich in einen Schmetterling.",
+            "english": "The caterpillar transforms into a butterfly."
+        },
+        {
+            "german": "Die Raupe kriecht auf dem Boden.",
+            "english": "The caterpillar crawls on the ground."
+        },
+        {
+            "german": "Die Raupe hat viele Beine.",
+            "english": "The caterpillar has many legs."
+        },
+        {
+            "german": "Die Raupe baut einen Kokon.",
+            "english": "The caterpillar builds a cocoon."
+        }
+    ]
 }

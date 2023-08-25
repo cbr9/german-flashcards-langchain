@@ -1,28 +1,26 @@
 {
     "word": "der Monolog, die Monologe",
     "definition": "A form of speech or discourse where an individual expresses their thoughts, feelings, or ideas aloud, typically in a theatrical or performative manner, without any direct interaction or response from others. It is commonly employed in various artistic mediums, such as theater, literature, or film, to convey the inner thoughts or reflections of a character.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Schauspieler hielt einen Monolog auf der Bühne.",
-                "english": "The actor delivered a monologue on stage."
-            },
-            {
-                "german": "Sie führte einen inneren Monolog, während sie spazieren ging.",
-                "english": "She had an inner monologue while she was walking."
-            },
-            {
-                "german": "Der Monolog des Charakters war sehr emotional und bewegend.",
-                "english": "The character's monologue was very emotional and moving."
-            },
-            {
-                "german": "Er übte seinen Monolog vor dem Spiegel.",
-                "english": "He rehearsed his monologue in front of the mirror."
-            },
-            {
-                "german": "Der Monolog des Vortragenden dauerte über eine Stunde.",
-                "english": "The speaker's monologue lasted over an hour."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Schauspieler hielt einen Monolog auf der Bühne.",
+            "english": "The actor delivered a monologue on stage."
+        },
+        {
+            "german": "Sie führte einen inneren Monolog, während sie spazieren ging.",
+            "english": "She had an inner monologue while she was walking."
+        },
+        {
+            "german": "Der Monolog des Charakters war sehr emotional und bewegend.",
+            "english": "The character's monologue was very emotional and moving."
+        },
+        {
+            "german": "Er übte seinen Monolog vor dem Spiegel.",
+            "english": "He rehearsed his monologue in front of the mirror."
+        },
+        {
+            "german": "Der Monolog des Vortragenden dauerte über eine Stunde.",
+            "english": "The speaker's monologue lasted over an hour."
+        }
+    ]
 }

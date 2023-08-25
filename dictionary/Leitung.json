@@ -1,28 +1,26 @@
 {
     "word": "die Leitung, die Leitungen",
     "definition": "A term commonly used to refer to a specific type of organizational role or position responsible for overseeing and managing a group, department, or project within a company or institution. It typically involves providing guidance, direction, and coordination to ensure the smooth functioning and achievement of goals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Leitung des Unternehmens liegt in seinen Händen.",
-                "english": "The management of the company is in his hands."
-            },
-            {
-                "german": "Die Wasserleitung ist undicht und muss repariert werden.",
-                "english": "The water pipe is leaking and needs to be repaired."
-            },
-            {
-                "german": "Die Leitung des Projekts wurde an einen erfahrenen Manager übergeben.",
-                "english": "The leadership of the project was handed over to an experienced manager."
-            },
-            {
-                "german": "Die Telefonleitung ist gestört und es gibt keinen Ton.",
-                "english": "The telephone line is disrupted and there is no sound."
-            },
-            {
-                "german": "Die Leitung der Veranstaltung war gut organisiert und reibungslos.",
-                "english": "The organization of the event was well-managed and smooth."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Leitung des Unternehmens liegt in seinen Händen.",
+            "english": "The management of the company is in his hands."
+        },
+        {
+            "german": "Die Wasserleitung ist undicht und muss repariert werden.",
+            "english": "The water pipe is leaking and needs to be repaired."
+        },
+        {
+            "german": "Die Leitung des Projekts wurde an einen erfahrenen Manager übergeben.",
+            "english": "The leadership of the project was handed over to an experienced manager."
+        },
+        {
+            "german": "Die Telefonleitung ist gestört und es gibt keinen Ton.",
+            "english": "The telephone line is disrupted and there is no sound."
+        },
+        {
+            "german": "Die Leitung der Veranstaltung war gut organisiert und reibungslos.",
+            "english": "The organization of the event was well-managed and smooth."
+        }
+    ]
 }

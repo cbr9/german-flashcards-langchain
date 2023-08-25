@@ -1,28 +1,26 @@
 {
     "word": "produzieren, produzierte, produziert",
     "definition": "To create or manufacture something, typically in a systematic or organized manner, often referring to the process of generating goods or commodities. This term is commonly employed in various industries, including manufacturing, agriculture, and entertainment, where it denotes the act of producing or making something tangible or intangible.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich produziere Musik.",
-                "english": "I produce music."
-            },
-            {
-                "german": "Das Unternehmen produziert Autos.",
-                "english": "The company produces cars."
-            },
-            {
-                "german": "Wir produzieren Lebensmittel.",
-                "english": "We produce food."
-            },
-            {
-                "german": "Die Fabrik produziert Kleidung.",
-                "english": "The factory produces clothing."
-            },
-            {
-                "german": "Sie produzieren Filme.",
-                "english": "They produce movies."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich produziere Musik.",
+            "english": "I produce music."
+        },
+        {
+            "german": "Das Unternehmen produziert Autos.",
+            "english": "The company produces cars."
+        },
+        {
+            "german": "Wir produzieren Lebensmittel.",
+            "english": "We produce food."
+        },
+        {
+            "german": "Die Fabrik produziert Kleidung.",
+            "english": "The factory produces clothing."
+        },
+        {
+            "german": "Sie produzieren Filme.",
+            "english": "They produce movies."
+        }
+    ]
 }

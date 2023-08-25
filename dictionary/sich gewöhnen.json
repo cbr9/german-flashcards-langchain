@@ -1,28 +1,26 @@
 {
     "word": "sich gewöhnen",
     "definition": "To become accustomed to or familiar with something, often through repeated exposure or practice. It is commonly used to describe the process of adapting to new surroundings, situations, or habits.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss mich erst an das neue Klima gewöhnen.",
-                "english": "I have to get used to the new climate."
-            },
-            {
-                "german": "Es dauert eine Weile, bis man sich an den neuen Job gewöhnt hat.",
-                "english": "It takes a while to get used to the new job."
-            },
-            {
-                "german": "Kleine Kinder gewöhnen sich schnell an neue Umgebungen.",
-                "english": "Young children adapt quickly to new environments."
-            },
-            {
-                "german": "Ich habe mich daran gewöhnt, früh aufzustehen.",
-                "english": "I have become accustomed to waking up early."
-            },
-            {
-                "german": "Es ist wichtig, sich an eine gesunde Ernährung zu gewöhnen.",
-                "english": "It is important to get used to a healthy diet."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss mich erst an das neue Klima gewöhnen.",
+            "english": "I have to get used to the new climate."
+        },
+        {
+            "german": "Es dauert eine Weile, bis man sich an den neuen Job gewöhnt hat.",
+            "english": "It takes a while to get used to the new job."
+        },
+        {
+            "german": "Kleine Kinder gewöhnen sich schnell an neue Umgebungen.",
+            "english": "Young children adapt quickly to new environments."
+        },
+        {
+            "german": "Ich habe mich daran gewöhnt, früh aufzustehen.",
+            "english": "I have become accustomed to waking up early."
+        },
+        {
+            "german": "Es ist wichtig, sich an eine gesunde Ernährung zu gewöhnen.",
+            "english": "It is important to get used to a healthy diet."
+        }
+    ]
 }

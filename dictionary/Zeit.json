@@ -1,28 +1,26 @@
 {
     "word": "die Zeit, die Zeiten",
     "definition": "\"Zeit\" refers to the measurement of the progression of events, experienced as a continuous flow, and commonly used to describe the concept of time in various contexts. It is often employed to discuss the duration, sequence, or specific moments of events, as well as to express the passing of time or the temporal aspect of a situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Zeit rennt.",
-                "english": "Time flies."
-            },
-            {
-                "german": "Ich habe keine Zeit.",
-                "english": "I have no time."
-            },
-            {
-                "german": "Die Zeit heilt alle Wunden.",
-                "english": "Time heals all wounds."
-            },
-            {
-                "german": "Es ist Zeit zu gehen.",
-                "english": "It's time to go."
-            },
-            {
-                "german": "Die Zeit steht still.",
-                "english": "Time stands still."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Zeit rennt.",
+            "english": "Time flies."
+        },
+        {
+            "german": "Ich habe keine Zeit.",
+            "english": "I have no time."
+        },
+        {
+            "german": "Die Zeit heilt alle Wunden.",
+            "english": "Time heals all wounds."
+        },
+        {
+            "german": "Es ist Zeit zu gehen.",
+            "english": "It's time to go."
+        },
+        {
+            "german": "Die Zeit steht still.",
+            "english": "Time stands still."
+        }
+    ]
 }

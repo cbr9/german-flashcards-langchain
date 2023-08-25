@@ -1,28 +1,26 @@
 {
     "word": "der Glückwunsch, die Glückwünsche",
     "definition": "A congratulatory expression typically used to convey well wishes or express joy and celebration towards someone's achievement, success, or special occasion. It is commonly used in various social contexts, such as birthdays, graduations, promotions, or other significant milestones.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Herzlichen Glückwunsch zum Geburtstag!",
-                "english": "Happy birthday!"
-            },
-            {
-                "german": "Glückwunsch zur bestandenen Prüfung!",
-                "english": "Congratulations on passing the exam!"
-            },
-            {
-                "german": "Meine herzlichsten Glückwünsche zur Hochzeit!",
-                "english": "My heartfelt congratulations on your wedding!"
-            },
-            {
-                "german": "Glückwunsch zum neuen Job!",
-                "english": "Congratulations on the new job!"
-            },
-            {
-                "german": "Herzlichen Glückwunsch zum Jubiläum!",
-                "english": "Congratulations on the anniversary!"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Herzlichen Glückwunsch zum Geburtstag!",
+            "english": "Happy birthday!"
+        },
+        {
+            "german": "Glückwunsch zur bestandenen Prüfung!",
+            "english": "Congratulations on passing the exam!"
+        },
+        {
+            "german": "Meine herzlichsten Glückwünsche zur Hochzeit!",
+            "english": "My heartfelt congratulations on your wedding!"
+        },
+        {
+            "german": "Glückwunsch zum neuen Job!",
+            "english": "Congratulations on the new job!"
+        },
+        {
+            "german": "Herzlichen Glückwunsch zum Jubiläum!",
+            "english": "Congratulations on the anniversary!"
+        }
+    ]
 }

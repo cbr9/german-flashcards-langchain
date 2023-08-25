@@ -1,28 +1,26 @@
 {
     "word": "setzen, setzte, gesetzt",
     "definition": "To place or position something or someone in a specific location or arrangement, often implying a deliberate action. It is commonly used to describe the act of placing objects, people, or oneself in a particular position or setting, such as setting a table, setting up a tent, or setting a trap. Additionally, it can refer to the act of establishing or fixing something, like setting a record, setting a goal, or setting a price.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich setze mich auf den Stuhl.",
-                "english": "I sit down on the chair."
-            },
-            {
-                "german": "Er setzt sich eine Mütze auf den Kopf.",
-                "english": "He puts on a hat."
-            },
-            {
-                "german": "Sie setzt das Buch ins Regal.",
-                "english": "She puts the book on the shelf."
-            },
-            {
-                "german": "Wir setzen uns an den Tisch.",
-                "english": "We sit down at the table."
-            },
-            {
-                "german": "Der Lehrer setzt den Schüler vor die Tür.",
-                "english": "The teacher sends the student out of the room."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich setze mich auf den Stuhl.",
+            "english": "I sit down on the chair."
+        },
+        {
+            "german": "Er setzt sich eine Mütze auf den Kopf.",
+            "english": "He puts on a hat."
+        },
+        {
+            "german": "Sie setzt das Buch ins Regal.",
+            "english": "She puts the book on the shelf."
+        },
+        {
+            "german": "Wir setzen uns an den Tisch.",
+            "english": "We sit down at the table."
+        },
+        {
+            "german": "Der Lehrer setzt den Schüler vor die Tür.",
+            "english": "The teacher sends the student out of the room."
+        }
+    ]
 }

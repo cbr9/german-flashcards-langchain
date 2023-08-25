@@ -1,28 +1,26 @@
 {
     "word": "vorsichtig",
     "definition": "The word \"vorsichtig\" describes a quality or behavior of being cautious, careful, or prudent in one's actions or decisions. It is often used to advise or warn someone to proceed with care, especially in situations that involve potential risks, dangers, or uncertainties. This term is commonly employed in contexts where safety, prevention, or avoiding mistakes is of utmost importance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sei vorsichtig beim Überqueren der Straße.",
-                "english": "Be careful when crossing the street."
-            },
-            {
-                "german": "Er ist ein vorsichtiger Fahrer und hält immer die Verkehrsregeln ein.",
-                "english": "He is a cautious driver and always follows the traffic rules."
-            },
-            {
-                "german": "Sei vorsichtig mit dem heißen Wasser, es könnte dich verbrennen.",
-                "english": "Be cautious with the hot water, it could burn you."
-            },
-            {
-                "german": "Sie war vorsichtig, ihre Meinung nicht zu äußern, um niemanden zu verärgern.",
-                "english": "She was careful not to express her opinion to avoid upsetting anyone."
-            },
-            {
-                "german": "Vorsichtig öffnete er die Tür, um niemanden zu wecken.",
-                "english": "He cautiously opened the door to avoid waking anyone."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sei vorsichtig beim Überqueren der Straße.",
+            "english": "Be careful when crossing the street."
+        },
+        {
+            "german": "Er ist ein vorsichtiger Fahrer und hält immer die Verkehrsregeln ein.",
+            "english": "He is a cautious driver and always follows the traffic rules."
+        },
+        {
+            "german": "Sei vorsichtig mit dem heißen Wasser, es könnte dich verbrennen.",
+            "english": "Be cautious with the hot water, it could burn you."
+        },
+        {
+            "german": "Sie war vorsichtig, ihre Meinung nicht zu äußern, um niemanden zu verärgern.",
+            "english": "She was careful not to express her opinion to avoid upsetting anyone."
+        },
+        {
+            "german": "Vorsichtig öffnete er die Tür, um niemanden zu wecken.",
+            "english": "He cautiously opened the door to avoid waking anyone."
+        }
+    ]
 }

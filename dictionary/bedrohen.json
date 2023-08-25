@@ -1,28 +1,26 @@
 {
     "word": "bedrohen, bedrohte, bedroht",
     "definition": "To cause fear or imminent harm to someone or something, often used to describe a situation where a person or thing is in danger or under threat.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Flut bedroht das Dorf.",
-                "english": "The flood threatens the village."
-            },
-            {
-                "german": "Die Krankheit bedroht seine Gesundheit.",
-                "english": "The illness endangers his health."
-            },
-            {
-                "german": "Die Wirtschaftskrise bedroht den Arbeitsmarkt.",
-                "english": "The economic crisis threatens the job market."
-            },
-            {
-                "german": "Der Sturm bedroht die Küste.",
-                "english": "The storm menaces the coast."
-            },
-            {
-                "german": "Die Terroristen bedrohen die Sicherheit des Landes.",
-                "english": "The terrorists threaten the security of the country."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Flut bedroht das Dorf.",
+            "english": "The flood threatens the village."
+        },
+        {
+            "german": "Die Krankheit bedroht seine Gesundheit.",
+            "english": "The illness endangers his health."
+        },
+        {
+            "german": "Die Wirtschaftskrise bedroht den Arbeitsmarkt.",
+            "english": "The economic crisis threatens the job market."
+        },
+        {
+            "german": "Der Sturm bedroht die Küste.",
+            "english": "The storm menaces the coast."
+        },
+        {
+            "german": "Die Terroristen bedrohen die Sicherheit des Landes.",
+            "english": "The terrorists threaten the security of the country."
+        }
+    ]
 }

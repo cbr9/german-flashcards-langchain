@@ -1,28 +1,26 @@
 {
     "word": "der Thronfolger, die Thronfolger",
     "definition": "A person who is designated to inherit a position of power or authority, typically used to refer to the next in line to a royal throne.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Thronfolger wurde zum König gekrönt.",
-                "english": "The heir to the throne was crowned king."
-            },
-            {
-                "german": "Der Thronfolger wird eine wichtige Rolle in der königlichen Familie spielen.",
-                "english": "The heir to the throne will play an important role in the royal family."
-            },
-            {
-                "german": "Der Thronfolger wurde von vielen Menschen erwartet.",
-                "english": "The heir to the throne was expected by many people."
-            },
-            {
-                "german": "Der Thronfolger ist noch minderjährig.",
-                "english": "The heir to the throne is still a minor."
-            },
-            {
-                "german": "Der Thronfolger hat eine umfangreiche Ausbildung erhalten.",
-                "english": "The heir to the throne has received extensive education."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Thronfolger wurde zum König gekrönt.",
+            "english": "The heir to the throne was crowned king."
+        },
+        {
+            "german": "Der Thronfolger wird eine wichtige Rolle in der königlichen Familie spielen.",
+            "english": "The heir to the throne will play an important role in the royal family."
+        },
+        {
+            "german": "Der Thronfolger wurde von vielen Menschen erwartet.",
+            "english": "The heir to the throne was expected by many people."
+        },
+        {
+            "german": "Der Thronfolger ist noch minderjährig.",
+            "english": "The heir to the throne is still a minor."
+        },
+        {
+            "german": "Der Thronfolger hat eine umfangreiche Ausbildung erhalten.",
+            "english": "The heir to the throne has received extensive education."
+        }
+    ]
 }

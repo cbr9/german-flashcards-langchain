@@ -1,28 +1,26 @@
 {
     "word": "kündigen, kündigte, gekündigt",
     "definition": "To terminate a contract or agreement, typically used in the context of ending employment or canceling a subscription.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte meinen Vertrag kündigen.",
-                "english": "I want to terminate my contract."
-            },
-            {
-                "german": "Er hat seinen Job gekündigt.",
-                "english": "He quit his job."
-            },
-            {
-                "german": "Sie müssen die Mitgliedschaft schriftlich kündigen.",
-                "english": "You need to cancel the membership in writing."
-            },
-            {
-                "german": "Mein Vermieter hat mir die Wohnung gekündigt.",
-                "english": "My landlord gave me notice to vacate the apartment."
-            },
-            {
-                "german": "Wir haben den Lieferantenvertrag fristgerecht gekündigt.",
-                "english": "We terminated the supplier contract on time."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte meinen Vertrag kündigen.",
+            "english": "I want to terminate my contract."
+        },
+        {
+            "german": "Er hat seinen Job gekündigt.",
+            "english": "He quit his job."
+        },
+        {
+            "german": "Sie müssen die Mitgliedschaft schriftlich kündigen.",
+            "english": "You need to cancel the membership in writing."
+        },
+        {
+            "german": "Mein Vermieter hat mir die Wohnung gekündigt.",
+            "english": "My landlord gave me notice to vacate the apartment."
+        },
+        {
+            "german": "Wir haben den Lieferantenvertrag fristgerecht gekündigt.",
+            "english": "We terminated the supplier contract on time."
+        }
+    ]
 }

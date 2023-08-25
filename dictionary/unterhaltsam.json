@@ -1,28 +1,26 @@
 {
     "word": "unterhaltsam",
     "definition": "An adjective used to describe something that is enjoyable, amusing, or entertaining, often used to refer to books, movies, performances, or activities that provide amusement or engage and hold one's attention.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Film war sehr unterhaltsam.",
-                "english": "The movie was very entertaining."
-            },
-            {
-                "german": "Das Buch ist sehr unterhaltsam geschrieben.",
-                "english": "The book is written in a very entertaining way."
-            },
-            {
-                "german": "Die Show war äußerst unterhaltsam und lustig.",
-                "english": "The show was extremely entertaining and funny."
-            },
-            {
-                "german": "Der Vortrag war informativ und unterhaltsam zugleich.",
-                "english": "The lecture was informative and entertaining at the same time."
-            },
-            {
-                "german": "Der Comedian ist für seine unterhaltsamen Auftritte bekannt.",
-                "english": "The comedian is known for his entertaining performances."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Film war sehr unterhaltsam.",
+            "english": "The movie was very entertaining."
+        },
+        {
+            "german": "Das Buch ist sehr unterhaltsam geschrieben.",
+            "english": "The book is written in a very entertaining way."
+        },
+        {
+            "german": "Die Show war äußerst unterhaltsam und lustig.",
+            "english": "The show was extremely entertaining and funny."
+        },
+        {
+            "german": "Der Vortrag war informativ und unterhaltsam zugleich.",
+            "english": "The lecture was informative and entertaining at the same time."
+        },
+        {
+            "german": "Der Comedian ist für seine unterhaltsamen Auftritte bekannt.",
+            "english": "The comedian is known for his entertaining performances."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Abend, die Abende",
     "definition": "A term commonly employed to refer to the time period between late afternoon and nightfall, typically used to describe the latter part of the day when the sun begins to set. It is often utilized to indicate the beginning of the evening or to denote the time when people typically relax, unwind, and engage in leisure activities after a day's work.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Guten Abend!",
-                "english": "Good evening!"
-            },
-            {
-                "german": "Am Abend gehe ich ins Kino.",
-                "english": "In the evening, I go to the cinema."
-            },
-            {
-                "german": "Wir haben uns am Abend getroffen.",
-                "english": "We met in the evening."
-            },
-            {
-                "german": "Der Abendhimmel war wunderschön.",
-                "english": "The evening sky was beautiful."
-            },
-            {
-                "german": "Abends lese ich gerne Bücher.",
-                "english": "In the evenings, I like to read books."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Guten Abend!",
+            "english": "Good evening!"
+        },
+        {
+            "german": "Am Abend gehe ich ins Kino.",
+            "english": "In the evening, I go to the cinema."
+        },
+        {
+            "german": "Wir haben uns am Abend getroffen.",
+            "english": "We met in the evening."
+        },
+        {
+            "german": "Der Abendhimmel war wunderschön.",
+            "english": "The evening sky was beautiful."
+        },
+        {
+            "german": "Abends lese ich gerne Bücher.",
+            "english": "In the evenings, I like to read books."
+        }
+    ]
 }

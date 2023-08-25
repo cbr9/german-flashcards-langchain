@@ -1,28 +1,26 @@
 {
     "word": "zeigen, zeigte, gezeigt",
     "definition": "To present or display something visually, often by pointing or indicating with gestures or actions. It is commonly used when referring to demonstrating or showing something to others, such as presenting information, exhibiting objects, or indicating directions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir bitte den Weg zeigen?",
-                "english": "Can you please show me the way?"
-            },
-            {
-                "german": "Er hat mir seine Sammlung gezeigt.",
-                "english": "He showed me his collection."
-            },
-            {
-                "german": "Sie zeigte großes Interesse an der Kunst.",
-                "english": "She showed great interest in art."
-            },
-            {
-                "german": "Der Lehrer zeigte den Schülern ein Experiment.",
-                "english": "The teacher demonstrated an experiment to the students."
-            },
-            {
-                "german": "Die Karte zeigt die genaue Position des Ortes.",
-                "english": "The map shows the exact location of the place."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir bitte den Weg zeigen?",
+            "english": "Can you please show me the way?"
+        },
+        {
+            "german": "Er hat mir seine Sammlung gezeigt.",
+            "english": "He showed me his collection."
+        },
+        {
+            "german": "Sie zeigte großes Interesse an der Kunst.",
+            "english": "She showed great interest in art."
+        },
+        {
+            "german": "Der Lehrer zeigte den Schülern ein Experiment.",
+            "english": "The teacher demonstrated an experiment to the students."
+        },
+        {
+            "german": "Die Karte zeigt die genaue Position des Ortes.",
+            "english": "The map shows the exact location of the place."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Bild, die Bilder",
     "definition": "A visual representation or depiction of something, typically in the form of a two-dimensional image. It is commonly used to refer to a photograph, painting, or illustration that conveys information, tells a story, or captures a moment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Bild hängt an der Wand.",
-                "english": "The picture is hanging on the wall."
-            },
-            {
-                "german": "Sie hat ein schönes Bild gemalt.",
-                "english": "She painted a beautiful picture."
-            },
-            {
-                "german": "Kannst du mir das Bild zeigen?",
-                "english": "Can you show me the picture?"
-            },
-            {
-                "german": "Das Bild ist sehr groß.",
-                "english": "The picture is very big."
-            },
-            {
-                "german": "Er hat das Bild gerahmt.",
-                "english": "He framed the picture."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Bild hängt an der Wand.",
+            "english": "The picture is hanging on the wall."
+        },
+        {
+            "german": "Sie hat ein schönes Bild gemalt.",
+            "english": "She painted a beautiful picture."
+        },
+        {
+            "german": "Kannst du mir das Bild zeigen?",
+            "english": "Can you show me the picture?"
+        },
+        {
+            "german": "Das Bild ist sehr groß.",
+            "english": "The picture is very big."
+        },
+        {
+            "german": "Er hat das Bild gerahmt.",
+            "english": "He framed the picture."
+        }
+    ]
 }

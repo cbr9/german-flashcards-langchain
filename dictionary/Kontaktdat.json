@@ -1,28 +1,26 @@
 {
     "word": "das Kontaktdat, die Kontaktdaten",
     "definition": "A set of information that allows individuals or entities to establish communication or get in touch with one another, typically consisting of names, addresses, phone numbers, and email addresses. It is commonly used in various contexts, such as business directories, online platforms, or personal contact lists.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kontaktdat",
-                "english": "contact data"
-            },
-            {
-                "german": "Bitte geben Sie Ihre Kontaktdat an.",
-                "english": "Please provide your contact data."
-            },
-            {
-                "german": "Die Kontaktdat werden vertraulich behandelt.",
-                "english": "The contact data will be treated confidentially."
-            },
-            {
-                "german": "Kontaktdat können online aktualisiert werden.",
-                "english": "Contact data can be updated online."
-            },
-            {
-                "german": "Die Kontaktdat sind unvollständig.",
-                "english": "The contact data is incomplete."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kontaktdat",
+            "english": "contact data"
+        },
+        {
+            "german": "Bitte geben Sie Ihre Kontaktdat an.",
+            "english": "Please provide your contact data."
+        },
+        {
+            "german": "Die Kontaktdat werden vertraulich behandelt.",
+            "english": "The contact data will be treated confidentially."
+        },
+        {
+            "german": "Kontaktdat können online aktualisiert werden.",
+            "english": "Contact data can be updated online."
+        },
+        {
+            "german": "Die Kontaktdat sind unvollständig.",
+            "english": "The contact data is incomplete."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Kredit, die Kredite",
     "definition": "A financial arrangement where an individual or organization borrows a sum of money from a lending institution, with the understanding that it will be repaid over a specified period of time, often with interest. This term is commonly used in the context of personal or business loans, mortgages, and other forms of credit.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen Kredit bei der Bank aufgenommen.",
-                "english": "I took out a loan from the bank."
-            },
-            {
-                "german": "Er hat einen Kredit für ein neues Auto beantragt.",
-                "english": "He applied for a loan for a new car."
-            },
-            {
-                "german": "Die Bank gewährte ihm einen Kredit für sein Haus.",
-                "english": "The bank granted him a loan for his house."
-            },
-            {
-                "german": "Sie hat ihren Kredit pünktlich zurückgezahlt.",
-                "english": "She repaid her loan on time."
-            },
-            {
-                "german": "Der Kreditzins ist sehr hoch.",
-                "english": "The loan interest rate is very high."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen Kredit bei der Bank aufgenommen.",
+            "english": "I took out a loan from the bank."
+        },
+        {
+            "german": "Er hat einen Kredit für ein neues Auto beantragt.",
+            "english": "He applied for a loan for a new car."
+        },
+        {
+            "german": "Die Bank gewährte ihm einen Kredit für sein Haus.",
+            "english": "The bank granted him a loan for his house."
+        },
+        {
+            "german": "Sie hat ihren Kredit pünktlich zurückgezahlt.",
+            "english": "She repaid her loan on time."
+        },
+        {
+            "german": "Der Kreditzins ist sehr hoch.",
+            "english": "The loan interest rate is very high."
+        }
+    ]
 }

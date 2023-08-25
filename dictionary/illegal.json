@@ -1,28 +1,26 @@
 {
     "word": "illegal",
     "definition": "A term used to describe actions, behaviors, or practices that are against the law or prohibited by the governing authorities. It typically refers to activities that are not authorized, permitted, or sanctioned by the legal system, often resulting in legal consequences or penalties.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist illegal, Drogen zu besitzen.",
-                "english": "It is illegal to possess drugs."
-            },
-            {
-                "german": "Das Unternehmen betreibt illegalen Handel.",
-                "english": "The company engages in illegal trade."
-            },
-            {
-                "german": "Der Bau der Straße erfolgte illegal.",
-                "english": "The construction of the road was done illegally."
-            },
-            {
-                "german": "Er wurde wegen illegaler Einwanderung verhaftet.",
-                "english": "He was arrested for illegal immigration."
-            },
-            {
-                "german": "Die Veröffentlichung dieser Informationen ist illegal.",
-                "english": "The publication of this information is illegal."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist illegal, Drogen zu besitzen.",
+            "english": "It is illegal to possess drugs."
+        },
+        {
+            "german": "Das Unternehmen betreibt illegalen Handel.",
+            "english": "The company engages in illegal trade."
+        },
+        {
+            "german": "Der Bau der Straße erfolgte illegal.",
+            "english": "The construction of the road was done illegally."
+        },
+        {
+            "german": "Er wurde wegen illegaler Einwanderung verhaftet.",
+            "english": "He was arrested for illegal immigration."
+        },
+        {
+            "german": "Die Veröffentlichung dieser Informationen ist illegal.",
+            "english": "The publication of this information is illegal."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Garten, die Gärten",
     "definition": "A space, typically outdoors, that is cultivated and maintained for the purpose of growing plants, flowers, and/or vegetables. It is often found adjacent to a house or building and is used for recreational activities, relaxation, and horticultural pursuits.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Garten ist schön.",
-                "english": "The garden is beautiful."
-            },
-            {
-                "german": "Wir haben einen großen Garten.",
-                "english": "We have a big garden."
-            },
-            {
-                "german": "Im Garten wachsen viele Blumen.",
-                "english": "Many flowers grow in the garden."
-            },
-            {
-                "german": "Meine Eltern arbeiten im Garten.",
-                "english": "My parents work in the garden."
-            },
-            {
-                "german": "Der Garten ist ein ruhiger Ort.",
-                "english": "The garden is a peaceful place."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Garten ist schön.",
+            "english": "The garden is beautiful."
+        },
+        {
+            "german": "Wir haben einen großen Garten.",
+            "english": "We have a big garden."
+        },
+        {
+            "german": "Im Garten wachsen viele Blumen.",
+            "english": "Many flowers grow in the garden."
+        },
+        {
+            "german": "Meine Eltern arbeiten im Garten.",
+            "english": "My parents work in the garden."
+        },
+        {
+            "german": "Der Garten ist ein ruhiger Ort.",
+            "english": "The garden is a peaceful place."
+        }
+    ]
 }

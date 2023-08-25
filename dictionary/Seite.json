@@ -1,28 +1,26 @@
 {
     "word": "die Seite, die Seiten",
     "definition": "A part of a book, document, or website that contains information or content related to a specific topic or subject. It is commonly used to refer to a specific page within a publication or a website, where readers can find relevant information or navigate through different sections.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe die Information auf der Seite gefunden.",
-                "english": "I found the information on the website."
-            },
-            {
-                "german": "Er hat das Buch auf Seite 50 aufgeschlagen.",
-                "english": "He opened the book to page 50."
-            },
-            {
-                "german": "Die Seite des Gebäudes ist aus Glas.",
-                "english": "The side of the building is made of glass."
-            },
-            {
-                "german": "Sie hat eine Notiz auf die Rückseite des Papiers geschrieben.",
-                "english": "She wrote a note on the back side of the paper."
-            },
-            {
-                "german": "Die Webseite lädt langsam.",
-                "english": "The website is loading slowly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe die Information auf der Seite gefunden.",
+            "english": "I found the information on the website."
+        },
+        {
+            "german": "Er hat das Buch auf Seite 50 aufgeschlagen.",
+            "english": "He opened the book to page 50."
+        },
+        {
+            "german": "Die Seite des Gebäudes ist aus Glas.",
+            "english": "The side of the building is made of glass."
+        },
+        {
+            "german": "Sie hat eine Notiz auf die Rückseite des Papiers geschrieben.",
+            "english": "She wrote a note on the back side of the paper."
+        },
+        {
+            "german": "Die Webseite lädt langsam.",
+            "english": "The website is loading slowly."
+        }
+    ]
 }

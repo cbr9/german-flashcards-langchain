@@ -1,28 +1,26 @@
 {
     "word": "der Stress, die Stresse",
     "definition": "A state of mental or emotional strain or tension resulting from demanding circumstances, often associated with feelings of pressure, anxiety, or overwhelm. It is commonly used to describe the negative impact of excessive workloads, challenging situations, or personal difficulties on an individual's well-being.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe viel Stress auf der Arbeit.",
-                "english": "I have a lot of stress at work."
-            },
-            {
-                "german": "Stress kann zu gesundheitlichen Problemen führen.",
-                "english": "Stress can lead to health problems."
-            },
-            {
-                "german": "Sie verspürt Stress vor wichtigen Prüfungen.",
-                "english": "She feels stressed before important exams."
-            },
-            {
-                "german": "Er hat Stress mit seinem Chef.",
-                "english": "He has stress with his boss."
-            },
-            {
-                "german": "Stressabbau ist wichtig für die mentale Gesundheit.",
-                "english": "Stress reduction is important for mental health."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe viel Stress auf der Arbeit.",
+            "english": "I have a lot of stress at work."
+        },
+        {
+            "german": "Stress kann zu gesundheitlichen Problemen führen.",
+            "english": "Stress can lead to health problems."
+        },
+        {
+            "german": "Sie verspürt Stress vor wichtigen Prüfungen.",
+            "english": "She feels stressed before important exams."
+        },
+        {
+            "german": "Er hat Stress mit seinem Chef.",
+            "english": "He has stress with his boss."
+        },
+        {
+            "german": "Stressabbau ist wichtig für die mentale Gesundheit.",
+            "english": "Stress reduction is important for mental health."
+        }
+    ]
 }

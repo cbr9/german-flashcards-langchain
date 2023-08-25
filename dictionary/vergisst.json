@@ -1,28 +1,26 @@
 {
     "word": "vergessen, vergaß, vergessen",
     "definition": "The word \"vergisst\" refers to the action of unintentionally failing to remember or recall something. It is commonly used in everyday conversations and can be applied to various situations where one forgets or overlooks information, tasks, or events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er vergisst immer seinen Schlüssel.",
-                "english": "He always forgets his key."
-            },
-            {
-                "german": "Sie vergisst nie ihren Hochzeitstag.",
-                "english": "She never forgets her anniversary."
-            },
-            {
-                "german": "Mein Bruder vergisst oft seine Termine.",
-                "english": "My brother often forgets his appointments."
-            },
-            {
-                "german": "Wir vergessen manchmal unsere Einkaufsliste.",
-                "english": "We sometimes forget our shopping list."
-            },
-            {
-                "german": "Du vergisst immer, mir Bescheid zu sagen.",
-                "english": "You always forget to let me know."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er vergisst immer seinen Schlüssel.",
+            "english": "He always forgets his key."
+        },
+        {
+            "german": "Sie vergisst nie ihren Hochzeitstag.",
+            "english": "She never forgets her anniversary."
+        },
+        {
+            "german": "Mein Bruder vergisst oft seine Termine.",
+            "english": "My brother often forgets his appointments."
+        },
+        {
+            "german": "Wir vergessen manchmal unsere Einkaufsliste.",
+            "english": "We sometimes forget our shopping list."
+        },
+        {
+            "german": "Du vergisst immer, mir Bescheid zu sagen.",
+            "english": "You always forget to let me know."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "lohnen, lohnte, gelohnt",
     "definition": "To provide a reward or benefit in return for effort, work, or investment, often used to describe a situation where the outcome justifies the effort put into it.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es lohnt sich, Deutsch zu lernen.",
-                "english": "It's worth learning German."
-            },
-            {
-                "german": "Die Investition hat sich gelohnt.",
-                "english": "The investment paid off."
-            },
-            {
-                "german": "Es lohnt sich, früh aufzustehen.",
-                "english": "It's worth getting up early."
-            },
-            {
-                "german": "Es lohnt sich, in Qualität zu investieren.",
-                "english": "It's worth investing in quality."
-            },
-            {
-                "german": "Es lohnt sich, Geduld zu haben.",
-                "english": "It's worth being patient."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es lohnt sich, Deutsch zu lernen.",
+            "english": "It's worth learning German."
+        },
+        {
+            "german": "Die Investition hat sich gelohnt.",
+            "english": "The investment paid off."
+        },
+        {
+            "german": "Es lohnt sich, früh aufzustehen.",
+            "english": "It's worth getting up early."
+        },
+        {
+            "german": "Es lohnt sich, in Qualität zu investieren.",
+            "english": "It's worth investing in quality."
+        },
+        {
+            "german": "Es lohnt sich, Geduld zu haben.",
+            "english": "It's worth being patient."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Maschine, die Maschinen",
     "definition": "A device or apparatus that performs a specific task or function, typically powered by electricity or another source of energy. It is commonly utilized in various industries and sectors for automating processes, increasing efficiency, and reducing manual labor.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Maschine ist kaputt.",
-                "english": "The machine is broken."
-            },
-            {
-                "german": "Die Waschmaschine läuft gerade.",
-                "english": "The washing machine is running."
-            },
-            {
-                "german": "Die Maschine produziert Autos.",
-                "english": "The machine produces cars."
-            },
-            {
-                "german": "Die Maschine arbeitet effizient.",
-                "english": "The machine works efficiently."
-            },
-            {
-                "german": "Die Maschine ist sehr laut.",
-                "english": "The machine is very noisy."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Maschine ist kaputt.",
+            "english": "The machine is broken."
+        },
+        {
+            "german": "Die Waschmaschine läuft gerade.",
+            "english": "The washing machine is running."
+        },
+        {
+            "german": "Die Maschine produziert Autos.",
+            "english": "The machine produces cars."
+        },
+        {
+            "german": "Die Maschine arbeitet effizient.",
+            "english": "The machine works efficiently."
+        },
+        {
+            "german": "Die Maschine ist sehr laut.",
+            "english": "The machine is very noisy."
+        }
+    ]
 }

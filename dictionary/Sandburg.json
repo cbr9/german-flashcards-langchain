@@ -1,28 +1,26 @@
 {
     "word": "die Sandburg, die Sandburgen",
     "definition": "A structure made of small particles found on beaches, typically built by children for recreational purposes, often resembling a miniature fortress or dwelling.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Kinder bauen eine Sandburg am Strand.",
-                "english": "The children are building a sandcastle on the beach."
-            },
-            {
-                "german": "Die Sandburg wurde von der Flut zerstört.",
-                "english": "The sandcastle was destroyed by the tide."
-            },
-            {
-                "german": "Wir haben eine riesige Sandburg gebaut.",
-                "english": "We built a huge sandcastle."
-            },
-            {
-                "german": "Die Sandburg ist mit Muscheln verziert.",
-                "english": "The sandcastle is decorated with seashells."
-            },
-            {
-                "german": "Die Sandburg ist sehr detailliert und kunstvoll.",
-                "english": "The sandcastle is very detailed and artistic."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Kinder bauen eine Sandburg am Strand.",
+            "english": "The children are building a sandcastle on the beach."
+        },
+        {
+            "german": "Die Sandburg wurde von der Flut zerstört.",
+            "english": "The sandcastle was destroyed by the tide."
+        },
+        {
+            "german": "Wir haben eine riesige Sandburg gebaut.",
+            "english": "We built a huge sandcastle."
+        },
+        {
+            "german": "Die Sandburg ist mit Muscheln verziert.",
+            "english": "The sandcastle is decorated with seashells."
+        },
+        {
+            "german": "Die Sandburg ist sehr detailliert und kunstvoll.",
+            "english": "The sandcastle is very detailed and artistic."
+        }
+    ]
 }

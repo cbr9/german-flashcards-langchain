@@ -1,28 +1,26 @@
 {
     "word": "die Leistung, die Article die leistungen",
     "definition": "A term commonly employed to describe the measure of accomplishment, productivity, or performance in various domains, such as work, sports, or academics. It typically refers to the level of achievement or output attained by an individual, team, or system, often in relation to a specific goal or standard.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Leistung des Motors beträgt 150 PS.",
-                "english": "The engine has a power output of 150 horsepower."
-            },
-            {
-                "german": "Er erbrachte eine beeindruckende sportliche Leistung.",
-                "english": "He delivered an impressive athletic performance."
-            },
-            {
-                "german": "Die Leistung des Schülers hat sich verbessert.",
-                "english": "The student's performance has improved."
-            },
-            {
-                "german": "Die Maschine erbringt eine hohe Leistung.",
-                "english": "The machine delivers high performance."
-            },
-            {
-                "german": "Die Leistung des Teams war außergewöhnlich.",
-                "english": "The team's performance was exceptional."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Leistung des Motors beträgt 150 PS.",
+            "english": "The engine has a power output of 150 horsepower."
+        },
+        {
+            "german": "Er erbrachte eine beeindruckende sportliche Leistung.",
+            "english": "He delivered an impressive athletic performance."
+        },
+        {
+            "german": "Die Leistung des Schülers hat sich verbessert.",
+            "english": "The student's performance has improved."
+        },
+        {
+            "german": "Die Maschine erbringt eine hohe Leistung.",
+            "english": "The machine delivers high performance."
+        },
+        {
+            "german": "Die Leistung des Teams war außergewöhnlich.",
+            "english": "The team's performance was exceptional."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Ausflug, die Ausflüge",
     "definition": "A short journey or excursion, typically taken for leisure or recreational purposes, often involving visiting a different place or exploring the surroundings. It is commonly used to describe a trip or outing that provides a break from daily routines and allows individuals to enjoy nature, sightseeing, or engaging in various activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir machen einen Ausflug zum Strand.",
-                "english": "We are going on a trip to the beach."
-            },
-            {
-                "german": "Der Ausflug war sehr schön.",
-                "english": "The excursion was very nice."
-            },
-            {
-                "german": "Wir haben einen Ausflug in die Berge gemacht.",
-                "english": "We went on a trip to the mountains."
-            },
-            {
-                "german": "Der Ausflug dauerte den ganzen Tag.",
-                "english": "The outing lasted the whole day."
-            },
-            {
-                "german": "Wir planen einen Ausflug in den Zoo.",
-                "english": "We are planning a trip to the zoo."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir machen einen Ausflug zum Strand.",
+            "english": "We are going on a trip to the beach."
+        },
+        {
+            "german": "Der Ausflug war sehr schön.",
+            "english": "The excursion was very nice."
+        },
+        {
+            "german": "Wir haben einen Ausflug in die Berge gemacht.",
+            "english": "We went on a trip to the mountains."
+        },
+        {
+            "german": "Der Ausflug dauerte den ganzen Tag.",
+            "english": "The outing lasted the whole day."
+        },
+        {
+            "german": "Wir planen einen Ausflug in den Zoo.",
+            "english": "We are planning a trip to the zoo."
+        }
+    ]
 }

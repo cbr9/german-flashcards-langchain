@@ -1,28 +1,26 @@
 {
     "word": "zwei",
     "definition": "The number that comes after one and before three, typically used for counting or indicating a quantity of two items.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Zwei plus zwei ergibt vier.",
-                "english": "Two plus two equals four."
-            },
-            {
-                "german": "Ich habe zwei Hunde.",
-                "english": "I have two dogs."
-            },
-            {
-                "german": "Es sind zwei Äpfel übrig.",
-                "english": "There are two apples left."
-            },
-            {
-                "german": "Wir haben uns vor zwei Jahren kennengelernt.",
-                "english": "We met two years ago."
-            },
-            {
-                "german": "Ich brauche zwei Tassen Zucker.",
-                "english": "I need two cups of sugar."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Zwei plus zwei ergibt vier.",
+            "english": "Two plus two equals four."
+        },
+        {
+            "german": "Ich habe zwei Hunde.",
+            "english": "I have two dogs."
+        },
+        {
+            "german": "Es sind zwei Äpfel übrig.",
+            "english": "There are two apples left."
+        },
+        {
+            "german": "Wir haben uns vor zwei Jahren kennengelernt.",
+            "english": "We met two years ago."
+        },
+        {
+            "german": "Ich brauche zwei Tassen Zucker.",
+            "english": "I need two cups of sugar."
+        }
+    ]
 }

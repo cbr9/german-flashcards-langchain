@@ -1,28 +1,26 @@
 {
     "word": "das Bett, die Betten",
     "definition": "A piece of furniture typically found in a bedroom, designed for sleeping or resting upon. It is commonly used for relaxation and getting a good night's sleep.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Bett ist sehr bequem.",
-                "english": "The bed is very comfortable."
-            },
-            {
-                "german": "Ich schlafe gerne in meinem eigenen Bett.",
-                "english": "I like to sleep in my own bed."
-            },
-            {
-                "german": "Das Bettzeug muss regelmäßig gewechselt werden.",
-                "english": "The bedding needs to be changed regularly."
-            },
-            {
-                "german": "Kannst du bitte das Bett machen?",
-                "english": "Can you please make the bed?"
-            },
-            {
-                "german": "Das Baby schläft in einem Gitterbett.",
-                "english": "The baby sleeps in a crib."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Bett ist sehr bequem.",
+            "english": "The bed is very comfortable."
+        },
+        {
+            "german": "Ich schlafe gerne in meinem eigenen Bett.",
+            "english": "I like to sleep in my own bed."
+        },
+        {
+            "german": "Das Bettzeug muss regelmäßig gewechselt werden.",
+            "english": "The bedding needs to be changed regularly."
+        },
+        {
+            "german": "Kannst du bitte das Bett machen?",
+            "english": "Can you please make the bed?"
+        },
+        {
+            "german": "Das Baby schläft in einem Gitterbett.",
+            "english": "The baby sleeps in a crib."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Antwortest, die Antworten",
     "definition": "The term \"Antwortest\" refers to the action of providing a response or reply to a question, statement, or inquiry. It is commonly used in informal conversations, written exchanges, or during interpersonal interactions. This word denotes the act of answering and is typically employed in various contexts where communication and interaction take place.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Warum antwortest du nicht?",
-                "english": "Why aren't you answering?"
-            },
-            {
-                "german": "Ich hoffe, du antwortest bald.",
-                "english": "I hope you answer soon."
-            },
-            {
-                "german": "Kannst du mir bitte antworten?",
-                "english": "Can you please answer me?"
-            },
-            {
-                "german": "Er antwortet immer sehr schnell.",
-                "english": "He always answers very quickly."
-            },
-            {
-                "german": "Sie antwortet nie auf meine Nachrichten.",
-                "english": "She never answers my messages."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Warum antwortest du nicht?",
+            "english": "Why aren't you answering?"
+        },
+        {
+            "german": "Ich hoffe, du antwortest bald.",
+            "english": "I hope you answer soon."
+        },
+        {
+            "german": "Kannst du mir bitte antworten?",
+            "english": "Can you please answer me?"
+        },
+        {
+            "german": "Er antwortet immer sehr schnell.",
+            "english": "He always answers very quickly."
+        },
+        {
+            "german": "Sie antwortet nie auf meine Nachrichten.",
+            "english": "She never answers my messages."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "behaaren, behaarte, behaart",
     "definition": "To cover or have hair on a particular part of the body, typically referring to humans or animals. It is commonly used to describe the presence or growth of hair on a specific area, such as the head, face, or body.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Katze behaart sich im Winter, um sich warm zu halten.",
-                "english": "The cat grows a thick coat in winter to keep warm."
-            },
-            {
-                "german": "Männer behaaren sich oft im Gesicht.",
-                "english": "Men often have facial hair."
-            },
-            {
-                "german": "Die Pflanze behaart ihre Blätter, um sich vor Schädlingen zu schützen.",
-                "english": "The plant has hairy leaves to protect itself from pests."
-            },
-            {
-                "german": "Der Hund behaart stark und hinterlässt überall Haare.",
-                "english": "The dog sheds a lot of hair and leaves it everywhere."
-            },
-            {
-                "german": "Die behaarte Raupe verwandelt sich in einen Schmetterling.",
-                "english": "The hairy caterpillar transforms into a butterfly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Katze behaart sich im Winter, um sich warm zu halten.",
+            "english": "The cat grows a thick coat in winter to keep warm."
+        },
+        {
+            "german": "Männer behaaren sich oft im Gesicht.",
+            "english": "Men often have facial hair."
+        },
+        {
+            "german": "Die Pflanze behaart ihre Blätter, um sich vor Schädlingen zu schützen.",
+            "english": "The plant has hairy leaves to protect itself from pests."
+        },
+        {
+            "german": "Der Hund behaart stark und hinterlässt überall Haare.",
+            "english": "The dog sheds a lot of hair and leaves it everywhere."
+        },
+        {
+            "german": "Die behaarte Raupe verwandelt sich in einen Schmetterling.",
+            "english": "The hairy caterpillar transforms into a butterfly."
+        }
+    ]
 }

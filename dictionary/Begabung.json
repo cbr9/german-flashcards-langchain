@@ -1,28 +1,26 @@
 {
     "word": "die Begabung, die Begabungen",
     "definition": "A natural aptitude or talent possessed by an individual, often used to describe someone's innate abilities in a specific area or field. It is commonly used to refer to a person's intellectual or creative gifts, highlighting their potential for excellence in a particular domain.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie hat eine außergewöhnliche Begabung für Musik.",
-                "english": "She has an extraordinary talent for music."
-            },
-            {
-                "german": "Seine Begabung für Mathematik ist beeindruckend.",
-                "english": "His talent for mathematics is impressive."
-            },
-            {
-                "german": "Die Begabung des Kindes wurde früh erkannt.",
-                "english": "The child's talent was recognized early on."
-            },
-            {
-                "german": "Er hat eine angeborene Begabung für Sprachen.",
-                "english": "He has an innate talent for languages."
-            },
-            {
-                "german": "Ihre Begabung als Schauspielerin ist unbestritten.",
-                "english": "Her talent as an actress is undisputed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie hat eine außergewöhnliche Begabung für Musik.",
+            "english": "She has an extraordinary talent for music."
+        },
+        {
+            "german": "Seine Begabung für Mathematik ist beeindruckend.",
+            "english": "His talent for mathematics is impressive."
+        },
+        {
+            "german": "Die Begabung des Kindes wurde früh erkannt.",
+            "english": "The child's talent was recognized early on."
+        },
+        {
+            "german": "Er hat eine angeborene Begabung für Sprachen.",
+            "english": "He has an innate talent for languages."
+        },
+        {
+            "german": "Ihre Begabung als Schauspielerin ist unbestritten.",
+            "english": "Her talent as an actress is undisputed."
+        }
+    ]
 }

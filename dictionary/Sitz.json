@@ -1,28 +1,26 @@
 {
     "word": "der Sitz, die Sitze",
     "definition": "A term referring to the physical location or position where one sits, typically denoting a place or seat for sitting, often found in various settings such as offices, classrooms, or public transportation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Sitz des Unternehmens befindet sich in Berlin.",
-                "english": "The company's headquarters are located in Berlin."
-            },
-            {
-                "german": "Bitte nehmen Sie Platz und machen Sie es sich bequem.",
-                "english": "Please have a seat and make yourself comfortable."
-            },
-            {
-                "german": "Der Sitz des Schmerzes war unerträglich.",
-                "english": "The pain was excruciating."
-            },
-            {
-                "german": "Der Sitz des Problems liegt in der Kommunikation.",
-                "english": "The root of the problem lies in communication."
-            },
-            {
-                "german": "Der Sitz des Parlaments ist im Regierungsviertel.",
-                "english": "The seat of the parliament is in the government district."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Sitz des Unternehmens befindet sich in Berlin.",
+            "english": "The company's headquarters are located in Berlin."
+        },
+        {
+            "german": "Bitte nehmen Sie Platz und machen Sie es sich bequem.",
+            "english": "Please have a seat and make yourself comfortable."
+        },
+        {
+            "german": "Der Sitz des Schmerzes war unerträglich.",
+            "english": "The pain was excruciating."
+        },
+        {
+            "german": "Der Sitz des Problems liegt in der Kommunikation.",
+            "english": "The root of the problem lies in communication."
+        },
+        {
+            "german": "Der Sitz des Parlaments ist im Regierungsviertel.",
+            "english": "The seat of the parliament is in the government district."
+        }
+    ]
 }

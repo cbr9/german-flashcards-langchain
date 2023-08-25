@@ -1,28 +1,26 @@
 {
     "word": "brauchen, brauchte, gebraucht",
     "definition": "To require or need something, often used to express a necessity or a lack of something. It is commonly used when referring to the need for an object, action, or assistance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich brauche Hilfe.",
-                "english": "I need help."
-            },
-            {
-                "german": "Wir brauchen mehr Zeit.",
-                "english": "We need more time."
-            },
-            {
-                "german": "Brauchst du etwas zu trinken?",
-                "english": "Do you need something to drink?"
-            },
-            {
-                "german": "Er braucht dringend medizinische Hilfe.",
-                "english": "He urgently needs medical help."
-            },
-            {
-                "german": "Sie brauchen keine Angst zu haben.",
-                "english": "You don't need to be afraid."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich brauche Hilfe.",
+            "english": "I need help."
+        },
+        {
+            "german": "Wir brauchen mehr Zeit.",
+            "english": "We need more time."
+        },
+        {
+            "german": "Brauchst du etwas zu trinken?",
+            "english": "Do you need something to drink?"
+        },
+        {
+            "german": "Er braucht dringend medizinische Hilfe.",
+            "english": "He urgently needs medical help."
+        },
+        {
+            "german": "Sie brauchen keine Angst zu haben.",
+            "english": "You don't need to be afraid."
+        }
+    ]
 }

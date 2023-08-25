@@ -1,28 +1,26 @@
 {
     "word": "das Kommunikationsmittel, die Kommunikationsmittel",
     "definition": "A tool or device commonly employed for the purpose of exchanging information, ideas, or messages between individuals or groups, typically through various forms of technology or media. It is frequently utilized in interpersonal, organizational, or societal contexts to facilitate effective communication and convey thoughts, opinions, or data.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kommunikationsmittel sind wichtige Werkzeuge in der modernen Gesellschaft.",
-                "english": "Communication tools are important instruments in modern society."
-            },
-            {
-                "german": "Das Internet ist ein weit verbreitetes Kommunikationsmittel.",
-                "english": "The internet is a widely used means of communication."
-            },
-            {
-                "german": "Telefon und E-Mail sind gängige Kommunikationsmittel im Geschäftsleben.",
-                "english": "Telephone and email are common communication tools in business."
-            },
-            {
-                "german": "Sprache ist ein grundlegendes Kommunikationsmittel zwischen Menschen.",
-                "english": "Language is a fundamental means of communication between people."
-            },
-            {
-                "german": "Soziale Medien haben sich zu wichtigen Kommunikationsmitteln entwickelt.",
-                "english": "Social media has evolved into important communication tools."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kommunikationsmittel sind wichtige Werkzeuge in der modernen Gesellschaft.",
+            "english": "Communication tools are important instruments in modern society."
+        },
+        {
+            "german": "Das Internet ist ein weit verbreitetes Kommunikationsmittel.",
+            "english": "The internet is a widely used means of communication."
+        },
+        {
+            "german": "Telefon und E-Mail sind gängige Kommunikationsmittel im Geschäftsleben.",
+            "english": "Telephone and email are common communication tools in business."
+        },
+        {
+            "german": "Sprache ist ein grundlegendes Kommunikationsmittel zwischen Menschen.",
+            "english": "Language is a fundamental means of communication between people."
+        },
+        {
+            "german": "Soziale Medien haben sich zu wichtigen Kommunikationsmitteln entwickelt.",
+            "english": "Social media has evolved into important communication tools."
+        }
+    ]
 }

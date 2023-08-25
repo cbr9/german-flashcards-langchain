@@ -1,28 +1,26 @@
 {
     "word": "liebevoll",
     "definition": "Affectionate and caring, often used to describe actions or gestures that are done with love and tenderness towards someone or something. It is commonly used to describe the way someone treats another person, showing kindness and warmth in their actions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie gab ihm einen liebevollen Kuss auf die Wange.",
-                "english": "She gave him a loving kiss on the cheek."
-            },
-            {
-                "german": "Er schrieb ihr einen liebevollen Brief.",
-                "english": "He wrote her a loving letter."
-            },
-            {
-                "german": "Die Mutter umarmte ihr Kind liebevoll.",
-                "english": "The mother hugged her child lovingly."
-            },
-            {
-                "german": "Er bereitete ihr ein liebevolles Abendessen zu.",
-                "english": "He prepared a loving dinner for her."
-            },
-            {
-                "german": "Sie sprach mit liebevoller Stimme zu ihrem Hund.",
-                "english": "She spoke to her dog with a loving voice."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie gab ihm einen liebevollen Kuss auf die Wange.",
+            "english": "She gave him a loving kiss on the cheek."
+        },
+        {
+            "german": "Er schrieb ihr einen liebevollen Brief.",
+            "english": "He wrote her a loving letter."
+        },
+        {
+            "german": "Die Mutter umarmte ihr Kind liebevoll.",
+            "english": "The mother hugged her child lovingly."
+        },
+        {
+            "german": "Er bereitete ihr ein liebevolles Abendessen zu.",
+            "english": "He prepared a loving dinner for her."
+        },
+        {
+            "german": "Sie sprach mit liebevoller Stimme zu ihrem Hund.",
+            "english": "She spoke to her dog with a loving voice."
+        }
+    ]
 }

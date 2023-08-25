@@ -1,28 +1,26 @@
 {
     "word": "der Campingausflug, die Campingausflüge",
     "definition": "A recreational activity involving spending time outdoors, typically in a natural environment, where individuals or groups temporarily set up shelter, such as tents or recreational vehicles, to stay overnight. It often refers to a planned excursion or trip focused on camping, allowing people to enjoy nature, engage in outdoor activities, and temporarily disconnect from urban settings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir machen einen Campingausflug in den Schwarzwald.",
-                "english": "We are going on a camping trip to the Black Forest."
-            },
-            {
-                "german": "Der Campingausflug war sehr entspannend.",
-                "english": "The camping trip was very relaxing."
-            },
-            {
-                "german": "Meine Familie plant einen Campingausflug ans Meer.",
-                "english": "My family is planning a camping trip to the seaside."
-            },
-            {
-                "german": "Wir haben unseren Campingausflug im Nationalpark verbracht.",
-                "english": "We spent our camping trip in the national park."
-            },
-            {
-                "german": "Der Campingausflug war ein tolles Abenteuer.",
-                "english": "The camping trip was a great adventure."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir machen einen Campingausflug in den Schwarzwald.",
+            "english": "We are going on a camping trip to the Black Forest."
+        },
+        {
+            "german": "Der Campingausflug war sehr entspannend.",
+            "english": "The camping trip was very relaxing."
+        },
+        {
+            "german": "Meine Familie plant einen Campingausflug ans Meer.",
+            "english": "My family is planning a camping trip to the seaside."
+        },
+        {
+            "german": "Wir haben unseren Campingausflug im Nationalpark verbracht.",
+            "english": "We spent our camping trip in the national park."
+        },
+        {
+            "german": "Der Campingausflug war ein tolles Abenteuer.",
+            "english": "The camping trip was a great adventure."
+        }
+    ]
 }

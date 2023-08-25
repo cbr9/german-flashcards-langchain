@@ -1,28 +1,26 @@
 {
     "word": "die Zukunft, die Zukünfte",
     "definition": "The term refers to a concept that encompasses the time period beyond the present, typically associated with events, circumstances, and possibilities that are yet to occur. It is commonly used to discuss future plans, predictions, or expectations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Zukunft sieht vielversprechend aus.",
-                "english": "The future looks promising."
-            },
-            {
-                "german": "Was bringt die Zukunft?",
-                "english": "What does the future hold?"
-            },
-            {
-                "german": "Ich freue mich auf die Zukunft.",
-                "english": "I'm looking forward to the future."
-            },
-            {
-                "german": "In der Zukunft werden Roboter alltäglich sein.",
-                "english": "In the future, robots will be commonplace."
-            },
-            {
-                "german": "Die Zukunft ist ungewiss.",
-                "english": "The future is uncertain."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Zukunft sieht vielversprechend aus.",
+            "english": "The future looks promising."
+        },
+        {
+            "german": "Was bringt die Zukunft?",
+            "english": "What does the future hold?"
+        },
+        {
+            "german": "Ich freue mich auf die Zukunft.",
+            "english": "I'm looking forward to the future."
+        },
+        {
+            "german": "In der Zukunft werden Roboter alltäglich sein.",
+            "english": "In the future, robots will be commonplace."
+        },
+        {
+            "german": "Die Zukunft ist ungewiss.",
+            "english": "The future is uncertain."
+        }
+    ]
 }

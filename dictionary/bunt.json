@@ -1,28 +1,26 @@
 {
     "word": "bunt",
     "definition": "A descriptive term often used to refer to a wide range of vibrant and vivid colors, typically associated with objects or patterns that are visually striking and diverse. It is commonly used to describe the appearance of various items, such as clothing, artwork, or decorations, that exhibit a lively and multicolored aesthetic.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Haus ist bunt gestrichen.",
-                "english": "The house is painted in bright colors."
-            },
-            {
-                "german": "Sie trägt ein buntes Kleid.",
-                "english": "She is wearing a colorful dress."
-            },
-            {
-                "german": "Die Blumenwiese ist bunt.",
-                "english": "The flower meadow is colorful."
-            },
-            {
-                "german": "Das Kinderzimmer ist bunt eingerichtet.",
-                "english": "The children's room is decorated in bright colors."
-            },
-            {
-                "german": "Er hat ein buntes Gemälde gemalt.",
-                "english": "He painted a colorful painting."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Haus ist bunt gestrichen.",
+            "english": "The house is painted in bright colors."
+        },
+        {
+            "german": "Sie trägt ein buntes Kleid.",
+            "english": "She is wearing a colorful dress."
+        },
+        {
+            "german": "Die Blumenwiese ist bunt.",
+            "english": "The flower meadow is colorful."
+        },
+        {
+            "german": "Das Kinderzimmer ist bunt eingerichtet.",
+            "english": "The children's room is decorated in bright colors."
+        },
+        {
+            "german": "Er hat ein buntes Gemälde gemalt.",
+            "english": "He painted a colorful painting."
+        }
+    ]
 }

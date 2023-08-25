@@ -1,28 +1,26 @@
 {
     "word": "der Fußball, die Fußbälle",
     "definition": "A popular sport played with a round object, typically involving two teams of players who use various parts of their bodies to kick, pass, and score goals. It is commonly played on a grass field and is widely followed and enjoyed by fans around the world.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Fußball ist ein beliebter Sport in Deutschland.",
-                "english": "Football is a popular sport in Germany."
-            },
-            {
-                "german": "Ich spiele gerne Fußball mit meinen Freunden.",
-                "english": "I enjoy playing football with my friends."
-            },
-            {
-                "german": "Die Fußball-Weltmeisterschaft findet alle vier Jahre statt.",
-                "english": "The FIFA World Cup takes place every four years."
-            },
-            {
-                "german": "Mein Bruder ist ein großer Fußballfan.",
-                "english": "My brother is a big football fan."
-            },
-            {
-                "german": "Fußballspieler verdienen oft viel Geld.",
-                "english": "Football players often earn a lot of money."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Fußball ist ein beliebter Sport in Deutschland.",
+            "english": "Football is a popular sport in Germany."
+        },
+        {
+            "german": "Ich spiele gerne Fußball mit meinen Freunden.",
+            "english": "I enjoy playing football with my friends."
+        },
+        {
+            "german": "Die Fußball-Weltmeisterschaft findet alle vier Jahre statt.",
+            "english": "The FIFA World Cup takes place every four years."
+        },
+        {
+            "german": "Mein Bruder ist ein großer Fußballfan.",
+            "english": "My brother is a big football fan."
+        },
+        {
+            "german": "Fußballspieler verdienen oft viel Geld.",
+            "english": "Football players often earn a lot of money."
+        }
+    ]
 }

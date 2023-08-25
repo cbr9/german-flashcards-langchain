@@ -1,28 +1,26 @@
 {
     "word": "der Balkon, die Balkone",
     "definition": "A raised platform or structure attached to a building, typically with a solid floor and enclosed by a railing or balustrade, providing an outdoor space for relaxation, dining, or enjoying the view. It is commonly found in residential buildings and often used for leisure activities, such as sunbathing, gardening, or socializing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Balkon ist mit Blumen geschmückt.",
-                "english": "The balcony is decorated with flowers."
-            },
-            {
-                "german": "Wir haben einen kleinen Balkon.",
-                "english": "We have a small balcony."
-            },
-            {
-                "german": "Vom Balkon aus hat man einen schönen Ausblick.",
-                "english": "From the balcony, you have a nice view."
-            },
-            {
-                "german": "Ich sitze gerne auf dem Balkon und lese.",
-                "english": "I like to sit on the balcony and read."
-            },
-            {
-                "german": "Die Katze liegt faul auf dem Balkon.",
-                "english": "The cat is lazily lying on the balcony."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Balkon ist mit Blumen geschmückt.",
+            "english": "The balcony is decorated with flowers."
+        },
+        {
+            "german": "Wir haben einen kleinen Balkon.",
+            "english": "We have a small balcony."
+        },
+        {
+            "german": "Vom Balkon aus hat man einen schönen Ausblick.",
+            "english": "From the balcony, you have a nice view."
+        },
+        {
+            "german": "Ich sitze gerne auf dem Balkon und lese.",
+            "english": "I like to sit on the balcony and read."
+        },
+        {
+            "german": "Die Katze liegt faul auf dem Balkon.",
+            "english": "The cat is lazily lying on the balcony."
+        }
+    ]
 }

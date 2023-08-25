@@ -1,28 +1,26 @@
 {
     "word": "das Publikum, die Publika",
     "definition": "The term refers to a group of individuals who gather together in a specific setting, such as a theater, concert hall, or public event, to observe and engage with a performance or presentation. It commonly denotes the audience or spectators attending a cultural or entertainment event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Publikum klatschte begeistert.",
-                "english": "The audience applauded enthusiastically."
-            },
-            {
-                "german": "Das Publikum war von der Vorstellung begeistert.",
-                "english": "The audience was thrilled by the performance."
-            },
-            {
-                "german": "Das Publikum war sehr zahlreich.",
-                "english": "The audience was very numerous."
-            },
-            {
-                "german": "Das Publikum war gespannt auf den Auftritt.",
-                "english": "The audience was excited about the performance."
-            },
-            {
-                "german": "Das Publikum war begeistert von der Musik.",
-                "english": "The audience was thrilled by the music."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Publikum klatschte begeistert.",
+            "english": "The audience applauded enthusiastically."
+        },
+        {
+            "german": "Das Publikum war von der Vorstellung begeistert.",
+            "english": "The audience was thrilled by the performance."
+        },
+        {
+            "german": "Das Publikum war sehr zahlreich.",
+            "english": "The audience was very numerous."
+        },
+        {
+            "german": "Das Publikum war gespannt auf den Auftritt.",
+            "english": "The audience was excited about the performance."
+        },
+        {
+            "german": "Das Publikum war begeistert von der Musik.",
+            "english": "The audience was thrilled by the music."
+        }
+    ]
 }

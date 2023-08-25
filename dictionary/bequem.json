@@ -1,28 +1,26 @@
 {
     "word": "bequem",
     "definition": "The word \"bequem\" refers to a quality or state of comfort, convenience, or ease. It is commonly used to describe objects, places, or situations that provide a comfortable or convenient experience. This word is often used to express the comfort level of furniture, clothing, transportation, or any other aspect related to physical comfort. It can also be used to describe a person's preference for convenience or ease in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Sofa ist sehr bequem.",
-                "english": "The sofa is very comfortable."
-            },
-            {
-                "german": "Ich trage gerne bequeme Schuhe.",
-                "english": "I like to wear comfortable shoes."
-            },
-            {
-                "german": "Der Zug hat bequeme Sitze.",
-                "english": "The train has comfortable seats."
-            },
-            {
-                "german": "Die Matratze ist sehr bequem.",
-                "english": "The mattress is very comfortable."
-            },
-            {
-                "german": "Das Hotelzimmer ist schön und bequem.",
-                "english": "The hotel room is nice and comfortable."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Sofa ist sehr bequem.",
+            "english": "The sofa is very comfortable."
+        },
+        {
+            "german": "Ich trage gerne bequeme Schuhe.",
+            "english": "I like to wear comfortable shoes."
+        },
+        {
+            "german": "Der Zug hat bequeme Sitze.",
+            "english": "The train has comfortable seats."
+        },
+        {
+            "german": "Die Matratze ist sehr bequem.",
+            "english": "The mattress is very comfortable."
+        },
+        {
+            "german": "Das Hotelzimmer ist schön und bequem.",
+            "english": "The hotel room is nice and comfortable."
+        }
+    ]
 }

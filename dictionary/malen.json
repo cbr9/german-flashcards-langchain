@@ -1,28 +1,26 @@
 {
     "word": "malen, malte, gemalt",
     "definition": "To create visual representations or images using various tools, such as brushes, pencils, or colors, typically on a canvas, paper, or other surfaces. It is commonly used as a verb to describe the act of expressing oneself artistically through painting or drawing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich male ein Bild.",
-                "english": "I am painting a picture."
-            },
-            {
-                "german": "Sie malt gerne Landschaften.",
-                "english": "She enjoys painting landscapes."
-            },
-            {
-                "german": "Er hat das Porträt gemalt.",
-                "english": "He painted the portrait."
-            },
-            {
-                "german": "Wir malen mit Wasserfarben.",
-                "english": "We paint with watercolors."
-            },
-            {
-                "german": "Das Kind malt mit Buntstiften.",
-                "english": "The child is coloring with crayons."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich male ein Bild.",
+            "english": "I am painting a picture."
+        },
+        {
+            "german": "Sie malt gerne Landschaften.",
+            "english": "She enjoys painting landscapes."
+        },
+        {
+            "german": "Er hat das Porträt gemalt.",
+            "english": "He painted the portrait."
+        },
+        {
+            "german": "Wir malen mit Wasserfarben.",
+            "english": "We paint with watercolors."
+        },
+        {
+            "german": "Das Kind malt mit Buntstiften.",
+            "english": "The child is coloring with crayons."
+        }
+    ]
 }

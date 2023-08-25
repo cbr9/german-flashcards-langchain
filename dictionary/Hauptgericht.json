@@ -1,28 +1,26 @@
 {
     "word": "das Hauptgericht, die Hauptgerichte",
     "definition": "A substantial dish served as the main course of a meal, typically consisting of a protein source accompanied by various side dishes. It is commonly enjoyed during lunch or dinner and is intended to provide a satisfying and filling portion of a meal.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Hauptgericht ist sehr lecker.",
-                "english": "The main course is very delicious."
-            },
-            {
-                "german": "Welches Hauptgericht empfehlen Sie?",
-                "english": "Which main course do you recommend?"
-            },
-            {
-                "german": "Das Hauptgericht besteht aus Fleisch und Gemüse.",
-                "english": "The main course consists of meat and vegetables."
-            },
-            {
-                "german": "Kann ich das Hauptgericht auch vegetarisch bestellen?",
-                "english": "Can I order the main course vegetarian as well?"
-            },
-            {
-                "german": "Das Hauptgericht wird mit Beilagen serviert.",
-                "english": "The main course is served with side dishes."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Hauptgericht ist sehr lecker.",
+            "english": "The main course is very delicious."
+        },
+        {
+            "german": "Welches Hauptgericht empfehlen Sie?",
+            "english": "Which main course do you recommend?"
+        },
+        {
+            "german": "Das Hauptgericht besteht aus Fleisch und Gemüse.",
+            "english": "The main course consists of meat and vegetables."
+        },
+        {
+            "german": "Kann ich das Hauptgericht auch vegetarisch bestellen?",
+            "english": "Can I order the main course vegetarian as well?"
+        },
+        {
+            "german": "Das Hauptgericht wird mit Beilagen serviert.",
+            "english": "The main course is served with side dishes."
+        }
+    ]
 }

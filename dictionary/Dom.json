@@ -1,28 +1,26 @@
 {
     "word": "der Dom, die Dom",
     "definition": "A large, impressive architectural structure that is typically found in the center of a city or town, often serving as a place of worship or religious significance. It is commonly used to refer to a prominent religious building with a distinctive design, often featuring towers and intricate details.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Dom ist eine beeindruckende Kirche.",
-                "english": "The cathedral is an impressive church."
-            },
-            {
-                "german": "Der Dom wurde im 13. Jahrhundert erbaut.",
-                "english": "The cathedral was built in the 13th century."
-            },
-            {
-                "german": "Wir haben den Dom besichtigt.",
-                "english": "We visited the cathedral."
-            },
-            {
-                "german": "Der Dom ist ein beliebtes Touristenziel.",
-                "english": "The cathedral is a popular tourist destination."
-            },
-            {
-                "german": "Der Dom hat eine wunderschöne Architektur.",
-                "english": "The cathedral has a beautiful architecture."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Dom ist eine beeindruckende Kirche.",
+            "english": "The cathedral is an impressive church."
+        },
+        {
+            "german": "Der Dom wurde im 13. Jahrhundert erbaut.",
+            "english": "The cathedral was built in the 13th century."
+        },
+        {
+            "german": "Wir haben den Dom besichtigt.",
+            "english": "We visited the cathedral."
+        },
+        {
+            "german": "Der Dom ist ein beliebtes Touristenziel.",
+            "english": "The cathedral is a popular tourist destination."
+        },
+        {
+            "german": "Der Dom hat eine wunderschöne Architektur.",
+            "english": "The cathedral has a beautiful architecture."
+        }
+    ]
 }

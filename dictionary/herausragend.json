@@ -1,28 +1,26 @@
 {
     "word": "herausragend",
     "definition": "An adjective used to describe something or someone that stands out prominently or excels in a particular aspect, often surpassing others in a remarkable or outstanding manner. It is commonly used to highlight exceptional qualities, achievements, or performances.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie hat herausragende Leistungen erbracht.",
-                "english": "She has achieved outstanding results."
-            },
-            {
-                "german": "Seine Arbeit wurde als herausragend bewertet.",
-                "english": "His work was rated as outstanding."
-            },
-            {
-                "german": "Das ist ein herausragendes Beispiel für Teamarbeit.",
-                "english": "This is an outstanding example of teamwork."
-            },
-            {
-                "german": "Er hat herausragende Fähigkeiten in Mathematik.",
-                "english": "He has outstanding skills in mathematics."
-            },
-            {
-                "german": "Die Schauspielerin wurde für ihre herausragende Leistung ausgezeichnet.",
-                "english": "The actress was awarded for her outstanding performance."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie hat herausragende Leistungen erbracht.",
+            "english": "She has achieved outstanding results."
+        },
+        {
+            "german": "Seine Arbeit wurde als herausragend bewertet.",
+            "english": "His work was rated as outstanding."
+        },
+        {
+            "german": "Das ist ein herausragendes Beispiel für Teamarbeit.",
+            "english": "This is an outstanding example of teamwork."
+        },
+        {
+            "german": "Er hat herausragende Fähigkeiten in Mathematik.",
+            "english": "He has outstanding skills in mathematics."
+        },
+        {
+            "german": "Die Schauspielerin wurde für ihre herausragende Leistung ausgezeichnet.",
+            "english": "The actress was awarded for her outstanding performance."
+        }
+    ]
 }

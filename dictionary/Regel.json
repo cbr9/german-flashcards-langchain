@@ -1,28 +1,26 @@
 {
     "word": "die Regel, die Regeln",
     "definition": "A set of guidelines or principles that govern behavior or actions, typically used to establish order, structure, or standards in various contexts. It is commonly employed in educational, legal, or organizational settings to define expectations, procedures, or norms.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Regel besagt, dass man nicht zu spät kommen darf.",
-                "english": "The rule states that you must not be late."
-            },
-            {
-                "german": "Es gibt eine Regel, die besagt, dass man nicht während des Unterrichts sprechen darf.",
-                "english": "There is a rule that says you must not talk during class."
-            },
-            {
-                "german": "Die Regel ist, dass man sich höflich verhalten sollte.",
-                "english": "The rule is that you should behave politely."
-            },
-            {
-                "german": "Es ist wichtig, die Regeln zu befolgen.",
-                "english": "It is important to follow the rules."
-            },
-            {
-                "german": "Die Regel wurde kürzlich geändert.",
-                "english": "The rule was recently changed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Regel besagt, dass man nicht zu spät kommen darf.",
+            "english": "The rule states that you must not be late."
+        },
+        {
+            "german": "Es gibt eine Regel, die besagt, dass man nicht während des Unterrichts sprechen darf.",
+            "english": "There is a rule that says you must not talk during class."
+        },
+        {
+            "german": "Die Regel ist, dass man sich höflich verhalten sollte.",
+            "english": "The rule is that you should behave politely."
+        },
+        {
+            "german": "Es ist wichtig, die Regeln zu befolgen.",
+            "english": "It is important to follow the rules."
+        },
+        {
+            "german": "Die Regel wurde kürzlich geändert.",
+            "english": "The rule was recently changed."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "entscheiden, entschied, entschieden",
     "definition": "To make a determination or reach a conclusion after careful consideration or evaluation, often used in the context of resolving a problem or making a choice.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss mich entscheiden.",
-                "english": "I have to make a decision."
-            },
-            {
-                "german": "Kannst du dich bitte entscheiden?",
-                "english": "Can you please make a decision?"
-            },
-            {
-                "german": "Er hat sich für den Job entschieden.",
-                "english": "He has decided on the job."
-            },
-            {
-                "german": "Wir müssen uns schnell entscheiden.",
-                "english": "We need to decide quickly."
-            },
-            {
-                "german": "Sie konnte sich nicht entscheiden.",
-                "english": "She couldn't make a decision."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss mich entscheiden.",
+            "english": "I have to make a decision."
+        },
+        {
+            "german": "Kannst du dich bitte entscheiden?",
+            "english": "Can you please make a decision?"
+        },
+        {
+            "german": "Er hat sich für den Job entschieden.",
+            "english": "He has decided on the job."
+        },
+        {
+            "german": "Wir müssen uns schnell entscheiden.",
+            "english": "We need to decide quickly."
+        },
+        {
+            "german": "Sie konnte sich nicht entscheiden.",
+            "english": "She couldn't make a decision."
+        }
+    ]
 }

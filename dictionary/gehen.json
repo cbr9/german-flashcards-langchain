@@ -1,28 +1,26 @@
 {
     "word": "gehen, ging, gegangen",
     "definition": "To move from one place to another by using one's legs, typically in a manner that involves stepping or walking. It is commonly used to describe the action of physically going somewhere, either on foot or by means of locomotion.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe zur Schule.",
-                "english": "I go to school."
-            },
-            {
-                "german": "Kannst du zum Supermarkt gehen?",
-                "english": "Can you go to the supermarket?"
-            },
-            {
-                "german": "Er geht gerne spazieren.",
-                "english": "He enjoys going for a walk."
-            },
-            {
-                "german": "Wir sind gestern ins Kino gegangen.",
-                "english": "We went to the cinema yesterday."
-            },
-            {
-                "german": "Sie geht oft mit ihren Freunden aus.",
-                "english": "She often goes out with her friends."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe zur Schule.",
+            "english": "I go to school."
+        },
+        {
+            "german": "Kannst du zum Supermarkt gehen?",
+            "english": "Can you go to the supermarket?"
+        },
+        {
+            "german": "Er geht gerne spazieren.",
+            "english": "He enjoys going for a walk."
+        },
+        {
+            "german": "Wir sind gestern ins Kino gegangen.",
+            "english": "We went to the cinema yesterday."
+        },
+        {
+            "german": "Sie geht oft mit ihren Freunden aus.",
+            "english": "She often goes out with her friends."
+        }
+    ]
 }

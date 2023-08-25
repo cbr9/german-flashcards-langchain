@@ -1,28 +1,26 @@
 {
     "word": "die Gelegenheit, die Gelegenheiten",
     "definition": "A specific circumstance or occasion that presents an opportunity for something to happen or be done, often referring to a favorable or suitable moment for a particular action or event. It is commonly used to describe a chance, possibility, or appropriate time to do something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe keine Gelegenheit, ins Kino zu gehen.",
-                "english": "I don't have the opportunity to go to the cinema."
-            },
-            {
-                "german": "Er nutzte die Gelegenheit, um sich bei ihr zu entschuldigen.",
-                "english": "He took the opportunity to apologize to her."
-            },
-            {
-                "german": "Hast du Gelegenheit, mir bei meinem Projekt zu helfen?",
-                "english": "Do you have the chance to help me with my project?"
-            },
-            {
-                "german": "Die Gelegenheit kommt nur einmal im Leben.",
-                "english": "The opportunity comes only once in a lifetime."
-            },
-            {
-                "german": "Ich werde die Gelegenheit nutzen, um neue Leute kennenzulernen.",
-                "english": "I will take the opportunity to meet new people."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe keine Gelegenheit, ins Kino zu gehen.",
+            "english": "I don't have the opportunity to go to the cinema."
+        },
+        {
+            "german": "Er nutzte die Gelegenheit, um sich bei ihr zu entschuldigen.",
+            "english": "He took the opportunity to apologize to her."
+        },
+        {
+            "german": "Hast du Gelegenheit, mir bei meinem Projekt zu helfen?",
+            "english": "Do you have the chance to help me with my project?"
+        },
+        {
+            "german": "Die Gelegenheit kommt nur einmal im Leben.",
+            "english": "The opportunity comes only once in a lifetime."
+        },
+        {
+            "german": "Ich werde die Gelegenheit nutzen, um neue Leute kennenzulernen.",
+            "english": "I will take the opportunity to meet new people."
+        }
+    ]
 }

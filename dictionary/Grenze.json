@@ -1,28 +1,26 @@
 {
     "word": "die Grenze, die Grenzen",
     "definition": "A demarcation line or boundary that separates two regions or countries, often marked by physical features or man-made structures. It is commonly used to refer to the border between nations or territories, and can also denote the limit or extent of something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Grenze zwischen Deutschland und Frankreich ist 451 Kilometer lang.",
-                "english": "The border between Germany and France is 451 kilometers long."
-            },
-            {
-                "german": "Die Grenze wurde durch einen Zaun markiert.",
-                "english": "The border was marked by a fence."
-            },
-            {
-                "german": "Die Grenze ist gut bewacht.",
-                "english": "The border is well guarded."
-            },
-            {
-                "german": "Die Grenze wurde überschritten.",
-                "english": "The border was crossed."
-            },
-            {
-                "german": "Die Grenze wurde geschlossen.",
-                "english": "The border was closed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Grenze zwischen Deutschland und Frankreich ist 451 Kilometer lang.",
+            "english": "The border between Germany and France is 451 kilometers long."
+        },
+        {
+            "german": "Die Grenze wurde durch einen Zaun markiert.",
+            "english": "The border was marked by a fence."
+        },
+        {
+            "german": "Die Grenze ist gut bewacht.",
+            "english": "The border is well guarded."
+        },
+        {
+            "german": "Die Grenze wurde überschritten.",
+            "english": "The border was crossed."
+        },
+        {
+            "german": "Die Grenze wurde geschlossen.",
+            "english": "The border was closed."
+        }
+    ]
 }

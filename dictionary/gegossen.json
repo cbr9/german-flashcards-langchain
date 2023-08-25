@@ -1,28 +1,26 @@
 {
     "word": "gießen, goss, gegossen",
     "definition": "The word \"gegossen\" refers to the past participle form of a verb. It is commonly used to describe a process or action that has been completed in the past. This term is often employed in contexts related to manufacturing, construction, or any activity involving the pouring or casting of materials.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Metall wurde in eine Form gegossen.",
-                "english": "The metal was poured into a mold."
-            },
-            {
-                "german": "Sie hat die Flüssigkeit in den Becher gegossen.",
-                "english": "She poured the liquid into the cup."
-            },
-            {
-                "german": "Der Regen hat den Boden gegossen.",
-                "english": "The rain watered the soil."
-            },
-            {
-                "german": "Er hat das heiße Wachs in die Kerzenform gegossen.",
-                "english": "He poured the hot wax into the candle mold."
-            },
-            {
-                "german": "Die Künstlerin hat die Bronze in eine Skulptur gegossen.",
-                "english": "The artist cast the bronze into a sculpture."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Metall wurde in eine Form gegossen.",
+            "english": "The metal was poured into a mold."
+        },
+        {
+            "german": "Sie hat die Flüssigkeit in den Becher gegossen.",
+            "english": "She poured the liquid into the cup."
+        },
+        {
+            "german": "Der Regen hat den Boden gegossen.",
+            "english": "The rain watered the soil."
+        },
+        {
+            "german": "Er hat das heiße Wachs in die Kerzenform gegossen.",
+            "english": "He poured the hot wax into the candle mold."
+        },
+        {
+            "german": "Die Künstlerin hat die Bronze in eine Skulptur gegossen.",
+            "english": "The artist cast the bronze into a sculpture."
+        }
+    ]
 }

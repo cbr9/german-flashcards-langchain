@@ -1,28 +1,26 @@
 {
     "word": "der Rücken, die Rücken",
     "definition": "A term commonly employed to describe the anatomical region located between the neck and the lower back. It is often used to refer to the upper part of the human body, specifically the back, and can also denote the action of moving or turning one's body away from a particular direction or object.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe Schmerzen im Rücken.",
-                "english": "I have pain in my back."
-            },
-            {
-                "german": "Er hat einen starken Rücken.",
-                "english": "He has a strong back."
-            },
-            {
-                "german": "Sie massiert ihren Rücken.",
-                "english": "She massages her back."
-            },
-            {
-                "german": "Der Rucksack liegt auf dem Rücken.",
-                "english": "The backpack is on the back."
-            },
-            {
-                "german": "Der Täter flüchtete zu Fuß und ließ den Verletzten am Boden liegen.",
-                "english": "The perpetrator fled on foot and left the injured person lying on the ground."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe Schmerzen im Rücken.",
+            "english": "I have pain in my back."
+        },
+        {
+            "german": "Er hat einen starken Rücken.",
+            "english": "He has a strong back."
+        },
+        {
+            "german": "Sie massiert ihren Rücken.",
+            "english": "She massages her back."
+        },
+        {
+            "german": "Der Rucksack liegt auf dem Rücken.",
+            "english": "The backpack is on the back."
+        },
+        {
+            "german": "Der Täter flüchtete zu Fuß und ließ den Verletzten am Boden liegen.",
+            "english": "The perpetrator fled on foot and left the injured person lying on the ground."
+        }
+    ]
 }

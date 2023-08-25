@@ -1,28 +1,26 @@
 {
     "word": "bereiten, bereitete, bereitet",
     "definition": "To make or prepare something, often referring to the act of getting things ready or arranging them in advance for a specific purpose or event. It is commonly used in the context of organizing or setting up something, such as planning an event, getting ingredients ready for cooking, or making arrangements for a task or project.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bereite das Essen vor.",
-                "english": "I prepare the food."
-            },
-            {
-                "german": "Sie bereiten sich auf die Prüfung vor.",
-                "english": "They are preparing for the exam."
-            },
-            {
-                "german": "Wir bereiten eine Überraschungsparty vor.",
-                "english": "We are preparing a surprise party."
-            },
-            {
-                "german": "Der Koch bereitet das Gericht zu.",
-                "english": "The chef prepares the dish."
-            },
-            {
-                "german": "Sie bereiten sich auf die Reise vor.",
-                "english": "They are preparing for the trip."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bereite das Essen vor.",
+            "english": "I prepare the food."
+        },
+        {
+            "german": "Sie bereiten sich auf die Prüfung vor.",
+            "english": "They are preparing for the exam."
+        },
+        {
+            "german": "Wir bereiten eine Überraschungsparty vor.",
+            "english": "We are preparing a surprise party."
+        },
+        {
+            "german": "Der Koch bereitet das Gericht zu.",
+            "english": "The chef prepares the dish."
+        },
+        {
+            "german": "Sie bereiten sich auf die Reise vor.",
+            "english": "They are preparing for the trip."
+        }
+    ]
 }

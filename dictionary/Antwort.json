@@ -1,28 +1,26 @@
 {
     "word": "die Antwort, die Antworten",
     "definition": "A verbal or written expression that is given in response to a question, statement, or request, conveying information, opinion, or clarification. It is commonly used in various contexts, such as conversations, interviews, examinations, and online interactions, to provide a reply or response to a specific prompt or inquiry.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir bitte eine Antwort geben?",
-                "english": "Can you please give me an answer?"
-            },
-            {
-                "german": "Ich warte auf deine Antwort.",
-                "english": "I'm waiting for your response."
-            },
-            {
-                "german": "Die Antwort auf diese Frage ist kompliziert.",
-                "english": "The answer to this question is complicated."
-            },
-            {
-                "german": "Er hat keine Antwort auf meine Frage.",
-                "english": "He doesn't have an answer to my question."
-            },
-            {
-                "german": "Die richtige Antwort ist C.",
-                "english": "The correct answer is C."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir bitte eine Antwort geben?",
+            "english": "Can you please give me an answer?"
+        },
+        {
+            "german": "Ich warte auf deine Antwort.",
+            "english": "I'm waiting for your response."
+        },
+        {
+            "german": "Die Antwort auf diese Frage ist kompliziert.",
+            "english": "The answer to this question is complicated."
+        },
+        {
+            "german": "Er hat keine Antwort auf meine Frage.",
+            "english": "He doesn't have an answer to my question."
+        },
+        {
+            "german": "Die richtige Antwort ist C.",
+            "english": "The correct answer is C."
+        }
+    ]
 }

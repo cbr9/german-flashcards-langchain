@@ -1,28 +1,26 @@
 {
     "word": "erschöpft",
     "definition": "The word \"erschöpft\" refers to a state of extreme physical or mental fatigue, typically resulting from exertion or prolonged stress. It is commonly used to describe the feeling of being completely drained or exhausted after engaging in strenuous activities or enduring challenging circumstances.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin erschöpft nach der langen Wanderung.",
-                "english": "I am exhausted after the long hike."
-            },
-            {
-                "german": "Sie war erschöpft von der Arbeit.",
-                "english": "She was exhausted from work."
-            },
-            {
-                "german": "Der Marathonläufer war völlig erschöpft im Ziel.",
-                "english": "The marathon runner was completely exhausted at the finish line."
-            },
-            {
-                "german": "Nach der intensiven Trainingseinheit fühlte er sich erschöpft.",
-                "english": "After the intense training session, he felt exhausted."
-            },
-            {
-                "german": "Die stundenlange Diskussion hat mich erschöpft.",
-                "english": "The hours-long discussion has exhausted me."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin erschöpft nach der langen Wanderung.",
+            "english": "I am exhausted after the long hike."
+        },
+        {
+            "german": "Sie war erschöpft von der Arbeit.",
+            "english": "She was exhausted from work."
+        },
+        {
+            "german": "Der Marathonläufer war völlig erschöpft im Ziel.",
+            "english": "The marathon runner was completely exhausted at the finish line."
+        },
+        {
+            "german": "Nach der intensiven Trainingseinheit fühlte er sich erschöpft.",
+            "english": "After the intense training session, he felt exhausted."
+        },
+        {
+            "german": "Die stundenlange Diskussion hat mich erschöpft.",
+            "english": "The hours-long discussion has exhausted me."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Fähre, die Fähren",
     "definition": "A vessel that transports people, vehicles, or goods across a body of water, typically between two fixed points. It is commonly used for short-distance transportation, often connecting two shores or islands.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Fähre fährt alle 30 Minuten.",
-                "english": "The ferry departs every 30 minutes."
-            },
-            {
-                "german": "Wir nehmen die Fähre, um die Insel zu erreichen.",
-                "english": "We take the ferry to reach the island."
-            },
-            {
-                "german": "Die Fähre ist überfüllt.",
-                "english": "The ferry is overcrowded."
-            },
-            {
-                "german": "Die Fähre legt am Hafen an.",
-                "english": "The ferry docks at the harbor."
-            },
-            {
-                "german": "Die Fähre bietet eine schöne Aussicht auf das Meer.",
-                "english": "The ferry offers a beautiful view of the sea."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Fähre fährt alle 30 Minuten.",
+            "english": "The ferry departs every 30 minutes."
+        },
+        {
+            "german": "Wir nehmen die Fähre, um die Insel zu erreichen.",
+            "english": "We take the ferry to reach the island."
+        },
+        {
+            "german": "Die Fähre ist überfüllt.",
+            "english": "The ferry is overcrowded."
+        },
+        {
+            "german": "Die Fähre legt am Hafen an.",
+            "english": "The ferry docks at the harbor."
+        },
+        {
+            "german": "Die Fähre bietet eine schöne Aussicht auf das Meer.",
+            "english": "The ferry offers a beautiful view of the sea."
+        }
+    ]
 }

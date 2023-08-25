@@ -1,28 +1,26 @@
 {
     "word": "beleidigen, beleidigte, beleidigt",
     "definition": "To cause offense or hurt someone's feelings through words or actions, often by insulting or disrespecting them. This term is commonly employed to describe the act of insulting or offending someone, typically through verbal means.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Du hast mich beleidigt.",
-                "english": "You insulted me."
-            },
-            {
-                "german": "Er lässt sich nicht beleidigen.",
-                "english": "He doesn't let himself be insulted."
-            },
-            {
-                "german": "Sie hat ihn absichtlich beleidigt.",
-                "english": "She intentionally insulted him."
-            },
-            {
-                "german": "Beleidige niemanden!",
-                "english": "Don't insult anyone!"
-            },
-            {
-                "german": "Er fühlt sich beleidigt.",
-                "english": "He feels offended."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Du hast mich beleidigt.",
+            "english": "You insulted me."
+        },
+        {
+            "german": "Er lässt sich nicht beleidigen.",
+            "english": "He doesn't let himself be insulted."
+        },
+        {
+            "german": "Sie hat ihn absichtlich beleidigt.",
+            "english": "She intentionally insulted him."
+        },
+        {
+            "german": "Beleidige niemanden!",
+            "english": "Don't insult anyone!"
+        },
+        {
+            "german": "Er fühlt sich beleidigt.",
+            "english": "He feels offended."
+        }
+    ]
 }

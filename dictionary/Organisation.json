@@ -1,28 +1,26 @@
 {
     "word": "die Organisation, die Organisationen",
     "definition": "A structured and systematic arrangement of individuals, resources, and activities, aimed at achieving specific goals or objectives. It commonly refers to the process of coordinating and managing various elements within a group or entity to ensure efficient functioning and effective outcomes. This term is frequently employed in the context of businesses, institutions, or any organized body that requires planning, coordination, and administration.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Organisation des Events war gut geplant.",
-                "english": "The organization of the event was well planned."
-            },
-            {
-                "german": "Die Organisation unterstützt gemeinnützige Projekte.",
-                "english": "The organization supports charitable projects."
-            },
-            {
-                "german": "Die Organisation hat viele Mitglieder.",
-                "english": "The organization has many members."
-            },
-            {
-                "german": "Die Organisation des Unternehmens ist effizient.",
-                "english": "The organization of the company is efficient."
-            },
-            {
-                "german": "Die Organisation des Teams ist gut strukturiert.",
-                "english": "The organization of the team is well structured."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Organisation des Events war gut geplant.",
+            "english": "The organization of the event was well planned."
+        },
+        {
+            "german": "Die Organisation unterstützt gemeinnützige Projekte.",
+            "english": "The organization supports charitable projects."
+        },
+        {
+            "german": "Die Organisation hat viele Mitglieder.",
+            "english": "The organization has many members."
+        },
+        {
+            "german": "Die Organisation des Unternehmens ist effizient.",
+            "english": "The organization of the company is efficient."
+        },
+        {
+            "german": "Die Organisation des Teams ist gut strukturiert.",
+            "english": "The organization of the team is well structured."
+        }
+    ]
 }

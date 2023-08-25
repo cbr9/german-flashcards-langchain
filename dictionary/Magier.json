@@ -1,28 +1,26 @@
 {
     "word": "der Magier, die Magier",
     "definition": "A person who possesses extraordinary abilities and skills in performing illusions, tricks, and supernatural feats, often associated with entertainment and stage performances. This term is commonly used to refer to individuals who practice the art of magic and perform magic tricks.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Magier zauberte eine Taube aus dem Hut.",
-                "english": "The magician conjured a dove from the hat."
-            },
-            {
-                "german": "Der junge Magier überraschte das Publikum mit seinen Tricks.",
-                "english": "The young magician amazed the audience with his tricks."
-            },
-            {
-                "german": "Der berühmte Magier trat in Las Vegas auf.",
-                "english": "The famous magician performed in Las Vegas."
-            },
-            {
-                "german": "Der Magier verwandelte eine Münze in einen Schmetterling.",
-                "english": "The magician transformed a coin into a butterfly."
-            },
-            {
-                "german": "Der Magier führte eine beeindruckende Illusion vor.",
-                "english": "The magician performed an impressive illusion."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Magier zauberte eine Taube aus dem Hut.",
+            "english": "The magician conjured a dove from the hat."
+        },
+        {
+            "german": "Der junge Magier überraschte das Publikum mit seinen Tricks.",
+            "english": "The young magician amazed the audience with his tricks."
+        },
+        {
+            "german": "Der berühmte Magier trat in Las Vegas auf.",
+            "english": "The famous magician performed in Las Vegas."
+        },
+        {
+            "german": "Der Magier verwandelte eine Münze in einen Schmetterling.",
+            "english": "The magician transformed a coin into a butterfly."
+        },
+        {
+            "german": "Der Magier führte eine beeindruckende Illusion vor.",
+            "english": "The magician performed an impressive illusion."
+        }
+    ]
 }

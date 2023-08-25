@@ -1,28 +1,26 @@
 {
     "word": "der Klimawandel, die Klimawandel",
     "definition": "The term refers to the phenomenon characterized by long-term shifts in global climate patterns, including changes in temperature, precipitation, wind patterns, and other factors. It is commonly used to describe the ongoing and significant alterations in the Earth's climate system, primarily caused by human activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Klimawandel ist eine der größten Herausforderungen unserer Zeit.",
-                "english": "Climate change is one of the greatest challenges of our time."
-            },
-            {
-                "german": "Der Klimawandel führt zu steigenden Temperaturen und extremen Wetterereignissen.",
-                "english": "Climate change leads to rising temperatures and extreme weather events."
-            },
-            {
-                "german": "Die Folgen des Klimawandels sind bereits spürbar.",
-                "english": "The consequences of climate change are already noticeable."
-            },
-            {
-                "german": "Der Klimawandel wird durch den Ausstoß von Treibhausgasen verursacht.",
-                "english": "Climate change is caused by the emission of greenhouse gases."
-            },
-            {
-                "german": "Es ist wichtig, Maßnahmen gegen den Klimawandel zu ergreifen.",
-                "english": "It is important to take measures against climate change."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Klimawandel ist eine der größten Herausforderungen unserer Zeit.",
+            "english": "Climate change is one of the greatest challenges of our time."
+        },
+        {
+            "german": "Der Klimawandel führt zu steigenden Temperaturen und extremen Wetterereignissen.",
+            "english": "Climate change leads to rising temperatures and extreme weather events."
+        },
+        {
+            "german": "Die Folgen des Klimawandels sind bereits spürbar.",
+            "english": "The consequences of climate change are already noticeable."
+        },
+        {
+            "german": "Der Klimawandel wird durch den Ausstoß von Treibhausgasen verursacht.",
+            "english": "Climate change is caused by the emission of greenhouse gases."
+        },
+        {
+            "german": "Es ist wichtig, Maßnahmen gegen den Klimawandel zu ergreifen.",
+            "english": "It is important to take measures against climate change."
+        }
+    ]
 }

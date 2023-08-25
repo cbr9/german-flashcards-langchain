@@ -1,28 +1,26 @@
 {
     "word": "der Euro, die Euros",
     "definition": "A currency unit used in several European countries, representing a specific monetary value and commonly employed for various financial transactions within the European Union.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Euro ist die Währung der Europäischen Union.",
-                "english": "The euro is the currency of the European Union."
-            },
-            {
-                "german": "Ich habe 50 Euro in meiner Brieftasche.",
-                "english": "I have 50 euros in my wallet."
-            },
-            {
-                "german": "Der Euro wurde im Jahr 1999 eingeführt.",
-                "english": "The euro was introduced in 1999."
-            },
-            {
-                "german": "Der Wechselkurs des Euros zum Dollar ist günstig.",
-                "english": "The exchange rate of the euro to the dollar is favorable."
-            },
-            {
-                "german": "Die Preise in diesem Geschäft sind in Euro angegeben.",
-                "english": "The prices in this store are listed in euros."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Euro ist die Währung der Europäischen Union.",
+            "english": "The euro is the currency of the European Union."
+        },
+        {
+            "german": "Ich habe 50 Euro in meiner Brieftasche.",
+            "english": "I have 50 euros in my wallet."
+        },
+        {
+            "german": "Der Euro wurde im Jahr 1999 eingeführt.",
+            "english": "The euro was introduced in 1999."
+        },
+        {
+            "german": "Der Wechselkurs des Euros zum Dollar ist günstig.",
+            "english": "The exchange rate of the euro to the dollar is favorable."
+        },
+        {
+            "german": "Die Preise in diesem Geschäft sind in Euro angegeben.",
+            "english": "The prices in this store are listed in euros."
+        }
+    ]
 }

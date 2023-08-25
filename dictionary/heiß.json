@@ -1,28 +1,26 @@
 {
     "word": "heiß",
     "definition": "The word \"heiß\" refers to a state or condition of high temperature. It is commonly used to describe objects, substances, or environments that are significantly warm or hot. Additionally, it can be used metaphorically to convey a sense of intensity or excitement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist heiß heute.",
-                "english": "It is hot today."
-            },
-            {
-                "german": "Die Suppe ist heiß.",
-                "english": "The soup is hot."
-            },
-            {
-                "german": "Ich trinke meinen Kaffee heiß.",
-                "english": "I drink my coffee hot."
-            },
-            {
-                "german": "Die heiße Schokolade schmeckt gut.",
-                "english": "The hot chocolate tastes good."
-            },
-            {
-                "german": "Pass auf, das Bügeleisen ist heiß!",
-                "english": "Be careful, the iron is hot!"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist heiß heute.",
+            "english": "It is hot today."
+        },
+        {
+            "german": "Die Suppe ist heiß.",
+            "english": "The soup is hot."
+        },
+        {
+            "german": "Ich trinke meinen Kaffee heiß.",
+            "english": "I drink my coffee hot."
+        },
+        {
+            "german": "Die heiße Schokolade schmeckt gut.",
+            "english": "The hot chocolate tastes good."
+        },
+        {
+            "german": "Pass auf, das Bügeleisen ist heiß!",
+            "english": "Be careful, the iron is hot!"
+        }
+    ]
 }

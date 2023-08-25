@@ -1,28 +1,26 @@
 {
     "word": "tanzen, tanzte, getanzt",
     "definition": "To move rhythmically and gracefully to music, typically involving coordinated body movements and steps, often performed for entertainment, expression, or social interaction.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich tanze gerne.",
-                "english": "I like to dance."
-            },
-            {
-                "german": "Kannst du tanzen?",
-                "english": "Can you dance?"
-            },
-            {
-                "german": "Wir haben gestern viel getanzt.",
-                "english": "We danced a lot yesterday."
-            },
-            {
-                "german": "Sie tanzt Ballett seit sie fünf Jahre alt ist.",
-                "english": "She has been dancing ballet since she was five years old."
-            },
-            {
-                "german": "Tanzt du lieber Walzer oder Tango?",
-                "english": "Do you prefer to dance waltz or tango?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich tanze gerne.",
+            "english": "I like to dance."
+        },
+        {
+            "german": "Kannst du tanzen?",
+            "english": "Can you dance?"
+        },
+        {
+            "german": "Wir haben gestern viel getanzt.",
+            "english": "We danced a lot yesterday."
+        },
+        {
+            "german": "Sie tanzt Ballett seit sie fünf Jahre alt ist.",
+            "english": "She has been dancing ballet since she was five years old."
+        },
+        {
+            "german": "Tanzt du lieber Walzer oder Tango?",
+            "english": "Do you prefer to dance waltz or tango?"
+        }
+    ]
 }

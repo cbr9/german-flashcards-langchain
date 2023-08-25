@@ -1,28 +1,26 @@
 {
     "word": "überprüfen, überprüfte, überprüft",
     "definition": "To examine or assess something thoroughly and systematically in order to verify its accuracy, validity, or correctness. This term is commonly used in various contexts, such as quality control, scientific research, or administrative procedures, where a careful evaluation or review is required to ensure the desired outcome or compliance with specific standards.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du bitte meine Arbeit überprüfen?",
-                "english": "Can you please check my work?"
-            },
-            {
-                "german": "Der Arzt wird Ihre Symptome überprüfen.",
-                "english": "The doctor will examine your symptoms."
-            },
-            {
-                "german": "Ich muss meinen Reisepass überprüfen, bevor ich verreise.",
-                "english": "I need to verify my passport before I travel."
-            },
-            {
-                "german": "Die Polizei wird den Tatort gründlich überprüfen.",
-                "english": "The police will thoroughly investigate the crime scene."
-            },
-            {
-                "german": "Bitte überprüfen Sie Ihre Eingaben, bevor Sie auf Senden klicken.",
-                "english": "Please double-check your entries before clicking on Send."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du bitte meine Arbeit überprüfen?",
+            "english": "Can you please check my work?"
+        },
+        {
+            "german": "Der Arzt wird Ihre Symptome überprüfen.",
+            "english": "The doctor will examine your symptoms."
+        },
+        {
+            "german": "Ich muss meinen Reisepass überprüfen, bevor ich verreise.",
+            "english": "I need to verify my passport before I travel."
+        },
+        {
+            "german": "Die Polizei wird den Tatort gründlich überprüfen.",
+            "english": "The police will thoroughly investigate the crime scene."
+        },
+        {
+            "german": "Bitte überprüfen Sie Ihre Eingaben, bevor Sie auf Senden klicken.",
+            "english": "Please double-check your entries before clicking on Send."
+        }
+    ]
 }

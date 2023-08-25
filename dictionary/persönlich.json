@@ -1,28 +1,26 @@
 {
     "word": "persönlich",
     "definition": "The word \"persönlich\" refers to something that is related to an individual's own experiences, feelings, or opinions. It is commonly used to describe a manner of communication or interaction that is direct, face-to-face, or intimate.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich persönlich finde das nicht gut.",
-                "english": "Personally, I don't think that's good."
-            },
-            {
-                "german": "Das ist meine persönliche Meinung.",
-                "english": "That's my personal opinion."
-            },
-            {
-                "german": "Kannst du mir persönlich helfen?",
-                "english": "Can you personally help me?"
-            },
-            {
-                "german": "Ich möchte dich persönlich kennenlernen.",
-                "english": "I want to get to know you personally."
-            },
-            {
-                "german": "Das ist ein persönliches Geschenk von mir.",
-                "english": "This is a personal gift from me."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich persönlich finde das nicht gut.",
+            "english": "Personally, I don't think that's good."
+        },
+        {
+            "german": "Das ist meine persönliche Meinung.",
+            "english": "That's my personal opinion."
+        },
+        {
+            "german": "Kannst du mir persönlich helfen?",
+            "english": "Can you personally help me?"
+        },
+        {
+            "german": "Ich möchte dich persönlich kennenlernen.",
+            "english": "I want to get to know you personally."
+        },
+        {
+            "german": "Das ist ein persönliches Geschenk von mir.",
+            "english": "This is a personal gift from me."
+        }
+    ]
 }

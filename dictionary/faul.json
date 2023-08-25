@@ -1,28 +1,26 @@
 {
     "word": "faul",
     "definition": "The term \"faul\" typically describes a state or quality of being inactive, unproductive, or lacking motivation. It is often used to describe a person, behavior, or attitude that is characterized by laziness, idleness, or a reluctance to work.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist faul und macht nie seine Hausaufgaben.",
-                "english": "He is lazy and never does his homework."
-            },
-            {
-                "german": "Die faule Katze liegt den ganzen Tag auf der Couch.",
-                "english": "The lazy cat lies on the couch all day."
-            },
-            {
-                "german": "Mein Bruder ist zu faul, um den Müll rauszubringen.",
-                "english": "My brother is too lazy to take out the trash."
-            },
-            {
-                "german": "Sie hat eine faule Ausrede für ihr Verspätung.",
-                "english": "She has a lazy excuse for her lateness."
-            },
-            {
-                "german": "Der faule Schüler hat die Prüfung nicht bestanden.",
-                "english": "The lazy student failed the exam."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist faul und macht nie seine Hausaufgaben.",
+            "english": "He is lazy and never does his homework."
+        },
+        {
+            "german": "Die faule Katze liegt den ganzen Tag auf der Couch.",
+            "english": "The lazy cat lies on the couch all day."
+        },
+        {
+            "german": "Mein Bruder ist zu faul, um den Müll rauszubringen.",
+            "english": "My brother is too lazy to take out the trash."
+        },
+        {
+            "german": "Sie hat eine faule Ausrede für ihr Verspätung.",
+            "english": "She has a lazy excuse for her lateness."
+        },
+        {
+            "german": "Der faule Schüler hat die Prüfung nicht bestanden.",
+            "english": "The lazy student failed the exam."
+        }
+    ]
 }

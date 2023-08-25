@@ -1,28 +1,26 @@
 {
     "word": "wiederholen, wiederholte, wiederholt",
     "definition": "To perform an action of going through a previously learned or experienced material, event, or task again, with the intention of reinforcing knowledge or skills. This word is commonly used when referring to studying, reviewing, or practicing something that has been previously encountered.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du das bitte wiederholen?",
-                "english": "Can you please repeat that?"
-            },
-            {
-                "german": "Ich muss für die Prüfung viel wiederholen.",
-                "english": "I have to review a lot for the exam."
-            },
-            {
-                "german": "Wir sollten den Stoff regelmäßig wiederholen.",
-                "english": "We should review the material regularly."
-            },
-            {
-                "german": "Er hat den gleichen Fehler wiederholt.",
-                "english": "He repeated the same mistake."
-            },
-            {
-                "german": "Kannst du mir das noch einmal wiederholen?",
-                "english": "Can you repeat that one more time for me?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du das bitte wiederholen?",
+            "english": "Can you please repeat that?"
+        },
+        {
+            "german": "Ich muss für die Prüfung viel wiederholen.",
+            "english": "I have to review a lot for the exam."
+        },
+        {
+            "german": "Wir sollten den Stoff regelmäßig wiederholen.",
+            "english": "We should review the material regularly."
+        },
+        {
+            "german": "Er hat den gleichen Fehler wiederholt.",
+            "english": "He repeated the same mistake."
+        },
+        {
+            "german": "Kannst du mir das noch einmal wiederholen?",
+            "english": "Can you repeat that one more time for me?"
+        }
+    ]
 }

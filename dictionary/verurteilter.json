@@ -1,28 +1,26 @@
 {
     "word": "der Verurteilter, die Verurteilte",
     "definition": "A person who has been found guilty of a crime and has received a legal punishment as a consequence. This term is commonly used to refer to individuals who have been convicted and sentenced by a court of law.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der verurteilte Mörder wurde zu lebenslanger Haft verurteilt.",
-                "english": "The convicted murderer was sentenced to life imprisonment."
-            },
-            {
-                "german": "Der verurteilte Dieb muss eine Geldstrafe zahlen.",
-                "english": "The convicted thief has to pay a fine."
-            },
-            {
-                "german": "Die verurteilte Betrügerin wurde zu einer Bewährungsstrafe verurteilt.",
-                "english": "The convicted fraudster was sentenced to probation."
-            },
-            {
-                "german": "Der verurteilte Vergewaltiger wurde zu einer langen Gefängnisstrafe verurteilt.",
-                "english": "The convicted rapist was sentenced to a long prison term."
-            },
-            {
-                "german": "Der verurteilte Drogenhändler wurde zu einer hohen Geldstrafe verurteilt.",
-                "english": "The convicted drug dealer was sentenced to a high fine."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der verurteilte Mörder wurde zu lebenslanger Haft verurteilt.",
+            "english": "The convicted murderer was sentenced to life imprisonment."
+        },
+        {
+            "german": "Der verurteilte Dieb muss eine Geldstrafe zahlen.",
+            "english": "The convicted thief has to pay a fine."
+        },
+        {
+            "german": "Die verurteilte Betrügerin wurde zu einer Bewährungsstrafe verurteilt.",
+            "english": "The convicted fraudster was sentenced to probation."
+        },
+        {
+            "german": "Der verurteilte Vergewaltiger wurde zu einer langen Gefängnisstrafe verurteilt.",
+            "english": "The convicted rapist was sentenced to a long prison term."
+        },
+        {
+            "german": "Der verurteilte Drogenhändler wurde zu einer hohen Geldstrafe verurteilt.",
+            "english": "The convicted drug dealer was sentenced to a high fine."
+        }
+    ]
 }

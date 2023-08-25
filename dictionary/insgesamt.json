@@ -1,28 +1,26 @@
 {
     "word": "insgesamt",
     "definition": "A term commonly employed to express the overall or total sum of something, often used to describe the entirety or the complete amount of a particular situation, concept, or set of elements. It is frequently utilized in discussions, analyses, or descriptions where a comprehensive assessment or evaluation is required.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Insgesamt haben wir 10 Gäste erwartet.",
-                "english": "We were expecting a total of 10 guests."
-            },
-            {
-                "german": "Insgesamt beträgt der Preis 50 Euro.",
-                "english": "The total price is 50 euros."
-            },
-            {
-                "german": "Insgesamt sind wir sehr zufrieden mit dem Ergebnis.",
-                "english": "Overall, we are very satisfied with the result."
-            },
-            {
-                "german": "Insgesamt dauerte die Reise 6 Stunden.",
-                "english": "The journey lasted a total of 6 hours."
-            },
-            {
-                "german": "Insgesamt gibt es 20 verschiedene Sorten.",
-                "english": "There are a total of 20 different varieties."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Insgesamt haben wir 10 Gäste erwartet.",
+            "english": "We were expecting a total of 10 guests."
+        },
+        {
+            "german": "Insgesamt beträgt der Preis 50 Euro.",
+            "english": "The total price is 50 euros."
+        },
+        {
+            "german": "Insgesamt sind wir sehr zufrieden mit dem Ergebnis.",
+            "english": "Overall, we are very satisfied with the result."
+        },
+        {
+            "german": "Insgesamt dauerte die Reise 6 Stunden.",
+            "english": "The journey lasted a total of 6 hours."
+        },
+        {
+            "german": "Insgesamt gibt es 20 verschiedene Sorten.",
+            "english": "There are a total of 20 different varieties."
+        }
+    ]
 }

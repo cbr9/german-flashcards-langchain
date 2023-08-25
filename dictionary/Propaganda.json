@@ -1,28 +1,26 @@
 {
     "word": "die Propaganda, die Propaganda",
     "definition": "A form of communication that aims to influence and manipulate public opinion, often through biased or misleading information, with the intention of promoting a particular agenda, ideology, or cause. It is typically employed by governments, organizations, or individuals to shape public perception, sway attitudes, and generate support or opposition for specific ideas, policies, or actions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Propaganda wird oft als manipulative Kommunikationstechnik eingesetzt.",
-                "english": "Propaganda is often used as a manipulative communication technique."
-            },
-            {
-                "german": "Die Regierung verbreitete Propaganda, um die öffentliche Meinung zu beeinflussen.",
-                "english": "The government spread propaganda to influence public opinion."
-            },
-            {
-                "german": "Während des Krieges wurde Propaganda verwendet, um Patriotismus zu fördern.",
-                "english": "During the war, propaganda was used to promote patriotism."
-            },
-            {
-                "german": "Die Propaganda des Regimes versuchte, die Bevölkerung zu täuschen.",
-                "english": "The regime's propaganda tried to deceive the population."
-            },
-            {
-                "german": "Propaganda kann dazu führen, dass Menschen falsche Informationen glauben.",
-                "english": "Propaganda can lead people to believe false information."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Propaganda wird oft als manipulative Kommunikationstechnik eingesetzt.",
+            "english": "Propaganda is often used as a manipulative communication technique."
+        },
+        {
+            "german": "Die Regierung verbreitete Propaganda, um die öffentliche Meinung zu beeinflussen.",
+            "english": "The government spread propaganda to influence public opinion."
+        },
+        {
+            "german": "Während des Krieges wurde Propaganda verwendet, um Patriotismus zu fördern.",
+            "english": "During the war, propaganda was used to promote patriotism."
+        },
+        {
+            "german": "Die Propaganda des Regimes versuchte, die Bevölkerung zu täuschen.",
+            "english": "The regime's propaganda tried to deceive the population."
+        },
+        {
+            "german": "Propaganda kann dazu führen, dass Menschen falsche Informationen glauben.",
+            "english": "Propaganda can lead people to believe false information."
+        }
+    ]
 }

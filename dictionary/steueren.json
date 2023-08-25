@@ -1,28 +1,26 @@
 {
     "word": "steueren, steuerte, gesteuert",
     "definition": "To guide or direct the movement or course of something, typically a vehicle, vessel, or object, by manipulating a specific mechanism or control. This action is commonly performed by a person in order to navigate or maneuver the object in a desired direction.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich steuere das Auto.",
-                "english": "I am driving the car."
-            },
-            {
-                "german": "Er steuert das Unternehmen.",
-                "english": "He is managing the company."
-            },
-            {
-                "german": "Sie steuert den Flugzeugkurs.",
-                "english": "She is controlling the airplane course."
-            },
-            {
-                "german": "Wir steuern den Prozess.",
-                "english": "We are steering the process."
-            },
-            {
-                "german": "Die Software steuert den Roboter.",
-                "english": "The software controls the robot."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich steuere das Auto.",
+            "english": "I am driving the car."
+        },
+        {
+            "german": "Er steuert das Unternehmen.",
+            "english": "He is managing the company."
+        },
+        {
+            "german": "Sie steuert den Flugzeugkurs.",
+            "english": "She is controlling the airplane course."
+        },
+        {
+            "german": "Wir steuern den Prozess.",
+            "english": "We are steering the process."
+        },
+        {
+            "german": "Die Software steuert den Roboter.",
+            "english": "The software controls the robot."
+        }
+    ]
 }

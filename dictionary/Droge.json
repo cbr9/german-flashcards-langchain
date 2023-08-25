@@ -1,28 +1,26 @@
 {
     "word": "die Droge, die Drogen",
     "definition": "A substance that is typically consumed or utilized for its psychoactive effects, often resulting in altered states of consciousness or physiological changes. It is commonly associated with recreational or medicinal purposes, and can be ingested, inhaled, or injected.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Droge ist illegal.",
-                "english": "Drugs are illegal."
-            },
-            {
-                "german": "Er ist von Drogen abhängig.",
-                "english": "He is addicted to drugs."
-            },
-            {
-                "german": "Sie hat mit dem Drogenkonsum aufgehört.",
-                "english": "She has stopped using drugs."
-            },
-            {
-                "german": "Drogenmissbrauch kann zu schweren gesundheitlichen Problemen führen.",
-                "english": "Drug abuse can lead to serious health problems."
-            },
-            {
-                "german": "Die Polizei hat eine große Menge an Drogen beschlagnahmt.",
-                "english": "The police seized a large quantity of drugs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Droge ist illegal.",
+            "english": "Drugs are illegal."
+        },
+        {
+            "german": "Er ist von Drogen abhängig.",
+            "english": "He is addicted to drugs."
+        },
+        {
+            "german": "Sie hat mit dem Drogenkonsum aufgehört.",
+            "english": "She has stopped using drugs."
+        },
+        {
+            "german": "Drogenmissbrauch kann zu schweren gesundheitlichen Problemen führen.",
+            "english": "Drug abuse can lead to serious health problems."
+        },
+        {
+            "german": "Die Polizei hat eine große Menge an Drogen beschlagnahmt.",
+            "english": "The police seized a large quantity of drugs."
+        }
+    ]
 }

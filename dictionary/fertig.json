@@ -1,28 +1,26 @@
 {
     "word": "fertig",
     "definition": "The word \"fertig\" typically describes a state of completion or readiness. It is commonly used to indicate that something has been finished, done, or prepared. It can refer to the completion of a task, the readiness of a product, or the state of being fully cooked or baked. Additionally, \"fertig\" can also convey a sense of exhaustion or being worn out, often used to describe a person who is mentally or physically drained.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin fertig mit der Arbeit.",
-                "english": "I am finished with work."
-            },
-            {
-                "german": "Bist du schon fertig?",
-                "english": "Are you ready yet?"
-            },
-            {
-                "german": "Das Essen ist fertig.",
-                "english": "The food is ready."
-            },
-            {
-                "german": "Er ist fertig mit dem Buch.",
-                "english": "He is done with the book."
-            },
-            {
-                "german": "Wir sind fertig für die Präsentation.",
-                "english": "We are prepared for the presentation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin fertig mit der Arbeit.",
+            "english": "I am finished with work."
+        },
+        {
+            "german": "Bist du schon fertig?",
+            "english": "Are you ready yet?"
+        },
+        {
+            "german": "Das Essen ist fertig.",
+            "english": "The food is ready."
+        },
+        {
+            "german": "Er ist fertig mit dem Buch.",
+            "english": "He is done with the book."
+        },
+        {
+            "german": "Wir sind fertig für die Präsentation.",
+            "english": "We are prepared for the presentation."
+        }
+    ]
 }

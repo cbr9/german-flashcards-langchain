@@ -1,28 +1,26 @@
 {
     "word": "die Luft, die Luft",
     "definition": "A substance that surrounds the Earth and is necessary for breathing, composed mainly of nitrogen, oxygen, and trace amounts of other gases. It is typically used for respiration and is essential for sustaining life.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Luft ist frisch und klar.",
-                "english": "The air is fresh and clear."
-            },
-            {
-                "german": "Ich brauche Luft zum Atmen.",
-                "english": "I need air to breathe."
-            },
-            {
-                "german": "Der Ballon schwebte in der Luft.",
-                "english": "The balloon floated in the air."
-            },
-            {
-                "german": "Die Luftverschmutzung ist ein ernstes Problem.",
-                "english": "Air pollution is a serious problem."
-            },
-            {
-                "german": "Er öffnete das Fenster, um frische Luft hereinzulassen.",
-                "english": "He opened the window to let in fresh air."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Luft ist frisch und klar.",
+            "english": "The air is fresh and clear."
+        },
+        {
+            "german": "Ich brauche Luft zum Atmen.",
+            "english": "I need air to breathe."
+        },
+        {
+            "german": "Der Ballon schwebte in der Luft.",
+            "english": "The balloon floated in the air."
+        },
+        {
+            "german": "Die Luftverschmutzung ist ein ernstes Problem.",
+            "english": "Air pollution is a serious problem."
+        },
+        {
+            "german": "Er öffnete das Fenster, um frische Luft hereinzulassen.",
+            "english": "He opened the window to let in fresh air."
+        }
+    ]
 }

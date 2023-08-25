@@ -1,28 +1,26 @@
 {
     "word": "das Ausland, die Ausländer",
     "definition": "The term refers to a geographical concept that denotes a location or area that is distinct from one's own country or homeland. It commonly refers to foreign countries or regions outside of one's national borders. It is often used to describe travel, international relations, or the experience of being in a foreign land.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte ins Ausland reisen.",
-                "english": "I want to travel abroad."
-            },
-            {
-                "german": "Meine Schwester lebt im Ausland.",
-                "english": "My sister lives abroad."
-            },
-            {
-                "german": "Er hat im Ausland studiert.",
-                "english": "He studied abroad."
-            },
-            {
-                "german": "Das Ausland hat seine Augen geöffnet.",
-                "english": "The foreign country opened his eyes."
-            },
-            {
-                "german": "Sie hat im Ausland gearbeitet.",
-                "english": "She worked overseas."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte ins Ausland reisen.",
+            "english": "I want to travel abroad."
+        },
+        {
+            "german": "Meine Schwester lebt im Ausland.",
+            "english": "My sister lives abroad."
+        },
+        {
+            "german": "Er hat im Ausland studiert.",
+            "english": "He studied abroad."
+        },
+        {
+            "german": "Das Ausland hat seine Augen geöffnet.",
+            "english": "The foreign country opened his eyes."
+        },
+        {
+            "german": "Sie hat im Ausland gearbeitet.",
+            "english": "She worked overseas."
+        }
+    ]
 }

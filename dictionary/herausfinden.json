@@ -1,28 +1,26 @@
 {
     "word": "herausfinden, fand heraus, herausgefunden",
     "definition": "To discover or determine information or a solution through investigation, exploration, or research. It is commonly used when referring to the process of finding out or figuring out something, often involving a problem or mystery.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte herausfinden, wo er wohnt.",
-                "english": "I want to find out where he lives."
-            },
-            {
-                "german": "Kannst du herausfinden, ob das wahr ist?",
-                "english": "Can you find out if that's true?"
-            },
-            {
-                "german": "Wir müssen herausfinden, wer das gemacht hat.",
-                "english": "We need to figure out who did this."
-            },
-            {
-                "german": "Ich habe endlich herausgefunden, wie das funktioniert.",
-                "english": "I finally figured out how it works."
-            },
-            {
-                "german": "Er hat herausgefunden, dass er betrogen wurde.",
-                "english": "He found out that he was cheated."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte herausfinden, wo er wohnt.",
+            "english": "I want to find out where he lives."
+        },
+        {
+            "german": "Kannst du herausfinden, ob das wahr ist?",
+            "english": "Can you find out if that's true?"
+        },
+        {
+            "german": "Wir müssen herausfinden, wer das gemacht hat.",
+            "english": "We need to figure out who did this."
+        },
+        {
+            "german": "Ich habe endlich herausgefunden, wie das funktioniert.",
+            "english": "I finally figured out how it works."
+        },
+        {
+            "german": "Er hat herausgefunden, dass er betrogen wurde.",
+            "english": "He found out that he was cheated."
+        }
+    ]
 }

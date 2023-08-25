@@ -1,28 +1,26 @@
 {
     "word": "einheimisch",
     "definition": "A term used to describe something or someone that originates or belongs to a specific place or region, typically referring to plants, animals, or people. It is commonly used to describe the native or indigenous characteristics of a particular area or population.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin einheimisch in Berlin.",
-                "english": "I am a local in Berlin."
-            },
-            {
-                "german": "Die einheimische Bevölkerung ist sehr freundlich.",
-                "english": "The local population is very friendly."
-            },
-            {
-                "german": "Er ist ein einheimischer Künstler.",
-                "english": "He is a local artist."
-            },
-            {
-                "german": "Die einheimische Flora und Fauna ist einzigartig.",
-                "english": "The local flora and fauna is unique."
-            },
-            {
-                "german": "Die einheimische Sprache ist schwer zu lernen.",
-                "english": "The local language is difficult to learn."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin einheimisch in Berlin.",
+            "english": "I am a local in Berlin."
+        },
+        {
+            "german": "Die einheimische Bevölkerung ist sehr freundlich.",
+            "english": "The local population is very friendly."
+        },
+        {
+            "german": "Er ist ein einheimischer Künstler.",
+            "english": "He is a local artist."
+        },
+        {
+            "german": "Die einheimische Flora und Fauna ist einzigartig.",
+            "english": "The local flora and fauna is unique."
+        },
+        {
+            "german": "Die einheimische Sprache ist schwer zu lernen.",
+            "english": "The local language is difficult to learn."
+        }
+    ]
 }

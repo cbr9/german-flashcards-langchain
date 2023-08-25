@@ -1,28 +1,26 @@
 {
     "word": "giftig",
     "definition": "The term \"giftig\" refers to something that possesses a certain characteristic, often associated with substances or organisms. It is commonly used to describe the potential harm or toxicity of a particular entity, emphasizing its poisonous nature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Pflanze ist giftig.",
-                "english": "The plant is poisonous."
-            },
-            {
-                "german": "Vorsicht, das Tier ist giftig!",
-                "english": "Be careful, the animal is venomous!"
-            },
-            {
-                "german": "Der Pilz hat giftige Eigenschaften.",
-                "english": "The mushroom has toxic properties."
-            },
-            {
-                "german": "Giftige Substanzen können gefährlich sein.",
-                "english": "Poisonous substances can be dangerous."
-            },
-            {
-                "german": "Die Schlange hat giftige Zähne.",
-                "english": "The snake has venomous fangs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Pflanze ist giftig.",
+            "english": "The plant is poisonous."
+        },
+        {
+            "german": "Vorsicht, das Tier ist giftig!",
+            "english": "Be careful, the animal is venomous!"
+        },
+        {
+            "german": "Der Pilz hat giftige Eigenschaften.",
+            "english": "The mushroom has toxic properties."
+        },
+        {
+            "german": "Giftige Substanzen können gefährlich sein.",
+            "english": "Poisonous substances can be dangerous."
+        },
+        {
+            "german": "Die Schlange hat giftige Zähne.",
+            "english": "The snake has venomous fangs."
+        }
+    ]
 }

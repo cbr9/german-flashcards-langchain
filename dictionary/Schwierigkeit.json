@@ -1,28 +1,26 @@
 {
     "word": "die Schwierigkeit, die Schwierigkeiten",
     "definition": "A term used to describe a challenging or complex situation, task, or problem that requires effort, skill, or perseverance to overcome. It is commonly used to refer to obstacles, difficulties, or complications encountered in various contexts, such as in learning, problem-solving, or daily life.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Mathematikaufgabe bereitete ihm Schwierigkeiten.",
-                "english": "The math problem gave him difficulty."
-            },
-            {
-                "german": "Ich habe Schwierigkeiten, mich auf das Buch zu konzentrieren.",
-                "english": "I have difficulty concentrating on the book."
-            },
-            {
-                "german": "Das Klavierspielen erfordert viel Übung und Schwierigkeit.",
-                "english": "Playing the piano requires a lot of practice and difficulty."
-            },
-            {
-                "german": "Die Schüler hatten Schwierigkeiten, die Aufgabe zu lösen.",
-                "english": "The students had difficulty solving the task."
-            },
-            {
-                "german": "Der Bergsteiger überwand alle Schwierigkeiten und erreichte den Gipfel.",
-                "english": "The mountaineer overcame all difficulties and reached the summit."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Mathematikaufgabe bereitete ihm Schwierigkeiten.",
+            "english": "The math problem gave him difficulty."
+        },
+        {
+            "german": "Ich habe Schwierigkeiten, mich auf das Buch zu konzentrieren.",
+            "english": "I have difficulty concentrating on the book."
+        },
+        {
+            "german": "Das Klavierspielen erfordert viel Übung und Schwierigkeit.",
+            "english": "Playing the piano requires a lot of practice and difficulty."
+        },
+        {
+            "german": "Die Schüler hatten Schwierigkeiten, die Aufgabe zu lösen.",
+            "english": "The students had difficulty solving the task."
+        },
+        {
+            "german": "Der Bergsteiger überwand alle Schwierigkeiten und erreichte den Gipfel.",
+            "english": "The mountaineer overcame all difficulties and reached the summit."
+        }
+    ]
 }

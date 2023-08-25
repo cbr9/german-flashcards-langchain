@@ -1,28 +1,26 @@
 {
     "word": "das Mitglied, die Mitglieder",
     "definition": "A person who is part of a group, organization, or association, typically with a shared purpose or interest. This term is commonly used to refer to individuals who have joined or are affiliated with a particular group, such as a club, team, or society.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein aktives Mitglied des Vereins.",
-                "english": "He is an active member of the club."
-            },
-            {
-                "german": "Sie ist seit fünf Jahren Mitglied der Partei.",
-                "english": "She has been a member of the party for five years."
-            },
-            {
-                "german": "Das Unternehmen hat viele Mitglieder in verschiedenen Ländern.",
-                "english": "The company has many members in different countries."
-            },
-            {
-                "german": "Als Mitglied erhalten Sie exklusive Vorteile.",
-                "english": "As a member, you will receive exclusive benefits."
-            },
-            {
-                "german": "Er wurde als neues Mitglied in den Vorstand gewählt.",
-                "english": "He was elected to the board as a new member."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein aktives Mitglied des Vereins.",
+            "english": "He is an active member of the club."
+        },
+        {
+            "german": "Sie ist seit fünf Jahren Mitglied der Partei.",
+            "english": "She has been a member of the party for five years."
+        },
+        {
+            "german": "Das Unternehmen hat viele Mitglieder in verschiedenen Ländern.",
+            "english": "The company has many members in different countries."
+        },
+        {
+            "german": "Als Mitglied erhalten Sie exklusive Vorteile.",
+            "english": "As a member, you will receive exclusive benefits."
+        },
+        {
+            "german": "Er wurde als neues Mitglied in den Vorstand gewählt.",
+            "english": "He was elected to the board as a new member."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "verheerend",
     "definition": "The term \"verheerend\" refers to an adjective that describes a situation, event, or outcome that has extremely destructive, devastating, or catastrophic effects. It is commonly used to depict the severe impact or consequences of something, often emphasizing the overwhelming and negative nature of the situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Explosion hatte verheerende Auswirkungen.",
-                "english": "The explosion had devastating effects."
-            },
-            {
-                "german": "Das Erdbeben richtete verheerende Schäden an.",
-                "english": "The earthquake caused devastating damage."
-            },
-            {
-                "german": "Die Entscheidung hatte verheerende Konsequenzen.",
-                "english": "The decision had devastating consequences."
-            },
-            {
-                "german": "Der Sturm hinterließ eine verheerende Spur der Zerstörung.",
-                "english": "The storm left a trail of devastating destruction."
-            },
-            {
-                "german": "Der Krieg hatte verheerende Auswirkungen auf die Bevölkerung.",
-                "english": "The war had devastating effects on the population."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Explosion hatte verheerende Auswirkungen.",
+            "english": "The explosion had devastating effects."
+        },
+        {
+            "german": "Das Erdbeben richtete verheerende Schäden an.",
+            "english": "The earthquake caused devastating damage."
+        },
+        {
+            "german": "Die Entscheidung hatte verheerende Konsequenzen.",
+            "english": "The decision had devastating consequences."
+        },
+        {
+            "german": "Der Sturm hinterließ eine verheerende Spur der Zerstörung.",
+            "english": "The storm left a trail of devastating destruction."
+        },
+        {
+            "german": "Der Krieg hatte verheerende Auswirkungen auf die Bevölkerung.",
+            "english": "The war had devastating effects on the population."
+        }
+    ]
 }

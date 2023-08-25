@@ -1,28 +1,26 @@
 {
     "word": "nachfragen, fragte nach, nachgefragt",
     "definition": "To inquire or seek information by asking someone for clarification, details, or confirmation. It is commonly used when one wants to obtain additional information or verify something that is unclear or uncertain.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du bitte nachfragen, ob der Termin verschoben wurde?",
-                "english": "Can you please inquire if the appointment has been rescheduled?"
-            },
-            {
-                "german": "Ich werde nachfragen, ob das Produkt noch vorrätig ist.",
-                "english": "I will ask if the product is still in stock."
-            },
-            {
-                "german": "Er hat beim Lehrer nachgefragt, ob er die Hausaufgaben abgeben muss.",
-                "english": "He asked the teacher if he has to hand in the homework."
-            },
-            {
-                "german": "Könnten Sie bei der Rezeption nachfragen, ob mein Paket angekommen ist?",
-                "english": "Could you inquire at the reception if my package has arrived?"
-            },
-            {
-                "german": "Ich werde nachfragen, ob wir den Raum für die Veranstaltung nutzen können.",
-                "english": "I will ask if we can use the room for the event."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du bitte nachfragen, ob der Termin verschoben wurde?",
+            "english": "Can you please inquire if the appointment has been rescheduled?"
+        },
+        {
+            "german": "Ich werde nachfragen, ob das Produkt noch vorrätig ist.",
+            "english": "I will ask if the product is still in stock."
+        },
+        {
+            "german": "Er hat beim Lehrer nachgefragt, ob er die Hausaufgaben abgeben muss.",
+            "english": "He asked the teacher if he has to hand in the homework."
+        },
+        {
+            "german": "Könnten Sie bei der Rezeption nachfragen, ob mein Paket angekommen ist?",
+            "english": "Could you inquire at the reception if my package has arrived?"
+        },
+        {
+            "german": "Ich werde nachfragen, ob wir den Raum für die Veranstaltung nutzen können.",
+            "english": "I will ask if we can use the room for the event."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Bergsteiger, die Bergsteiger",
     "definition": "A person who engages in the activity of ascending mountains, typically for recreational or sporting purposes, often equipped with specialized gear and techniques.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Bergsteiger kletterte den steilen Gipfel hinauf.",
-                "english": "The mountaineer climbed up the steep summit."
-            },
-            {
-                "german": "Die Gruppe erfahrener Bergsteiger erreichte den Gipfel als Erste.",
-                "english": "The group of experienced mountaineers reached the summit first."
-            },
-            {
-                "german": "Der Bergsteiger war mit Seil und Karabiner ausgestattet.",
-                "english": "The mountaineer was equipped with rope and carabiner."
-            },
-            {
-                "german": "Die Bergsteigerin wagte sich auf den gefährlichen Grat.",
-                "english": "The female mountaineer ventured onto the dangerous ridge."
-            },
-            {
-                "german": "Der erfahrene Bergsteiger führte eine Expedition zum höchsten Berg der Welt.",
-                "english": "The experienced mountaineer led an expedition to the highest mountain in the world."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Bergsteiger kletterte den steilen Gipfel hinauf.",
+            "english": "The mountaineer climbed up the steep summit."
+        },
+        {
+            "german": "Die Gruppe erfahrener Bergsteiger erreichte den Gipfel als Erste.",
+            "english": "The group of experienced mountaineers reached the summit first."
+        },
+        {
+            "german": "Der Bergsteiger war mit Seil und Karabiner ausgestattet.",
+            "english": "The mountaineer was equipped with rope and carabiner."
+        },
+        {
+            "german": "Die Bergsteigerin wagte sich auf den gefährlichen Grat.",
+            "english": "The female mountaineer ventured onto the dangerous ridge."
+        },
+        {
+            "german": "Der erfahrene Bergsteiger führte eine Expedition zum höchsten Berg der Welt.",
+            "english": "The experienced mountaineer led an expedition to the highest mountain in the world."
+        }
+    ]
 }

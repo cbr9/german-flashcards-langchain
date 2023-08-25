@@ -1,28 +1,26 @@
 {
     "word": "intelligent",
     "definition": "Able to comprehend and analyze information, displaying a high level of mental capacity and problem-solving skills. Often used to describe individuals who possess quick thinking abilities and demonstrate a strong aptitude for learning and understanding complex concepts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein sehr intelligenter Mann.",
-                "english": "He is a very intelligent man."
-            },
-            {
-                "german": "Sie hat eine intelligente Lösung gefunden.",
-                "english": "She has found an intelligent solution."
-            },
-            {
-                "german": "Das ist ein intelligentes Gerät.",
-                "english": "This is an intelligent device."
-            },
-            {
-                "german": "Er ist ein intelligenter Schüler.",
-                "english": "He is an intelligent student."
-            },
-            {
-                "german": "Sie ist eine intelligente Frau.",
-                "english": "She is an intelligent woman."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein sehr intelligenter Mann.",
+            "english": "He is a very intelligent man."
+        },
+        {
+            "german": "Sie hat eine intelligente Lösung gefunden.",
+            "english": "She has found an intelligent solution."
+        },
+        {
+            "german": "Das ist ein intelligentes Gerät.",
+            "english": "This is an intelligent device."
+        },
+        {
+            "german": "Er ist ein intelligenter Schüler.",
+            "english": "He is an intelligent student."
+        },
+        {
+            "german": "Sie ist eine intelligente Frau.",
+            "english": "She is an intelligent woman."
+        }
+    ]
 }

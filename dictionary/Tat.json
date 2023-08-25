@@ -1,28 +1,26 @@
 {
     "word": "die Tat, die Taten",
     "definition": "A German word that refers to an action or deed, typically associated with a specific event or occurrence. It is commonly used to describe an act or undertaking, often with a focus on its consequences or impact.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Tat war mutig.",
-                "english": "The deed was brave."
-            },
-            {
-                "german": "Er ist für seine Taten bekannt.",
-                "english": "He is known for his actions."
-            },
-            {
-                "german": "Die Tat wurde von der Polizei untersucht.",
-                "english": "The crime was investigated by the police."
-            },
-            {
-                "german": "Sie hat eine gute Tat vollbracht.",
-                "english": "She has done a good deed."
-            },
-            {
-                "german": "Seine Taten sprechen lauter als Worte.",
-                "english": "His actions speak louder than words."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Tat war mutig.",
+            "english": "The deed was brave."
+        },
+        {
+            "german": "Er ist für seine Taten bekannt.",
+            "english": "He is known for his actions."
+        },
+        {
+            "german": "Die Tat wurde von der Polizei untersucht.",
+            "english": "The crime was investigated by the police."
+        },
+        {
+            "german": "Sie hat eine gute Tat vollbracht.",
+            "english": "She has done a good deed."
+        },
+        {
+            "german": "Seine Taten sprechen lauter als Worte.",
+            "english": "His actions speak louder than words."
+        }
+    ]
 }

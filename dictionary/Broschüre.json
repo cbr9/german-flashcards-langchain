@@ -1,28 +1,26 @@
 {
     "word": "die Broschüre, die Broschüren",
     "definition": "A small booklet or pamphlet containing information, often used for promotional or informational purposes, typically consisting of a few pages and bound together. It is commonly utilized in various industries, such as marketing, advertising, and education, to provide concise and accessible information to readers.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Broschüre enthält wichtige Informationen.",
-                "english": "The brochure contains important information."
-            },
-            {
-                "german": "Kann ich eine Broschüre über das Hotel haben?",
-                "english": "Can I have a brochure about the hotel?"
-            },
-            {
-                "german": "Die Broschüre ist in verschiedenen Sprachen erhältlich.",
-                "english": "The brochure is available in different languages."
-            },
-            {
-                "german": "Die Broschüre bietet einen Überblick über die Veranstaltung.",
-                "english": "The brochure provides an overview of the event."
-            },
-            {
-                "german": "Die Broschüre kann kostenlos heruntergeladen werden.",
-                "english": "The brochure can be downloaded for free."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Broschüre enthält wichtige Informationen.",
+            "english": "The brochure contains important information."
+        },
+        {
+            "german": "Kann ich eine Broschüre über das Hotel haben?",
+            "english": "Can I have a brochure about the hotel?"
+        },
+        {
+            "german": "Die Broschüre ist in verschiedenen Sprachen erhältlich.",
+            "english": "The brochure is available in different languages."
+        },
+        {
+            "german": "Die Broschüre bietet einen Überblick über die Veranstaltung.",
+            "english": "The brochure provides an overview of the event."
+        },
+        {
+            "german": "Die Broschüre kann kostenlos heruntergeladen werden.",
+            "english": "The brochure can be downloaded for free."
+        }
+    ]
 }

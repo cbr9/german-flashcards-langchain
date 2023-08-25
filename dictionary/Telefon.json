@@ -1,28 +1,26 @@
 {
     "word": "das Telefon, die Telefon",
     "definition": "A device that allows for communication over long distances, typically through the transmission of sound or voice signals, often used for making calls and exchanging information between individuals who are not physically present with each other.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich rufe dich später an.",
-                "english": "I will call you later."
-            },
-            {
-                "german": "Kannst du mir deine Telefonnummer geben?",
-                "english": "Can you give me your phone number?"
-            },
-            {
-                "german": "Das Telefon klingelt.",
-                "english": "The phone is ringing."
-            },
-            {
-                "german": "Ich habe mein Telefon verloren.",
-                "english": "I lost my phone."
-            },
-            {
-                "german": "Er telefoniert gerade.",
-                "english": "He is on the phone right now."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich rufe dich später an.",
+            "english": "I will call you later."
+        },
+        {
+            "german": "Kannst du mir deine Telefonnummer geben?",
+            "english": "Can you give me your phone number?"
+        },
+        {
+            "german": "Das Telefon klingelt.",
+            "english": "The phone is ringing."
+        },
+        {
+            "german": "Ich habe mein Telefon verloren.",
+            "english": "I lost my phone."
+        },
+        {
+            "german": "Er telefoniert gerade.",
+            "english": "He is on the phone right now."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Sommer, die Sommer",
     "definition": "A season characterized by warm weather, longer daylight hours, and typically associated with outdoor activities, vacations, and relaxation. It is commonly used to refer to the period between spring and autumn, when temperatures are generally higher and nature is in full bloom.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Sommer ist meine Lieblingsjahreszeit.",
-                "english": "Summer is my favorite season."
-            },
-            {
-                "german": "Im Sommer gehe ich gerne schwimmen.",
-                "english": "I enjoy swimming in the summer."
-            },
-            {
-                "german": "Wir machen jedes Jahr im Sommer Urlaub.",
-                "english": "We go on vacation every summer."
-            },
-            {
-                "german": "Im Sommer sind die Tage länger.",
-                "english": "The days are longer in the summer."
-            },
-            {
-                "german": "Im Sommer trage ich gerne leichte Kleidung.",
-                "english": "I like to wear light clothing in the summer."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Sommer ist meine Lieblingsjahreszeit.",
+            "english": "Summer is my favorite season."
+        },
+        {
+            "german": "Im Sommer gehe ich gerne schwimmen.",
+            "english": "I enjoy swimming in the summer."
+        },
+        {
+            "german": "Wir machen jedes Jahr im Sommer Urlaub.",
+            "english": "We go on vacation every summer."
+        },
+        {
+            "german": "Im Sommer sind die Tage länger.",
+            "english": "The days are longer in the summer."
+        },
+        {
+            "german": "Im Sommer trage ich gerne leichte Kleidung.",
+            "english": "I like to wear light clothing in the summer."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Projekt, die Projekte",
     "definition": "A planned endeavor or undertaking, typically involving a series of coordinated activities, with a specific goal or objective in mind. It is commonly used in various fields, such as business, technology, education, and research, to refer to a temporary and organized effort aimed at achieving a desired outcome.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Projekt wurde erfolgreich abgeschlossen.",
-                "english": "The project was successfully completed."
-            },
-            {
-                "german": "Wir arbeiten gerade an einem neuen Projekt.",
-                "english": "We are currently working on a new project."
-            },
-            {
-                "german": "Das Projektteam besteht aus fünf Mitgliedern.",
-                "english": "The project team consists of five members."
-            },
-            {
-                "german": "Das Projekt hat eine Laufzeit von sechs Monaten.",
-                "english": "The project has a duration of six months."
-            },
-            {
-                "german": "Wir haben das Projektbudget überschritten.",
-                "english": "We have exceeded the project budget."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Projekt wurde erfolgreich abgeschlossen.",
+            "english": "The project was successfully completed."
+        },
+        {
+            "german": "Wir arbeiten gerade an einem neuen Projekt.",
+            "english": "We are currently working on a new project."
+        },
+        {
+            "german": "Das Projektteam besteht aus fünf Mitgliedern.",
+            "english": "The project team consists of five members."
+        },
+        {
+            "german": "Das Projekt hat eine Laufzeit von sechs Monaten.",
+            "english": "The project has a duration of six months."
+        },
+        {
+            "german": "Wir haben das Projektbudget überschritten.",
+            "english": "We have exceeded the project budget."
+        }
+    ]
 }

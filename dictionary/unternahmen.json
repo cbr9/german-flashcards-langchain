@@ -1,28 +1,26 @@
 {
     "word": "unternehmen, unternahm, unternommen",
     "definition": "A term commonly employed to describe actions or activities undertaken by individuals or groups, typically with a specific purpose or goal in mind. It is often used in the context of business, entrepreneurship, or ventures, referring to the initiatives, endeavors, or undertakings carried out by individuals or organizations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie unternahmen eine Reise nach Italien.",
-                "english": "They undertook a trip to Italy."
-            },
-            {
-                "german": "Wir unternahmen gestern eine Wanderung in den Bergen.",
-                "english": "Yesterday we went on a hike in the mountains."
-            },
-            {
-                "german": "Die Firma unternahm große Anstrengungen, um den Kunden zufriedenzustellen.",
-                "english": "The company made great efforts to satisfy the customers."
-            },
-            {
-                "german": "Sie unternahmen einen Ausflug in die Stadt.",
-                "english": "They took a trip to the city."
-            },
-            {
-                "german": "Die Kinder unternahmen einen Spaziergang im Park.",
-                "english": "The children went for a walk in the park."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie unternahmen eine Reise nach Italien.",
+            "english": "They undertook a trip to Italy."
+        },
+        {
+            "german": "Wir unternahmen gestern eine Wanderung in den Bergen.",
+            "english": "Yesterday we went on a hike in the mountains."
+        },
+        {
+            "german": "Die Firma unternahm große Anstrengungen, um den Kunden zufriedenzustellen.",
+            "english": "The company made great efforts to satisfy the customers."
+        },
+        {
+            "german": "Sie unternahmen einen Ausflug in die Stadt.",
+            "english": "They took a trip to the city."
+        },
+        {
+            "german": "Die Kinder unternahmen einen Spaziergang im Park.",
+            "english": "The children went for a walk in the park."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "herstellen, stellte her, hergestellt",
     "definition": "To create or produce something, typically referring to the manufacturing or fabrication process. It is commonly used in the context of making or manufacturing products, goods, or items.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich kann das Produkt herstellen.",
-                "english": "I can produce the product."
-            },
-            {
-                "german": "Die Fabrik stellt Autos her.",
-                "english": "The factory manufactures cars."
-            },
-            {
-                "german": "Er stellt seine eigenen Möbel her.",
-                "english": "He makes his own furniture."
-            },
-            {
-                "german": "Sie können die Verbindung herstellen.",
-                "english": "You can establish the connection."
-            },
-            {
-                "german": "Der Mechaniker kann den Motor wieder herstellen.",
-                "english": "The mechanic can restore the engine."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich kann das Produkt herstellen.",
+            "english": "I can produce the product."
+        },
+        {
+            "german": "Die Fabrik stellt Autos her.",
+            "english": "The factory manufactures cars."
+        },
+        {
+            "german": "Er stellt seine eigenen Möbel her.",
+            "english": "He makes his own furniture."
+        },
+        {
+            "german": "Sie können die Verbindung herstellen.",
+            "english": "You can establish the connection."
+        },
+        {
+            "german": "Der Mechaniker kann den Motor wieder herstellen.",
+            "english": "The mechanic can restore the engine."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "dazu",
     "definition": "\"Dazu\" is a term commonly employed to indicate an additional action, item, or information that is related or connected to something previously mentioned. It is frequently used to express the notion of \"in addition to\" or \"in relation to\" a specific subject or topic.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Dazu brauche ich deine Hilfe.",
-                "english": "I need your help with that."
-            },
-            {
-                "german": "Was sagst du dazu?",
-                "english": "What do you say about that?"
-            },
-            {
-                "german": "Ich habe nichts dazu zu sagen.",
-                "english": "I have nothing to say about that."
-            },
-            {
-                "german": "Er hat viel dazu beigetragen.",
-                "english": "He has contributed a lot to that."
-            },
-            {
-                "german": "Ich habe eine Frage dazu.",
-                "english": "I have a question about that."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Dazu brauche ich deine Hilfe.",
+            "english": "I need your help with that."
+        },
+        {
+            "german": "Was sagst du dazu?",
+            "english": "What do you say about that?"
+        },
+        {
+            "german": "Ich habe nichts dazu zu sagen.",
+            "english": "I have nothing to say about that."
+        },
+        {
+            "german": "Er hat viel dazu beigetragen.",
+            "english": "He has contributed a lot to that."
+        },
+        {
+            "german": "Ich habe eine Frage dazu.",
+            "english": "I have a question about that."
+        }
+    ]
 }

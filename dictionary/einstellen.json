@@ -1,28 +1,26 @@
 {
     "word": "einstellen, stellte ein, eingestellt",
     "definition": "To adjust or configure a device, system, or equipment according to specific settings or parameters. It is commonly used when referring to the act of setting up or programming electronic devices, machinery, or appliances to function in a desired manner.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde dich als Assistent einstellen.",
-                "english": "I will hire you as an assistant."
-            },
-            {
-                "german": "Bitte stellen Sie den Fernseher leiser ein.",
-                "english": "Please turn down the volume on the TV."
-            },
-            {
-                "german": "Er hat seine Arbeit eingestellt und ist nach Hause gegangen.",
-                "english": "He stopped working and went home."
-            },
-            {
-                "german": "Die Firma stellt neue Mitarbeiter ein.",
-                "english": "The company is hiring new employees."
-            },
-            {
-                "german": "Kannst du bitte die Klimaanlage einstellen?",
-                "english": "Can you please adjust the air conditioning?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde dich als Assistent einstellen.",
+            "english": "I will hire you as an assistant."
+        },
+        {
+            "german": "Bitte stellen Sie den Fernseher leiser ein.",
+            "english": "Please turn down the volume on the TV."
+        },
+        {
+            "german": "Er hat seine Arbeit eingestellt und ist nach Hause gegangen.",
+            "english": "He stopped working and went home."
+        },
+        {
+            "german": "Die Firma stellt neue Mitarbeiter ein.",
+            "english": "The company is hiring new employees."
+        },
+        {
+            "german": "Kannst du bitte die Klimaanlage einstellen?",
+            "english": "Can you please adjust the air conditioning?"
+        }
+    ]
 }

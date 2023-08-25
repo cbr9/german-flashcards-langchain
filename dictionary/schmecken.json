@@ -1,28 +1,26 @@
 {
     "word": "schmecken, schmeckte, geschmeckt",
     "definition": "To perceive and evaluate the flavor or taste of something, typically by using the sense of taste. It is commonly used when referring to the act of experiencing the taste of food, beverages, or other consumable items.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Essen schmeckt gut.",
-                "english": "The food tastes good."
-            },
-            {
-                "german": "Der Kuchen schmeckt süß.",
-                "english": "The cake tastes sweet."
-            },
-            {
-                "german": "Die Suppe schmeckt salzig.",
-                "english": "The soup tastes salty."
-            },
-            {
-                "german": "Das Bier schmeckt bitter.",
-                "english": "The beer tastes bitter."
-            },
-            {
-                "german": "Die Limonade schmeckt erfrischend.",
-                "english": "The lemonade tastes refreshing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Essen schmeckt gut.",
+            "english": "The food tastes good."
+        },
+        {
+            "german": "Der Kuchen schmeckt süß.",
+            "english": "The cake tastes sweet."
+        },
+        {
+            "german": "Die Suppe schmeckt salzig.",
+            "english": "The soup tastes salty."
+        },
+        {
+            "german": "Das Bier schmeckt bitter.",
+            "english": "The beer tastes bitter."
+        },
+        {
+            "german": "Die Limonade schmeckt erfrischend.",
+            "english": "The lemonade tastes refreshing."
+        }
+    ]
 }

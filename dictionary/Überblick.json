@@ -1,28 +1,26 @@
 {
     "word": "der Überblick, die Überblicke",
     "definition": "A concise summary or understanding of a situation, topic, or set of information, often used to refer to a general understanding or grasp of a subject matter. It is commonly used to describe the ability to comprehend or have an overview of something, such as a concept, a plan, or a collection of data.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe den Überblick verloren.",
-                "english": "I lost track."
-            },
-            {
-                "german": "Er behält immer den Überblick.",
-                "english": "He always keeps an overview."
-            },
-            {
-                "german": "Kannst du mir einen Überblick über das Projekt geben?",
-                "english": "Can you give me an overview of the project?"
-            },
-            {
-                "german": "Der Artikel gibt einen guten Überblick über das Thema.",
-                "english": "The article provides a good overview of the topic."
-            },
-            {
-                "german": "Sie hat einen klaren Überblick über ihre Finanzen.",
-                "english": "She has a clear overview of her finances."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe den Überblick verloren.",
+            "english": "I lost track."
+        },
+        {
+            "german": "Er behält immer den Überblick.",
+            "english": "He always keeps an overview."
+        },
+        {
+            "german": "Kannst du mir einen Überblick über das Projekt geben?",
+            "english": "Can you give me an overview of the project?"
+        },
+        {
+            "german": "Der Artikel gibt einen guten Überblick über das Thema.",
+            "english": "The article provides a good overview of the topic."
+        },
+        {
+            "german": "Sie hat einen klaren Überblick über ihre Finanzen.",
+            "english": "She has a clear overview of her finances."
+        }
+    ]
 }

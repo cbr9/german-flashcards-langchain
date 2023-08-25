@@ -1,28 +1,26 @@
 {
     "word": "zurückkehren, kehrte zurück, zurückgekehrt",
     "definition": "To go back to a previous location or state, often used to describe the act of returning to a place or situation that one has left or been away from for a period of time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde nächste Woche nach Hause zurückkehren.",
-                "english": "I will return home next week."
-            },
-            {
-                "german": "Er möchte in seine Heimatstadt zurückkehren.",
-                "english": "He wants to return to his hometown."
-            },
-            {
-                "german": "Wir sollten zum Ausgangspunkt zurückkehren.",
-                "english": "We should return to the starting point."
-            },
-            {
-                "german": "Sie konnte nicht in ihr altes Leben zurückkehren.",
-                "english": "She couldn't return to her old life."
-            },
-            {
-                "german": "Nach dem Urlaub müssen wir zur Arbeit zurückkehren.",
-                "english": "After the vacation, we have to return to work."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde nächste Woche nach Hause zurückkehren.",
+            "english": "I will return home next week."
+        },
+        {
+            "german": "Er möchte in seine Heimatstadt zurückkehren.",
+            "english": "He wants to return to his hometown."
+        },
+        {
+            "german": "Wir sollten zum Ausgangspunkt zurückkehren.",
+            "english": "We should return to the starting point."
+        },
+        {
+            "german": "Sie konnte nicht in ihr altes Leben zurückkehren.",
+            "english": "She couldn't return to her old life."
+        },
+        {
+            "german": "Nach dem Urlaub müssen wir zur Arbeit zurückkehren.",
+            "english": "After the vacation, we have to return to work."
+        }
+    ]
 }

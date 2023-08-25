@@ -1,28 +1,26 @@
 {
     "word": "der Führerschein, die Führerscheine",
     "definition": "A document that serves as official proof of a person's ability to operate a motor vehicle legally, typically obtained after passing a series of tests and examinations. It is commonly used as a form of identification and is required to be carried while driving.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe meinen Führerschein verloren.",
-                "english": "I lost my driver's license."
-            },
-            {
-                "german": "Um ein Auto zu fahren, benötigt man einen Führerschein.",
-                "english": "To drive a car, you need a driver's license."
-            },
-            {
-                "german": "Er hat seinen Führerschein bestanden.",
-                "english": "He passed his driver's test."
-            },
-            {
-                "german": "Der Führerschein muss immer mitgeführt werden.",
-                "english": "The driver's license must always be carried."
-            },
-            {
-                "german": "Sie hat ihren Führerschein erneuert.",
-                "english": "She renewed her driver's license."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe meinen Führerschein verloren.",
+            "english": "I lost my driver's license."
+        },
+        {
+            "german": "Um ein Auto zu fahren, benötigt man einen Führerschein.",
+            "english": "To drive a car, you need a driver's license."
+        },
+        {
+            "german": "Er hat seinen Führerschein bestanden.",
+            "english": "He passed his driver's test."
+        },
+        {
+            "german": "Der Führerschein muss immer mitgeführt werden.",
+            "english": "The driver's license must always be carried."
+        },
+        {
+            "german": "Sie hat ihren Führerschein erneuert.",
+            "english": "She renewed her driver's license."
+        }
+    ]
 }

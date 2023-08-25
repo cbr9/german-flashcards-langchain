@@ -1,28 +1,26 @@
 {
     "word": "anrufen, rief an, angerufen",
     "definition": "To make a connection with someone by using a device, typically a phone, in order to communicate with them, often with the intention of initiating a conversation or seeking information. This word is commonly used to describe the action of contacting someone by phone, usually to call them directly.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich rufe dich später an.",
-                "english": "I will call you later."
-            },
-            {
-                "german": "Kannst du mich bitte anrufen?",
-                "english": "Can you please call me?"
-            },
-            {
-                "german": "Er hat gestern angerufen.",
-                "english": "He called yesterday."
-            },
-            {
-                "german": "Wir müssen den Kundenservice anrufen.",
-                "english": "We need to call customer service."
-            },
-            {
-                "german": "Sie hat ihren Freund angerufen.",
-                "english": "She called her boyfriend."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich rufe dich später an.",
+            "english": "I will call you later."
+        },
+        {
+            "german": "Kannst du mich bitte anrufen?",
+            "english": "Can you please call me?"
+        },
+        {
+            "german": "Er hat gestern angerufen.",
+            "english": "He called yesterday."
+        },
+        {
+            "german": "Wir müssen den Kundenservice anrufen.",
+            "english": "We need to call customer service."
+        },
+        {
+            "german": "Sie hat ihren Freund angerufen.",
+            "english": "She called her boyfriend."
+        }
+    ]
 }

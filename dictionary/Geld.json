@@ -1,28 +1,26 @@
 {
     "word": "das Geld, die Gelder",
     "definition": "A medium of exchange commonly used for transactions and economic activities, representing a unit of value and typically taking the form of coins or banknotes. It is widely utilized for purchasing goods and services, paying debts, and conducting financial transactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Geld ist wichtig.",
-                "english": "Money is important."
-            },
-            {
-                "german": "Ich habe kein Geld.",
-                "english": "I have no money."
-            },
-            {
-                "german": "Kannst du mir etwas Geld leihen?",
-                "english": "Can you lend me some money?"
-            },
-            {
-                "german": "Er verdient viel Geld.",
-                "english": "He earns a lot of money."
-            },
-            {
-                "german": "Geld allein macht nicht glücklich.",
-                "english": "Money alone doesn't make you happy."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Geld ist wichtig.",
+            "english": "Money is important."
+        },
+        {
+            "german": "Ich habe kein Geld.",
+            "english": "I have no money."
+        },
+        {
+            "german": "Kannst du mir etwas Geld leihen?",
+            "english": "Can you lend me some money?"
+        },
+        {
+            "german": "Er verdient viel Geld.",
+            "english": "He earns a lot of money."
+        },
+        {
+            "german": "Geld allein macht nicht glücklich.",
+            "english": "Money alone doesn't make you happy."
+        }
+    ]
 }

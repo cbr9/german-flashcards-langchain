@@ -1,28 +1,26 @@
 {
     "word": "der Weinberg, die Weinberge",
     "definition": "A cultivated area of land, typically located on slopes or hillsides, where grapevines are grown for the purpose of producing wine.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Weinberg liegt am Hang.",
-                "english": "The vineyard is located on the slope."
-            },
-            {
-                "german": "Die Winzer ernten die Trauben im Weinberg.",
-                "english": "The winemakers harvest the grapes in the vineyard."
-            },
-            {
-                "german": "Der Weinberg erstreckt sich über mehrere Hektar.",
-                "english": "The vineyard extends over several hectares."
-            },
-            {
-                "german": "Im Weinberg wachsen verschiedene Rebsorten.",
-                "english": "Different grape varieties grow in the vineyard."
-            },
-            {
-                "german": "Der Weinberg bietet eine malerische Aussicht auf die Landschaft.",
-                "english": "The vineyard offers a picturesque view of the landscape."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Weinberg liegt am Hang.",
+            "english": "The vineyard is located on the slope."
+        },
+        {
+            "german": "Die Winzer ernten die Trauben im Weinberg.",
+            "english": "The winemakers harvest the grapes in the vineyard."
+        },
+        {
+            "german": "Der Weinberg erstreckt sich über mehrere Hektar.",
+            "english": "The vineyard extends over several hectares."
+        },
+        {
+            "german": "Im Weinberg wachsen verschiedene Rebsorten.",
+            "english": "Different grape varieties grow in the vineyard."
+        },
+        {
+            "german": "Der Weinberg bietet eine malerische Aussicht auf die Landschaft.",
+            "english": "The vineyard offers a picturesque view of the landscape."
+        }
+    ]
 }

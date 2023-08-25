@@ -1,28 +1,26 @@
 {
     "word": "dritter",
     "definition": "The word \"dritter\" refers to the numerical position of an item in a sequence, specifically denoting the number three in the sequence. It is commonly used to describe the third person, object, or element in a series or ranking.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist der dritte Spieler im Team.",
-                "english": "He is the third player on the team."
-            },
-            {
-                "german": "Sie ist in der dritten Klasse.",
-                "english": "She is in the third grade."
-            },
-            {
-                "german": "Das ist mein drittes Auto.",
-                "english": "This is my third car."
-            },
-            {
-                "german": "Er hat den dritten Platz im Rennen belegt.",
-                "english": "He finished in third place in the race."
-            },
-            {
-                "german": "Der dritte Stock ist das Büro des Direktors.",
-                "english": "The third floor is the office of the director."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist der dritte Spieler im Team.",
+            "english": "He is the third player on the team."
+        },
+        {
+            "german": "Sie ist in der dritten Klasse.",
+            "english": "She is in the third grade."
+        },
+        {
+            "german": "Das ist mein drittes Auto.",
+            "english": "This is my third car."
+        },
+        {
+            "german": "Er hat den dritten Platz im Rennen belegt.",
+            "english": "He finished in third place in the race."
+        },
+        {
+            "german": "Der dritte Stock ist das Büro des Direktors.",
+            "english": "The third floor is the office of the director."
+        }
+    ]
 }

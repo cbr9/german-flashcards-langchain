@@ -1,28 +1,26 @@
 {
     "word": "ausverkaufen, verkaufte aus, ausverkauft",
     "definition": "The term \"ausverkauft\" refers to a state where all available items or tickets have been sold and are no longer in stock or available for purchase. It is commonly used to describe the situation when a product, event, or performance has completely sold out, leaving no more items or tickets for sale.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Konzert ist ausverkauft.",
-                "english": "The concert is sold out."
-            },
-            {
-                "german": "Die Tickets sind ausverkauft.",
-                "english": "The tickets are sold out."
-            },
-            {
-                "german": "Das Geschäft ist ausverkauft.",
-                "english": "The store is sold out."
-            },
-            {
-                "german": "Die Vorstellung ist ausverkauft.",
-                "english": "The performance is sold out."
-            },
-            {
-                "german": "Die Veranstaltung ist ausverkauft.",
-                "english": "The event is sold out."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Konzert ist ausverkauft.",
+            "english": "The concert is sold out."
+        },
+        {
+            "german": "Die Tickets sind ausverkauft.",
+            "english": "The tickets are sold out."
+        },
+        {
+            "german": "Das Geschäft ist ausverkauft.",
+            "english": "The store is sold out."
+        },
+        {
+            "german": "Die Vorstellung ist ausverkauft.",
+            "english": "The performance is sold out."
+        },
+        {
+            "german": "Die Veranstaltung ist ausverkauft.",
+            "english": "The event is sold out."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "weh",
     "definition": "The term \"weh\" refers to a feeling or sensation that arises due to physical or emotional pain. It is commonly used to describe a state of discomfort or distress experienced by an individual. This word is often employed to express the presence of an ache, soreness, or anguish, whether it be physical or emotional in nature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es tut weh.",
-                "english": "It hurts."
-            },
-            {
-                "german": "Das tut weh.",
-                "english": "That hurts."
-            },
-            {
-                "german": "Es tut mir weh.",
-                "english": "It hurts me."
-            },
-            {
-                "german": "Es tut ihm weh.",
-                "english": "It hurts him."
-            },
-            {
-                "german": "Es tut ihr weh.",
-                "english": "It hurts her."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es tut weh.",
+            "english": "It hurts."
+        },
+        {
+            "german": "Das tut weh.",
+            "english": "That hurts."
+        },
+        {
+            "german": "Es tut mir weh.",
+            "english": "It hurts me."
+        },
+        {
+            "german": "Es tut ihm weh.",
+            "english": "It hurts him."
+        },
+        {
+            "german": "Es tut ihr weh.",
+            "english": "It hurts her."
+        }
+    ]
 }

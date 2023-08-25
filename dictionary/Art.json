@@ -1,28 +1,26 @@
 {
     "word": "die Art, die Arten",
     "definition": "A term used to describe a specific category or type of something, often referring to a particular style, manner, or approach. It is commonly used to classify various forms of creative expression, such as paintings, sculptures, music, literature, and other artistic endeavors. Additionally, it can be employed to categorize different genres, techniques, or methods within a specific field or discipline.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Art",
-                "english": "kind"
-            },
-            {
-                "german": "Kunst",
-                "english": "art"
-            },
-            {
-                "german": "Weise",
-                "english": "way"
-            },
-            {
-                "german": "Typ",
-                "english": "type"
-            },
-            {
-                "german": "Sorte",
-                "english": "sort"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Art",
+            "english": "kind"
+        },
+        {
+            "german": "Kunst",
+            "english": "art"
+        },
+        {
+            "german": "Weise",
+            "english": "way"
+        },
+        {
+            "german": "Typ",
+            "english": "type"
+        },
+        {
+            "german": "Sorte",
+            "english": "sort"
+        }
+    ]
 }

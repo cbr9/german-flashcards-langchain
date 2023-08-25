@@ -1,28 +1,26 @@
 {
     "word": "kontrovers",
     "definition": "A term used to describe a topic, issue, or subject that elicits strong and opposing opinions or viewpoints, often resulting in heated debates or discussions. It is commonly employed to refer to matters that provoke controversy, disagreement, or conflicting perspectives among individuals or groups.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Entscheidung war kontrovers.",
-                "english": "The decision was controversial."
-            },
-            {
-                "german": "Das Thema ist sehr kontrovers diskutiert worden.",
-                "english": "The topic has been highly controversially discussed."
-            },
-            {
-                "german": "Die kontroverse Debatte dauerte mehrere Stunden.",
-                "english": "The controversial debate lasted several hours."
-            },
-            {
-                "german": "Die kontroverse Meinung des Politikers sorgte für Aufsehen.",
-                "english": "The politician's controversial opinion caused a stir."
-            },
-            {
-                "german": "Die kontroverse Aussage des Wissenschaftlers wurde heftig kritisiert.",
-                "english": "The scientist's controversial statement was heavily criticized."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Entscheidung war kontrovers.",
+            "english": "The decision was controversial."
+        },
+        {
+            "german": "Das Thema ist sehr kontrovers diskutiert worden.",
+            "english": "The topic has been highly controversially discussed."
+        },
+        {
+            "german": "Die kontroverse Debatte dauerte mehrere Stunden.",
+            "english": "The controversial debate lasted several hours."
+        },
+        {
+            "german": "Die kontroverse Meinung des Politikers sorgte für Aufsehen.",
+            "english": "The politician's controversial opinion caused a stir."
+        },
+        {
+            "german": "Die kontroverse Aussage des Wissenschaftlers wurde heftig kritisiert.",
+            "english": "The scientist's controversial statement was heavily criticized."
+        }
+    ]
 }

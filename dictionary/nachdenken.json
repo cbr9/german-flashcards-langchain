@@ -1,28 +1,26 @@
 {
     "word": "nachdenken, dachte nach, nachgedacht",
     "definition": "To engage in a cognitive process of reflection or contemplation, often involving deep consideration of a subject matter or problem. It is commonly used to describe the act of pondering, meditating, or mulling over thoughts, ideas, or decisions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss darüber nachdenken.",
-                "english": "I have to think about it."
-            },
-            {
-                "german": "Er denkt viel nach, bevor er handelt.",
-                "english": "He thinks a lot before he acts."
-            },
-            {
-                "german": "Sie sollte über ihre Entscheidung nachdenken.",
-                "english": "She should think about her decision."
-            },
-            {
-                "german": "Wir müssen über die Konsequenzen nachdenken.",
-                "english": "We need to think about the consequences."
-            },
-            {
-                "german": "Kannst du bitte einen Moment nachdenken?",
-                "english": "Can you please take a moment to think?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss darüber nachdenken.",
+            "english": "I have to think about it."
+        },
+        {
+            "german": "Er denkt viel nach, bevor er handelt.",
+            "english": "He thinks a lot before he acts."
+        },
+        {
+            "german": "Sie sollte über ihre Entscheidung nachdenken.",
+            "english": "She should think about her decision."
+        },
+        {
+            "german": "Wir müssen über die Konsequenzen nachdenken.",
+            "english": "We need to think about the consequences."
+        },
+        {
+            "german": "Kannst du bitte einen Moment nachdenken?",
+            "english": "Can you please take a moment to think?"
+        }
+    ]
 }

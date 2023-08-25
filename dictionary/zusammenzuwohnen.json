@@ -1,28 +1,26 @@
 {
     "word": "zusammenzuwohnen, wohnte zusammen, zusammengewohnt",
     "definition": "To reside together in the same place, typically referring to multiple individuals sharing a living space.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich wohne gerne mit meiner Familie zusammen.",
-                "english": "I enjoy living together with my family."
-            },
-            {
-                "german": "Es ist wichtig, respektvoll zusammenzuwohnen.",
-                "english": "It is important to live together respectfully."
-            },
-            {
-                "german": "Wir haben beschlossen, zusammenzuwohnen.",
-                "english": "We have decided to live together."
-            },
-            {
-                "german": "Sie sind seit fünf Jahren zusammengewohnt.",
-                "english": "They have lived together for five years."
-            },
-            {
-                "german": "Es ist schwierig, mit anderen Menschen zusammenzuwohnen.",
-                "english": "It is difficult to live together with other people."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich wohne gerne mit meiner Familie zusammen.",
+            "english": "I enjoy living together with my family."
+        },
+        {
+            "german": "Es ist wichtig, respektvoll zusammenzuwohnen.",
+            "english": "It is important to live together respectfully."
+        },
+        {
+            "german": "Wir haben beschlossen, zusammenzuwohnen.",
+            "english": "We have decided to live together."
+        },
+        {
+            "german": "Sie sind seit fünf Jahren zusammengewohnt.",
+            "english": "They have lived together for five years."
+        },
+        {
+            "german": "Es ist schwierig, mit anderen Menschen zusammenzuwohnen.",
+            "english": "It is difficult to live together with other people."
+        }
+    ]
 }

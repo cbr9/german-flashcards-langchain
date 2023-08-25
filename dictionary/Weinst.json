@@ -1,28 +1,26 @@
 {
     "word": "weinen, weinte, geweint",
     "definition": "A type of alcoholic beverage made from fermented grapes, typically enjoyed during social gatherings or paired with meals. It is often associated with celebrations, relaxation, and enhancing the flavors of various cuisines.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Weinst du?",
-                "english": "Are you crying?"
-            },
-            {
-                "german": "Er weint vor Freude.",
-                "english": "He is crying with joy."
-            },
-            {
-                "german": "Sie weinte bitterlich.",
-                "english": "She cried bitterly."
-            },
-            {
-                "german": "Das Baby weint.",
-                "english": "The baby is crying."
-            },
-            {
-                "german": "Warum weinst du?",
-                "english": "Why are you crying?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Weinst du?",
+            "english": "Are you crying?"
+        },
+        {
+            "german": "Er weint vor Freude.",
+            "english": "He is crying with joy."
+        },
+        {
+            "german": "Sie weinte bitterlich.",
+            "english": "She cried bitterly."
+        },
+        {
+            "german": "Das Baby weint.",
+            "english": "The baby is crying."
+        },
+        {
+            "german": "Warum weinst du?",
+            "english": "Why are you crying?"
+        }
+    ]
 }

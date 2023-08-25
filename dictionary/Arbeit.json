@@ -1,28 +1,26 @@
 {
     "word": "die Arbeit, die Arbeiten",
     "definition": "A German word commonly used to describe the act of engaging in productive activities, often involving physical or mental effort, with the purpose of accomplishing a task or achieving a goal. It is frequently employed to refer to various forms of work, labor, or employment, encompassing both professional and non-professional activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe viel Arbeit.",
-                "english": "I have a lot of work."
-            },
-            {
-                "german": "Er arbeitet als Lehrer.",
-                "english": "He works as a teacher."
-            },
-            {
-                "german": "Die Arbeit macht mir Spaß.",
-                "english": "I enjoy the work."
-            },
-            {
-                "german": "Sie hat ihre Arbeit gut gemacht.",
-                "english": "She did her job well."
-            },
-            {
-                "german": "Die Arbeit ist erledigt.",
-                "english": "The work is done."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe viel Arbeit.",
+            "english": "I have a lot of work."
+        },
+        {
+            "german": "Er arbeitet als Lehrer.",
+            "english": "He works as a teacher."
+        },
+        {
+            "german": "Die Arbeit macht mir Spaß.",
+            "english": "I enjoy the work."
+        },
+        {
+            "german": "Sie hat ihre Arbeit gut gemacht.",
+            "english": "She did her job well."
+        },
+        {
+            "german": "Die Arbeit ist erledigt.",
+            "english": "The work is done."
+        }
+    ]
 }

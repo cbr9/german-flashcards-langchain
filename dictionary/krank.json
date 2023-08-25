@@ -1,28 +1,26 @@
 {
     "word": "krank",
     "definition": "The word \"krank\" refers to a state of being unwell or experiencing an illness. It is commonly used to describe physical or mental health conditions that cause discomfort, pain, or impairment. This term is often employed to discuss sicknesses, diseases, or medical conditions affecting individuals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich fühle mich krank.",
-                "english": "I feel sick."
-            },
-            {
-                "german": "Er ist seit gestern krank.",
-                "english": "He has been sick since yesterday."
-            },
-            {
-                "german": "Sie hat eine chronische Krankheit.",
-                "english": "She has a chronic illness."
-            },
-            {
-                "german": "Der Arzt hat mich krankgeschrieben.",
-                "english": "The doctor gave me a sick note."
-            },
-            {
-                "german": "Die Grippe macht mich krank.",
-                "english": "The flu is making me sick."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich fühle mich krank.",
+            "english": "I feel sick."
+        },
+        {
+            "german": "Er ist seit gestern krank.",
+            "english": "He has been sick since yesterday."
+        },
+        {
+            "german": "Sie hat eine chronische Krankheit.",
+            "english": "She has a chronic illness."
+        },
+        {
+            "german": "Der Arzt hat mich krankgeschrieben.",
+            "english": "The doctor gave me a sick note."
+        },
+        {
+            "german": "Die Grippe macht mich krank.",
+            "english": "The flu is making me sick."
+        }
+    ]
 }

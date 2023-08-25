@@ -1,28 +1,26 @@
 {
     "word": "der Finger, die Finger",
     "definition": "A body part located at the end of the hand, typically used for grasping, pointing, and tactile sensing. It is commonly used for various activities such as typing, playing musical instruments, and gesturing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Finger tut weh.",
-                "english": "The finger hurts."
-            },
-            {
-                "german": "Sie hat sich am Finger geschnitten.",
-                "english": "She cut herself on the finger."
-            },
-            {
-                "german": "Er zeigte mit dem Finger auf sie.",
-                "english": "He pointed at her with his finger."
-            },
-            {
-                "german": "Der Ring passt nicht auf den Finger.",
-                "english": "The ring doesn't fit on the finger."
-            },
-            {
-                "german": "Sie hat lange, schlanke Finger.",
-                "english": "She has long, slender fingers."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Finger tut weh.",
+            "english": "The finger hurts."
+        },
+        {
+            "german": "Sie hat sich am Finger geschnitten.",
+            "english": "She cut herself on the finger."
+        },
+        {
+            "german": "Er zeigte mit dem Finger auf sie.",
+            "english": "He pointed at her with his finger."
+        },
+        {
+            "german": "Der Ring passt nicht auf den Finger.",
+            "english": "The ring doesn't fit on the finger."
+        },
+        {
+            "german": "Sie hat lange, schlanke Finger.",
+            "english": "She has long, slender fingers."
+        }
+    ]
 }

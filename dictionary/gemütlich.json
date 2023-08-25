@@ -1,28 +1,26 @@
 {
     "word": "gemütlich",
     "definition": "A term used to describe a cozy, warm, and comfortable atmosphere or feeling, often associated with a sense of relaxation and contentment. It is commonly used to describe a pleasant and inviting environment, such as a cozy living room, a warm café, or a friendly gathering.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist gemütlich hier.",
-                "english": "It is cozy here."
-            },
-            {
-                "german": "Wir haben einen gemütlichen Abend verbracht.",
-                "english": "We had a cozy evening."
-            },
-            {
-                "german": "Das Sofa ist sehr gemütlich.",
-                "english": "The sofa is very comfortable."
-            },
-            {
-                "german": "Wir haben eine gemütliche Atmosphäre geschaffen.",
-                "english": "We created a cozy atmosphere."
-            },
-            {
-                "german": "Es war ein gemütlicher Spaziergang im Park.",
-                "english": "It was a leisurely walk in the park."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist gemütlich hier.",
+            "english": "It is cozy here."
+        },
+        {
+            "german": "Wir haben einen gemütlichen Abend verbracht.",
+            "english": "We had a cozy evening."
+        },
+        {
+            "german": "Das Sofa ist sehr gemütlich.",
+            "english": "The sofa is very comfortable."
+        },
+        {
+            "german": "Wir haben eine gemütliche Atmosphäre geschaffen.",
+            "english": "We created a cozy atmosphere."
+        },
+        {
+            "german": "Es war ein gemütlicher Spaziergang im Park.",
+            "english": "It was a leisurely walk in the park."
+        }
+    ]
 }

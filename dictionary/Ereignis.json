@@ -1,28 +1,26 @@
 {
     "word": "das Ereignis, die Ereignisse",
     "definition": "A happening or occurrence, typically referring to a significant event or incident that takes place within a specific timeframe. It is commonly used to describe noteworthy incidents, incidents of historical importance, or significant moments in someone's life.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Ereignis war sehr aufregend.",
-                "english": "The event was very exciting."
-            },
-            {
-                "german": "Das war ein unerwartetes Ereignis.",
-                "english": "That was an unexpected event."
-            },
-            {
-                "german": "Das Ereignis fand gestern statt.",
-                "english": "The event took place yesterday."
-            },
-            {
-                "german": "Das war ein historisches Ereignis.",
-                "english": "That was a historic event."
-            },
-            {
-                "german": "Das Ereignis hat große Auswirkungen.",
-                "english": "The event has significant consequences."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Ereignis war sehr aufregend.",
+            "english": "The event was very exciting."
+        },
+        {
+            "german": "Das war ein unerwartetes Ereignis.",
+            "english": "That was an unexpected event."
+        },
+        {
+            "german": "Das Ereignis fand gestern statt.",
+            "english": "The event took place yesterday."
+        },
+        {
+            "german": "Das war ein historisches Ereignis.",
+            "english": "That was a historic event."
+        },
+        {
+            "german": "Das Ereignis hat große Auswirkungen.",
+            "english": "The event has significant consequences."
+        }
+    ]
 }

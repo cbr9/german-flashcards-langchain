@@ -1,28 +1,26 @@
 {
     "word": "zerkratzen, zerkratzte, zerkratzt",
     "definition": "To cause damage to the surface of an object by creating scratches or marks through abrasion. This term is commonly used to describe the action of unintentionally or deliberately scratching or scraping a surface, resulting in visible marks or blemishes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die CD ist zerkratzt.",
-                "english": "The CD is scratched."
-            },
-            {
-                "german": "Bitte zerkratze nicht die Oberfläche.",
-                "english": "Please do not scratch the surface."
-            },
-            {
-                "german": "Die Katze hat das Sofa zerkratzt.",
-                "english": "The cat scratched the sofa."
-            },
-            {
-                "german": "Die Lackierung wurde zerkratzt.",
-                "english": "The paintwork got scratched."
-            },
-            {
-                "german": "Er zerkratzt absichtlich seine CDs.",
-                "english": "He intentionally scratches his CDs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die CD ist zerkratzt.",
+            "english": "The CD is scratched."
+        },
+        {
+            "german": "Bitte zerkratze nicht die Oberfläche.",
+            "english": "Please do not scratch the surface."
+        },
+        {
+            "german": "Die Katze hat das Sofa zerkratzt.",
+            "english": "The cat scratched the sofa."
+        },
+        {
+            "german": "Die Lackierung wurde zerkratzt.",
+            "english": "The paintwork got scratched."
+        },
+        {
+            "german": "Er zerkratzt absichtlich seine CDs.",
+            "english": "He intentionally scratches his CDs."
+        }
+    ]
 }

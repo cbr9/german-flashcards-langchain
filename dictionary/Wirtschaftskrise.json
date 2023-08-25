@@ -1,28 +1,26 @@
 {
     "word": "die Wirtschaftskrise, die Wirtschaftskrisen",
     "definition": "A period of economic downturn characterized by significant decline in various financial indicators, such as GDP, employment rates, and business activities. It is commonly used to describe a state of economic crisis or recession, often affecting multiple sectors of the economy and leading to financial instability.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Wirtschaftskrise hat zu Massenarbeitslosigkeit geführt.",
-                "english": "The economic crisis has led to mass unemployment."
-            },
-            {
-                "german": "Die Regierung versucht, die Wirtschaftskrise durch Konjunkturprogramme zu bekämpfen.",
-                "english": "The government is trying to combat the economic crisis through stimulus packages."
-            },
-            {
-                "german": "Viele Unternehmen sind während der Wirtschaftskrise bankrott gegangen.",
-                "english": "Many companies went bankrupt during the economic crisis."
-            },
-            {
-                "german": "Die Wirtschaftskrise hat zu einem Rückgang des Bruttoinlandsprodukts geführt.",
-                "english": "The economic crisis has led to a decline in the gross domestic product."
-            },
-            {
-                "german": "Die Wirtschaftskrise hat die Kaufkraft der Bevölkerung stark beeinträchtigt.",
-                "english": "The economic crisis has severely affected the purchasing power of the population."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Wirtschaftskrise hat zu Massenarbeitslosigkeit geführt.",
+            "english": "The economic crisis has led to mass unemployment."
+        },
+        {
+            "german": "Die Regierung versucht, die Wirtschaftskrise durch Konjunkturprogramme zu bekämpfen.",
+            "english": "The government is trying to combat the economic crisis through stimulus packages."
+        },
+        {
+            "german": "Viele Unternehmen sind während der Wirtschaftskrise bankrott gegangen.",
+            "english": "Many companies went bankrupt during the economic crisis."
+        },
+        {
+            "german": "Die Wirtschaftskrise hat zu einem Rückgang des Bruttoinlandsprodukts geführt.",
+            "english": "The economic crisis has led to a decline in the gross domestic product."
+        },
+        {
+            "german": "Die Wirtschaftskrise hat die Kaufkraft der Bevölkerung stark beeinträchtigt.",
+            "english": "The economic crisis has severely affected the purchasing power of the population."
+        }
+    ]
 }

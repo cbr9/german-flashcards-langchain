@@ -1,28 +1,26 @@
 {
     "word": "verleihen, verlieh, verliehen",
     "definition": "To grant someone temporary possession or use of an item, often for a specific period of time or purpose. This term is commonly employed when referring to lending or renting out objects, such as books, tools, or vehicles.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich verleihe dir mein Auto.",
-                "english": "I lend you my car."
-            },
-            {
-                "german": "Kannst du mir deinen Regenschirm verleihen?",
-                "english": "Can you lend me your umbrella?"
-            },
-            {
-                "german": "Sie verleiht ihrem Bruder Geld.",
-                "english": "She lends money to her brother."
-            },
-            {
-                "german": "Der Film wurde mit drei Oscars verliehen.",
-                "english": "The movie was awarded three Oscars."
-            },
-            {
-                "german": "Die Universität verleiht ihm einen Ehrendoktortitel.",
-                "english": "The university confers an honorary doctorate on him."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich verleihe dir mein Auto.",
+            "english": "I lend you my car."
+        },
+        {
+            "german": "Kannst du mir deinen Regenschirm verleihen?",
+            "english": "Can you lend me your umbrella?"
+        },
+        {
+            "german": "Sie verleiht ihrem Bruder Geld.",
+            "english": "She lends money to her brother."
+        },
+        {
+            "german": "Der Film wurde mit drei Oscars verliehen.",
+            "english": "The movie was awarded three Oscars."
+        },
+        {
+            "german": "Die Universität verleiht ihm einen Ehrendoktortitel.",
+            "english": "The university confers an honorary doctorate on him."
+        }
+    ]
 }

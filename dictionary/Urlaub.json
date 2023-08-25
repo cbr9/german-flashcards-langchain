@@ -1,28 +1,26 @@
 {
     "word": "der Urlaub, die Urlaube",
     "definition": "A period of time during which an individual takes a break from work or daily routine, typically for leisure, relaxation, or travel purposes. It is commonly used to refer to a vacation or holiday.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich mache gerne Urlaub am Strand.",
-                "english": "I enjoy vacationing at the beach."
-            },
-            {
-                "german": "Wir planen einen Urlaub in den Bergen.",
-                "english": "We are planning a vacation in the mountains."
-            },
-            {
-                "german": "Mein letzter Urlaub war sehr entspannend.",
-                "english": "My last vacation was very relaxing."
-            },
-            {
-                "german": "Wohin gehst du in diesem Jahr in den Urlaub?",
-                "english": "Where are you going on vacation this year?"
-            },
-            {
-                "german": "Ich habe zwei Wochen Urlaub im Sommer.",
-                "english": "I have two weeks of vacation in the summer."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich mache gerne Urlaub am Strand.",
+            "english": "I enjoy vacationing at the beach."
+        },
+        {
+            "german": "Wir planen einen Urlaub in den Bergen.",
+            "english": "We are planning a vacation in the mountains."
+        },
+        {
+            "german": "Mein letzter Urlaub war sehr entspannend.",
+            "english": "My last vacation was very relaxing."
+        },
+        {
+            "german": "Wohin gehst du in diesem Jahr in den Urlaub?",
+            "english": "Where are you going on vacation this year?"
+        },
+        {
+            "german": "Ich habe zwei Wochen Urlaub im Sommer.",
+            "english": "I have two weeks of vacation in the summer."
+        }
+    ]
 }

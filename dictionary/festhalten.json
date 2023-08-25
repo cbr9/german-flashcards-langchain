@@ -1,28 +1,26 @@
 {
     "word": "festhalten, hielt fest, festgehalten",
     "definition": "To grasp or hold onto something firmly, typically with one's hands or by using a physical object. It is commonly used to describe the act of physically securing or gripping an object or person in order to prevent movement or ensure stability.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich halte fest an meiner Meinung.",
-                "english": "I stick to my opinion."
-            },
-            {
-                "german": "Bitte halte dich an die Regeln.",
-                "english": "Please adhere to the rules."
-            },
-            {
-                "german": "Er hält das Seil fest.",
-                "english": "He holds the rope tight."
-            },
-            {
-                "german": "Sie hält das Buch fest in ihren Händen.",
-                "english": "She holds the book tightly in her hands."
-            },
-            {
-                "german": "Wir müssen uns an den Plan festhalten.",
-                "english": "We need to stick to the plan."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich halte fest an meiner Meinung.",
+            "english": "I stick to my opinion."
+        },
+        {
+            "german": "Bitte halte dich an die Regeln.",
+            "english": "Please adhere to the rules."
+        },
+        {
+            "german": "Er hält das Seil fest.",
+            "english": "He holds the rope tight."
+        },
+        {
+            "german": "Sie hält das Buch fest in ihren Händen.",
+            "english": "She holds the book tightly in her hands."
+        },
+        {
+            "german": "Wir müssen uns an den Plan festhalten.",
+            "english": "We need to stick to the plan."
+        }
+    ]
 }

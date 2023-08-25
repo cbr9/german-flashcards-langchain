@@ -1,28 +1,26 @@
 {
     "word": "kommsen, , ",
     "definition": "To \"kommsen\" refers to the act of engaging in a casual and spontaneous conversation or interaction with someone, often in a relaxed and friendly manner. It is commonly used to describe the action of initiating or participating in a brief and informal exchange, typically in social settings or during informal gatherings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kommst du heute Abend?",
-                "english": "Are you coming tonight?"
-            },
-            {
-                "german": "Kommst du mit ins Kino?",
-                "english": "Are you coming to the cinema with us?"
-            },
-            {
-                "german": "Kommst du morgen vorbei?",
-                "english": "Are you coming over tomorrow?"
-            },
-            {
-                "german": "Kommst du zur Party am Samstag?",
-                "english": "Are you coming to the party on Saturday?"
-            },
-            {
-                "german": "Kommst du mit zum Fußballspiel?",
-                "english": "Are you coming to the football game with us?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kommst du heute Abend?",
+            "english": "Are you coming tonight?"
+        },
+        {
+            "german": "Kommst du mit ins Kino?",
+            "english": "Are you coming to the cinema with us?"
+        },
+        {
+            "german": "Kommst du morgen vorbei?",
+            "english": "Are you coming over tomorrow?"
+        },
+        {
+            "german": "Kommst du zur Party am Samstag?",
+            "english": "Are you coming to the party on Saturday?"
+        },
+        {
+            "german": "Kommst du mit zum Fußballspiel?",
+            "english": "Are you coming to the football game with us?"
+        }
+    ]
 }

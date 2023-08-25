@@ -1,28 +1,26 @@
 {
     "word": "beantragen, beantragte, beantragt",
     "definition": "To formally request or apply for something, typically involving official procedures or paperwork. It is commonly used when individuals seek permission, grants, licenses, or any other official approvals from authorities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte einen Kredit beantragen.",
-                "english": "I want to apply for a loan."
-            },
-            {
-                "german": "Er hat die Staatsbürgerschaft beantragt.",
-                "english": "He applied for citizenship."
-            },
-            {
-                "german": "Sie müssen ein Visum beantragen, um ins Ausland zu reisen.",
-                "english": "You need to apply for a visa to travel abroad."
-            },
-            {
-                "german": "Wir sollten eine Genehmigung beantragen, bevor wir mit dem Bau beginnen.",
-                "english": "We should apply for a permit before starting construction."
-            },
-            {
-                "german": "Der Antragsteller hat die Stelle beantragt.",
-                "english": "The applicant applied for the position."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte einen Kredit beantragen.",
+            "english": "I want to apply for a loan."
+        },
+        {
+            "german": "Er hat die Staatsbürgerschaft beantragt.",
+            "english": "He applied for citizenship."
+        },
+        {
+            "german": "Sie müssen ein Visum beantragen, um ins Ausland zu reisen.",
+            "english": "You need to apply for a visa to travel abroad."
+        },
+        {
+            "german": "Wir sollten eine Genehmigung beantragen, bevor wir mit dem Bau beginnen.",
+            "english": "We should apply for a permit before starting construction."
+        },
+        {
+            "german": "Der Antragsteller hat die Stelle beantragt.",
+            "english": "The applicant applied for the position."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Selbstbild, die Selbstbilder",
     "definition": "The term refers to an individual's perception or mental image of themselves, encompassing their beliefs, attitudes, and characteristics. It commonly pertains to the way a person views their own identity, personality, and self-concept. This concept is often discussed in psychology and self-help literature, and is frequently used in conversations related to personal development and self-reflection.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Selbstbild eines Menschen kann sich im Laufe der Zeit verändern.",
-                "english": "A person's self-image can change over time."
-            },
-            {
-                "german": "Ein positives Selbstbild kann das Selbstvertrauen stärken.",
-                "english": "A positive self-image can boost self-confidence."
-            },
-            {
-                "german": "Ein realistisches Selbstbild ist wichtig für die persönliche Entwicklung.",
-                "english": "A realistic self-image is important for personal development."
-            },
-            {
-                "german": "Das Selbstbild beeinflusst das Verhalten und die Entscheidungen einer Person.",
-                "english": "Self-image influences a person's behavior and decisions."
-            },
-            {
-                "german": "Ein negatives Selbstbild kann zu psychischen Problemen führen.",
-                "english": "A negative self-image can lead to mental health issues."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Selbstbild eines Menschen kann sich im Laufe der Zeit verändern.",
+            "english": "A person's self-image can change over time."
+        },
+        {
+            "german": "Ein positives Selbstbild kann das Selbstvertrauen stärken.",
+            "english": "A positive self-image can boost self-confidence."
+        },
+        {
+            "german": "Ein realistisches Selbstbild ist wichtig für die persönliche Entwicklung.",
+            "english": "A realistic self-image is important for personal development."
+        },
+        {
+            "german": "Das Selbstbild beeinflusst das Verhalten und die Entscheidungen einer Person.",
+            "english": "Self-image influences a person's behavior and decisions."
+        },
+        {
+            "german": "Ein negatives Selbstbild kann zu psychischen Problemen führen.",
+            "english": "A negative self-image can lead to mental health issues."
+        }
+    ]
 }

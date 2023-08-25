@@ -1,28 +1,26 @@
 {
     "word": "der Rock, die Röcke",
     "definition": "A garment typically worn by individuals, often covering the lower part of the body from the waist to the knees or ankles. It is commonly worn by people of various genders and ages, and is often associated with formal or casual attire.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Mann trägt einen schwarzen Rock.",
-                "english": "The man is wearing a black skirt."
-            },
-            {
-                "german": "Sie hat einen Rock aus Seide gekauft.",
-                "english": "She bought a silk dress."
-            },
-            {
-                "german": "Die Kinder spielen am Flussufer mit Steinen.",
-                "english": "The children are playing with rocks by the riverbank."
-            },
-            {
-                "german": "Der Gitarrist spielt einen Rocksong.",
-                "english": "The guitarist is playing a rock song."
-            },
-            {
-                "german": "Die Wanderer klettern auf den Felsen.",
-                "english": "The hikers are climbing the rocks."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Mann trägt einen schwarzen Rock.",
+            "english": "The man is wearing a black skirt."
+        },
+        {
+            "german": "Sie hat einen Rock aus Seide gekauft.",
+            "english": "She bought a silk dress."
+        },
+        {
+            "german": "Die Kinder spielen am Flussufer mit Steinen.",
+            "english": "The children are playing with rocks by the riverbank."
+        },
+        {
+            "german": "Der Gitarrist spielt einen Rocksong.",
+            "english": "The guitarist is playing a rock song."
+        },
+        {
+            "german": "Die Wanderer klettern auf den Felsen.",
+            "english": "The hikers are climbing the rocks."
+        }
+    ]
 }

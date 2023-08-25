@@ -1,28 +1,26 @@
 {
     "word": "vereinigen, vereinigte, vereinigt",
     "definition": "To bring together separate entities or individuals into a unified whole, often used to describe the act of merging or uniting different organizations, groups, or people.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie vereinigen ihre Kräfte, um das Projekt abzuschließen.",
-                "english": "They unite their forces to complete the project."
-            },
-            {
-                "german": "Die beiden Unternehmen wollen sich vereinigen, um stärker am Markt auftreten zu können.",
-                "english": "The two companies want to merge in order to have a stronger presence in the market."
-            },
-            {
-                "german": "Die verschiedenen Gruppen vereinigen sich zu einer großen Demonstration.",
-                "english": "The different groups come together to form a large demonstration."
-            },
-            {
-                "german": "Die beiden Flüsse vereinigen sich hier zu einem großen Strom.",
-                "english": "The two rivers merge here to form a large river."
-            },
-            {
-                "german": "Die Parteien müssen ihre Ideen vereinigen, um eine gemeinsame Lösung zu finden.",
-                "english": "The parties need to unite their ideas to find a common solution."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie vereinigen ihre Kräfte, um das Projekt abzuschließen.",
+            "english": "They unite their forces to complete the project."
+        },
+        {
+            "german": "Die beiden Unternehmen wollen sich vereinigen, um stärker am Markt auftreten zu können.",
+            "english": "The two companies want to merge in order to have a stronger presence in the market."
+        },
+        {
+            "german": "Die verschiedenen Gruppen vereinigen sich zu einer großen Demonstration.",
+            "english": "The different groups come together to form a large demonstration."
+        },
+        {
+            "german": "Die beiden Flüsse vereinigen sich hier zu einem großen Strom.",
+            "english": "The two rivers merge here to form a large river."
+        },
+        {
+            "german": "Die Parteien müssen ihre Ideen vereinigen, um eine gemeinsame Lösung zu finden.",
+            "english": "The parties need to unite their ideas to find a common solution."
+        }
+    ]
 }

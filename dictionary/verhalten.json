@@ -1,28 +1,26 @@
 {
     "word": "das Verhalten, die Verhalten",
     "definition": "The term \"verhalten\" refers to the way individuals act or conduct themselves in various situations. It encompasses their behavior, actions, or reactions in response to specific circumstances. This word is commonly used to describe the manner in which someone behaves or carries themselves, often in relation to social or interpersonal interactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sein Verhalten war sehr unhöflich.",
-                "english": "His behavior was very rude."
-            },
-            {
-                "german": "Sie hat sich in der Situation richtig verhalten.",
-                "english": "She behaved correctly in the situation."
-            },
-            {
-                "german": "Das Verhalten des Hundes war sehr aggressiv.",
-                "english": "The dog's behavior was very aggressive."
-            },
-            {
-                "german": "Er verhält sich immer sehr höflich und respektvoll.",
-                "english": "He always behaves very politely and respectfully."
-            },
-            {
-                "german": "Das Verhalten der Kinder war vorbildlich.",
-                "english": "The children's behavior was exemplary."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sein Verhalten war sehr unhöflich.",
+            "english": "His behavior was very rude."
+        },
+        {
+            "german": "Sie hat sich in der Situation richtig verhalten.",
+            "english": "She behaved correctly in the situation."
+        },
+        {
+            "german": "Das Verhalten des Hundes war sehr aggressiv.",
+            "english": "The dog's behavior was very aggressive."
+        },
+        {
+            "german": "Er verhält sich immer sehr höflich und respektvoll.",
+            "english": "He always behaves very politely and respectfully."
+        },
+        {
+            "german": "Das Verhalten der Kinder war vorbildlich.",
+            "english": "The children's behavior was exemplary."
+        }
+    ]
 }

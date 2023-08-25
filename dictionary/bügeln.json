@@ -1,28 +1,26 @@
 {
     "word": "bügeln, bügelte, gebügelt",
     "definition": "To smooth out wrinkles or creases in fabric using a heated appliance, typically performed on clothing or household textiles.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss noch bügeln.",
-                "english": "I still have to iron."
-            },
-            {
-                "german": "Sie bügelt ihre Kleidung immer selbst.",
-                "english": "She always irons her clothes herself."
-            },
-            {
-                "german": "Kannst du bitte das Hemd bügeln?",
-                "english": "Can you please iron the shirt?"
-            },
-            {
-                "german": "Meine Mutter bügelt immer die Bettwäsche.",
-                "english": "My mother always irons the bed linen."
-            },
-            {
-                "german": "Ich bügle meine Hemden lieber selbst.",
-                "english": "I prefer to iron my shirts myself."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss noch bügeln.",
+            "english": "I still have to iron."
+        },
+        {
+            "german": "Sie bügelt ihre Kleidung immer selbst.",
+            "english": "She always irons her clothes herself."
+        },
+        {
+            "german": "Kannst du bitte das Hemd bügeln?",
+            "english": "Can you please iron the shirt?"
+        },
+        {
+            "german": "Meine Mutter bügelt immer die Bettwäsche.",
+            "english": "My mother always irons the bed linen."
+        },
+        {
+            "german": "Ich bügle meine Hemden lieber selbst.",
+            "english": "I prefer to iron my shirts myself."
+        }
+    ]
 }

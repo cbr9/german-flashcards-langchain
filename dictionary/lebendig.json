@@ -1,28 +1,26 @@
 {
     "word": "lebendig",
     "definition": "The word \"lebendig\" describes something that is full of vitality and life, typically used to refer to living beings or things that exhibit a lively and animated quality. It implies a state of being active, energetic, and vibrant, often associated with movement, growth, or the expression of emotions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein lebendiger Mensch.",
-                "english": "He is a lively person."
-            },
-            {
-                "german": "Die Stadt ist lebendig und voller Energie.",
-                "english": "The city is vibrant and full of energy."
-            },
-            {
-                "german": "Die Pflanzen im Garten sind lebendig und grün.",
-                "english": "The plants in the garden are alive and green."
-            },
-            {
-                "german": "Das Konzert war sehr lebendig und mitreißend.",
-                "english": "The concert was very lively and captivating."
-            },
-            {
-                "german": "Die Diskussion war lebendig und kontrovers.",
-                "english": "The discussion was lively and controversial."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein lebendiger Mensch.",
+            "english": "He is a lively person."
+        },
+        {
+            "german": "Die Stadt ist lebendig und voller Energie.",
+            "english": "The city is vibrant and full of energy."
+        },
+        {
+            "german": "Die Pflanzen im Garten sind lebendig und grün.",
+            "english": "The plants in the garden are alive and green."
+        },
+        {
+            "german": "Das Konzert war sehr lebendig und mitreißend.",
+            "english": "The concert was very lively and captivating."
+        },
+        {
+            "german": "Die Diskussion war lebendig und kontrovers.",
+            "english": "The discussion was lively and controversial."
+        }
+    ]
 }

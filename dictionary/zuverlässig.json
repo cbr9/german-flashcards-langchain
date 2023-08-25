@@ -1,28 +1,26 @@
 {
     "word": "zuverlässig",
     "definition": "Reliable, trustworthy, and dependable; often used to describe a person, object, or system that consistently performs as expected and can be counted on in various situations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein zuverlässiger Mitarbeiter.",
-                "english": "He is a reliable employee."
-            },
-            {
-                "german": "Das Auto hat einen zuverlässigen Motor.",
-                "english": "The car has a reliable engine."
-            },
-            {
-                "german": "Sie ist eine zuverlässige Freundin.",
-                "english": "She is a reliable friend."
-            },
-            {
-                "german": "Der zuverlässige Lieferant liefert pünktlich.",
-                "english": "The reliable supplier delivers on time."
-            },
-            {
-                "german": "Die zuverlässige Software funktioniert einwandfrei.",
-                "english": "The reliable software works perfectly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein zuverlässiger Mitarbeiter.",
+            "english": "He is a reliable employee."
+        },
+        {
+            "german": "Das Auto hat einen zuverlässigen Motor.",
+            "english": "The car has a reliable engine."
+        },
+        {
+            "german": "Sie ist eine zuverlässige Freundin.",
+            "english": "She is a reliable friend."
+        },
+        {
+            "german": "Der zuverlässige Lieferant liefert pünktlich.",
+            "english": "The reliable supplier delivers on time."
+        },
+        {
+            "german": "Die zuverlässige Software funktioniert einwandfrei.",
+            "english": "The reliable software works perfectly."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "privat",
     "definition": "The word \"privat\" refers to something that is not public or shared with others. It is commonly used to describe personal matters, activities, or spaces that are not open to the general public.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe ein privates Zimmer.",
-                "english": "I have a private room."
-            },
-            {
-                "german": "Sie möchte ihre privaten Daten schützen.",
-                "english": "She wants to protect her private data."
-            },
-            {
-                "german": "Das ist meine private Meinung.",
-                "english": "That is my private opinion."
-            },
-            {
-                "german": "Er hat eine private Sammlung von Büchern.",
-                "english": "He has a private collection of books."
-            },
-            {
-                "german": "Wir haben eine private Feier geplant.",
-                "english": "We have a private celebration planned."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe ein privates Zimmer.",
+            "english": "I have a private room."
+        },
+        {
+            "german": "Sie möchte ihre privaten Daten schützen.",
+            "english": "She wants to protect her private data."
+        },
+        {
+            "german": "Das ist meine private Meinung.",
+            "english": "That is my private opinion."
+        },
+        {
+            "german": "Er hat eine private Sammlung von Büchern.",
+            "english": "He has a private collection of books."
+        },
+        {
+            "german": "Wir haben eine private Feier geplant.",
+            "english": "We have a private celebration planned."
+        }
+    ]
 }

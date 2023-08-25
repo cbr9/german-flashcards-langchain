@@ -1,28 +1,26 @@
 {
     "word": "der Kofferraum, die Kofferräume",
     "definition": "The designated storage compartment in a vehicle, typically located at the rear, used for transporting and securing various items during travel.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kofferraum ist groß genug für all unser Gepäck.",
-                "english": "The trunk is big enough for all our luggage."
-            },
-            {
-                "german": "Bitte legen Sie Ihr Gepäck in den Kofferraum.",
-                "english": "Please place your luggage in the trunk."
-            },
-            {
-                "german": "Der Dieb hat das Auto aufgebrochen und den Kofferraum geplündert.",
-                "english": "The thief broke into the car and looted the trunk."
-            },
-            {
-                "german": "Ich habe meine Einkäufe im Kofferraum verstaut.",
-                "english": "I stored my groceries in the trunk."
-            },
-            {
-                "german": "Der Kofferraum lässt sich per Knopfdruck öffnen.",
-                "english": "The trunk can be opened with the push of a button."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kofferraum ist groß genug für all unser Gepäck.",
+            "english": "The trunk is big enough for all our luggage."
+        },
+        {
+            "german": "Bitte legen Sie Ihr Gepäck in den Kofferraum.",
+            "english": "Please place your luggage in the trunk."
+        },
+        {
+            "german": "Der Dieb hat das Auto aufgebrochen und den Kofferraum geplündert.",
+            "english": "The thief broke into the car and looted the trunk."
+        },
+        {
+            "german": "Ich habe meine Einkäufe im Kofferraum verstaut.",
+            "english": "I stored my groceries in the trunk."
+        },
+        {
+            "german": "Der Kofferraum lässt sich per Knopfdruck öffnen.",
+            "english": "The trunk can be opened with the push of a button."
+        }
+    ]
 }

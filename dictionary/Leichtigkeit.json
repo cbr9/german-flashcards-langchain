@@ -1,28 +1,26 @@
 {
     "word": "die Leichtigkeit, die Leichtigkeiten",
     "definition": "The quality or state of being effortless, light, and graceful, often used to describe a feeling, action, or demeanor that is characterized by ease and simplicity. It is commonly associated with activities such as dancing, movement, or artistic expression.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Leichtigkeit des Seins",
-                "english": "The lightness of being"
-            },
-            {
-                "german": "Sie bewegt sich mit Leichtigkeit.",
-                "english": "She moves with ease."
-            },
-            {
-                "german": "Die Aufgabe erfordert Leichtigkeit.",
-                "english": "The task requires agility."
-            },
-            {
-                "german": "Er hat eine natürliche Leichtigkeit.",
-                "english": "He has a natural lightness."
-            },
-            {
-                "german": "Die Musik vermittelt eine gewisse Leichtigkeit.",
-                "english": "The music conveys a certain lightness."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Leichtigkeit des Seins",
+            "english": "The lightness of being"
+        },
+        {
+            "german": "Sie bewegt sich mit Leichtigkeit.",
+            "english": "She moves with ease."
+        },
+        {
+            "german": "Die Aufgabe erfordert Leichtigkeit.",
+            "english": "The task requires agility."
+        },
+        {
+            "german": "Er hat eine natürliche Leichtigkeit.",
+            "english": "He has a natural lightness."
+        },
+        {
+            "german": "Die Musik vermittelt eine gewisse Leichtigkeit.",
+            "english": "The music conveys a certain lightness."
+        }
+    ]
 }

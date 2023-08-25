@@ -1,28 +1,26 @@
 {
     "word": "die Partei, die Parteien",
     "definition": "A group or organization composed of individuals who share similar political beliefs and goals, typically formed to participate in elections, advocate for specific policies, and influence government decisions. It is commonly used to refer to a political party in the context of politics and governance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Welche Partei wählst du?",
-                "english": "Which party are you voting for?"
-            },
-            {
-                "german": "Die Partei hat viele Mitglieder.",
-                "english": "The party has many members."
-            },
-            {
-                "german": "Er ist Mitglied einer politischen Partei.",
-                "english": "He is a member of a political party."
-            },
-            {
-                "german": "Die Partei hat bei den Wahlen gewonnen.",
-                "english": "The party won the elections."
-            },
-            {
-                "german": "Die Partei vertritt ihre eigenen Interessen.",
-                "english": "The party represents its own interests."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Welche Partei wählst du?",
+            "english": "Which party are you voting for?"
+        },
+        {
+            "german": "Die Partei hat viele Mitglieder.",
+            "english": "The party has many members."
+        },
+        {
+            "german": "Er ist Mitglied einer politischen Partei.",
+            "english": "He is a member of a political party."
+        },
+        {
+            "german": "Die Partei hat bei den Wahlen gewonnen.",
+            "english": "The party won the elections."
+        },
+        {
+            "german": "Die Partei vertritt ihre eigenen Interessen.",
+            "english": "The party represents its own interests."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Muskelorgan, die Muskelorgane",
     "definition": "A body part that is primarily responsible for movement and physical strength, typically found in humans and animals. It is commonly used in the context of anatomy and physiology, referring to a specific type of organ that enables bodily motion and supports various physical activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Muskelorgan ist für die Bewegung des Körpers verantwortlich.",
-                "english": "The muscle organ is responsible for body movement."
-            },
-            {
-                "german": "Das Muskelorgan besteht aus Muskelgewebe.",
-                "english": "The muscle organ is composed of muscle tissue."
-            },
-            {
-                "german": "Das Muskelorgan kann durch regelmäßiges Training gestärkt werden.",
-                "english": "The muscle organ can be strengthened through regular exercise."
-            },
-            {
-                "german": "Das Muskelorgan arbeitet eng mit dem Skelettsystem zusammen.",
-                "english": "The muscle organ works closely with the skeletal system."
-            },
-            {
-                "german": "Das Muskelorgan ermöglicht die Kontraktion und Entspannung der Muskeln.",
-                "english": "The muscle organ allows for the contraction and relaxation of muscles."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Muskelorgan ist für die Bewegung des Körpers verantwortlich.",
+            "english": "The muscle organ is responsible for body movement."
+        },
+        {
+            "german": "Das Muskelorgan besteht aus Muskelgewebe.",
+            "english": "The muscle organ is composed of muscle tissue."
+        },
+        {
+            "german": "Das Muskelorgan kann durch regelmäßiges Training gestärkt werden.",
+            "english": "The muscle organ can be strengthened through regular exercise."
+        },
+        {
+            "german": "Das Muskelorgan arbeitet eng mit dem Skelettsystem zusammen.",
+            "english": "The muscle organ works closely with the skeletal system."
+        },
+        {
+            "german": "Das Muskelorgan ermöglicht die Kontraktion und Entspannung der Muskeln.",
+            "english": "The muscle organ allows for the contraction and relaxation of muscles."
+        }
+    ]
 }

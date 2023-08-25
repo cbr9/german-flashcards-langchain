@@ -1,28 +1,26 @@
 {
     "word": "naß",
     "definition": "The word \"naß\" refers to the state of being wet or damp. It is commonly used to describe the condition of something that has come into contact with water or any other liquid.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist naß draußen.",
-                "english": "It is wet outside."
-            },
-            {
-                "german": "Die Straße ist naß.",
-                "english": "The road is wet."
-            },
-            {
-                "german": "Meine Kleidung ist naß geworden.",
-                "english": "My clothes got wet."
-            },
-            {
-                "german": "Der Hund ist naß vom Regen.",
-                "english": "The dog is wet from the rain."
-            },
-            {
-                "german": "Die Blumen sind naß vom Tau.",
-                "english": "The flowers are wet from the dew."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist naß draußen.",
+            "english": "It is wet outside."
+        },
+        {
+            "german": "Die Straße ist naß.",
+            "english": "The road is wet."
+        },
+        {
+            "german": "Meine Kleidung ist naß geworden.",
+            "english": "My clothes got wet."
+        },
+        {
+            "german": "Der Hund ist naß vom Regen.",
+            "english": "The dog is wet from the rain."
+        },
+        {
+            "german": "Die Blumen sind naß vom Tau.",
+            "english": "The flowers are wet from the dew."
+        }
+    ]
 }

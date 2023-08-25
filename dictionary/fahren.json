@@ -1,28 +1,26 @@
 {
     "word": "fahren, fuhr, gefahren",
     "definition": "To move or travel from one place to another, typically by means of a vehicle or mode of transportation. This word is commonly used to describe the action of driving, riding, or operating a vehicle to reach a destination.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich fahre mit dem Fahrrad zur Arbeit.",
-                "english": "I ride my bike to work."
-            },
-            {
-                "german": "Er fährt gerne Ski in den Alpen.",
-                "english": "He enjoys skiing in the Alps."
-            },
-            {
-                "german": "Wir fahren nächste Woche in den Urlaub.",
-                "english": "We are going on vacation next week."
-            },
-            {
-                "german": "Sie fährt mit dem Zug nach Berlin.",
-                "english": "She is taking the train to Berlin."
-            },
-            {
-                "german": "Das Auto fährt sehr schnell auf der Autobahn.",
-                "english": "The car is driving very fast on the highway."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich fahre mit dem Fahrrad zur Arbeit.",
+            "english": "I ride my bike to work."
+        },
+        {
+            "german": "Er fährt gerne Ski in den Alpen.",
+            "english": "He enjoys skiing in the Alps."
+        },
+        {
+            "german": "Wir fahren nächste Woche in den Urlaub.",
+            "english": "We are going on vacation next week."
+        },
+        {
+            "german": "Sie fährt mit dem Zug nach Berlin.",
+            "english": "She is taking the train to Berlin."
+        },
+        {
+            "german": "Das Auto fährt sehr schnell auf der Autobahn.",
+            "english": "The car is driving very fast on the highway."
+        }
+    ]
 }

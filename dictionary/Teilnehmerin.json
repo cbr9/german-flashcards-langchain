@@ -1,28 +1,26 @@
 {
     "word": "die Teilnehmerin, die Teilnehmerinnen",
     "definition": "A person who actively participates in a specific event, program, or activity, typically used to refer to a female individual.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Teilnehmerin hat den Wettbewerb gewonnen.",
-                "english": "The participant won the competition."
-            },
-            {
-                "german": "Die Teilnehmerin ist sehr motiviert.",
-                "english": "The participant is very motivated."
-            },
-            {
-                "german": "Die Teilnehmerin kommt aus Deutschland.",
-                "english": "The participant is from Germany."
-            },
-            {
-                "german": "Die Teilnehmerin hat viel Erfahrung in diesem Bereich.",
-                "english": "The participant has a lot of experience in this field."
-            },
-            {
-                "german": "Die Teilnehmerin nimmt regelmäßig an Schulungen teil.",
-                "english": "The participant regularly attends trainings."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Teilnehmerin hat den Wettbewerb gewonnen.",
+            "english": "The participant won the competition."
+        },
+        {
+            "german": "Die Teilnehmerin ist sehr motiviert.",
+            "english": "The participant is very motivated."
+        },
+        {
+            "german": "Die Teilnehmerin kommt aus Deutschland.",
+            "english": "The participant is from Germany."
+        },
+        {
+            "german": "Die Teilnehmerin hat viel Erfahrung in diesem Bereich.",
+            "english": "The participant has a lot of experience in this field."
+        },
+        {
+            "german": "Die Teilnehmerin nimmt regelmäßig an Schulungen teil.",
+            "english": "The participant regularly attends trainings."
+        }
+    ]
 }

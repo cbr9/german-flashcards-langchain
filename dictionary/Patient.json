@@ -1,28 +1,26 @@
 {
     "word": "der Patient, die Patienten",
     "definition": "A person who receives medical care or treatment, typically in a hospital or medical setting, due to an illness, injury, or medical condition. This term is commonly used to refer to individuals seeking medical attention or undergoing medical procedures.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Patient hat Fieber.",
-                "english": "The patient has a fever."
-            },
-            {
-                "german": "Der Arzt untersucht den Patienten.",
-                "english": "The doctor examines the patient."
-            },
-            {
-                "german": "Die Krankenschwester kümmert sich um den Patienten.",
-                "english": "The nurse takes care of the patient."
-            },
-            {
-                "german": "Der Patient liegt im Krankenhaus.",
-                "english": "The patient is in the hospital."
-            },
-            {
-                "german": "Der Patient benötigt eine Operation.",
-                "english": "The patient needs an operation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Patient hat Fieber.",
+            "english": "The patient has a fever."
+        },
+        {
+            "german": "Der Arzt untersucht den Patienten.",
+            "english": "The doctor examines the patient."
+        },
+        {
+            "german": "Die Krankenschwester kümmert sich um den Patienten.",
+            "english": "The nurse takes care of the patient."
+        },
+        {
+            "german": "Der Patient liegt im Krankenhaus.",
+            "english": "The patient is in the hospital."
+        },
+        {
+            "german": "Der Patient benötigt eine Operation.",
+            "english": "The patient needs an operation."
+        }
+    ]
 }

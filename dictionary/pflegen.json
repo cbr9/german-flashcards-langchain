@@ -1,28 +1,26 @@
 {
     "word": "pflegen, pflegte, gepflegt",
     "definition": "To care for or maintain something or someone, often used in the context of providing regular and necessary attention, support, or treatment. This term is commonly employed when referring to the act of looking after the well-being, health, or upkeep of individuals, animals, plants, or objects.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich pflege meine Pflanzen regelmäßig.",
-                "english": "I regularly care for my plants."
-            },
-            {
-                "german": "Sie pflegt ihre kranke Mutter zu Hause.",
-                "english": "She takes care of her sick mother at home."
-            },
-            {
-                "german": "Er pflegt eine enge Freundschaft zu seinem Nachbarn.",
-                "english": "He maintains a close friendship with his neighbor."
-            },
-            {
-                "german": "Wir pflegen unsere Traditionen und Bräuche.",
-                "english": "We preserve our traditions and customs."
-            },
-            {
-                "german": "Die Krankenschwester pflegt die Wunde des Patienten.",
-                "english": "The nurse tends to the patient's wound."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich pflege meine Pflanzen regelmäßig.",
+            "english": "I regularly care for my plants."
+        },
+        {
+            "german": "Sie pflegt ihre kranke Mutter zu Hause.",
+            "english": "She takes care of her sick mother at home."
+        },
+        {
+            "german": "Er pflegt eine enge Freundschaft zu seinem Nachbarn.",
+            "english": "He maintains a close friendship with his neighbor."
+        },
+        {
+            "german": "Wir pflegen unsere Traditionen und Bräuche.",
+            "english": "We preserve our traditions and customs."
+        },
+        {
+            "german": "Die Krankenschwester pflegt die Wunde des Patienten.",
+            "english": "The nurse tends to the patient's wound."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Verein, die Vereine",
     "definition": "A group or organization formed by individuals with a shared interest or purpose, typically involving regular meetings and collaborative activities. It is commonly used to refer to various types of clubs, associations, or societies that bring people together for social, recreational, or professional reasons.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin Mitglied in einem Sportverein.",
-                "english": "I am a member of a sports club."
-            },
-            {
-                "german": "Der Verein organisiert regelmäßig Veranstaltungen.",
-                "english": "The association regularly organizes events."
-            },
-            {
-                "german": "Unser Verein unterstützt soziale Projekte.",
-                "english": "Our club supports social projects."
-            },
-            {
-                "german": "Der Fußballverein hat das Spiel gewonnen.",
-                "english": "The soccer club won the game."
-            },
-            {
-                "german": "Der Verein wurde vor 100 Jahren gegründet.",
-                "english": "The association was founded 100 years ago."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin Mitglied in einem Sportverein.",
+            "english": "I am a member of a sports club."
+        },
+        {
+            "german": "Der Verein organisiert regelmäßig Veranstaltungen.",
+            "english": "The association regularly organizes events."
+        },
+        {
+            "german": "Unser Verein unterstützt soziale Projekte.",
+            "english": "Our club supports social projects."
+        },
+        {
+            "german": "Der Fußballverein hat das Spiel gewonnen.",
+            "english": "The soccer club won the game."
+        },
+        {
+            "german": "Der Verein wurde vor 100 Jahren gegründet.",
+            "english": "The association was founded 100 years ago."
+        }
+    ]
 }

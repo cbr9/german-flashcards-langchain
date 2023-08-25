@@ -1,28 +1,26 @@
 {
     "word": "schwemmen, schwemmte, geschwemmt",
     "definition": "To cause something to move or be carried along by water, typically in a forceful or uncontrolled manner, often resulting in the displacement of objects or materials. This term is commonly used in the context of natural disasters, such as floods or heavy rainfall, where water overflows and carries debris or sediment with it.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Hochwasser hat den Fluss über die Ufer schwemmen lassen.",
-                "english": "The flood caused the river to overflow."
-            },
-            {
-                "german": "Der Regen hat den Müll auf die Straße geschwemmt.",
-                "english": "The rain washed the garbage onto the street."
-            },
-            {
-                "german": "Die Flut hat das Schiff an Land geschwemmt.",
-                "english": "The flood washed the ship ashore."
-            },
-            {
-                "german": "Der Sturm hat den Sand weggeschwemmt.",
-                "english": "The storm washed away the sand."
-            },
-            {
-                "german": "Die Strömung hat den Baumstamm flussabwärts geschwemmt.",
-                "english": "The current carried the log downstream."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Hochwasser hat den Fluss über die Ufer schwemmen lassen.",
+            "english": "The flood caused the river to overflow."
+        },
+        {
+            "german": "Der Regen hat den Müll auf die Straße geschwemmt.",
+            "english": "The rain washed the garbage onto the street."
+        },
+        {
+            "german": "Die Flut hat das Schiff an Land geschwemmt.",
+            "english": "The flood washed the ship ashore."
+        },
+        {
+            "german": "Der Sturm hat den Sand weggeschwemmt.",
+            "english": "The storm washed away the sand."
+        },
+        {
+            "german": "Die Strömung hat den Baumstamm flussabwärts geschwemmt.",
+            "english": "The current carried the log downstream."
+        }
+    ]
 }

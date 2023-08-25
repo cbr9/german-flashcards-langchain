@@ -1,28 +1,26 @@
 {
     "word": "parken, parkte, geparkt",
     "definition": "To temporarily leave a vehicle in a designated area, typically for a limited period of time, such as in a parking lot or on the side of a road. This action is commonly performed by drivers when they need to stop their vehicle and leave it unattended for a short duration.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich parke mein Auto in der Garage.",
-                "english": "I park my car in the garage."
-            },
-            {
-                "german": "Kann ich hier parken?",
-                "english": "Can I park here?"
-            },
-            {
-                "german": "Das Parken ist hier verboten.",
-                "english": "Parking is prohibited here."
-            },
-            {
-                "german": "Wir haben einen Parkplatz zum Parken.",
-                "english": "We have a parking lot for parking."
-            },
-            {
-                "german": "Bitte parken Sie rücksichtsvoll.",
-                "english": "Please park considerately."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich parke mein Auto in der Garage.",
+            "english": "I park my car in the garage."
+        },
+        {
+            "german": "Kann ich hier parken?",
+            "english": "Can I park here?"
+        },
+        {
+            "german": "Das Parken ist hier verboten.",
+            "english": "Parking is prohibited here."
+        },
+        {
+            "german": "Wir haben einen Parkplatz zum Parken.",
+            "english": "We have a parking lot for parking."
+        },
+        {
+            "german": "Bitte parken Sie rücksichtsvoll.",
+            "english": "Please park considerately."
+        }
+    ]
 }

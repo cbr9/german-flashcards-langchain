@@ -1,28 +1,26 @@
 {
     "word": "zaubern, zauberte, gezaubert",
     "definition": "To perform an enchanting act or magical trick, often involving the manipulation of objects or the creation of illusions, typically for entertainment purposes. This word is commonly used in the context of stage performances, where individuals use their skills to create a sense of wonder and awe among the audience.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich kann zaubern.",
-                "english": "I can do magic."
-            },
-            {
-                "german": "Sie zaubert ein Kaninchen aus dem Hut.",
-                "english": "She conjures a rabbit from the hat."
-            },
-            {
-                "german": "Der Magier zauberte eine Taube herbei.",
-                "english": "The magician conjured a dove."
-            },
-            {
-                "german": "Kannst du zaubern?",
-                "english": "Can you perform magic?"
-            },
-            {
-                "german": "Die Hexe zauberte einen Zaubertrank.",
-                "english": "The witch brewed a magic potion."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich kann zaubern.",
+            "english": "I can do magic."
+        },
+        {
+            "german": "Sie zaubert ein Kaninchen aus dem Hut.",
+            "english": "She conjures a rabbit from the hat."
+        },
+        {
+            "german": "Der Magier zauberte eine Taube herbei.",
+            "english": "The magician conjured a dove."
+        },
+        {
+            "german": "Kannst du zaubern?",
+            "english": "Can you perform magic?"
+        },
+        {
+            "german": "Die Hexe zauberte einen Zaubertrank.",
+            "english": "The witch brewed a magic potion."
+        }
+    ]
 }

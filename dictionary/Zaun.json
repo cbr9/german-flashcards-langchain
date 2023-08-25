@@ -1,28 +1,26 @@
 {
     "word": "der Zaun, die Zäune",
     "definition": "A physical barrier typically made of wood, metal, or wire, used to enclose or separate areas, often found in gardens, farms, or around properties for privacy or security purposes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Zaun ist aus Holz.",
-                "english": "The fence is made of wood."
-            },
-            {
-                "german": "Der Zaun ist kaputt.",
-                "english": "The fence is broken."
-            },
-            {
-                "german": "Der Zaun umgibt den Garten.",
-                "english": "The fence surrounds the garden."
-            },
-            {
-                "german": "Der Zaun ist grün gestrichen.",
-                "english": "The fence is painted green."
-            },
-            {
-                "german": "Der Zaun ist zu hoch.",
-                "english": "The fence is too high."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Zaun ist aus Holz.",
+            "english": "The fence is made of wood."
+        },
+        {
+            "german": "Der Zaun ist kaputt.",
+            "english": "The fence is broken."
+        },
+        {
+            "german": "Der Zaun umgibt den Garten.",
+            "english": "The fence surrounds the garden."
+        },
+        {
+            "german": "Der Zaun ist grün gestrichen.",
+            "english": "The fence is painted green."
+        },
+        {
+            "german": "Der Zaun ist zu hoch.",
+            "english": "The fence is too high."
+        }
+    ]
 }

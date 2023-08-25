@@ -1,28 +1,26 @@
 {
     "word": "die Krise, die Krisen",
     "definition": "A period of intense difficulty, hardship, or turmoil, often characterized by a significant disruption in various aspects of life, such as social, economic, or political spheres. It is commonly used to describe a state of emergency or a critical situation that requires immediate attention and resolution.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Wirtschaftskrise hat viele Unternehmen in Schwierigkeiten gebracht.",
-                "english": "The economic crisis has put many companies in trouble."
-            },
-            {
-                "german": "Die Regierung versucht, die Krise durch verschiedene Maßnahmen zu bewältigen.",
-                "english": "The government is trying to manage the crisis through various measures."
-            },
-            {
-                "german": "Die Krise hat zu einem Anstieg der Arbeitslosigkeit geführt.",
-                "english": "The crisis has led to an increase in unemployment."
-            },
-            {
-                "german": "Die Finanzkrise hat das Vertrauen der Anleger erschüttert.",
-                "english": "The financial crisis has shaken the confidence of investors."
-            },
-            {
-                "german": "Die Krise hat zu sozialen Unruhen geführt.",
-                "english": "The crisis has led to social unrest."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Wirtschaftskrise hat viele Unternehmen in Schwierigkeiten gebracht.",
+            "english": "The economic crisis has put many companies in trouble."
+        },
+        {
+            "german": "Die Regierung versucht, die Krise durch verschiedene Maßnahmen zu bewältigen.",
+            "english": "The government is trying to manage the crisis through various measures."
+        },
+        {
+            "german": "Die Krise hat zu einem Anstieg der Arbeitslosigkeit geführt.",
+            "english": "The crisis has led to an increase in unemployment."
+        },
+        {
+            "german": "Die Finanzkrise hat das Vertrauen der Anleger erschüttert.",
+            "english": "The financial crisis has shaken the confidence of investors."
+        },
+        {
+            "german": "Die Krise hat zu sozialen Unruhen geführt.",
+            "english": "The crisis has led to social unrest."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "finanziell",
     "definition": "Relating to matters of money, specifically pertaining to financial aspects, such as income, expenses, investments, and monetary transactions. This term is commonly used to describe various financial situations, including personal finances, business finances, or economic matters in general.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe finanzielle Probleme.",
-                "english": "I have financial problems."
-            },
-            {
-                "german": "Die finanzielle Lage des Unternehmens ist stabil.",
-                "english": "The financial situation of the company is stable."
-            },
-            {
-                "german": "Er hat finanzielle Unterstützung von seiner Familie erhalten.",
-                "english": "He received financial support from his family."
-            },
-            {
-                "german": "Die finanziellen Auswirkungen der Pandemie sind noch nicht absehbar.",
-                "english": "The financial impact of the pandemic is not yet foreseeable."
-            },
-            {
-                "german": "Wir müssen unsere finanziellen Ressourcen effizient nutzen.",
-                "english": "We need to use our financial resources efficiently."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe finanzielle Probleme.",
+            "english": "I have financial problems."
+        },
+        {
+            "german": "Die finanzielle Lage des Unternehmens ist stabil.",
+            "english": "The financial situation of the company is stable."
+        },
+        {
+            "german": "Er hat finanzielle Unterstützung von seiner Familie erhalten.",
+            "english": "He received financial support from his family."
+        },
+        {
+            "german": "Die finanziellen Auswirkungen der Pandemie sind noch nicht absehbar.",
+            "english": "The financial impact of the pandemic is not yet foreseeable."
+        },
+        {
+            "german": "Wir müssen unsere finanziellen Ressourcen effizient nutzen.",
+            "english": "We need to use our financial resources efficiently."
+        }
+    ]
 }

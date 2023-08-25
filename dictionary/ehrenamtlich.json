@@ -1,28 +1,26 @@
 {
     "word": "ehrenamtlich",
     "definition": "The term \"ehrenamtlich\" refers to engaging in activities or work on a voluntary basis, without expecting any financial compensation in return. It is commonly used to describe individuals who dedicate their time and skills to contribute to a cause, organization, or community without seeking personal gain.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich arbeite ehrenamtlich in einem Tierheim.",
-                "english": "I work as a volunteer in an animal shelter."
-            },
-            {
-                "german": "Sie engagiert sich ehrenamtlich für die Umwelt.",
-                "english": "She volunteers for the environment."
-            },
-            {
-                "german": "Wir unterstützen ehrenamtlich bedürftige Menschen.",
-                "english": "We support needy people as volunteers."
-            },
-            {
-                "german": "Er leitet ehrenamtlich eine Jugendgruppe.",
-                "english": "He voluntarily leads a youth group."
-            },
-            {
-                "german": "Die Organisation sucht ehrenamtliche Helfer.",
-                "english": "The organization is looking for volunteer helpers."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich arbeite ehrenamtlich in einem Tierheim.",
+            "english": "I work as a volunteer in an animal shelter."
+        },
+        {
+            "german": "Sie engagiert sich ehrenamtlich für die Umwelt.",
+            "english": "She volunteers for the environment."
+        },
+        {
+            "german": "Wir unterstützen ehrenamtlich bedürftige Menschen.",
+            "english": "We support needy people as volunteers."
+        },
+        {
+            "german": "Er leitet ehrenamtlich eine Jugendgruppe.",
+            "english": "He voluntarily leads a youth group."
+        },
+        {
+            "german": "Die Organisation sucht ehrenamtliche Helfer.",
+            "english": "The organization is looking for volunteer helpers."
+        }
+    ]
 }

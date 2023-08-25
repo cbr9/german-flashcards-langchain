@@ -1,28 +1,26 @@
 {
     "word": "unbestreitbar",
     "definition": "The term \"unbestreitbar\" refers to something that cannot be denied, disputed, or argued against. It is commonly used to describe a fact, evidence, or an argument that is unquestionable and beyond dispute.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist unbestreitbar, dass er Recht hat.",
-                "english": "It is undeniable that he is right."
-            },
-            {
-                "german": "Die Fakten sind unbestreitbar.",
-                "english": "The facts are indisputable."
-            },
-            {
-                "german": "Seine Schuld ist unbestreitbar.",
-                "english": "His guilt is unquestionable."
-            },
-            {
-                "german": "Es ist unbestreitbar, dass sie talentiert ist.",
-                "english": "It is undeniable that she is talented."
-            },
-            {
-                "german": "Die Ergebnisse sind unbestreitbar positiv.",
-                "english": "The results are undeniably positive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist unbestreitbar, dass er Recht hat.",
+            "english": "It is undeniable that he is right."
+        },
+        {
+            "german": "Die Fakten sind unbestreitbar.",
+            "english": "The facts are indisputable."
+        },
+        {
+            "german": "Seine Schuld ist unbestreitbar.",
+            "english": "His guilt is unquestionable."
+        },
+        {
+            "german": "Es ist unbestreitbar, dass sie talentiert ist.",
+            "english": "It is undeniable that she is talented."
+        },
+        {
+            "german": "Die Ergebnisse sind unbestreitbar positiv.",
+            "english": "The results are undeniably positive."
+        }
+    ]
 }

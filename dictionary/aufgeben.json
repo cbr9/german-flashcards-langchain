@@ -1,28 +1,26 @@
 {
     "word": "aufgeben, gab auf, aufgegeben",
     "definition": "To relinquish control or surrender in a situation, often used to describe the act of giving up or abandoning a task, goal, or hope.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gebe auf.",
-                "english": "I give up."
-            },
-            {
-                "german": "Er hat das Spiel aufgegeben.",
-                "english": "He gave up the game."
-            },
-            {
-                "german": "Sie sollten niemals aufgeben.",
-                "english": "You should never give up."
-            },
-            {
-                "german": "Wir haben die Suche aufgegeben.",
-                "english": "We gave up the search."
-            },
-            {
-                "german": "Es ist schwer, aufzugeben.",
-                "english": "It is hard to give up."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gebe auf.",
+            "english": "I give up."
+        },
+        {
+            "german": "Er hat das Spiel aufgegeben.",
+            "english": "He gave up the game."
+        },
+        {
+            "german": "Sie sollten niemals aufgeben.",
+            "english": "You should never give up."
+        },
+        {
+            "german": "Wir haben die Suche aufgegeben.",
+            "english": "We gave up the search."
+        },
+        {
+            "german": "Es ist schwer, aufzugeben.",
+            "english": "It is hard to give up."
+        }
+    ]
 }

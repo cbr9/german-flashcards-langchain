@@ -1,28 +1,26 @@
 {
     "word": "das Pech, die Pech",
     "definition": "Pech refers to a sticky, black substance derived from natural sources. It is commonly used in various applications, such as construction, road paving, and waterproofing. Additionally, it is often associated with bad luck or unfortunate circumstances in colloquial expressions and idiomatic phrases.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich hatte heute Morgen Pech mit meinem Auto.",
-                "english": "I had bad luck with my car this morning."
-            },
-            {
-                "german": "Er hatte Pech beim Spiel und hat verloren.",
-                "english": "He had bad luck in the game and lost."
-            },
-            {
-                "german": "Das war wirklich Pech, dass es angefangen hat zu regnen.",
-                "english": "It was really unlucky that it started raining."
-            },
-            {
-                "german": "Sie hatte Pech bei der Prüfung und ist durchgefallen.",
-                "english": "She had bad luck in the exam and failed."
-            },
-            {
-                "german": "Ich wünsche dir viel Glück, damit du kein Pech hast.",
-                "english": "I wish you good luck so you don't have any bad luck."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich hatte heute Morgen Pech mit meinem Auto.",
+            "english": "I had bad luck with my car this morning."
+        },
+        {
+            "german": "Er hatte Pech beim Spiel und hat verloren.",
+            "english": "He had bad luck in the game and lost."
+        },
+        {
+            "german": "Das war wirklich Pech, dass es angefangen hat zu regnen.",
+            "english": "It was really unlucky that it started raining."
+        },
+        {
+            "german": "Sie hatte Pech bei der Prüfung und ist durchgefallen.",
+            "english": "She had bad luck in the exam and failed."
+        },
+        {
+            "german": "Ich wünsche dir viel Glück, damit du kein Pech hast.",
+            "english": "I wish you good luck so you don't have any bad luck."
+        }
+    ]
 }

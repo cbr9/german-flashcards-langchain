@@ -1,28 +1,26 @@
 {
     "word": "bauen, baute, gebaut",
     "definition": "To construct or create something by assembling various materials or components, typically used in the context of creating buildings, structures, or other physical objects.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte ein Haus bauen.",
-                "english": "I want to build a house."
-            },
-            {
-                "german": "Er hat eine Brücke gebaut.",
-                "english": "He built a bridge."
-            },
-            {
-                "german": "Wir werden ein neues Bürogebäude bauen.",
-                "english": "We will build a new office building."
-            },
-            {
-                "german": "Sie bauen ein Boot aus Holz.",
-                "english": "They are building a wooden boat."
-            },
-            {
-                "german": "Das Unternehmen plant, eine Fabrik zu bauen.",
-                "english": "The company plans to construct a factory."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte ein Haus bauen.",
+            "english": "I want to build a house."
+        },
+        {
+            "german": "Er hat eine Brücke gebaut.",
+            "english": "He built a bridge."
+        },
+        {
+            "german": "Wir werden ein neues Bürogebäude bauen.",
+            "english": "We will build a new office building."
+        },
+        {
+            "german": "Sie bauen ein Boot aus Holz.",
+            "english": "They are building a wooden boat."
+        },
+        {
+            "german": "Das Unternehmen plant, eine Fabrik zu bauen.",
+            "english": "The company plans to construct a factory."
+        }
+    ]
 }

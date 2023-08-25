@@ -1,28 +1,26 @@
 {
     "word": "beleuchten, beleuchtete, beleuchtet",
     "definition": "To shed light on a subject or topic, typically through the use of illumination or figuratively through analysis and explanation. This word is commonly used in various contexts, such as in discussions, presentations, or written works, to explore and examine a particular matter in detail, providing clarity and understanding.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde den Raum beleuchten.",
-                "english": "I will illuminate the room."
-            },
-            {
-                "german": "Die Straßenlaternen beleuchten den Weg.",
-                "english": "The street lamps light up the path."
-            },
-            {
-                "german": "Der Vortrag wird verschiedene Aspekte beleuchten.",
-                "english": "The presentation will illuminate various aspects."
-            },
-            {
-                "german": "Die Sonne beleuchtet den Garten.",
-                "english": "The sun illuminates the garden."
-            },
-            {
-                "german": "Die Taschenlampe beleuchtet den dunklen Raum.",
-                "english": "The flashlight illuminates the dark room."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde den Raum beleuchten.",
+            "english": "I will illuminate the room."
+        },
+        {
+            "german": "Die Straßenlaternen beleuchten den Weg.",
+            "english": "The street lamps light up the path."
+        },
+        {
+            "german": "Der Vortrag wird verschiedene Aspekte beleuchten.",
+            "english": "The presentation will illuminate various aspects."
+        },
+        {
+            "german": "Die Sonne beleuchtet den Garten.",
+            "english": "The sun illuminates the garden."
+        },
+        {
+            "german": "Die Taschenlampe beleuchtet den dunklen Raum.",
+            "english": "The flashlight illuminates the dark room."
+        }
+    ]
 }

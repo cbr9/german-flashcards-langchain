@@ -1,28 +1,26 @@
 {
     "word": "befolgen, befolg, befolgt",
     "definition": "To adhere to or comply with instructions, guidelines, or advice, typically used when following a set of rules, orders, or recommendations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Bitte befolgen Sie die Anweisungen.",
-                "english": "Please follow the instructions."
-            },
-            {
-                "german": "Er befolgt immer die Regeln.",
-                "english": "He always obeys the rules."
-            },
-            {
-                "german": "Ich werde deinen Rat befolgen.",
-                "english": "I will follow your advice."
-            },
-            {
-                "german": "Sie sollten den Anweisungen des Arztes befolgen.",
-                "english": "You should follow the doctor's instructions."
-            },
-            {
-                "german": "Die Schüler müssen die Schulordnung befolgen.",
-                "english": "The students must obey the school rules."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Bitte befolgen Sie die Anweisungen.",
+            "english": "Please follow the instructions."
+        },
+        {
+            "german": "Er befolgt immer die Regeln.",
+            "english": "He always obeys the rules."
+        },
+        {
+            "german": "Ich werde deinen Rat befolgen.",
+            "english": "I will follow your advice."
+        },
+        {
+            "german": "Sie sollten den Anweisungen des Arztes befolgen.",
+            "english": "You should follow the doctor's instructions."
+        },
+        {
+            "german": "Die Schüler müssen die Schulordnung befolgen.",
+            "english": "The students must obey the school rules."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Wechselkurs, die Wechselkurse",
     "definition": "A numerical value that represents the rate at which one currency can be exchanged for another currency, often used in financial contexts and international trade.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Wechselkurs des Euro zum Dollar ist heute gestiegen.",
-                "english": "The exchange rate of the euro to the dollar has risen today."
-            },
-            {
-                "german": "Der Wechselkurs zwischen Pfund und Euro ist sehr volatil.",
-                "english": "The exchange rate between pound and euro is very volatile."
-            },
-            {
-                "german": "Der aktuelle Wechselkurs beträgt 1,20 Schweizer Franken pro Euro.",
-                "english": "The current exchange rate is 1.20 Swiss francs per euro."
-            },
-            {
-                "german": "Der Wechselkurs beeinflusst den Import und Export von Waren.",
-                "english": "The exchange rate affects the import and export of goods."
-            },
-            {
-                "german": "Die Bank bietet einen günstigen Wechselkurs für ausländische Währungen an.",
-                "english": "The bank offers a favorable exchange rate for foreign currencies."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Wechselkurs des Euro zum Dollar ist heute gestiegen.",
+            "english": "The exchange rate of the euro to the dollar has risen today."
+        },
+        {
+            "german": "Der Wechselkurs zwischen Pfund und Euro ist sehr volatil.",
+            "english": "The exchange rate between pound and euro is very volatile."
+        },
+        {
+            "german": "Der aktuelle Wechselkurs beträgt 1,20 Schweizer Franken pro Euro.",
+            "english": "The current exchange rate is 1.20 Swiss francs per euro."
+        },
+        {
+            "german": "Der Wechselkurs beeinflusst den Import und Export von Waren.",
+            "english": "The exchange rate affects the import and export of goods."
+        },
+        {
+            "german": "Die Bank bietet einen günstigen Wechselkurs für ausländische Währungen an.",
+            "english": "The bank offers a favorable exchange rate for foreign currencies."
+        }
+    ]
 }

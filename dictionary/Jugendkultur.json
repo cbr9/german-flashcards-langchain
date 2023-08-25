@@ -1,28 +1,26 @@
 {
     "word": "die Jugendkultur, die Jugendkulturen",
     "definition": "A term commonly employed to describe the collective activities, beliefs, and practices of young individuals within a society. It encompasses various forms of artistic expression, social interactions, and shared interests that are predominantly associated with the younger generation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Jugendkultur ist ein wichtiger Bestandteil der heutigen Gesellschaft.",
-                "english": "Youth culture is an important part of today's society."
-            },
-            {
-                "german": "In der Jugendkultur spielen Musik und Mode eine große Rolle.",
-                "english": "Music and fashion play a big role in youth culture."
-            },
-            {
-                "german": "Die Jugendkultur hat ihre eigenen Trends und Ausdrucksformen.",
-                "english": "Youth culture has its own trends and forms of expression."
-            },
-            {
-                "german": "Die Jugendkultur entwickelt sich ständig weiter und verändert sich.",
-                "english": "Youth culture is constantly evolving and changing."
-            },
-            {
-                "german": "Die Jugendkultur bietet jungen Menschen die Möglichkeit, sich auszudrücken und zu identifizieren.",
-                "english": "Youth culture offers young people the opportunity to express themselves and identify."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Jugendkultur ist ein wichtiger Bestandteil der heutigen Gesellschaft.",
+            "english": "Youth culture is an important part of today's society."
+        },
+        {
+            "german": "In der Jugendkultur spielen Musik und Mode eine große Rolle.",
+            "english": "Music and fashion play a big role in youth culture."
+        },
+        {
+            "german": "Die Jugendkultur hat ihre eigenen Trends und Ausdrucksformen.",
+            "english": "Youth culture has its own trends and forms of expression."
+        },
+        {
+            "german": "Die Jugendkultur entwickelt sich ständig weiter und verändert sich.",
+            "english": "Youth culture is constantly evolving and changing."
+        },
+        {
+            "german": "Die Jugendkultur bietet jungen Menschen die Möglichkeit, sich auszudrücken und zu identifizieren.",
+            "english": "Youth culture offers young people the opportunity to express themselves and identify."
+        }
+    ]
 }

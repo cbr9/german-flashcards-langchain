@@ -1,28 +1,26 @@
 {
     "word": "beschädigen, beschädigte, beschädigt",
     "definition": "To cause harm or damage to something or someone, often resulting in a negative impact on its physical or functional state. This word is commonly used to describe actions that result in the impairment, destruction, or deterioration of objects, properties, or individuals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Auto wurde bei dem Unfall beschädigt.",
-                "english": "The car was damaged in the accident."
-            },
-            {
-                "german": "Der Dieb hat das Fenster beschädigt, um einzusteigen.",
-                "english": "The thief damaged the window to break in."
-            },
-            {
-                "german": "Die Natur wird durch Umweltverschmutzung beschädigt.",
-                "english": "Nature is damaged by pollution."
-            },
-            {
-                "german": "Die Möbel wurden beim Umzug beschädigt.",
-                "english": "The furniture was damaged during the move."
-            },
-            {
-                "german": "Die Beschädigung des Gemäldes war irreparabel.",
-                "english": "The damage to the painting was irreparable."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Auto wurde bei dem Unfall beschädigt.",
+            "english": "The car was damaged in the accident."
+        },
+        {
+            "german": "Der Dieb hat das Fenster beschädigt, um einzusteigen.",
+            "english": "The thief damaged the window to break in."
+        },
+        {
+            "german": "Die Natur wird durch Umweltverschmutzung beschädigt.",
+            "english": "Nature is damaged by pollution."
+        },
+        {
+            "german": "Die Möbel wurden beim Umzug beschädigt.",
+            "english": "The furniture was damaged during the move."
+        },
+        {
+            "german": "Die Beschädigung des Gemäldes war irreparabel.",
+            "english": "The damage to the painting was irreparable."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Sportler, die Sportler",
     "definition": "A person who actively engages in physical activities, often participating in organized competitions or events, showcasing their skills, strength, and endurance. This term is commonly used to refer to individuals involved in various sports disciplines.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Sportler gewann die Goldmedaille.",
-                "english": "The athlete won the gold medal."
-            },
-            {
-                "german": "Die Sportler trainieren hart für den Wettkampf.",
-                "english": "The athletes train hard for the competition."
-            },
-            {
-                "german": "Der junge Sportler träumt davon, Profi zu werden.",
-                "english": "The young athlete dreams of becoming a professional."
-            },
-            {
-                "german": "Die Sportlerin hat einen neuen Rekord aufgestellt.",
-                "english": "The female athlete set a new record."
-            },
-            {
-                "german": "Die Sportler sind in Topform für das Turnier.",
-                "english": "The athletes are in top form for the tournament."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Sportler gewann die Goldmedaille.",
+            "english": "The athlete won the gold medal."
+        },
+        {
+            "german": "Die Sportler trainieren hart für den Wettkampf.",
+            "english": "The athletes train hard for the competition."
+        },
+        {
+            "german": "Der junge Sportler träumt davon, Profi zu werden.",
+            "english": "The young athlete dreams of becoming a professional."
+        },
+        {
+            "german": "Die Sportlerin hat einen neuen Rekord aufgestellt.",
+            "english": "The female athlete set a new record."
+        },
+        {
+            "german": "Die Sportler sind in Topform für das Turnier.",
+            "english": "The athletes are in top form for the tournament."
+        }
+    ]
 }

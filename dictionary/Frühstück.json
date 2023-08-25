@@ -1,28 +1,26 @@
 {
     "word": "das Frühstück, die Frühstücke",
     "definition": "A meal typically consumed in the morning, often consisting of various food items such as bread, cereal, eggs, and beverages like coffee or tea. It is commonly enjoyed as the first meal of the day and provides nourishment and energy to start the morning.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse jeden Morgen ein Frühstück.",
-                "english": "I eat breakfast every morning."
-            },
-            {
-                "german": "Was möchtest du zum Frühstück?",
-                "english": "What would you like for breakfast?"
-            },
-            {
-                "german": "Ich trinke immer Kaffee zum Frühstück.",
-                "english": "I always drink coffee for breakfast."
-            },
-            {
-                "german": "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
-                "english": "Breakfast is the most important meal of the day."
-            },
-            {
-                "german": "Wir haben ein reichhaltiges Frühstücksbuffet.",
-                "english": "We have a rich breakfast buffet."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse jeden Morgen ein Frühstück.",
+            "english": "I eat breakfast every morning."
+        },
+        {
+            "german": "Was möchtest du zum Frühstück?",
+            "english": "What would you like for breakfast?"
+        },
+        {
+            "german": "Ich trinke immer Kaffee zum Frühstück.",
+            "english": "I always drink coffee for breakfast."
+        },
+        {
+            "german": "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+            "english": "Breakfast is the most important meal of the day."
+        },
+        {
+            "german": "Wir haben ein reichhaltiges Frühstücksbuffet.",
+            "english": "We have a rich breakfast buffet."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Kerze, die Kerzen",
     "definition": "A wax object typically used for illumination, often found on birthday cakes or used during power outages.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Kerze brennt langsam ab.",
-                "english": "The candle burns slowly."
-            },
-            {
-                "german": "Ich habe eine Kerze angezündet.",
-                "english": "I lit a candle."
-            },
-            {
-                "german": "Die Kerze flackert im Wind.",
-                "english": "The candle flickers in the wind."
-            },
-            {
-                "german": "Sie blies die Kerze aus.",
-                "english": "She blew out the candle."
-            },
-            {
-                "german": "Die Kerze duftet nach Vanille.",
-                "english": "The candle smells like vanilla."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Kerze brennt langsam ab.",
+            "english": "The candle burns slowly."
+        },
+        {
+            "german": "Ich habe eine Kerze angezündet.",
+            "english": "I lit a candle."
+        },
+        {
+            "german": "Die Kerze flackert im Wind.",
+            "english": "The candle flickers in the wind."
+        },
+        {
+            "german": "Sie blies die Kerze aus.",
+            "english": "She blew out the candle."
+        },
+        {
+            "german": "Die Kerze duftet nach Vanille.",
+            "english": "The candle smells like vanilla."
+        }
+    ]
 }

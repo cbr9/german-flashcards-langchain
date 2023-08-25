@@ -1,28 +1,26 @@
 {
     "word": "die Lieblingsjahreszeit, die Lieblingsjahreszeiten",
     "definition": "A term commonly used to refer to a person's preferred season of the year, often associated with personal preferences, memories, and activities related to that specific time of the year.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Lieblingsjahreszeit ist der Frühling.",
-                "english": "My favorite season is spring."
-            },
-            {
-                "german": "Im Sommer gehe ich gerne schwimmen.",
-                "english": "I like to go swimming in the summer."
-            },
-            {
-                "german": "Der Herbst ist die beste Zeit, um spazieren zu gehen.",
-                "english": "Autumn is the best time for taking walks."
-            },
-            {
-                "german": "Im Winter fahre ich gerne Ski.",
-                "english": "I enjoy skiing in winter."
-            },
-            {
-                "german": "Meine Lieblingsjahreszeit ist der Sommer, weil ich gerne draußen bin.",
-                "english": "My favorite season is summer because I like being outdoors."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Lieblingsjahreszeit ist der Frühling.",
+            "english": "My favorite season is spring."
+        },
+        {
+            "german": "Im Sommer gehe ich gerne schwimmen.",
+            "english": "I like to go swimming in the summer."
+        },
+        {
+            "german": "Der Herbst ist die beste Zeit, um spazieren zu gehen.",
+            "english": "Autumn is the best time for taking walks."
+        },
+        {
+            "german": "Im Winter fahre ich gerne Ski.",
+            "english": "I enjoy skiing in winter."
+        },
+        {
+            "german": "Meine Lieblingsjahreszeit ist der Sommer, weil ich gerne draußen bin.",
+            "english": "My favorite season is summer because I like being outdoors."
+        }
+    ]
 }

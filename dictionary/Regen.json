@@ -1,28 +1,26 @@
 {
     "word": "der Regen, die Regen",
     "definition": "A natural phenomenon that occurs in the atmosphere, characterized by the falling of water droplets from clouds. It is commonly associated with weather conditions and is often used to describe precipitation in various forms, such as light drizzle, heavy downpour, or steady rainfall.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es regnet draußen.",
-                "english": "It's raining outside."
-            },
-            {
-                "german": "Der Regen hat den Boden durchnässt.",
-                "english": "The rain has soaked the ground."
-            },
-            {
-                "german": "Wir brauchen einen Regenschirm, es wird regnen.",
-                "english": "We need an umbrella, it's going to rain."
-            },
-            {
-                "german": "Der Regenbogen erschien nach dem Regenschauer.",
-                "english": "The rainbow appeared after the rain shower."
-            },
-            {
-                "german": "Der Regen hat die Blumen zum Blühen gebracht.",
-                "english": "The rain made the flowers bloom."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es regnet draußen.",
+            "english": "It's raining outside."
+        },
+        {
+            "german": "Der Regen hat den Boden durchnässt.",
+            "english": "The rain has soaked the ground."
+        },
+        {
+            "german": "Wir brauchen einen Regenschirm, es wird regnen.",
+            "english": "We need an umbrella, it's going to rain."
+        },
+        {
+            "german": "Der Regenbogen erschien nach dem Regenschauer.",
+            "english": "The rainbow appeared after the rain shower."
+        },
+        {
+            "german": "Der Regen hat die Blumen zum Blühen gebracht.",
+            "english": "The rain made the flowers bloom."
+        }
+    ]
 }

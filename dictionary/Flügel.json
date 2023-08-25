@@ -1,28 +1,26 @@
 {
     "word": "der Flügel, die Flügel",
     "definition": "A part of an object or organism that is typically used for movement or flight, often found in pairs. It is commonly associated with birds and airplanes, enabling them to soar through the air.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Vogel breitete seine Flügel aus.",
-                "english": "The bird spread its wings."
-            },
-            {
-                "german": "Die Flügel des Flugzeugs waren beschädigt.",
-                "english": "The wings of the airplane were damaged."
-            },
-            {
-                "german": "Sie hatte einen Schmetterling auf ihrem Flügel.",
-                "english": "She had a butterfly on her wing."
-            },
-            {
-                "german": "Der Drache flog hoch in den Himmel mit seinen Flügeln.",
-                "english": "The dragon flew high in the sky with its wings."
-            },
-            {
-                "german": "Die Flügel des Windmühlenrads drehten sich schnell.",
-                "english": "The wings of the windmill turned quickly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Vogel breitete seine Flügel aus.",
+            "english": "The bird spread its wings."
+        },
+        {
+            "german": "Die Flügel des Flugzeugs waren beschädigt.",
+            "english": "The wings of the airplane were damaged."
+        },
+        {
+            "german": "Sie hatte einen Schmetterling auf ihrem Flügel.",
+            "english": "She had a butterfly on her wing."
+        },
+        {
+            "german": "Der Drache flog hoch in den Himmel mit seinen Flügeln.",
+            "english": "The dragon flew high in the sky with its wings."
+        },
+        {
+            "german": "Die Flügel des Windmühlenrads drehten sich schnell.",
+            "english": "The wings of the windmill turned quickly."
+        }
+    ]
 }

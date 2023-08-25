@@ -1,28 +1,26 @@
 {
     "word": "zunehmen, nahm zu, zugenommen",
     "definition": "To experience an increase in weight or size, typically used to describe the process of gaining physical mass.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich nehme zu, wenn ich zu viel esse.",
-                "english": "I gain weight when I eat too much."
-            },
-            {
-                "german": "Sie hat in den letzten Monaten zugenommen.",
-                "english": "She has gained weight in the last few months."
-            },
-            {
-                "german": "Wenn du regelmäßig Sport treibst, wirst du Muskeln zunehmen.",
-                "english": "If you exercise regularly, you will gain muscles."
-            },
-            {
-                "german": "Er nimmt immer mehr Verantwortung in seinem Job zu.",
-                "english": "He is taking on more and more responsibility in his job."
-            },
-            {
-                "german": "Die Bevölkerungszahl nimmt stetig zu.",
-                "english": "The population is steadily increasing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich nehme zu, wenn ich zu viel esse.",
+            "english": "I gain weight when I eat too much."
+        },
+        {
+            "german": "Sie hat in den letzten Monaten zugenommen.",
+            "english": "She has gained weight in the last few months."
+        },
+        {
+            "german": "Wenn du regelmäßig Sport treibst, wirst du Muskeln zunehmen.",
+            "english": "If you exercise regularly, you will gain muscles."
+        },
+        {
+            "german": "Er nimmt immer mehr Verantwortung in seinem Job zu.",
+            "english": "He is taking on more and more responsibility in his job."
+        },
+        {
+            "german": "Die Bevölkerungszahl nimmt stetig zu.",
+            "english": "The population is steadily increasing."
+        }
+    ]
 }

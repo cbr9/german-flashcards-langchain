@@ -1,28 +1,26 @@
 {
     "word": "die Überraschungsparty, die Überraschungspartys",
     "definition": "A gathering or event organized to celebrate someone, typically held in secret, with the intention of surprising them. It involves inviting friends, family, or acquaintances to come together and commemorate a special occasion, such as a birthday or anniversary, without the knowledge of the person being honored.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich plane eine Überraschungsparty für meinen besten Freund.",
-                "english": "I am planning a surprise party for my best friend."
-            },
-            {
-                "german": "Die Überraschungsparty war ein voller Erfolg.",
-                "english": "The surprise party was a great success."
-            },
-            {
-                "german": "Wir haben eine Überraschungsparty für unsere Eltern organisiert.",
-                "english": "We organized a surprise party for our parents."
-            },
-            {
-                "german": "Sie hat eine Überraschungsparty für ihren Ehemann geplant.",
-                "english": "She planned a surprise party for her husband."
-            },
-            {
-                "german": "Die Überraschungsparty fand im Garten statt.",
-                "english": "The surprise party took place in the garden."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich plane eine Überraschungsparty für meinen besten Freund.",
+            "english": "I am planning a surprise party for my best friend."
+        },
+        {
+            "german": "Die Überraschungsparty war ein voller Erfolg.",
+            "english": "The surprise party was a great success."
+        },
+        {
+            "german": "Wir haben eine Überraschungsparty für unsere Eltern organisiert.",
+            "english": "We organized a surprise party for our parents."
+        },
+        {
+            "german": "Sie hat eine Überraschungsparty für ihren Ehemann geplant.",
+            "english": "She planned a surprise party for her husband."
+        },
+        {
+            "german": "Die Überraschungsparty fand im Garten statt.",
+            "english": "The surprise party took place in the garden."
+        }
+    ]
 }

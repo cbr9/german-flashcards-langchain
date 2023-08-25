@@ -1,28 +1,26 @@
 {
     "word": "der Verkehrsunfall, die Verkehrsunfälle",
     "definition": "A Verkehrsunfall refers to an incident that occurs on roads or highways involving vehicles. It typically involves collisions, crashes, or accidents resulting in damage to vehicles, property, or injury to individuals. This term is commonly used in legal, insurance, and traffic-related contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Bei dem Verkehrsunfall wurden zwei Personen verletzt.",
-                "english": "Two people were injured in the traffic accident."
-            },
-            {
-                "german": "Der Verkehrsunfall führte zu erheblichen Verkehrsbehinderungen.",
-                "english": "The traffic accident caused significant traffic disruptions."
-            },
-            {
-                "german": "Die Polizei ermittelt die Ursache des Verkehrsunfalls.",
-                "english": "The police are investigating the cause of the traffic accident."
-            },
-            {
-                "german": "Der Verkehrsunfall ereignete sich gestern Abend auf der Autobahn.",
-                "english": "The traffic accident occurred last night on the highway."
-            },
-            {
-                "german": "Der Verkehrsunfall wurde von einer Überwachungskamera aufgezeichnet.",
-                "english": "The traffic accident was recorded by a surveillance camera."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Bei dem Verkehrsunfall wurden zwei Personen verletzt.",
+            "english": "Two people were injured in the traffic accident."
+        },
+        {
+            "german": "Der Verkehrsunfall führte zu erheblichen Verkehrsbehinderungen.",
+            "english": "The traffic accident caused significant traffic disruptions."
+        },
+        {
+            "german": "Die Polizei ermittelt die Ursache des Verkehrsunfalls.",
+            "english": "The police are investigating the cause of the traffic accident."
+        },
+        {
+            "german": "Der Verkehrsunfall ereignete sich gestern Abend auf der Autobahn.",
+            "english": "The traffic accident occurred last night on the highway."
+        },
+        {
+            "german": "Der Verkehrsunfall wurde von einer Überwachungskamera aufgezeichnet.",
+            "english": "The traffic accident was recorded by a surveillance camera."
+        }
+    ]
 }

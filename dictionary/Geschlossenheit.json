@@ -1,28 +1,26 @@
 {
     "word": "die Geschlossenheit, die Geschlossenheiten",
     "definition": "The term refers to the quality or state of being unified, cohesive, or closed. It is often used to describe a sense of togetherness, solidarity, or a strong bond within a group or community. This word typically conveys the idea of a collective strength or a shared sense of purpose.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Geschlossenheit der Gruppe war beeindruckend.",
-                "english": "The unity of the group was impressive."
-            },
-            {
-                "german": "Die Geschlossenheit der Mannschaft führte zum Sieg.",
-                "english": "The team's cohesion led to victory."
-            },
-            {
-                "german": "Die Geschlossenheit der Familie war ihr größter Schutz.",
-                "english": "The family's solidarity was their greatest protection."
-            },
-            {
-                "german": "Die Geschlossenheit der Gemeinschaft war beeindruckend.",
-                "english": "The solidarity of the community was impressive."
-            },
-            {
-                "german": "Die Geschlossenheit der Partei war entscheidend für ihren Erfolg.",
-                "english": "The unity of the party was crucial for their success."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Geschlossenheit der Gruppe war beeindruckend.",
+            "english": "The unity of the group was impressive."
+        },
+        {
+            "german": "Die Geschlossenheit der Mannschaft führte zum Sieg.",
+            "english": "The team's cohesion led to victory."
+        },
+        {
+            "german": "Die Geschlossenheit der Familie war ihr größter Schutz.",
+            "english": "The family's solidarity was their greatest protection."
+        },
+        {
+            "german": "Die Geschlossenheit der Gemeinschaft war beeindruckend.",
+            "english": "The solidarity of the community was impressive."
+        },
+        {
+            "german": "Die Geschlossenheit der Partei war entscheidend für ihren Erfolg.",
+            "english": "The unity of the party was crucial for their success."
+        }
+    ]
 }

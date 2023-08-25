@@ -1,28 +1,26 @@
 {
     "word": "der Flur, die Flure",
     "definition": "A long, narrow space within a building, typically connecting different rooms or providing access to them. It is commonly used to refer to a hallway or corridor in residential or commercial buildings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Flur ist lang und schmal.",
-                "english": "The hallway is long and narrow."
-            },
-            {
-                "german": "Wir haben einen großen Flur in unserem Haus.",
-                "english": "We have a large hallway in our house."
-            },
-            {
-                "german": "Der Flur ist gut beleuchtet.",
-                "english": "The hallway is well lit."
-            },
-            {
-                "german": "Ich habe meine Jacke im Flur vergessen.",
-                "english": "I forgot my jacket in the hallway."
-            },
-            {
-                "german": "Der Flur führt zu den Schlafzimmern.",
-                "english": "The hallway leads to the bedrooms."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Flur ist lang und schmal.",
+            "english": "The hallway is long and narrow."
+        },
+        {
+            "german": "Wir haben einen großen Flur in unserem Haus.",
+            "english": "We have a large hallway in our house."
+        },
+        {
+            "german": "Der Flur ist gut beleuchtet.",
+            "english": "The hallway is well lit."
+        },
+        {
+            "german": "Ich habe meine Jacke im Flur vergessen.",
+            "english": "I forgot my jacket in the hallway."
+        },
+        {
+            "german": "Der Flur führt zu den Schlafzimmern.",
+            "english": "The hallway leads to the bedrooms."
+        }
+    ]
 }

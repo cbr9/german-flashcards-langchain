@@ -1,28 +1,26 @@
 {
     "word": "lebende",
     "definition": "The term \"lebende\" refers to something or someone that is currently in a state of existence, actively alive, or having life. It is commonly used to describe individuals or organisms that are currently living or alive.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die lebende Legende",
-                "english": "The living legend"
-            },
-            {
-                "german": "Die lebende Puppe",
-                "english": "The living doll"
-            },
-            {
-                "german": "Der lebende Beweis",
-                "english": "The living proof"
-            },
-            {
-                "german": "Die lebende Leguan",
-                "english": "The living iguana"
-            },
-            {
-                "german": "Die lebende Statue",
-                "english": "The living statue"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die lebende Legende",
+            "english": "The living legend"
+        },
+        {
+            "german": "Die lebende Puppe",
+            "english": "The living doll"
+        },
+        {
+            "german": "Der lebende Beweis",
+            "english": "The living proof"
+        },
+        {
+            "german": "Die lebende Leguan",
+            "english": "The living iguana"
+        },
+        {
+            "german": "Die lebende Statue",
+            "english": "The living statue"
+        }
+    ]
 }

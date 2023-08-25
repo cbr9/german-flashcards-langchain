@@ -1,28 +1,26 @@
 {
     "word": "limitiert",
     "definition": "A term used to describe something that has a restricted or finite quantity, often indicating that it is available in limited supply or has a limited edition. It is commonly used in the context of products, collectibles, or exclusive offers, suggesting that there is a limited number or time frame associated with obtaining or accessing it.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Anzahl der Teilnehmer ist limitiert.",
-                "english": "The number of participants is limited."
-            },
-            {
-                "german": "Die Möglichkeiten sind limitiert.",
-                "english": "The possibilities are limited."
-            },
-            {
-                "german": "Die Ressourcen sind limitiert.",
-                "english": "The resources are limited."
-            },
-            {
-                "german": "Die Geschwindigkeit ist limitiert.",
-                "english": "The speed is limited."
-            },
-            {
-                "german": "Die Auswahl ist limitiert.",
-                "english": "The selection is limited."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Anzahl der Teilnehmer ist limitiert.",
+            "english": "The number of participants is limited."
+        },
+        {
+            "german": "Die Möglichkeiten sind limitiert.",
+            "english": "The possibilities are limited."
+        },
+        {
+            "german": "Die Ressourcen sind limitiert.",
+            "english": "The resources are limited."
+        },
+        {
+            "german": "Die Geschwindigkeit ist limitiert.",
+            "english": "The speed is limited."
+        },
+        {
+            "german": "Die Auswahl ist limitiert.",
+            "english": "The selection is limited."
+        }
+    ]
 }

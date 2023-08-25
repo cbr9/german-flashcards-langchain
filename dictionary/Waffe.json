@@ -1,28 +1,26 @@
 {
     "word": "die Waffe, die Waffen",
     "definition": "A tool or instrument designed for a specific purpose, often utilized in various contexts, including military, self-defense, or combat situations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Waffe ist geladen.",
-                "english": "The weapon is loaded."
-            },
-            {
-                "german": "Er zog seine Waffe.",
-                "english": "He drew his weapon."
-            },
-            {
-                "german": "Die Polizei beschlagnahmte die Waffen.",
-                "english": "The police confiscated the weapons."
-            },
-            {
-                "german": "Die Waffe wurde abgefeuert.",
-                "english": "The weapon was fired."
-            },
-            {
-                "german": "Er ist ein Experte im Umgang mit Waffen.",
-                "english": "He is an expert in handling weapons."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Waffe ist geladen.",
+            "english": "The weapon is loaded."
+        },
+        {
+            "german": "Er zog seine Waffe.",
+            "english": "He drew his weapon."
+        },
+        {
+            "german": "Die Polizei beschlagnahmte die Waffen.",
+            "english": "The police confiscated the weapons."
+        },
+        {
+            "german": "Die Waffe wurde abgefeuert.",
+            "english": "The weapon was fired."
+        },
+        {
+            "german": "Er ist ein Experte im Umgang mit Waffen.",
+            "english": "He is an expert in handling weapons."
+        }
+    ]
 }

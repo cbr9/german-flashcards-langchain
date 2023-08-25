@@ -1,28 +1,26 @@
 {
     "word": "protestieren, protestierte, protestiert",
     "definition": "To express strong disagreement or disapproval, often publicly, through actions, words, or demonstrations, typically in response to a perceived injustice, policy, or decision. This term is commonly employed during social or political movements to voice dissent and advocate for change.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich protestiere gegen diese Entscheidung.",
-                "english": "I protest against this decision."
-            },
-            {
-                "german": "Die Demonstranten protestierten friedlich.",
-                "english": "The protesters protested peacefully."
-            },
-            {
-                "german": "Sie protestiert gegen die Umweltverschmutzung.",
-                "english": "She protests against environmental pollution."
-            },
-            {
-                "german": "Die Bürger protestieren gegen die steigenden Preise.",
-                "english": "The citizens protest against rising prices."
-            },
-            {
-                "german": "Gewaltfreies Protestieren ist ein Grundrecht.",
-                "english": "Nonviolent protesting is a fundamental right."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich protestiere gegen diese Entscheidung.",
+            "english": "I protest against this decision."
+        },
+        {
+            "german": "Die Demonstranten protestierten friedlich.",
+            "english": "The protesters protested peacefully."
+        },
+        {
+            "german": "Sie protestiert gegen die Umweltverschmutzung.",
+            "english": "She protests against environmental pollution."
+        },
+        {
+            "german": "Die Bürger protestieren gegen die steigenden Preise.",
+            "english": "The citizens protest against rising prices."
+        },
+        {
+            "german": "Gewaltfreies Protestieren ist ein Grundrecht.",
+            "english": "Nonviolent protesting is a fundamental right."
+        }
+    ]
 }

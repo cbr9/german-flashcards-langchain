@@ -1,28 +1,26 @@
 {
     "word": "die Regelung, die Regelungen",
     "definition": "A directive or provision that establishes a framework for controlling or managing a specific situation or process, often used in the context of laws, regulations, or guidelines. It is commonly employed in various fields, including engineering, technology, and governance, to refer to the act of setting rules or regulations to ensure order, compliance, or effective functioning.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Regelung besagt, dass alle Teilnehmer pünktlich erscheinen müssen.",
-                "english": "The regulation states that all participants must arrive on time."
-            },
-            {
-                "german": "Die Regelung zum Datenschutz wurde kürzlich aktualisiert.",
-                "english": "The data protection regulation was recently updated."
-            },
-            {
-                "german": "Die Regelung erlaubt es den Mitarbeitern, flexible Arbeitszeiten zu haben.",
-                "english": "The regulation allows employees to have flexible working hours."
-            },
-            {
-                "german": "Die Regelung betrifft nur Unternehmen mit mehr als 50 Mitarbeitern.",
-                "english": "The regulation only applies to companies with more than 50 employees."
-            },
-            {
-                "german": "Die Regelung wurde von der Regierung eingeführt, um die Umwelt zu schützen.",
-                "english": "The regulation was introduced by the government to protect the environment."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Regelung besagt, dass alle Teilnehmer pünktlich erscheinen müssen.",
+            "english": "The regulation states that all participants must arrive on time."
+        },
+        {
+            "german": "Die Regelung zum Datenschutz wurde kürzlich aktualisiert.",
+            "english": "The data protection regulation was recently updated."
+        },
+        {
+            "german": "Die Regelung erlaubt es den Mitarbeitern, flexible Arbeitszeiten zu haben.",
+            "english": "The regulation allows employees to have flexible working hours."
+        },
+        {
+            "german": "Die Regelung betrifft nur Unternehmen mit mehr als 50 Mitarbeitern.",
+            "english": "The regulation only applies to companies with more than 50 employees."
+        },
+        {
+            "german": "Die Regelung wurde von der Regierung eingeführt, um die Umwelt zu schützen.",
+            "english": "The regulation was introduced by the government to protect the environment."
+        }
+    ]
 }

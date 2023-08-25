@@ -1,28 +1,26 @@
 {
     "word": "erzählen, erzählte, erzählt",
     "definition": "A term commonly employed to describe the act of recounting or narrating a story, often involving the sharing of personal experiences, fictional tales, or historical events. It is frequently used in the context of literature, oral traditions, conversations, or any form of communication where storytelling takes place.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Erzähl mir eine Geschichte.",
-                "english": "Tell me a story."
-            },
-            {
-                "german": "Kannst du mir etwas erzählen?",
-                "english": "Can you tell me something?"
-            },
-            {
-                "german": "Erzähl mir von deinem Tag.",
-                "english": "Tell me about your day."
-            },
-            {
-                "german": "Ich werde dir eine Geschichte erzählen.",
-                "english": "I will tell you a story."
-            },
-            {
-                "german": "Erzähl mir einen Witz.",
-                "english": "Tell me a joke."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Erzähl mir eine Geschichte.",
+            "english": "Tell me a story."
+        },
+        {
+            "german": "Kannst du mir etwas erzählen?",
+            "english": "Can you tell me something?"
+        },
+        {
+            "german": "Erzähl mir von deinem Tag.",
+            "english": "Tell me about your day."
+        },
+        {
+            "german": "Ich werde dir eine Geschichte erzählen.",
+            "english": "I will tell you a story."
+        },
+        {
+            "german": "Erzähl mir einen Witz.",
+            "english": "Tell me a joke."
+        }
+    ]
 }

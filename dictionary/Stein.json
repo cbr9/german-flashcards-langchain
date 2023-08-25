@@ -1,28 +1,26 @@
 {
     "word": "der Stein, die Steine",
     "definition": "A solid, naturally occurring substance composed of minerals, typically found in the Earth's crust, often used for construction purposes, as a building material, or for decorative objects.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Stein ist schwer.",
-                "english": "The stone is heavy."
-            },
-            {
-                "german": "Sie hat einen Stein ins Wasser geworfen.",
-                "english": "She threw a stone into the water."
-            },
-            {
-                "german": "Der Stein ist kalt.",
-                "english": "The stone is cold."
-            },
-            {
-                "german": "Er hat einen Stein aufgehoben.",
-                "english": "He picked up a stone."
-            },
-            {
-                "german": "Der Stein liegt im Garten.",
-                "english": "The stone is in the garden."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Stein ist schwer.",
+            "english": "The stone is heavy."
+        },
+        {
+            "german": "Sie hat einen Stein ins Wasser geworfen.",
+            "english": "She threw a stone into the water."
+        },
+        {
+            "german": "Der Stein ist kalt.",
+            "english": "The stone is cold."
+        },
+        {
+            "german": "Er hat einen Stein aufgehoben.",
+            "english": "He picked up a stone."
+        },
+        {
+            "german": "Der Stein liegt im Garten.",
+            "english": "The stone is in the garden."
+        }
+    ]
 }

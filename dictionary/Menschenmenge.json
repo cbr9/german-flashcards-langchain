@@ -1,28 +1,26 @@
 {
     "word": "die Menschenmenge, die Menschenmengen",
     "definition": "A large gathering of individuals in a specific location, typically used to describe a crowd or multitude of people congregated together for a particular event or purpose.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Menschenmenge jubelte dem Fußballteam zu.",
-                "english": "The crowd cheered for the soccer team."
-            },
-            {
-                "german": "Die Menschenmenge versammelte sich vor dem Rathaus.",
-                "english": "The crowd gathered in front of the town hall."
-            },
-            {
-                "german": "Die Polizei musste die Menschenmenge auflösen.",
-                "english": "The police had to disperse the crowd."
-            },
-            {
-                "german": "Die Menschenmenge drängte sich vor dem Konzertgelände.",
-                "english": "The crowd pushed forward in front of the concert venue."
-            },
-            {
-                "german": "Die Menschenmenge bildete eine lange Schlange vor dem Eingang.",
-                "english": "The crowd formed a long line in front of the entrance."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Menschenmenge jubelte dem Fußballteam zu.",
+            "english": "The crowd cheered for the soccer team."
+        },
+        {
+            "german": "Die Menschenmenge versammelte sich vor dem Rathaus.",
+            "english": "The crowd gathered in front of the town hall."
+        },
+        {
+            "german": "Die Polizei musste die Menschenmenge auflösen.",
+            "english": "The police had to disperse the crowd."
+        },
+        {
+            "german": "Die Menschenmenge drängte sich vor dem Konzertgelände.",
+            "english": "The crowd pushed forward in front of the concert venue."
+        },
+        {
+            "german": "Die Menschenmenge bildete eine lange Schlange vor dem Eingang.",
+            "english": "The crowd formed a long line in front of the entrance."
+        }
+    ]
 }

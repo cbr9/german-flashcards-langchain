@@ -1,28 +1,26 @@
 {
     "word": "täglich",
     "definition": "The word \"täglich\" refers to something that occurs on a regular basis, happening every day. It is commonly used to describe actions, routines, or events that take place daily.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe täglich ins Fitnessstudio.",
-                "english": "I go to the gym daily."
-            },
-            {
-                "german": "Sie trinkt täglich zwei Liter Wasser.",
-                "english": "She drinks two liters of water daily."
-            },
-            {
-                "german": "Tägliches Zähneputzen ist wichtig für die Mundhygiene.",
-                "english": "Daily brushing is important for oral hygiene."
-            },
-            {
-                "german": "Er liest täglich die Zeitung.",
-                "english": "He reads the newspaper daily."
-            },
-            {
-                "german": "Die Sonne geht täglich im Osten auf.",
-                "english": "The sun rises in the east daily."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe täglich ins Fitnessstudio.",
+            "english": "I go to the gym daily."
+        },
+        {
+            "german": "Sie trinkt täglich zwei Liter Wasser.",
+            "english": "She drinks two liters of water daily."
+        },
+        {
+            "german": "Tägliches Zähneputzen ist wichtig für die Mundhygiene.",
+            "english": "Daily brushing is important for oral hygiene."
+        },
+        {
+            "german": "Er liest täglich die Zeitung.",
+            "english": "He reads the newspaper daily."
+        },
+        {
+            "german": "Die Sonne geht täglich im Osten auf.",
+            "english": "The sun rises in the east daily."
+        }
+    ]
 }

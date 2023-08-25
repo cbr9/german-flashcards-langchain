@@ -1,28 +1,26 @@
 {
     "word": "das Holzbrett, die Holzbretter",
     "definition": "A flat, rectangular object made from a natural material commonly found in households, often utilized as a surface for various activities such as cutting, chopping, or serving food.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Holzbrett ist sehr stabil.",
-                "english": "The wooden board is very sturdy."
-            },
-            {
-                "german": "Ich schneide das Gemüse auf dem Holzbrett.",
-                "english": "I am cutting the vegetables on the wooden board."
-            },
-            {
-                "german": "Das Holzbrett hat eine glatte Oberfläche.",
-                "english": "The wooden board has a smooth surface."
-            },
-            {
-                "german": "Ich habe ein neues Holzbrett für die Küche gekauft.",
-                "english": "I bought a new wooden board for the kitchen."
-            },
-            {
-                "german": "Das Holzbrett ist aus Eichenholz gefertigt.",
-                "english": "The wooden board is made of oak wood."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Holzbrett ist sehr stabil.",
+            "english": "The wooden board is very sturdy."
+        },
+        {
+            "german": "Ich schneide das Gemüse auf dem Holzbrett.",
+            "english": "I am cutting the vegetables on the wooden board."
+        },
+        {
+            "german": "Das Holzbrett hat eine glatte Oberfläche.",
+            "english": "The wooden board has a smooth surface."
+        },
+        {
+            "german": "Ich habe ein neues Holzbrett für die Küche gekauft.",
+            "english": "I bought a new wooden board for the kitchen."
+        },
+        {
+            "german": "Das Holzbrett ist aus Eichenholz gefertigt.",
+            "english": "The wooden board is made of oak wood."
+        }
+    ]
 }

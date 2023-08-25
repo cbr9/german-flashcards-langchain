@@ -1,28 +1,26 @@
 {
     "word": "die Weise, die Weisen",
     "definition": "A manner or way of doing something, often referring to a specific approach, method, or style employed in a particular context. It is commonly used to describe the characteristic or preferred way of doing things, especially in terms of behavior, thinking, or problem-solving.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er handelt auf eigene Weise.",
-                "english": "He acts in his own way."
-            },
-            {
-                "german": "Sie hat eine besondere Weise, Probleme zu lösen.",
-                "english": "She has a special way of solving problems."
-            },
-            {
-                "german": "Auf welche Weise kann ich Ihnen helfen?",
-                "english": "In what way can I help you?"
-            },
-            {
-                "german": "Er hat eine Weise, die Menschen zu beruhigen.",
-                "english": "He has a way of calming people down."
-            },
-            {
-                "german": "Sie hat eine Weise, die Dinge zu erklären.",
-                "english": "She has a way of explaining things."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er handelt auf eigene Weise.",
+            "english": "He acts in his own way."
+        },
+        {
+            "german": "Sie hat eine besondere Weise, Probleme zu lösen.",
+            "english": "She has a special way of solving problems."
+        },
+        {
+            "german": "Auf welche Weise kann ich Ihnen helfen?",
+            "english": "In what way can I help you?"
+        },
+        {
+            "german": "Er hat eine Weise, die Menschen zu beruhigen.",
+            "english": "He has a way of calming people down."
+        },
+        {
+            "german": "Sie hat eine Weise, die Dinge zu erklären.",
+            "english": "She has a way of explaining things."
+        }
+    ]
 }

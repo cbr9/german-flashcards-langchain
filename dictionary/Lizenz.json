@@ -1,28 +1,26 @@
 {
     "word": "die Lizenz, die Lizenzen",
     "definition": "A legal permission or authorization granted by an authority, typically allowing an individual or organization to engage in a specific activity, use certain intellectual property, or operate a business under specified conditions. It is commonly required for various professional practices, commercial activities, or the use of copyrighted material.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Firma hat eine Lizenz zur Nutzung des Logos.",
-                "english": "The company has a license to use the logo."
-            },
-            {
-                "german": "Er hat eine Lizenz zum Führen eines Motorrads.",
-                "english": "He has a license to ride a motorcycle."
-            },
-            {
-                "german": "Die Software wird unter einer Open-Source-Lizenz veröffentlicht.",
-                "english": "The software is released under an open-source license."
-            },
-            {
-                "german": "Sie benötigen eine Lizenz, um Musik öffentlich abzuspielen.",
-                "english": "You need a license to play music publicly."
-            },
-            {
-                "german": "Die Lizenz für das Produkt läuft in einem Monat ab.",
-                "english": "The license for the product expires in one month."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Firma hat eine Lizenz zur Nutzung des Logos.",
+            "english": "The company has a license to use the logo."
+        },
+        {
+            "german": "Er hat eine Lizenz zum Führen eines Motorrads.",
+            "english": "He has a license to ride a motorcycle."
+        },
+        {
+            "german": "Die Software wird unter einer Open-Source-Lizenz veröffentlicht.",
+            "english": "The software is released under an open-source license."
+        },
+        {
+            "german": "Sie benötigen eine Lizenz, um Musik öffentlich abzuspielen.",
+            "english": "You need a license to play music publicly."
+        },
+        {
+            "german": "Die Lizenz für das Produkt läuft in einem Monat ab.",
+            "english": "The license for the product expires in one month."
+        }
+    ]
 }

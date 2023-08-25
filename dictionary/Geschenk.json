@@ -1,28 +1,26 @@
 {
     "word": "das Geschenk, die Geschenke",
     "definition": "A present given to someone, typically on a special occasion or as a token of appreciation. It is commonly used to express goodwill, celebrate events, or show affection towards others.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Geschenk ist schön verpackt.",
-                "english": "The gift is beautifully wrapped."
-            },
-            {
-                "german": "Sie hat mir ein tolles Geschenk gemacht.",
-                "english": "She gave me a great gift."
-            },
-            {
-                "german": "Ich habe ein Geschenk für dich.",
-                "english": "I have a gift for you."
-            },
-            {
-                "german": "Das Geschenk hat sie selbst gemacht.",
-                "english": "She made the gift herself."
-            },
-            {
-                "german": "Er hat das Geschenk mitgebracht.",
-                "english": "He brought the gift with him."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Geschenk ist schön verpackt.",
+            "english": "The gift is beautifully wrapped."
+        },
+        {
+            "german": "Sie hat mir ein tolles Geschenk gemacht.",
+            "english": "She gave me a great gift."
+        },
+        {
+            "german": "Ich habe ein Geschenk für dich.",
+            "english": "I have a gift for you."
+        },
+        {
+            "german": "Das Geschenk hat sie selbst gemacht.",
+            "english": "She made the gift herself."
+        },
+        {
+            "german": "Er hat das Geschenk mitgebracht.",
+            "english": "He brought the gift with him."
+        }
+    ]
 }

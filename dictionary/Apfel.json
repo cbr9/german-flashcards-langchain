@@ -1,28 +1,26 @@
 {
     "word": "der Apfel, die Äpfel",
     "definition": "A round, edible fruit typically with a crisp texture and a sweet or tart taste, commonly used in cooking, baking, and eating raw. It is often associated with various desserts, juices, and cider production.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Apfel ist rot.",
-                "english": "The apple is red."
-            },
-            {
-                "german": "Ich esse gerne Äpfel.",
-                "english": "I like to eat apples."
-            },
-            {
-                "german": "Der Apfelbaum blüht im Frühling.",
-                "english": "The apple tree blooms in spring."
-            },
-            {
-                "german": "Apfelsaft schmeckt erfrischend.",
-                "english": "Apple juice tastes refreshing."
-            },
-            {
-                "german": "Die Kinder pflücken Äpfel im Obstgarten.",
-                "english": "The children pick apples in the orchard."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Apfel ist rot.",
+            "english": "The apple is red."
+        },
+        {
+            "german": "Ich esse gerne Äpfel.",
+            "english": "I like to eat apples."
+        },
+        {
+            "german": "Der Apfelbaum blüht im Frühling.",
+            "english": "The apple tree blooms in spring."
+        },
+        {
+            "german": "Apfelsaft schmeckt erfrischend.",
+            "english": "Apple juice tastes refreshing."
+        },
+        {
+            "german": "Die Kinder pflücken Äpfel im Obstgarten.",
+            "english": "The children pick apples in the orchard."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "fest",
     "definition": "A celebration or event characterized by a joyful and lively atmosphere, often involving music, dancing, food, and drink. It is typically associated with a specific occasion or holiday, and is commonly enjoyed by people gathering together to commemorate or enjoy something special.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Fest war sehr schön.",
-                "english": "The party was very nice."
-            },
-            {
-                "german": "Wir haben ein großes Fest geplant.",
-                "english": "We have planned a big celebration."
-            },
-            {
-                "german": "Das Fest findet im Park statt.",
-                "english": "The festival takes place in the park."
-            },
-            {
-                "german": "Sie hat eine feste Beziehung.",
-                "english": "She is in a steady relationship."
-            },
-            {
-                "german": "Das Bier ist fest in der Flasche.",
-                "english": "The beer is firmly sealed in the bottle."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Fest war sehr schön.",
+            "english": "The party was very nice."
+        },
+        {
+            "german": "Wir haben ein großes Fest geplant.",
+            "english": "We have planned a big celebration."
+        },
+        {
+            "german": "Das Fest findet im Park statt.",
+            "english": "The festival takes place in the park."
+        },
+        {
+            "german": "Sie hat eine feste Beziehung.",
+            "english": "She is in a steady relationship."
+        },
+        {
+            "german": "Das Bier ist fest in der Flasche.",
+            "english": "The beer is firmly sealed in the bottle."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Vogel, die Vögel",
     "definition": "A creature that possesses feathers, wings, and a beak, typically found in the sky or perched on trees, and known for its ability to fly. It is often used as a metaphorical term to describe someone who is carefree or flighty in nature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Vogel singt fröhlich.",
-                "english": "The bird sings cheerfully."
-            },
-            {
-                "german": "Ich habe einen kleinen Vogel im Garten gesehen.",
-                "english": "I saw a small bird in the garden."
-            },
-            {
-                "german": "Der bunte Vogel fliegt hoch in den Himmel.",
-                "english": "The colorful bird flies high in the sky."
-            },
-            {
-                "german": "Vögel bauen Nester zum Brüten.",
-                "english": "Birds build nests for breeding."
-            },
-            {
-                "german": "Der Vogel hat ein schönes Federkleid.",
-                "english": "The bird has a beautiful plumage."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Vogel singt fröhlich.",
+            "english": "The bird sings cheerfully."
+        },
+        {
+            "german": "Ich habe einen kleinen Vogel im Garten gesehen.",
+            "english": "I saw a small bird in the garden."
+        },
+        {
+            "german": "Der bunte Vogel fliegt hoch in den Himmel.",
+            "english": "The colorful bird flies high in the sky."
+        },
+        {
+            "german": "Vögel bauen Nester zum Brüten.",
+            "english": "Birds build nests for breeding."
+        },
+        {
+            "german": "Der Vogel hat ein schönes Federkleid.",
+            "english": "The bird has a beautiful plumage."
+        }
+    ]
 }

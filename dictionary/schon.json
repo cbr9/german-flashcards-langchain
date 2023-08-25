@@ -1,28 +1,26 @@
 {
     "word": "schon",
     "definition": "\"Schon\" is an adverb that is commonly used to express various meanings related to time, emphasizing that something has already happened or occurred earlier than expected. It can also convey a sense of completion or readiness. Additionally, \"schon\" can be used to indicate surprise or disbelief, similar to the English word \"really.\"",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin schon da.",
-                "english": "I am already here."
-            },
-            {
-                "german": "Hast du schon gegessen?",
-                "english": "Have you already eaten?"
-            },
-            {
-                "german": "Er ist schon lange verheiratet.",
-                "english": "He has been married for a long time."
-            },
-            {
-                "german": "Schon wieder Regen?",
-                "english": "Rain again?"
-            },
-            {
-                "german": "Ich habe schon genug davon.",
-                "english": "I have had enough of it already."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin schon da.",
+            "english": "I am already here."
+        },
+        {
+            "german": "Hast du schon gegessen?",
+            "english": "Have you already eaten?"
+        },
+        {
+            "german": "Er ist schon lange verheiratet.",
+            "english": "He has been married for a long time."
+        },
+        {
+            "german": "Schon wieder Regen?",
+            "english": "Rain again?"
+        },
+        {
+            "german": "Ich habe schon genug davon.",
+            "english": "I have had enough of it already."
+        }
+    ]
 }

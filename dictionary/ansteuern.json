@@ -1,28 +1,26 @@
 {
     "word": "ansteuern, steuerte an, angesteuert",
     "definition": "To direct a vehicle or vessel towards a specific destination or target, typically used when referring to the act of steering a ship, aircraft, or other means of transportation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich steuere das Schiff an.",
-                "english": "I steer the ship."
-            },
-            {
-                "german": "Er steuert auf das Ziel zu.",
-                "english": "He is heading towards the target."
-            },
-            {
-                "german": "Wir müssen den Hafen ansteuern.",
-                "english": "We need to navigate towards the harbor."
-            },
-            {
-                "german": "Sie steuert das Flugzeug sicher an.",
-                "english": "She safely pilots the airplane."
-            },
-            {
-                "german": "Der Fahrer steuert das Auto auf die Autobahn.",
-                "english": "The driver steers the car onto the highway."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich steuere das Schiff an.",
+            "english": "I steer the ship."
+        },
+        {
+            "german": "Er steuert auf das Ziel zu.",
+            "english": "He is heading towards the target."
+        },
+        {
+            "german": "Wir müssen den Hafen ansteuern.",
+            "english": "We need to navigate towards the harbor."
+        },
+        {
+            "german": "Sie steuert das Flugzeug sicher an.",
+            "english": "She safely pilots the airplane."
+        },
+        {
+            "german": "Der Fahrer steuert das Auto auf die Autobahn.",
+            "english": "The driver steers the car onto the highway."
+        }
+    ]
 }

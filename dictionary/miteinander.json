@@ -1,28 +1,26 @@
 {
     "word": "miteinander",
     "definition": "A term used to describe the concept of individuals engaging in reciprocal interaction, communication, or cooperation with one another. It typically refers to the act of people coming together, collaborating, or having a sense of togetherness in various contexts, such as relationships, teamwork, or social gatherings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir sollten mehr miteinander reden.",
-                "english": "We should talk more with each other."
-            },
-            {
-                "german": "Sie haben eine gute Beziehung zueinander.",
-                "english": "They have a good relationship with each other."
-            },
-            {
-                "german": "Die Kinder spielen gerne miteinander.",
-                "english": "The children like to play with each other."
-            },
-            {
-                "german": "Wir müssen lernen, miteinander zu kooperieren.",
-                "english": "We need to learn to cooperate with each other."
-            },
-            {
-                "german": "Sie haben sich miteinander verabredet.",
-                "english": "They have made an appointment with each other."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir sollten mehr miteinander reden.",
+            "english": "We should talk more with each other."
+        },
+        {
+            "german": "Sie haben eine gute Beziehung zueinander.",
+            "english": "They have a good relationship with each other."
+        },
+        {
+            "german": "Die Kinder spielen gerne miteinander.",
+            "english": "The children like to play with each other."
+        },
+        {
+            "german": "Wir müssen lernen, miteinander zu kooperieren.",
+            "english": "We need to learn to cooperate with each other."
+        },
+        {
+            "german": "Sie haben sich miteinander verabredet.",
+            "english": "They have made an appointment with each other."
+        }
+    ]
 }

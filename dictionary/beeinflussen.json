@@ -1,28 +1,26 @@
 {
     "word": "beeinflussen, beeinflusste, beeinflusst",
     "definition": "To exert an impact or influence on someone or something, typically with the intention of altering their thoughts, actions, or decisions. This term is commonly employed in various contexts, including interpersonal relationships, marketing, politics, and psychology.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte dich beeinflussen.",
-                "english": "I want to influence you."
-            },
-            {
-                "german": "Seine Entscheidung wurde von seinen Freunden beeinflusst.",
-                "english": "His decision was influenced by his friends."
-            },
-            {
-                "german": "Die Werbung beeinflusst oft unsere Kaufentscheidungen.",
-                "english": "Advertising often influences our purchasing decisions."
-            },
-            {
-                "german": "Die Meinung der Experten beeinflusst die öffentliche Meinung.",
-                "english": "The opinion of experts influences public opinion."
-            },
-            {
-                "german": "Die Musik hat eine beruhigende Wirkung und beeinflusst unsere Stimmung.",
-                "english": "Music has a calming effect and influences our mood."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte dich beeinflussen.",
+            "english": "I want to influence you."
+        },
+        {
+            "german": "Seine Entscheidung wurde von seinen Freunden beeinflusst.",
+            "english": "His decision was influenced by his friends."
+        },
+        {
+            "german": "Die Werbung beeinflusst oft unsere Kaufentscheidungen.",
+            "english": "Advertising often influences our purchasing decisions."
+        },
+        {
+            "german": "Die Meinung der Experten beeinflusst die öffentliche Meinung.",
+            "english": "The opinion of experts influences public opinion."
+        },
+        {
+            "german": "Die Musik hat eine beruhigende Wirkung und beeinflusst unsere Stimmung.",
+            "english": "Music has a calming effect and influences our mood."
+        }
+    ]
 }

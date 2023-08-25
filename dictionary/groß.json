@@ -1,28 +1,26 @@
 {
     "word": "groß",
     "definition": "The term refers to a comparative degree that describes something of considerable size or magnitude. It is commonly employed to describe physical dimensions, quantities, or proportions. Additionally, it can be used metaphorically to express significance, importance, or influence.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Haus ist groß.",
-                "english": "The house is big."
-            },
-            {
-                "german": "Er hat einen großen Hund.",
-                "english": "He has a big dog."
-            },
-            {
-                "german": "Sie trägt eine große Tasche.",
-                "english": "She is carrying a large bag."
-            },
-            {
-                "german": "Das ist ein großer Fehler.",
-                "english": "That is a big mistake."
-            },
-            {
-                "german": "Die Stadt hat viele große Gebäude.",
-                "english": "The city has many tall buildings."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Haus ist groß.",
+            "english": "The house is big."
+        },
+        {
+            "german": "Er hat einen großen Hund.",
+            "english": "He has a big dog."
+        },
+        {
+            "german": "Sie trägt eine große Tasche.",
+            "english": "She is carrying a large bag."
+        },
+        {
+            "german": "Das ist ein großer Fehler.",
+            "english": "That is a big mistake."
+        },
+        {
+            "german": "Die Stadt hat viele große Gebäude.",
+            "english": "The city has many tall buildings."
+        }
+    ]
 }

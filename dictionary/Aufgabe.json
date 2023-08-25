@@ -1,28 +1,26 @@
 {
     "word": "die Aufgabe, die Aufgaben",
     "definition": "A task or assignment that is typically given to someone to complete, often related to work, study, or a specific objective. It can also refer to a duty, responsibility, or a challenge that needs to be addressed.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Aufgabe ist schwierig.",
-                "english": "The task is difficult."
-            },
-            {
-                "german": "Ich habe eine wichtige Aufgabe.",
-                "english": "I have an important task."
-            },
-            {
-                "german": "Die Aufgabe muss bis morgen erledigt sein.",
-                "english": "The task must be completed by tomorrow."
-            },
-            {
-                "german": "Sie hat ihre Aufgabe gut gemacht.",
-                "english": "She did her task well."
-            },
-            {
-                "german": "Die Aufgabe besteht darin, das Problem zu lösen.",
-                "english": "The task is to solve the problem."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Aufgabe ist schwierig.",
+            "english": "The task is difficult."
+        },
+        {
+            "german": "Ich habe eine wichtige Aufgabe.",
+            "english": "I have an important task."
+        },
+        {
+            "german": "Die Aufgabe muss bis morgen erledigt sein.",
+            "english": "The task must be completed by tomorrow."
+        },
+        {
+            "german": "Sie hat ihre Aufgabe gut gemacht.",
+            "english": "She did her task well."
+        },
+        {
+            "german": "Die Aufgabe besteht darin, das Problem zu lösen.",
+            "english": "The task is to solve the problem."
+        }
+    ]
 }

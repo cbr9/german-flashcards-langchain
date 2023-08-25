@@ -1,28 +1,26 @@
 {
     "word": "die Bedrohung, die Bedrohungen",
     "definition": "A term that refers to a situation or action that poses harm, danger, or potential damage to individuals, groups, or entities. It is commonly used to describe various forms of threats, whether they are physical, psychological, or abstract in nature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Bedrohung war real.",
-                "english": "The threat was real."
-            },
-            {
-                "german": "Die Bedrohung wurde ernst genommen.",
-                "english": "The threat was taken seriously."
-            },
-            {
-                "german": "Die Bedrohungslage hat sich verschärft.",
-                "english": "The threat situation has intensified."
-            },
-            {
-                "german": "Die Bedrohung ist noch nicht gebannt.",
-                "english": "The threat is not yet eliminated."
-            },
-            {
-                "german": "Die Bedrohung ist akut.",
-                "english": "The threat is acute."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Bedrohung war real.",
+            "english": "The threat was real."
+        },
+        {
+            "german": "Die Bedrohung wurde ernst genommen.",
+            "english": "The threat was taken seriously."
+        },
+        {
+            "german": "Die Bedrohungslage hat sich verschärft.",
+            "english": "The threat situation has intensified."
+        },
+        {
+            "german": "Die Bedrohung ist noch nicht gebannt.",
+            "english": "The threat is not yet eliminated."
+        },
+        {
+            "german": "Die Bedrohung ist akut.",
+            "english": "The threat is acute."
+        }
+    ]
 }

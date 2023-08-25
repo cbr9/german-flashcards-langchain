@@ -1,28 +1,26 @@
 {
     "word": "die Erfahrung, die Erfahrungen",
     "definition": "A term commonly employed to describe the knowledge, understanding, and insight gained through personal encounters, practical involvement, or past events. It is often utilized to refer to the wisdom and expertise acquired through firsthand experiences, particularly in a specific field or domain.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe viel Erfahrung in diesem Bereich.",
-                "english": "I have a lot of experience in this field."
-            },
-            {
-                "german": "Sie hat keine Erfahrung mit Computern.",
-                "english": "She has no experience with computers."
-            },
-            {
-                "german": "Erfahrung ist der beste Lehrmeister.",
-                "english": "Experience is the best teacher."
-            },
-            {
-                "german": "Ich habe gute Erfahrungen mit diesem Produkt gemacht.",
-                "english": "I have had good experiences with this product."
-            },
-            {
-                "german": "Er hat jahrelange Erfahrung als Arzt.",
-                "english": "He has years of experience as a doctor."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe viel Erfahrung in diesem Bereich.",
+            "english": "I have a lot of experience in this field."
+        },
+        {
+            "german": "Sie hat keine Erfahrung mit Computern.",
+            "english": "She has no experience with computers."
+        },
+        {
+            "german": "Erfahrung ist der beste Lehrmeister.",
+            "english": "Experience is the best teacher."
+        },
+        {
+            "german": "Ich habe gute Erfahrungen mit diesem Produkt gemacht.",
+            "english": "I have had good experiences with this product."
+        },
+        {
+            "german": "Er hat jahrelange Erfahrung als Arzt.",
+            "english": "He has years of experience as a doctor."
+        }
+    ]
 }

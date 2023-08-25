@@ -1,28 +1,26 @@
 {
     "word": "die Socke, die Socken",
     "definition": "A piece of clothing typically worn on the foot, covering the ankle and lower leg, often made of a stretchy material and used to provide warmth and comfort. It is commonly used as a basic garment for everyday wear and is often paired with shoes or slippers.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine neue Socke gekauft.",
-                "english": "I bought a new sock."
-            },
-            {
-                "german": "Die Socke ist blau.",
-                "english": "The sock is blue."
-            },
-            {
-                "german": "Ich finde meine Socke nicht.",
-                "english": "I can't find my sock."
-            },
-            {
-                "german": "Die Socke passt nicht.",
-                "english": "The sock doesn't fit."
-            },
-            {
-                "german": "Ich trage immer zwei Socken.",
-                "english": "I always wear two socks."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine neue Socke gekauft.",
+            "english": "I bought a new sock."
+        },
+        {
+            "german": "Die Socke ist blau.",
+            "english": "The sock is blue."
+        },
+        {
+            "german": "Ich finde meine Socke nicht.",
+            "english": "I can't find my sock."
+        },
+        {
+            "german": "Die Socke passt nicht.",
+            "english": "The sock doesn't fit."
+        },
+        {
+            "german": "Ich trage immer zwei Socken.",
+            "english": "I always wear two socks."
+        }
+    ]
 }

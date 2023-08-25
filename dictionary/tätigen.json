@@ -1,28 +1,26 @@
 {
     "word": "tätigen, tätigte, getätigt",
     "definition": "To perform an action or carry out an activity, typically used in the context of making a specific type of transaction or conducting business.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss eine Entscheidung tätigen.",
-                "english": "I have to make a decision."
-            },
-            {
-                "german": "Er tätigte eine große Investition.",
-                "english": "He made a big investment."
-            },
-            {
-                "german": "Sie können Ihre Zahlungen online tätigen.",
-                "english": "You can make your payments online."
-            },
-            {
-                "german": "Die Bank hat eine Überweisung für mich getätigt.",
-                "english": "The bank made a transfer for me."
-            },
-            {
-                "german": "Er tätigte einen Anruf, um die Reservierung zu bestätigen.",
-                "english": "He made a call to confirm the reservation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss eine Entscheidung tätigen.",
+            "english": "I have to make a decision."
+        },
+        {
+            "german": "Er tätigte eine große Investition.",
+            "english": "He made a big investment."
+        },
+        {
+            "german": "Sie können Ihre Zahlungen online tätigen.",
+            "english": "You can make your payments online."
+        },
+        {
+            "german": "Die Bank hat eine Überweisung für mich getätigt.",
+            "english": "The bank made a transfer for me."
+        },
+        {
+            "german": "Er tätigte einen Anruf, um die Reservierung zu bestätigen.",
+            "english": "He made a call to confirm the reservation."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Ohr, die Ohren",
     "definition": "A body part located on the sides of the head, typically used for hearing and maintaining balance, often covered by hair. It is commonly used to perceive sounds and plays a crucial role in communication and auditory perception.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Ohr ist ein Sinnesorgan.",
-                "english": "The ear is a sensory organ."
-            },
-            {
-                "german": "Ich habe mir das Ohr verletzt.",
-                "english": "I injured my ear."
-            },
-            {
-                "german": "Sie hat ein Hörgerät im Ohr.",
-                "english": "She has a hearing aid in her ear."
-            },
-            {
-                "german": "Das Baby hat große Ohren.",
-                "english": "The baby has big ears."
-            },
-            {
-                "german": "Er flüsterte ihr ins Ohr.",
-                "english": "He whispered in her ear."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Ohr ist ein Sinnesorgan.",
+            "english": "The ear is a sensory organ."
+        },
+        {
+            "german": "Ich habe mir das Ohr verletzt.",
+            "english": "I injured my ear."
+        },
+        {
+            "german": "Sie hat ein Hörgerät im Ohr.",
+            "english": "She has a hearing aid in her ear."
+        },
+        {
+            "german": "Das Baby hat große Ohren.",
+            "english": "The baby has big ears."
+        },
+        {
+            "german": "Er flüsterte ihr ins Ohr.",
+            "english": "He whispered in her ear."
+        }
+    ]
 }

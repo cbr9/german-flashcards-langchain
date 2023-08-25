@@ -1,28 +1,26 @@
 {
     "word": "gelb",
     "definition": "The color often associated with ripe lemons, sunflowers, and school buses. It is commonly used to describe objects, signs, or symbols that are bright and easily noticeable.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Sonnenblumen sind gelb.",
-                "english": "The sunflowers are yellow."
-            },
-            {
-                "german": "Das gelbe Auto fährt schnell.",
-                "english": "The yellow car is driving fast."
-            },
-            {
-                "german": "Die Banane ist gelb und reif.",
-                "english": "The banana is yellow and ripe."
-            },
-            {
-                "german": "Die Ente hat gelbe Federn.",
-                "english": "The duck has yellow feathers."
-            },
-            {
-                "german": "Die Zitrone schmeckt sauer und gelb.",
-                "english": "The lemon tastes sour and is yellow."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Sonnenblumen sind gelb.",
+            "english": "The sunflowers are yellow."
+        },
+        {
+            "german": "Das gelbe Auto fährt schnell.",
+            "english": "The yellow car is driving fast."
+        },
+        {
+            "german": "Die Banane ist gelb und reif.",
+            "english": "The banana is yellow and ripe."
+        },
+        {
+            "german": "Die Ente hat gelbe Federn.",
+            "english": "The duck has yellow feathers."
+        },
+        {
+            "german": "Die Zitrone schmeckt sauer und gelb.",
+            "english": "The lemon tastes sour and is yellow."
+        }
+    ]
 }

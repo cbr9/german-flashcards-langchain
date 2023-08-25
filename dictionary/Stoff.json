@@ -1,28 +1,26 @@
 {
     "word": "der Stoff, die Stoffe",
     "definition": "A material or substance that is commonly utilized in the creation or production of various objects, often used in the context of textiles, fabrics, or materials for clothing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Stoff des T-Shirts ist sehr weich.",
-                "english": "The fabric of the T-shirt is very soft."
-            },
-            {
-                "german": "Sie hat einen Stoffbeutel für ihre Einkäufe verwendet.",
-                "english": "She used a fabric bag for her shopping."
-            },
-            {
-                "german": "Der Stoff des Vorhangs ist blickdicht.",
-                "english": "The fabric of the curtain is opaque."
-            },
-            {
-                "german": "Er hat den Stoff für das Kostüm selbst ausgesucht.",
-                "english": "He chose the fabric for the costume himself."
-            },
-            {
-                "german": "Der Stoff des Sofas ist abnehmbar und waschbar.",
-                "english": "The fabric of the sofa is removable and washable."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Stoff des T-Shirts ist sehr weich.",
+            "english": "The fabric of the T-shirt is very soft."
+        },
+        {
+            "german": "Sie hat einen Stoffbeutel für ihre Einkäufe verwendet.",
+            "english": "She used a fabric bag for her shopping."
+        },
+        {
+            "german": "Der Stoff des Vorhangs ist blickdicht.",
+            "english": "The fabric of the curtain is opaque."
+        },
+        {
+            "german": "Er hat den Stoff für das Kostüm selbst ausgesucht.",
+            "english": "He chose the fabric for the costume himself."
+        },
+        {
+            "german": "Der Stoff des Sofas ist abnehmbar und waschbar.",
+            "english": "The fabric of the sofa is removable and washable."
+        }
+    ]
 }

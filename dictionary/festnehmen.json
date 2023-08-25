@@ -1,28 +1,26 @@
 {
     "word": "festnehmen, nahm fest, festgenommen",
     "definition": "To apprehend or detain someone, typically by authorities, for legal reasons or suspected criminal activity. This term is commonly employed in the context of law enforcement, where individuals are taken into custody for investigation, questioning, or arrest.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Polizei konnte den Verdächtigen festnehmen.",
-                "english": "The police were able to apprehend the suspect."
-            },
-            {
-                "german": "Der Dieb wurde festgenommen und der Polizei übergeben.",
-                "english": "The thief was arrested and handed over to the police."
-            },
-            {
-                "german": "Die Demonstranten wurden gewaltsam festgenommen.",
-                "english": "The protesters were forcefully detained."
-            },
-            {
-                "german": "Der Täter wurde festgenommen und vor Gericht gestellt.",
-                "english": "The perpetrator was arrested and brought to court."
-            },
-            {
-                "german": "Die Verdächtigen wurden festgenommen und verhört.",
-                "english": "The suspects were apprehended and interrogated."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Polizei konnte den Verdächtigen festnehmen.",
+            "english": "The police were able to apprehend the suspect."
+        },
+        {
+            "german": "Der Dieb wurde festgenommen und der Polizei übergeben.",
+            "english": "The thief was arrested and handed over to the police."
+        },
+        {
+            "german": "Die Demonstranten wurden gewaltsam festgenommen.",
+            "english": "The protesters were forcefully detained."
+        },
+        {
+            "german": "Der Täter wurde festgenommen und vor Gericht gestellt.",
+            "english": "The perpetrator was arrested and brought to court."
+        },
+        {
+            "german": "Die Verdächtigen wurden festgenommen und verhört.",
+            "english": "The suspects were apprehended and interrogated."
+        }
+    ]
 }

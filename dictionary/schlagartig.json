@@ -1,28 +1,26 @@
 {
     "word": "schlagartig",
     "definition": "Schlagartig refers to a sudden and rapid change or occurrence, often characterized by an immediate and impactful effect. It is commonly used to describe events, situations, or emotions that occur abruptly, without warning, and have a significant impact.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Blitz schlug schlagartig ein.",
-                "english": "The lightning struck suddenly."
-            },
-            {
-                "german": "Die Nachricht traf ihn schlagartig.",
-                "english": "The news hit him suddenly."
-            },
-            {
-                "german": "Der Schmerz kam schlagartig.",
-                "english": "The pain came suddenly."
-            },
-            {
-                "german": "Die Erkenntnis kam schlagartig.",
-                "english": "The realization came suddenly."
-            },
-            {
-                "german": "Die Stimmung änderte sich schlagartig.",
-                "english": "The mood changed suddenly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Blitz schlug schlagartig ein.",
+            "english": "The lightning struck suddenly."
+        },
+        {
+            "german": "Die Nachricht traf ihn schlagartig.",
+            "english": "The news hit him suddenly."
+        },
+        {
+            "german": "Der Schmerz kam schlagartig.",
+            "english": "The pain came suddenly."
+        },
+        {
+            "german": "Die Erkenntnis kam schlagartig.",
+            "english": "The realization came suddenly."
+        },
+        {
+            "german": "Die Stimmung änderte sich schlagartig.",
+            "english": "The mood changed suddenly."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Wesen, die Wesen",
     "definition": "A term often employed to describe the inherent nature, essence, or fundamental characteristics of a being, entity, or thing. It is commonly used in philosophical and metaphysical contexts to discuss the essential qualities or attributes that define an individual or object.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Wesen der Sache",
-                "english": "The essence of the matter"
-            },
-            {
-                "german": "Das Wesen eines Menschen",
-                "english": "The nature of a person"
-            },
-            {
-                "german": "Das Wesen der Liebe",
-                "english": "The essence of love"
-            },
-            {
-                "german": "Das Wesen der Kunst",
-                "english": "The nature of art"
-            },
-            {
-                "german": "Das Wesen der Philosophie",
-                "english": "The essence of philosophy"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Wesen der Sache",
+            "english": "The essence of the matter"
+        },
+        {
+            "german": "Das Wesen eines Menschen",
+            "english": "The nature of a person"
+        },
+        {
+            "german": "Das Wesen der Liebe",
+            "english": "The essence of love"
+        },
+        {
+            "german": "Das Wesen der Kunst",
+            "english": "The nature of art"
+        },
+        {
+            "german": "Das Wesen der Philosophie",
+            "english": "The essence of philosophy"
+        }
+    ]
 }

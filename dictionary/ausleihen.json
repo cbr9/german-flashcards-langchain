@@ -1,28 +1,26 @@
 {
     "word": "ausleihen, lieh aus, ausgeliehen",
     "definition": "To temporarily obtain an item or resource from someone else, typically for a specific period of time, with the intention of returning it afterwards. This term is commonly used when referring to borrowing books, tools, or other objects from a library, a friend, or a lending institution.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kann ich mir dein Buch ausleihen?",
-                "english": "Can I borrow your book?"
-            },
-            {
-                "german": "Ich habe mir gestern einen Film ausgeliehen.",
-                "english": "I borrowed a movie yesterday."
-            },
-            {
-                "german": "Können wir uns ein Fahrrad ausleihen?",
-                "english": "Can we rent a bicycle?"
-            },
-            {
-                "german": "Sie hat sich Geld von mir ausgeliehen.",
-                "english": "She borrowed money from me."
-            },
-            {
-                "german": "Ich möchte mir ein Auto ausleihen.",
-                "english": "I would like to borrow a car."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kann ich mir dein Buch ausleihen?",
+            "english": "Can I borrow your book?"
+        },
+        {
+            "german": "Ich habe mir gestern einen Film ausgeliehen.",
+            "english": "I borrowed a movie yesterday."
+        },
+        {
+            "german": "Können wir uns ein Fahrrad ausleihen?",
+            "english": "Can we rent a bicycle?"
+        },
+        {
+            "german": "Sie hat sich Geld von mir ausgeliehen.",
+            "english": "She borrowed money from me."
+        },
+        {
+            "german": "Ich möchte mir ein Auto ausleihen.",
+            "english": "I would like to borrow a car."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "völlig",
     "definition": "The word \"völlig\" is typically used to describe a state or condition of being complete, absolute, or total. It often emphasizes a sense of entirety or thoroughness in relation to a particular quality, action, or situation. It can be employed to convey a strong degree of intensity or extremity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist völlig richtig.",
-                "english": "That is completely correct."
-            },
-            {
-                "german": "Er war völlig überrascht.",
-                "english": "He was totally surprised."
-            },
-            {
-                "german": "Sie ist völlig erschöpft.",
-                "english": "She is completely exhausted."
-            },
-            {
-                "german": "Das ist völlig absurd.",
-                "english": "That is utterly absurd."
-            },
-            {
-                "german": "Er hat völlig recht.",
-                "english": "He is absolutely right."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist völlig richtig.",
+            "english": "That is completely correct."
+        },
+        {
+            "german": "Er war völlig überrascht.",
+            "english": "He was totally surprised."
+        },
+        {
+            "german": "Sie ist völlig erschöpft.",
+            "english": "She is completely exhausted."
+        },
+        {
+            "german": "Das ist völlig absurd.",
+            "english": "That is utterly absurd."
+        },
+        {
+            "german": "Er hat völlig recht.",
+            "english": "He is absolutely right."
+        }
+    ]
 }

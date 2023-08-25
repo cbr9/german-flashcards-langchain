@@ -1,28 +1,26 @@
 {
     "word": "die Folge, die Folgen",
     "definition": "A sequence of events or actions that occur one after another, often with a cause-and-effect relationship. It is commonly used to describe the consecutive episodes of a television or radio series, as well as the subsequent outcomes or consequences of a particular event or decision.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die erste Folge der Serie war sehr spannend.",
-                "english": "The first episode of the series was very exciting."
-            },
-            {
-                "german": "Er hat die Anweisungen in der richtigen Folge befolgt.",
-                "english": "He followed the instructions in the correct sequence."
-            },
-            {
-                "german": "Die Folgen des Unfalls waren schwerwiegend.",
-                "english": "The consequences of the accident were serious."
-            },
-            {
-                "german": "Ich habe die letzte Folge der Sendung verpasst.",
-                "english": "I missed the last episode of the show."
-            },
-            {
-                "german": "Die Folge des Streits war eine langjährige Feindschaft.",
-                "english": "The result of the argument was a long-lasting enmity."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die erste Folge der Serie war sehr spannend.",
+            "english": "The first episode of the series was very exciting."
+        },
+        {
+            "german": "Er hat die Anweisungen in der richtigen Folge befolgt.",
+            "english": "He followed the instructions in the correct sequence."
+        },
+        {
+            "german": "Die Folgen des Unfalls waren schwerwiegend.",
+            "english": "The consequences of the accident were serious."
+        },
+        {
+            "german": "Ich habe die letzte Folge der Sendung verpasst.",
+            "english": "I missed the last episode of the show."
+        },
+        {
+            "german": "Die Folge des Streits war eine langjährige Feindschaft.",
+            "english": "The result of the argument was a long-lasting enmity."
+        }
+    ]
 }

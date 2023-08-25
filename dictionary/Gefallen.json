@@ -1,28 +1,26 @@
 {
     "word": "der Gefallen, die Gefallen",
     "definition": "A feeling of positive response or satisfaction towards something or someone, often used to describe an appreciation or liking for a particular action, object, or person. It is commonly used to express enjoyment, approval, or attraction towards something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Buch hat mir sehr gut gefallen.",
-                "english": "I really liked the book."
-            },
-            {
-                "german": "Der Film hat mir nicht gefallen.",
-                "english": "I didn't like the movie."
-            },
-            {
-                "german": "Es würde mir gefallen, wenn du mitkommst.",
-                "english": "I would like it if you come along."
-            },
-            {
-                "german": "Mir gefällt dein neues Auto.",
-                "english": "I like your new car."
-            },
-            {
-                "german": "Das Essen hat mir sehr gut gefallen.",
-                "english": "I really enjoyed the food."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Buch hat mir sehr gut gefallen.",
+            "english": "I really liked the book."
+        },
+        {
+            "german": "Der Film hat mir nicht gefallen.",
+            "english": "I didn't like the movie."
+        },
+        {
+            "german": "Es würde mir gefallen, wenn du mitkommst.",
+            "english": "I would like it if you come along."
+        },
+        {
+            "german": "Mir gefällt dein neues Auto.",
+            "english": "I like your new car."
+        },
+        {
+            "german": "Das Essen hat mir sehr gut gefallen.",
+            "english": "I really enjoyed the food."
+        }
+    ]
 }

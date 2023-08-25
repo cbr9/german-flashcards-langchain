@@ -1,28 +1,26 @@
 {
     "word": "jung",
     "definition": "The word \"jung\" refers to the state or characteristic of being youthful or young. It is commonly used to describe individuals or things that are in the early stages of life or development.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist noch sehr jung.",
-                "english": "He is still very young."
-            },
-            {
-                "german": "Sie ist eine junge Frau.",
-                "english": "She is a young woman."
-            },
-            {
-                "german": "Die Pflanze ist noch jung.",
-                "english": "The plant is still young."
-            },
-            {
-                "german": "Er hat eine junge Familie.",
-                "english": "He has a young family."
-            },
-            {
-                "german": "Die junge Generation ist sehr aktiv.",
-                "english": "The young generation is very active."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist noch sehr jung.",
+            "english": "He is still very young."
+        },
+        {
+            "german": "Sie ist eine junge Frau.",
+            "english": "She is a young woman."
+        },
+        {
+            "german": "Die Pflanze ist noch jung.",
+            "english": "The plant is still young."
+        },
+        {
+            "german": "Er hat eine junge Familie.",
+            "english": "He has a young family."
+        },
+        {
+            "german": "Die junge Generation ist sehr aktiv.",
+            "english": "The young generation is very active."
+        }
+    ]
 }

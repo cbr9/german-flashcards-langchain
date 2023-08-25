@@ -1,28 +1,26 @@
 {
     "word": "klug",
     "definition": "The word \"klug\" refers to a characteristic that describes someone who possesses a high level of intelligence, wisdom, and the ability to think critically. It is commonly used to describe individuals who make well-informed decisions, exhibit cleverness, and demonstrate astuteness in various situations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist sehr klug.",
-                "english": "He is very smart."
-            },
-            {
-                "german": "Sie hat eine kluge Entscheidung getroffen.",
-                "english": "She made a wise decision."
-            },
-            {
-                "german": "Er ist ein kluger Geschäftsmann.",
-                "english": "He is a clever businessman."
-            },
-            {
-                "german": "Sie ist eine kluge Beobachterin.",
-                "english": "She is an astute observer."
-            },
-            {
-                "german": "Das war eine kluge Wahl.",
-                "english": "That was a smart choice."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist sehr klug.",
+            "english": "He is very smart."
+        },
+        {
+            "german": "Sie hat eine kluge Entscheidung getroffen.",
+            "english": "She made a wise decision."
+        },
+        {
+            "german": "Er ist ein kluger Geschäftsmann.",
+            "english": "He is a clever businessman."
+        },
+        {
+            "german": "Sie ist eine kluge Beobachterin.",
+            "english": "She is an astute observer."
+        },
+        {
+            "german": "Das war eine kluge Wahl.",
+            "english": "That was a smart choice."
+        }
+    ]
 }

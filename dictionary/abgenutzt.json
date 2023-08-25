@@ -1,28 +1,26 @@
 {
     "word": "abnutzen, nutzte ab, abgenutzt",
     "definition": "The word \"abgenutzt\" refers to something that has experienced wear and tear due to prolonged use or age. It is commonly used to describe objects, materials, or surfaces that have become worn out, faded, or damaged over time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Schuhe sind abgenutzt.",
-                "english": "The shoes are worn out."
-            },
-            {
-                "german": "Die Möbel sind abgenutzt und müssen ersetzt werden.",
-                "english": "The furniture is worn out and needs to be replaced."
-            },
-            {
-                "german": "Der Teppich ist abgenutzt und hat Löcher.",
-                "english": "The carpet is worn out and has holes."
-            },
-            {
-                "german": "Die Kanten des Tisches sind abgenutzt.",
-                "english": "The edges of the table are worn down."
-            },
-            {
-                "german": "Die Farbe des Autos ist abgenutzt und verblasst.",
-                "english": "The color of the car is faded and worn."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Schuhe sind abgenutzt.",
+            "english": "The shoes are worn out."
+        },
+        {
+            "german": "Die Möbel sind abgenutzt und müssen ersetzt werden.",
+            "english": "The furniture is worn out and needs to be replaced."
+        },
+        {
+            "german": "Der Teppich ist abgenutzt und hat Löcher.",
+            "english": "The carpet is worn out and has holes."
+        },
+        {
+            "german": "Die Kanten des Tisches sind abgenutzt.",
+            "english": "The edges of the table are worn down."
+        },
+        {
+            "german": "Die Farbe des Autos ist abgenutzt und verblasst.",
+            "english": "The color of the car is faded and worn."
+        }
+    ]
 }

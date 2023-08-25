@@ -1,28 +1,26 @@
 {
     "word": "die Milch, die Milche",
     "definition": "A white liquid produced by mammals, typically used as a beverage or as an ingredient in various food and drink preparations. It is commonly consumed by humans and used in cooking, baking, and making dairy products.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trinke jeden Morgen Milch.",
-                "english": "I drink milk every morning."
-            },
-            {
-                "german": "Die Milch ist im Kühlschrank.",
-                "english": "The milk is in the fridge."
-            },
-            {
-                "german": "Milchprodukte enthalten viel Kalzium.",
-                "english": "Dairy products contain a lot of calcium."
-            },
-            {
-                "german": "Ich habe eine Laktoseintoleranz und vertrage keine Milch.",
-                "english": "I have lactose intolerance and can't tolerate milk."
-            },
-            {
-                "german": "Die Katze trinkt gerne Milch.",
-                "english": "The cat likes to drink milk."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trinke jeden Morgen Milch.",
+            "english": "I drink milk every morning."
+        },
+        {
+            "german": "Die Milch ist im Kühlschrank.",
+            "english": "The milk is in the fridge."
+        },
+        {
+            "german": "Milchprodukte enthalten viel Kalzium.",
+            "english": "Dairy products contain a lot of calcium."
+        },
+        {
+            "german": "Ich habe eine Laktoseintoleranz und vertrage keine Milch.",
+            "english": "I have lactose intolerance and can't tolerate milk."
+        },
+        {
+            "german": "Die Katze trinkt gerne Milch.",
+            "english": "The cat likes to drink milk."
+        }
+    ]
 }

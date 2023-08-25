@@ -1,28 +1,26 @@
 {
     "word": "die Erkenntnis, die Erkenntnisse",
     "definition": "A profound understanding or insight gained through observation, experience, or reasoning, often referring to a deep intellectual or philosophical realization. It is commonly used in contexts related to knowledge, cognition, and epistemology.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Erkenntnis war schockierend.",
-                "english": "The realization was shocking."
-            },
-            {
-                "german": "Er kam zu der Erkenntnis, dass er einen Fehler gemacht hatte.",
-                "english": "He came to the realization that he had made a mistake."
-            },
-            {
-                "german": "Die Erkenntnis führte zu einer grundlegenden Veränderung.",
-                "english": "The realization led to a fundamental change."
-            },
-            {
-                "german": "Die Erkenntnis des Problems war der erste Schritt zur Lösung.",
-                "english": "The recognition of the problem was the first step towards a solution."
-            },
-            {
-                "german": "Die Erkenntnis, dass sie ihn liebte, machte ihn glücklich.",
-                "english": "The realization that she loved him made him happy."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Erkenntnis war schockierend.",
+            "english": "The realization was shocking."
+        },
+        {
+            "german": "Er kam zu der Erkenntnis, dass er einen Fehler gemacht hatte.",
+            "english": "He came to the realization that he had made a mistake."
+        },
+        {
+            "german": "Die Erkenntnis führte zu einer grundlegenden Veränderung.",
+            "english": "The realization led to a fundamental change."
+        },
+        {
+            "german": "Die Erkenntnis des Problems war der erste Schritt zur Lösung.",
+            "english": "The recognition of the problem was the first step towards a solution."
+        },
+        {
+            "german": "Die Erkenntnis, dass sie ihn liebte, machte ihn glücklich.",
+            "english": "The realization that she loved him made him happy."
+        }
+    ]
 }

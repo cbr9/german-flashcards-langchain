@@ -1,28 +1,26 @@
 {
     "word": "der Zahnarzt, die Zahnärzte",
     "definition": "A professional who specializes in the care and treatment of teeth, gums, and oral health, typically providing services such as dental check-ups, cleanings, fillings, and extractions. This term is commonly used to refer to a medical practitioner who focuses on dental care.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen Termin beim Zahnarzt.",
-                "english": "I have an appointment with the dentist."
-            },
-            {
-                "german": "Mein Zahnarzt hat mir eine Füllung gemacht.",
-                "english": "My dentist did a filling for me."
-            },
-            {
-                "german": "Der Zahnarzt hat mir geraten, regelmäßig zu putzen.",
-                "english": "The dentist advised me to brush regularly."
-            },
-            {
-                "german": "Mein Zahnarzt hat mir eine Zahnspange empfohlen.",
-                "english": "My dentist recommended braces for me."
-            },
-            {
-                "german": "Ich habe Angst vor dem Zahnarztbesuch.",
-                "english": "I'm afraid of going to the dentist."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen Termin beim Zahnarzt.",
+            "english": "I have an appointment with the dentist."
+        },
+        {
+            "german": "Mein Zahnarzt hat mir eine Füllung gemacht.",
+            "english": "My dentist did a filling for me."
+        },
+        {
+            "german": "Der Zahnarzt hat mir geraten, regelmäßig zu putzen.",
+            "english": "The dentist advised me to brush regularly."
+        },
+        {
+            "german": "Mein Zahnarzt hat mir eine Zahnspange empfohlen.",
+            "english": "My dentist recommended braces for me."
+        },
+        {
+            "german": "Ich habe Angst vor dem Zahnarztbesuch.",
+            "english": "I'm afraid of going to the dentist."
+        }
+    ]
 }

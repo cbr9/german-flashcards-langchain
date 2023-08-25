@@ -1,28 +1,26 @@
 {
     "word": "die Nutzung, die Nutzungen",
     "definition": "The act or process of employing or utilizing something for a specific purpose, often referring to the practical application or utilization of resources, facilities, or services. It commonly relates to the utilization or exploitation of something for a particular function or benefit.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Nutzung des Internets ist weit verbreitet.",
-                "english": "The use of the internet is widespread."
-            },
-            {
-                "german": "Die Nutzung von Mobiltelefonen ist in vielen Ländern verboten.",
-                "english": "The use of mobile phones is prohibited in many countries."
-            },
-            {
-                "german": "Die Nutzung von öffentlichen Verkehrsmitteln ist umweltfreundlicher als das Fahren mit dem Auto.",
-                "english": "The use of public transportation is more environmentally friendly than driving a car."
-            },
-            {
-                "german": "Die Nutzung von Social Media hat in den letzten Jahren stark zugenommen.",
-                "english": "The use of social media has greatly increased in recent years."
-            },
-            {
-                "german": "Die Nutzung von Energieressourcen sollte effizienter gestaltet werden.",
-                "english": "The use of energy resources should be made more efficient."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Nutzung des Internets ist weit verbreitet.",
+            "english": "The use of the internet is widespread."
+        },
+        {
+            "german": "Die Nutzung von Mobiltelefonen ist in vielen Ländern verboten.",
+            "english": "The use of mobile phones is prohibited in many countries."
+        },
+        {
+            "german": "Die Nutzung von öffentlichen Verkehrsmitteln ist umweltfreundlicher als das Fahren mit dem Auto.",
+            "english": "The use of public transportation is more environmentally friendly than driving a car."
+        },
+        {
+            "german": "Die Nutzung von Social Media hat in den letzten Jahren stark zugenommen.",
+            "english": "The use of social media has greatly increased in recent years."
+        },
+        {
+            "german": "Die Nutzung von Energieressourcen sollte effizienter gestaltet werden.",
+            "english": "The use of energy resources should be made more efficient."
+        }
+    ]
 }

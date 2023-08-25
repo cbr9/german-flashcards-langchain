@@ -1,28 +1,26 @@
 {
     "word": "der Literaturpreis, die Literaturpreise",
     "definition": "A prestigious award given to recognize outstanding achievements in the field of written works, including novels, poetry, essays, and plays. It is typically bestowed upon authors or literary works that demonstrate exceptional artistic merit and contribute significantly to the literary landscape.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Literaturpreis wird jedes Jahr vergeben.",
-                "english": "The literature prize is awarded every year."
-            },
-            {
-                "german": "Sie hat den renommierten Literaturpreis gewonnen.",
-                "english": "She has won the prestigious literature prize."
-            },
-            {
-                "german": "Der Literaturpreis ist mit einem hohen Geldbetrag dotiert.",
-                "english": "The literature prize is endowed with a large sum of money."
-            },
-            {
-                "german": "Er hat den Literaturpreis für sein neuestes Buch erhalten.",
-                "english": "He has received the literature prize for his latest book."
-            },
-            {
-                "german": "Die Verleihung des Literaturpreises findet im Theater statt.",
-                "english": "The award ceremony for the literature prize takes place in the theater."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Literaturpreis wird jedes Jahr vergeben.",
+            "english": "The literature prize is awarded every year."
+        },
+        {
+            "german": "Sie hat den renommierten Literaturpreis gewonnen.",
+            "english": "She has won the prestigious literature prize."
+        },
+        {
+            "german": "Der Literaturpreis ist mit einem hohen Geldbetrag dotiert.",
+            "english": "The literature prize is endowed with a large sum of money."
+        },
+        {
+            "german": "Er hat den Literaturpreis für sein neuestes Buch erhalten.",
+            "english": "He has received the literature prize for his latest book."
+        },
+        {
+            "german": "Die Verleihung des Literaturpreises findet im Theater statt.",
+            "english": "The award ceremony for the literature prize takes place in the theater."
+        }
+    ]
 }

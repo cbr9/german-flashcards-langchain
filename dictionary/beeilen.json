@@ -1,28 +1,26 @@
 {
     "word": "beeilen, beeilte, beeilt",
     "definition": "To perform an action quickly or with haste, often in order to avoid being late or to complete a task promptly. This word is commonly used when referring to individuals rushing or hurrying in a time-sensitive situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Beeil dich!",
-                "english": "Hurry up!"
-            },
-            {
-                "german": "Wir müssen uns beeilen, sonst verpassen wir den Zug.",
-                "english": "We need to hurry, otherwise we'll miss the train."
-            },
-            {
-                "german": "Kannst du dich bitte beeilen? Ich warte schon lange.",
-                "english": "Can you please hurry? I've been waiting for a long time."
-            },
-            {
-                "german": "Beeil dich nicht so, du hast noch genug Zeit.",
-                "english": "Don't rush, you still have plenty of time."
-            },
-            {
-                "german": "Er beeilte sich, um den Bus zu erwischen.",
-                "english": "He hurried to catch the bus."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Beeil dich!",
+            "english": "Hurry up!"
+        },
+        {
+            "german": "Wir müssen uns beeilen, sonst verpassen wir den Zug.",
+            "english": "We need to hurry, otherwise we'll miss the train."
+        },
+        {
+            "german": "Kannst du dich bitte beeilen? Ich warte schon lange.",
+            "english": "Can you please hurry? I've been waiting for a long time."
+        },
+        {
+            "german": "Beeil dich nicht so, du hast noch genug Zeit.",
+            "english": "Don't rush, you still have plenty of time."
+        },
+        {
+            "german": "Er beeilte sich, um den Bus zu erwischen.",
+            "english": "He hurried to catch the bus."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "anfangen, fing an, angefangen",
     "definition": "To initiate or commence an action or process, typically used to describe the beginning of an activity, task, or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich fange an zu lernen.",
-                "english": "I start to learn."
-            },
-            {
-                "german": "Wann fängst du an?",
-                "english": "When do you start?"
-            },
-            {
-                "german": "Er fängt immer pünktlich an.",
-                "english": "He always starts on time."
-            },
-            {
-                "german": "Wir fangen gleich an zu essen.",
-                "english": "We are about to start eating."
-            },
-            {
-                "german": "Sie fangen an zu singen.",
-                "english": "They start to sing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich fange an zu lernen.",
+            "english": "I start to learn."
+        },
+        {
+            "german": "Wann fängst du an?",
+            "english": "When do you start?"
+        },
+        {
+            "german": "Er fängt immer pünktlich an.",
+            "english": "He always starts on time."
+        },
+        {
+            "german": "Wir fangen gleich an zu essen.",
+            "english": "We are about to start eating."
+        },
+        {
+            "german": "Sie fangen an zu singen.",
+            "english": "They start to sing."
+        }
+    ]
 }

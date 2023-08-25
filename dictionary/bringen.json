@@ -1,28 +1,26 @@
 {
     "word": "bringen, brachte, gebracht",
     "definition": "To transport or convey someone or something from one place to another, often implying movement towards the speaker or the destination. It is commonly used to describe the action of bringing objects, people, or ideas to a specific location or delivering them to someone.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bringe dir das Buch.",
-                "english": "I bring you the book."
-            },
-            {
-                "german": "Kannst du mir bitte einen Kaffee bringen?",
-                "english": "Can you please bring me a coffee?"
-            },
-            {
-                "german": "Er hat mir Blumen gebracht.",
-                "english": "He brought me flowers."
-            },
-            {
-                "german": "Sie bringt ihre Kinder zur Schule.",
-                "english": "She takes her children to school."
-            },
-            {
-                "german": "Wir bringen das Auto zur Werkstatt.",
-                "english": "We take the car to the workshop."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bringe dir das Buch.",
+            "english": "I bring you the book."
+        },
+        {
+            "german": "Kannst du mir bitte einen Kaffee bringen?",
+            "english": "Can you please bring me a coffee?"
+        },
+        {
+            "german": "Er hat mir Blumen gebracht.",
+            "english": "He brought me flowers."
+        },
+        {
+            "german": "Sie bringt ihre Kinder zur Schule.",
+            "english": "She takes her children to school."
+        },
+        {
+            "german": "Wir bringen das Auto zur Werkstatt.",
+            "english": "We take the car to the workshop."
+        }
+    ]
 }

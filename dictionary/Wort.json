@@ -1,28 +1,26 @@
 {
     "word": "das Wort, die Wörter",
     "definition": "A unit of language that carries meaning and can be spoken or written, typically consisting of one or more sounds or written symbols. It is commonly used in communication to convey thoughts, ideas, or information.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist ein deutsches Wort.",
-                "english": "This is a German word."
-            },
-            {
-                "german": "Kannst du dieses Wort übersetzen?",
-                "english": "Can you translate this word?"
-            },
-            {
-                "german": "Ich kenne das Wort nicht.",
-                "english": "I don't know the word."
-            },
-            {
-                "german": "Das Wort hat viele Bedeutungen.",
-                "english": "The word has many meanings."
-            },
-            {
-                "german": "Bitte schreibe das Wort auf.",
-                "english": "Please write down the word."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist ein deutsches Wort.",
+            "english": "This is a German word."
+        },
+        {
+            "german": "Kannst du dieses Wort übersetzen?",
+            "english": "Can you translate this word?"
+        },
+        {
+            "german": "Ich kenne das Wort nicht.",
+            "english": "I don't know the word."
+        },
+        {
+            "german": "Das Wort hat viele Bedeutungen.",
+            "english": "The word has many meanings."
+        },
+        {
+            "german": "Bitte schreibe das Wort auf.",
+            "english": "Please write down the word."
+        }
+    ]
 }

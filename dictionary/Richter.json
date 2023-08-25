@@ -1,28 +1,26 @@
 {
     "word": "der Richter, die Richter",
     "definition": "A person who holds a position of authority in a legal system, responsible for presiding over and making decisions in legal cases. This term is commonly used to refer to individuals who have the power to judge and administer justice in a court of law.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Richter verurteilte den Angeklagten zu einer langen Haftstrafe.",
-                "english": "The judge sentenced the defendant to a long prison term."
-            },
-            {
-                "german": "Der Richter sprach den Angeklagten frei, da keine ausreichenden Beweise vorlagen.",
-                "english": "The judge acquitted the defendant as there was insufficient evidence."
-            },
-            {
-                "german": "Der Richter verhängte eine Geldstrafe gegen den Angeklagten.",
-                "english": "The judge imposed a fine on the defendant."
-            },
-            {
-                "german": "Der Richter leitete das Verfahren und hörte die Zeugenaussagen an.",
-                "english": "The judge presided over the trial and listened to the witness testimonies."
-            },
-            {
-                "german": "Der Richter entschied zugunsten des Klägers und ordnete Schadensersatz an.",
-                "english": "The judge ruled in favor of the plaintiff and ordered compensation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Richter verurteilte den Angeklagten zu einer langen Haftstrafe.",
+            "english": "The judge sentenced the defendant to a long prison term."
+        },
+        {
+            "german": "Der Richter sprach den Angeklagten frei, da keine ausreichenden Beweise vorlagen.",
+            "english": "The judge acquitted the defendant as there was insufficient evidence."
+        },
+        {
+            "german": "Der Richter verhängte eine Geldstrafe gegen den Angeklagten.",
+            "english": "The judge imposed a fine on the defendant."
+        },
+        {
+            "german": "Der Richter leitete das Verfahren und hörte die Zeugenaussagen an.",
+            "english": "The judge presided over the trial and listened to the witness testimonies."
+        },
+        {
+            "german": "Der Richter entschied zugunsten des Klägers und ordnete Schadensersatz an.",
+            "english": "The judge ruled in favor of the plaintiff and ordered compensation."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "betreffen, betroff, betroffen",
     "definition": "To have an impact on or to concern someone or something, often used to describe a situation where someone or something is affected by a particular matter or issue.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das betrifft mich nicht.",
-                "english": "That doesn't concern me."
-            },
-            {
-                "german": "Die neuen Regelungen betreffen alle Mitarbeiter.",
-                "english": "The new regulations affect all employees."
-            },
-            {
-                "german": "Die Entscheidung wird dich betreffen.",
-                "english": "The decision will affect you."
-            },
-            {
-                "german": "Das Thema betrifft viele Menschen.",
-                "english": "The topic concerns many people."
-            },
-            {
-                "german": "Die Änderungen betreffen nur bestimmte Bereiche.",
-                "english": "The changes only affect specific areas."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das betrifft mich nicht.",
+            "english": "That doesn't concern me."
+        },
+        {
+            "german": "Die neuen Regelungen betreffen alle Mitarbeiter.",
+            "english": "The new regulations affect all employees."
+        },
+        {
+            "german": "Die Entscheidung wird dich betreffen.",
+            "english": "The decision will affect you."
+        },
+        {
+            "german": "Das Thema betrifft viele Menschen.",
+            "english": "The topic concerns many people."
+        },
+        {
+            "german": "Die Änderungen betreffen nur bestimmte Bereiche.",
+            "english": "The changes only affect specific areas."
+        }
+    ]
 }

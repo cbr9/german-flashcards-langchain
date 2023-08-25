@@ -1,28 +1,26 @@
 {
     "word": "der Spaziergang, die Spaziergänge",
     "definition": "A leisurely activity involving walking outdoors, often for pleasure or relaxation, typically taken in parks, gardens, or along scenic routes. It is commonly used to describe a casual stroll or a gentle walk, often enjoyed alone, with a partner, or with a pet.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich mache gerne einen Spaziergang im Park.",
-                "english": "I enjoy taking a walk in the park."
-            },
-            {
-                "german": "Wir haben gestern einen langen Spaziergang gemacht.",
-                "english": "We went for a long walk yesterday."
-            },
-            {
-                "german": "Ein Spaziergang am Strand ist sehr entspannend.",
-                "english": "A walk on the beach is very relaxing."
-            },
-            {
-                "german": "Sie machen jeden Abend einen Spaziergang um den Block.",
-                "english": "They take a walk around the block every evening."
-            },
-            {
-                "german": "Ein Spaziergang kann die Stimmung verbessern.",
-                "english": "A walk can improve your mood."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich mache gerne einen Spaziergang im Park.",
+            "english": "I enjoy taking a walk in the park."
+        },
+        {
+            "german": "Wir haben gestern einen langen Spaziergang gemacht.",
+            "english": "We went for a long walk yesterday."
+        },
+        {
+            "german": "Ein Spaziergang am Strand ist sehr entspannend.",
+            "english": "A walk on the beach is very relaxing."
+        },
+        {
+            "german": "Sie machen jeden Abend einen Spaziergang um den Block.",
+            "english": "They take a walk around the block every evening."
+        },
+        {
+            "german": "Ein Spaziergang kann die Stimmung verbessern.",
+            "english": "A walk can improve your mood."
+        }
+    ]
 }

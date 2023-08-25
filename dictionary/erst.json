@@ -1,28 +1,26 @@
 {
     "word": "erst",
     "definition": "Erst is typically used to indicate that something is happening or being done for the first time, or that it is happening only after a certain point in time or sequence of events. It can also imply that something is happening later than expected or desired.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Erst gestern habe ich von der Party erfahren.",
-                "english": "I only found out about the party yesterday."
-            },
-            {
-                "german": "Erst wenn du deine Hausaufgaben gemacht hast, darfst du spielen.",
-                "english": "You can only play after you have finished your homework."
-            },
-            {
-                "german": "Erst nach dem Essen können wir spazieren gehen.",
-                "english": "We can go for a walk only after eating."
-            },
-            {
-                "german": "Erst in der zweiten Hälfte des Films wird es spannend.",
-                "english": "It only gets exciting in the second half of the movie."
-            },
-            {
-                "german": "Erst wenn du es versuchst, wirst du wissen, ob du es schaffst.",
-                "english": "You will only know if you can do it once you try."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Erst gestern habe ich von der Party erfahren.",
+            "english": "I only found out about the party yesterday."
+        },
+        {
+            "german": "Erst wenn du deine Hausaufgaben gemacht hast, darfst du spielen.",
+            "english": "You can only play after you have finished your homework."
+        },
+        {
+            "german": "Erst nach dem Essen können wir spazieren gehen.",
+            "english": "We can go for a walk only after eating."
+        },
+        {
+            "german": "Erst in der zweiten Hälfte des Films wird es spannend.",
+            "english": "It only gets exciting in the second half of the movie."
+        },
+        {
+            "german": "Erst wenn du es versuchst, wirst du wissen, ob du es schaffst.",
+            "english": "You will only know if you can do it once you try."
+        }
+    ]
 }

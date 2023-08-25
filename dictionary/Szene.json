@@ -1,28 +1,26 @@
 {
     "word": "die Szene, die Szenen",
     "definition": "A segment of a larger context, typically associated with a specific group or subculture, characterized by its distinct style, interests, or activities. It is commonly used to refer to a particular scene within the arts, music, or entertainment industry, where individuals with similar tastes or interests gather and interact.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Szene spielt in einem Café.",
-                "english": "The scene takes place in a café."
-            },
-            {
-                "german": "Er ist ein bekannter Musiker in der Szene.",
-                "english": "He is a well-known musician in the scene."
-            },
-            {
-                "german": "Die Szene wurde im Film sehr realistisch dargestellt.",
-                "english": "The scene was depicted very realistically in the movie."
-            },
-            {
-                "german": "In der Kunstszene gibt es viele verschiedene Stile.",
-                "english": "In the art scene, there are many different styles."
-            },
-            {
-                "german": "Die Szene hat sich in den letzten Jahren stark verändert.",
-                "english": "The scene has changed significantly in recent years."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Szene spielt in einem Café.",
+            "english": "The scene takes place in a café."
+        },
+        {
+            "german": "Er ist ein bekannter Musiker in der Szene.",
+            "english": "He is a well-known musician in the scene."
+        },
+        {
+            "german": "Die Szene wurde im Film sehr realistisch dargestellt.",
+            "english": "The scene was depicted very realistically in the movie."
+        },
+        {
+            "german": "In der Kunstszene gibt es viele verschiedene Stile.",
+            "english": "In the art scene, there are many different styles."
+        },
+        {
+            "german": "Die Szene hat sich in den letzten Jahren stark verändert.",
+            "english": "The scene has changed significantly in recent years."
+        }
+    ]
 }

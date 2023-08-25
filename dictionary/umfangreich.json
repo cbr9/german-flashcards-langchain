@@ -1,28 +1,26 @@
 {
     "word": "umfangreich",
     "definition": "An adjective that describes something as extensive, comprehensive, or wide-ranging. It is commonly used to refer to a body of knowledge, a collection of information, or a set of resources that is vast and covers a wide scope.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Buch enthält umfangreiche Informationen über die Geschichte der Stadt.",
-                "english": "The book contains extensive information about the history of the city."
-            },
-            {
-                "german": "Die umfangreiche Studie liefert wichtige Erkenntnisse über den Klimawandel.",
-                "english": "The comprehensive study provides important insights into climate change."
-            },
-            {
-                "german": "Das Unternehmen bietet ein umfangreiches Sortiment an hochwertigen Produkten.",
-                "english": "The company offers an extensive range of high-quality products."
-            },
-            {
-                "german": "Die Website bietet umfangreiche Informationen zu verschiedenen Themen.",
-                "english": "The website provides comprehensive information on various topics."
-            },
-            {
-                "german": "Der Kurs umfasst ein umfangreiches Lehrmaterial und Übungsaufgaben.",
-                "english": "The course includes extensive teaching materials and practice exercises."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Buch enthält umfangreiche Informationen über die Geschichte der Stadt.",
+            "english": "The book contains extensive information about the history of the city."
+        },
+        {
+            "german": "Die umfangreiche Studie liefert wichtige Erkenntnisse über den Klimawandel.",
+            "english": "The comprehensive study provides important insights into climate change."
+        },
+        {
+            "german": "Das Unternehmen bietet ein umfangreiches Sortiment an hochwertigen Produkten.",
+            "english": "The company offers an extensive range of high-quality products."
+        },
+        {
+            "german": "Die Website bietet umfangreiche Informationen zu verschiedenen Themen.",
+            "english": "The website provides comprehensive information on various topics."
+        },
+        {
+            "german": "Der Kurs umfasst ein umfangreiches Lehrmaterial und Übungsaufgaben.",
+            "english": "The course includes extensive teaching materials and practice exercises."
+        }
+    ]
 }

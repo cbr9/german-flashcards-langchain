@@ -1,28 +1,26 @@
 {
     "word": "bedeckt",
     "definition": "The word \"bedeckt\" refers to a state or condition where something is not visible or concealed. It is commonly used to describe the weather when it is overcast or cloudy, obscuring the view of the sky.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Himmel ist bedeckt.",
-                "english": "The sky is overcast."
-            },
-            {
-                "german": "Es ist bedeckt und regnerisch.",
-                "english": "It is cloudy and rainy."
-            },
-            {
-                "german": "Die Straße war mit Schnee bedeckt.",
-                "english": "The road was covered with snow."
-            },
-            {
-                "german": "Sie trug einen bedeckten Hut.",
-                "english": "She wore a hat with a brim."
-            },
-            {
-                "german": "Der Tisch war mit einer bedeckten Tafel geschmückt.",
-                "english": "The table was adorned with a set table."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Himmel ist bedeckt.",
+            "english": "The sky is overcast."
+        },
+        {
+            "german": "Es ist bedeckt und regnerisch.",
+            "english": "It is cloudy and rainy."
+        },
+        {
+            "german": "Die Straße war mit Schnee bedeckt.",
+            "english": "The road was covered with snow."
+        },
+        {
+            "german": "Sie trug einen bedeckten Hut.",
+            "english": "She wore a hat with a brim."
+        },
+        {
+            "german": "Der Tisch war mit einer bedeckten Tafel geschmückt.",
+            "english": "The table was adorned with a set table."
+        }
+    ]
 }

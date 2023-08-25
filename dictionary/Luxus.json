@@ -1,28 +1,26 @@
 {
     "word": "der Luxus, die Luxus",
     "definition": "A term commonly employed to describe a state of indulgence, opulence, or extravagance, often associated with high-quality and luxurious experiences, possessions, or lifestyles. It is frequently used to refer to the enjoyment of lavish or extravagant comforts, such as luxurious accommodations, high-end products, or exclusive services.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Luxus ist teuer.",
-                "english": "Luxury is expensive."
-            },
-            {
-                "german": "Sie genießen den Luxus eines Privatjets.",
-                "english": "They enjoy the luxury of a private jet."
-            },
-            {
-                "german": "Das Hotel bietet luxuriöse Zimmer und exzellenten Service.",
-                "english": "The hotel offers luxurious rooms and excellent service."
-            },
-            {
-                "german": "Er lebt in purem Luxus.",
-                "english": "He lives in pure luxury."
-            },
-            {
-                "german": "Der Urlaub war ein purer Luxus.",
-                "english": "The vacation was pure luxury."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Luxus ist teuer.",
+            "english": "Luxury is expensive."
+        },
+        {
+            "german": "Sie genießen den Luxus eines Privatjets.",
+            "english": "They enjoy the luxury of a private jet."
+        },
+        {
+            "german": "Das Hotel bietet luxuriöse Zimmer und exzellenten Service.",
+            "english": "The hotel offers luxurious rooms and excellent service."
+        },
+        {
+            "german": "Er lebt in purem Luxus.",
+            "english": "He lives in pure luxury."
+        },
+        {
+            "german": "Der Urlaub war ein purer Luxus.",
+            "english": "The vacation was pure luxury."
+        }
+    ]
 }

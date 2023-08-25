@@ -1,28 +1,26 @@
 {
     "word": "die Medizin, die Medizinen",
     "definition": "A field of study and practice that encompasses the diagnosis, treatment, and prevention of diseases, injuries, and disorders in living organisms, typically involving the administration of drugs, surgical procedures, and other therapeutic interventions. It is commonly used to refer to the scientific discipline and profession related to healthcare and medicine.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Medizin hat große Fortschritte gemacht.",
-                "english": "Medicine has made great progress."
-            },
-            {
-                "german": "Er studiert Medizin an der Universität.",
-                "english": "He is studying medicine at the university."
-            },
-            {
-                "german": "Die Medizin kann Leben retten.",
-                "english": "Medicine can save lives."
-            },
-            {
-                "german": "Sie arbeitet als Ärztin in der Notfallmedizin.",
-                "english": "She works as a doctor in emergency medicine."
-            },
-            {
-                "german": "Die Medizinische Fakultät bietet verschiedene Studiengänge an.",
-                "english": "The medical faculty offers various degree programs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Medizin hat große Fortschritte gemacht.",
+            "english": "Medicine has made great progress."
+        },
+        {
+            "german": "Er studiert Medizin an der Universität.",
+            "english": "He is studying medicine at the university."
+        },
+        {
+            "german": "Die Medizin kann Leben retten.",
+            "english": "Medicine can save lives."
+        },
+        {
+            "german": "Sie arbeitet als Ärztin in der Notfallmedizin.",
+            "english": "She works as a doctor in emergency medicine."
+        },
+        {
+            "german": "Die Medizinische Fakultät bietet verschiedene Studiengänge an.",
+            "english": "The medical faculty offers various degree programs."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Held, die Helden",
     "definition": "A person who exhibits exceptional bravery, courage, or heroism, often in the face of adversity or danger. This term is commonly used to describe individuals who perform extraordinary acts or display remarkable qualities that inspire admiration and respect.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein Held.",
-                "english": "He is a hero."
-            },
-            {
-                "german": "Sie hat den Titel Heldin verdient.",
-                "english": "She deserves the title of heroine."
-            },
-            {
-                "german": "Der Feuerwehrmann ist ein wahrer Held.",
-                "english": "The firefighter is a true hero."
-            },
-            {
-                "german": "Er wurde als Held gefeiert.",
-                "english": "He was celebrated as a hero."
-            },
-            {
-                "german": "Die Geschichte handelt von einem jungen Helden.",
-                "english": "The story is about a young hero."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein Held.",
+            "english": "He is a hero."
+        },
+        {
+            "german": "Sie hat den Titel Heldin verdient.",
+            "english": "She deserves the title of heroine."
+        },
+        {
+            "german": "Der Feuerwehrmann ist ein wahrer Held.",
+            "english": "The firefighter is a true hero."
+        },
+        {
+            "german": "Er wurde als Held gefeiert.",
+            "english": "He was celebrated as a hero."
+        },
+        {
+            "german": "Die Geschichte handelt von einem jungen Helden.",
+            "english": "The story is about a young hero."
+        }
+    ]
 }

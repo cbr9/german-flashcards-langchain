@@ -1,28 +1,26 @@
 {
     "word": "dort",
     "definition": "\"Dort\" refers to a specific location or place that is not in close proximity to the speaker. It is commonly used to indicate a distant or remote position, often used to describe a place that is physically visible or mentioned in conversation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Dort ist ein schöner Park.",
-                "english": "There is a beautiful park there."
-            },
-            {
-                "german": "Ich habe ihn dort getroffen.",
-                "english": "I met him there."
-            },
-            {
-                "german": "Kommst du auch dorthin?",
-                "english": "Are you coming there too?"
-            },
-            {
-                "german": "Dort drüben ist das Restaurant.",
-                "english": "The restaurant is over there."
-            },
-            {
-                "german": "Er wohnt dort seit einem Jahr.",
-                "english": "He has been living there for a year."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Dort ist ein schöner Park.",
+            "english": "There is a beautiful park there."
+        },
+        {
+            "german": "Ich habe ihn dort getroffen.",
+            "english": "I met him there."
+        },
+        {
+            "german": "Kommst du auch dorthin?",
+            "english": "Are you coming there too?"
+        },
+        {
+            "german": "Dort drüben ist das Restaurant.",
+            "english": "The restaurant is over there."
+        },
+        {
+            "german": "Er wohnt dort seit einem Jahr.",
+            "english": "He has been living there for a year."
+        }
+    ]
 }

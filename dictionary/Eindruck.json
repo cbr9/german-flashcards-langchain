@@ -1,28 +1,26 @@
 {
     "word": "der Eindruck, die Eindrücke",
     "definition": "A perception or impression formed in one's mind as a result of experiencing or observing something, often used to describe the impact or effect that something or someone has on an individual. It is commonly used to refer to the overall impression or feeling that is left after encountering a person, situation, or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der erste Eindruck zählt.",
-                "english": "The first impression counts."
-            },
-            {
-                "german": "Sie hat einen guten Eindruck hinterlassen.",
-                "english": "She made a good impression."
-            },
-            {
-                "german": "Ich habe den Eindruck, dass er lügt.",
-                "english": "I have the impression that he is lying."
-            },
-            {
-                "german": "Sein Eindruck von der Stadt war sehr positiv.",
-                "english": "His impression of the city was very positive."
-            },
-            {
-                "german": "Der Film hat einen bleibenden Eindruck bei mir hinterlassen.",
-                "english": "The movie left a lasting impression on me."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der erste Eindruck zählt.",
+            "english": "The first impression counts."
+        },
+        {
+            "german": "Sie hat einen guten Eindruck hinterlassen.",
+            "english": "She made a good impression."
+        },
+        {
+            "german": "Ich habe den Eindruck, dass er lügt.",
+            "english": "I have the impression that he is lying."
+        },
+        {
+            "german": "Sein Eindruck von der Stadt war sehr positiv.",
+            "english": "His impression of the city was very positive."
+        },
+        {
+            "german": "Der Film hat einen bleibenden Eindruck bei mir hinterlassen.",
+            "english": "The movie left a lasting impression on me."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "bleiben, blieb, geblieben",
     "definition": "To persist in a particular state, condition, or location, often implying the absence of movement or change. It is commonly used to describe the act of staying, remaining, or continuing to be in a specific place, situation, or relationship.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bleibe zu Hause.",
-                "english": "I stay at home."
-            },
-            {
-                "german": "Bleib ruhig!",
-                "english": "Stay calm!"
-            },
-            {
-                "german": "Er bleibt immer höflich.",
-                "english": "He always remains polite."
-            },
-            {
-                "german": "Bleibt ihr hier?",
-                "english": "Are you staying here?"
-            },
-            {
-                "german": "Sie bleibt bei ihrer Entscheidung.",
-                "english": "She sticks to her decision."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bleibe zu Hause.",
+            "english": "I stay at home."
+        },
+        {
+            "german": "Bleib ruhig!",
+            "english": "Stay calm!"
+        },
+        {
+            "german": "Er bleibt immer höflich.",
+            "english": "He always remains polite."
+        },
+        {
+            "german": "Bleibt ihr hier?",
+            "english": "Are you staying here?"
+        },
+        {
+            "german": "Sie bleibt bei ihrer Entscheidung.",
+            "english": "She sticks to her decision."
+        }
+    ]
 }

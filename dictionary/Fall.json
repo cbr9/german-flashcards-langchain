@@ -1,28 +1,26 @@
 {
     "word": "der Fall, die Fälle",
     "definition": "A situation or occurrence that involves a particular set of circumstances, often used to describe incidents, events, or instances that require investigation, analysis, or consideration. It is commonly used to refer to legal cases, accidents, incidents, or any other specific event that requires examination or evaluation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Fall ist kompliziert.",
-                "english": "The case is complicated."
-            },
-            {
-                "german": "Im Herbst färben sich die Blätter bunt.",
-                "english": "In autumn, the leaves change color."
-            },
-            {
-                "german": "Er hat einen schweren Fall von Grippe.",
-                "english": "He has a severe case of the flu."
-            },
-            {
-                "german": "Der Fall wurde vor Gericht verhandelt.",
-                "english": "The case was tried in court."
-            },
-            {
-                "german": "In diesem Fall müssen wir handeln.",
-                "english": "In this instance, we need to take action."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Fall ist kompliziert.",
+            "english": "The case is complicated."
+        },
+        {
+            "german": "Im Herbst färben sich die Blätter bunt.",
+            "english": "In autumn, the leaves change color."
+        },
+        {
+            "german": "Er hat einen schweren Fall von Grippe.",
+            "english": "He has a severe case of the flu."
+        },
+        {
+            "german": "Der Fall wurde vor Gericht verhandelt.",
+            "english": "The case was tried in court."
+        },
+        {
+            "german": "In diesem Fall müssen wir handeln.",
+            "english": "In this instance, we need to take action."
+        }
+    ]
 }

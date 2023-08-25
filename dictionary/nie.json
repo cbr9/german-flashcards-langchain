@@ -1,28 +1,26 @@
 {
     "word": "nie",
     "definition": "\"Nie\" is an adverb that expresses the absence of something happening or occurring at any point in time. It is commonly used to convey the idea of \"never\" or \"not at all\" in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe nie Zeit.",
-                "english": "I never have time."
-            },
-            {
-                "german": "Er hat nie aufgegeben.",
-                "english": "He never gave up."
-            },
-            {
-                "german": "Sie hat nie gelogen.",
-                "english": "She never lied."
-            },
-            {
-                "german": "Wir werden nie vergessen.",
-                "english": "We will never forget."
-            },
-            {
-                "german": "Es wird nie passieren.",
-                "english": "It will never happen."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe nie Zeit.",
+            "english": "I never have time."
+        },
+        {
+            "german": "Er hat nie aufgegeben.",
+            "english": "He never gave up."
+        },
+        {
+            "german": "Sie hat nie gelogen.",
+            "english": "She never lied."
+        },
+        {
+            "german": "Wir werden nie vergessen.",
+            "english": "We will never forget."
+        },
+        {
+            "german": "Es wird nie passieren.",
+            "english": "It will never happen."
+        }
+    ]
 }

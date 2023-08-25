@@ -1,28 +1,26 @@
 {
     "word": "der Stauraum, die Stauräume",
     "definition": "A designated area or compartment intended for storing and organizing various items or belongings, typically found in vehicles, buildings, or other structures. It is commonly utilized to optimize space and facilitate efficient storage and transportation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kofferraum bietet viel Stauraum.",
-                "english": "The trunk offers a lot of storage space."
-            },
-            {
-                "german": "Das Regal hat genug Stauraum für Bücher.",
-                "english": "The shelf has enough storage space for books."
-            },
-            {
-                "german": "Der Schrank hat mehrere Fächer als Stauraum.",
-                "english": "The cabinet has multiple compartments as storage space."
-            },
-            {
-                "german": "Der Rucksack hat einen kleinen Stauraum für Schlüssel.",
-                "english": "The backpack has a small storage space for keys."
-            },
-            {
-                "german": "Die Garage bietet ausreichend Stauraum für Werkzeuge.",
-                "english": "The garage offers sufficient storage space for tools."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kofferraum bietet viel Stauraum.",
+            "english": "The trunk offers a lot of storage space."
+        },
+        {
+            "german": "Das Regal hat genug Stauraum für Bücher.",
+            "english": "The shelf has enough storage space for books."
+        },
+        {
+            "german": "Der Schrank hat mehrere Fächer als Stauraum.",
+            "english": "The cabinet has multiple compartments as storage space."
+        },
+        {
+            "german": "Der Rucksack hat einen kleinen Stauraum für Schlüssel.",
+            "english": "The backpack has a small storage space for keys."
+        },
+        {
+            "german": "Die Garage bietet ausreichend Stauraum für Werkzeuge.",
+            "english": "The garage offers sufficient storage space for tools."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "wissen, wusste, gewusst",
     "definition": "To possess information, facts, or knowledge about a particular subject or topic. It is commonly used to describe the state of being aware or informed about something, often acquired through learning, education, or personal experience.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich weiß nicht.",
-                "english": "I don't know."
-            },
-            {
-                "german": "Er weiß viel über Geschichte.",
-                "english": "He knows a lot about history."
-            },
-            {
-                "german": "Sie weiß, wie man Klavier spielt.",
-                "english": "She knows how to play the piano."
-            },
-            {
-                "german": "Wir wissen, dass er recht hat.",
-                "english": "We know that he is right."
-            },
-            {
-                "german": "Sie wissen, wo das Restaurant ist.",
-                "english": "They know where the restaurant is."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich weiß nicht.",
+            "english": "I don't know."
+        },
+        {
+            "german": "Er weiß viel über Geschichte.",
+            "english": "He knows a lot about history."
+        },
+        {
+            "german": "Sie weiß, wie man Klavier spielt.",
+            "english": "She knows how to play the piano."
+        },
+        {
+            "german": "Wir wissen, dass er recht hat.",
+            "english": "We know that he is right."
+        },
+        {
+            "german": "Sie wissen, wo das Restaurant ist.",
+            "english": "They know where the restaurant is."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "romantisch",
     "definition": "A term often used to describe a particular atmosphere, experience, or relationship that evokes strong emotions, idealized notions, and a sense of enchantment. It is commonly associated with settings, events, or expressions that are characterized by beauty, passion, and a dream-like quality.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist ein romantischer Film.",
-                "english": "This is a romantic movie."
-            },
-            {
-                "german": "Sie hatten ein romantisches Abendessen.",
-                "english": "They had a romantic dinner."
-            },
-            {
-                "german": "Der Sonnenuntergang war sehr romantisch.",
-                "english": "The sunset was very romantic."
-            },
-            {
-                "german": "Er schrieb ihr einen romantischen Liebesbrief.",
-                "english": "He wrote her a romantic love letter."
-            },
-            {
-                "german": "Sie verbrachten einen romantischen Urlaub in Paris.",
-                "english": "They spent a romantic vacation in Paris."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist ein romantischer Film.",
+            "english": "This is a romantic movie."
+        },
+        {
+            "german": "Sie hatten ein romantisches Abendessen.",
+            "english": "They had a romantic dinner."
+        },
+        {
+            "german": "Der Sonnenuntergang war sehr romantisch.",
+            "english": "The sunset was very romantic."
+        },
+        {
+            "german": "Er schrieb ihr einen romantischen Liebesbrief.",
+            "english": "He wrote her a romantic love letter."
+        },
+        {
+            "german": "Sie verbrachten einen romantischen Urlaub in Paris.",
+            "english": "They spent a romantic vacation in Paris."
+        }
+    ]
 }

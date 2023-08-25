@@ -1,28 +1,26 @@
 {
     "word": "die Autorin, die Autorinnen",
     "definition": "A person who writes books, articles, or other literary works, typically in a professional capacity. This term is commonly used to refer to a female individual engaged in the act of writing and publishing written works.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist eine erfolgreiche Autorin.",
-                "english": "She is a successful author."
-            },
-            {
-                "german": "Die Autorin hat viele Bücher geschrieben.",
-                "english": "The author has written many books."
-            },
-            {
-                "german": "Die Autorin gewann den Literaturpreis.",
-                "english": "The author won the literature prize."
-            },
-            {
-                "german": "Die Autorin arbeitet an ihrem neuen Roman.",
-                "english": "The author is working on her new novel."
-            },
-            {
-                "german": "Die Autorin wurde für ihre Arbeit ausgezeichnet.",
-                "english": "The author was honored for her work."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist eine erfolgreiche Autorin.",
+            "english": "She is a successful author."
+        },
+        {
+            "german": "Die Autorin hat viele Bücher geschrieben.",
+            "english": "The author has written many books."
+        },
+        {
+            "german": "Die Autorin gewann den Literaturpreis.",
+            "english": "The author won the literature prize."
+        },
+        {
+            "german": "Die Autorin arbeitet an ihrem neuen Roman.",
+            "english": "The author is working on her new novel."
+        },
+        {
+            "german": "Die Autorin wurde für ihre Arbeit ausgezeichnet.",
+            "english": "The author was honored for her work."
+        }
+    ]
 }

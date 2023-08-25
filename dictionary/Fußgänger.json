@@ -1,28 +1,26 @@
 {
     "word": "der Fußgänger, die Fußgänger",
     "definition": "A person who moves on foot, typically referring to someone who walks or travels by foot in a specific context, such as in urban areas, pedestrian zones, or while crossing roads.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Fußgänger überquerte die Straße.",
-                "english": "The pedestrian crossed the street."
-            },
-            {
-                "german": "Fußgänger haben Vorrang an Zebrastreifen.",
-                "english": "Pedestrians have priority at crosswalks."
-            },
-            {
-                "german": "Der Fußgänger wurde von einem Auto angefahren.",
-                "english": "The pedestrian was hit by a car."
-            },
-            {
-                "german": "Fußgänger sollten immer auf den Verkehr achten.",
-                "english": "Pedestrians should always pay attention to traffic."
-            },
-            {
-                "german": "Die Fußgängerzone ist für Autos gesperrt.",
-                "english": "The pedestrian zone is closed to cars."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Fußgänger überquerte die Straße.",
+            "english": "The pedestrian crossed the street."
+        },
+        {
+            "german": "Fußgänger haben Vorrang an Zebrastreifen.",
+            "english": "Pedestrians have priority at crosswalks."
+        },
+        {
+            "german": "Der Fußgänger wurde von einem Auto angefahren.",
+            "english": "The pedestrian was hit by a car."
+        },
+        {
+            "german": "Fußgänger sollten immer auf den Verkehr achten.",
+            "english": "Pedestrians should always pay attention to traffic."
+        },
+        {
+            "german": "Die Fußgängerzone ist für Autos gesperrt.",
+            "english": "The pedestrian zone is closed to cars."
+        }
+    ]
 }

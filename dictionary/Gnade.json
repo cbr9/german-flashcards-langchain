@@ -1,28 +1,26 @@
 {
     "word": "die Gnade, die Gnaden",
     "definition": "A concept embodying compassion, mercy, or forgiveness, often associated with a divine or higher power. It is commonly used in religious or spiritual contexts, referring to the act of granting clemency or showing kindness towards others, particularly in situations where punishment or judgment could be expected.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Bitte um Gnade",
-                "english": "Please have mercy"
-            },
-            {
-                "german": "Gnade vor Recht ergehen lassen",
-                "english": "To show mercy rather than justice"
-            },
-            {
-                "german": "Gnade Gottes",
-                "english": "God's grace"
-            },
-            {
-                "german": "In Gnaden annehmen",
-                "english": "To accept with grace"
-            },
-            {
-                "german": "Gnade walten lassen",
-                "english": "To show mercy"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Bitte um Gnade",
+            "english": "Please have mercy"
+        },
+        {
+            "german": "Gnade vor Recht ergehen lassen",
+            "english": "To show mercy rather than justice"
+        },
+        {
+            "german": "Gnade Gottes",
+            "english": "God's grace"
+        },
+        {
+            "german": "In Gnaden annehmen",
+            "english": "To accept with grace"
+        },
+        {
+            "german": "Gnade walten lassen",
+            "english": "To show mercy"
+        }
+    ]
 }

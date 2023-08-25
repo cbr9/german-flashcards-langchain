@@ -1,28 +1,26 @@
 {
     "word": "das Flussufer, die Flussufer",
     "definition": "A geographical term referring to the area where a body of water meets the land, typically used to describe the banks or shores of a river or stream.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Flussufer ist mit Gras bewachsen.",
-                "english": "The riverbank is covered with grass."
-            },
-            {
-                "german": "Wir haben am Flussufer gepicknickt.",
-                "english": "We had a picnic on the riverbank."
-            },
-            {
-                "german": "Viele Vögel nisten am Flussufer.",
-                "english": "Many birds nest on the riverbank."
-            },
-            {
-                "german": "Das Flussufer ist ein beliebter Ort zum Angeln.",
-                "english": "The riverbank is a popular spot for fishing."
-            },
-            {
-                "german": "Die Kinder spielen am Flussufer.",
-                "english": "The children play on the riverbank."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Flussufer ist mit Gras bewachsen.",
+            "english": "The riverbank is covered with grass."
+        },
+        {
+            "german": "Wir haben am Flussufer gepicknickt.",
+            "english": "We had a picnic on the riverbank."
+        },
+        {
+            "german": "Viele Vögel nisten am Flussufer.",
+            "english": "Many birds nest on the riverbank."
+        },
+        {
+            "german": "Das Flussufer ist ein beliebter Ort zum Angeln.",
+            "english": "The riverbank is a popular spot for fishing."
+        },
+        {
+            "german": "Die Kinder spielen am Flussufer.",
+            "english": "The children play on the riverbank."
+        }
+    ]
 }

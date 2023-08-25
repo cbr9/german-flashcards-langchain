@@ -1,28 +1,26 @@
 {
     "word": "das Gesetz, die Gesetze",
     "definition": "A set of rules or regulations established by a governing body, typically used to maintain order and guide behavior within a society. It is commonly employed in legal contexts and serves as the foundation for the legal system of a country or region.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Gesetz verbietet das Rauchen in öffentlichen Gebäuden.",
-                "english": "The law prohibits smoking in public buildings."
-            },
-            {
-                "german": "Das Gesetz schützt die Rechte der Arbeitnehmer.",
-                "english": "The law protects the rights of workers."
-            },
-            {
-                "german": "Das Gesetz regelt den Umgang mit persönlichen Daten.",
-                "english": "The law regulates the handling of personal data."
-            },
-            {
-                "german": "Das Gesetz legt fest, wer für einen Unfall verantwortlich ist.",
-                "english": "The law determines who is responsible for an accident."
-            },
-            {
-                "german": "Das Gesetz erlaubt es, eine Kopie des Vertrags zu behalten.",
-                "english": "The law allows keeping a copy of the contract."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Gesetz verbietet das Rauchen in öffentlichen Gebäuden.",
+            "english": "The law prohibits smoking in public buildings."
+        },
+        {
+            "german": "Das Gesetz schützt die Rechte der Arbeitnehmer.",
+            "english": "The law protects the rights of workers."
+        },
+        {
+            "german": "Das Gesetz regelt den Umgang mit persönlichen Daten.",
+            "english": "The law regulates the handling of personal data."
+        },
+        {
+            "german": "Das Gesetz legt fest, wer für einen Unfall verantwortlich ist.",
+            "english": "The law determines who is responsible for an accident."
+        },
+        {
+            "german": "Das Gesetz erlaubt es, eine Kopie des Vertrags zu behalten.",
+            "english": "The law allows keeping a copy of the contract."
+        }
+    ]
 }

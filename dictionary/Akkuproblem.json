@@ -1,28 +1,26 @@
 {
     "word": "das Akkuproblem, die Akkuprobleme",
     "definition": "Akkuproblem refers to a common issue encountered with electronic devices that rely on a rechargeable power source. It typically describes a situation where the battery life or performance of a device is problematic, causing inconvenience or hindrance to its intended use. This term is commonly used in discussions related to technology, consumer electronics, and portable devices.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe ein Akkuproblem mit meinem Laptop.",
-                "english": "I have a battery problem with my laptop."
-            },
-            {
-                "german": "Das Akkuproblem wurde durch einen Defekt verursacht.",
-                "english": "The battery problem was caused by a defect."
-            },
-            {
-                "german": "Ein Akkuproblem kann die Nutzungsdauer eines Geräts stark beeinträchtigen.",
-                "english": "A battery problem can greatly affect the usage time of a device."
-            },
-            {
-                "german": "Das Akkuproblem wurde erfolgreich behoben.",
-                "english": "The battery problem has been successfully resolved."
-            },
-            {
-                "german": "Ein Akkuproblem kann zu unerwarteten Geräteabschaltungen führen.",
-                "english": "A battery problem can lead to unexpected device shutdowns."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe ein Akkuproblem mit meinem Laptop.",
+            "english": "I have a battery problem with my laptop."
+        },
+        {
+            "german": "Das Akkuproblem wurde durch einen Defekt verursacht.",
+            "english": "The battery problem was caused by a defect."
+        },
+        {
+            "german": "Ein Akkuproblem kann die Nutzungsdauer eines Geräts stark beeinträchtigen.",
+            "english": "A battery problem can greatly affect the usage time of a device."
+        },
+        {
+            "german": "Das Akkuproblem wurde erfolgreich behoben.",
+            "english": "The battery problem has been successfully resolved."
+        },
+        {
+            "german": "Ein Akkuproblem kann zu unerwarteten Geräteabschaltungen führen.",
+            "english": "A battery problem can lead to unexpected device shutdowns."
+        }
+    ]
 }

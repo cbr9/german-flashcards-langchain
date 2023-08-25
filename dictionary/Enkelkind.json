@@ -1,28 +1,26 @@
 {
     "word": "das Enkelkind, die Enkelkinder",
     "definition": "A term used to refer to a specific familial relationship, typically denoting the offspring of one's own child. It is commonly used to describe the grandchild of an individual.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Enkelkind ist sehr süß.",
-                "english": "My grandchild is very cute."
-            },
-            {
-                "german": "Sie hat zwei Enkelkinder.",
-                "english": "She has two grandchildren."
-            },
-            {
-                "german": "Unser Enkelkind besucht uns oft.",
-                "english": "Our grandchild visits us often."
-            },
-            {
-                "german": "Die Enkelkinder spielen im Garten.",
-                "english": "The grandchildren are playing in the garden."
-            },
-            {
-                "german": "Das Enkelkind hat Geburtstag.",
-                "english": "The grandchild has a birthday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Enkelkind ist sehr süß.",
+            "english": "My grandchild is very cute."
+        },
+        {
+            "german": "Sie hat zwei Enkelkinder.",
+            "english": "She has two grandchildren."
+        },
+        {
+            "german": "Unser Enkelkind besucht uns oft.",
+            "english": "Our grandchild visits us often."
+        },
+        {
+            "german": "Die Enkelkinder spielen im Garten.",
+            "english": "The grandchildren are playing in the garden."
+        },
+        {
+            "german": "Das Enkelkind hat Geburtstag.",
+            "english": "The grandchild has a birthday."
+        }
+    ]
 }

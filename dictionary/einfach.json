@@ -1,28 +1,26 @@
 {
     "word": "einfach",
     "definition": "The term \"einfach\" refers to something that is not complicated or difficult. It is commonly used to describe tasks, concepts, or objects that are straightforward, easy to understand, or uncomplicated. This word can also be used to express simplicity in design, functionality, or processes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist einfach.",
-                "english": "That is easy."
-            },
-            {
-                "german": "Es ist einfach zu verstehen.",
-                "english": "It is easy to understand."
-            },
-            {
-                "german": "Einfach mal machen!",
-                "english": "Just do it!"
-            },
-            {
-                "german": "Das ist ganz einfach.",
-                "english": "That is very simple."
-            },
-            {
-                "german": "Es ist nicht so einfach, wie es aussieht.",
-                "english": "It's not as easy as it looks."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist einfach.",
+            "english": "That is easy."
+        },
+        {
+            "german": "Es ist einfach zu verstehen.",
+            "english": "It is easy to understand."
+        },
+        {
+            "german": "Einfach mal machen!",
+            "english": "Just do it!"
+        },
+        {
+            "german": "Das ist ganz einfach.",
+            "english": "That is very simple."
+        },
+        {
+            "german": "Es ist nicht so einfach, wie es aussieht.",
+            "english": "It's not as easy as it looks."
+        }
+    ]
 }

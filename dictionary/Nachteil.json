@@ -1,28 +1,26 @@
 {
     "word": "der Nachteil, die Nachteile",
     "definition": "A disadvantage or drawback, often used to describe a negative aspect or unfavorable circumstance. It is commonly employed to highlight the negative consequences or downsides of a particular situation, decision, or action.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ein Nachteil dieser Methode ist der hohe Energieverbrauch.",
-                "english": "One disadvantage of this method is the high energy consumption."
-            },
-            {
-                "german": "Der Hauptnachteil des Produkts ist seine geringe Haltbarkeit.",
-                "english": "The main disadvantage of the product is its low durability."
-            },
-            {
-                "german": "Ein großer Nachteil dieser Lösung ist die hohe Komplexität.",
-                "english": "A major drawback of this solution is the high complexity."
-            },
-            {
-                "german": "Der Nachteil dieser Technologie ist die begrenzte Skalierbarkeit.",
-                "english": "The disadvantage of this technology is the limited scalability."
-            },
-            {
-                "german": "Ein Nachteil des neuen Systems ist die lange Einarbeitungszeit.",
-                "english": "One disadvantage of the new system is the long training period."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ein Nachteil dieser Methode ist der hohe Energieverbrauch.",
+            "english": "One disadvantage of this method is the high energy consumption."
+        },
+        {
+            "german": "Der Hauptnachteil des Produkts ist seine geringe Haltbarkeit.",
+            "english": "The main disadvantage of the product is its low durability."
+        },
+        {
+            "german": "Ein großer Nachteil dieser Lösung ist die hohe Komplexität.",
+            "english": "A major drawback of this solution is the high complexity."
+        },
+        {
+            "german": "Der Nachteil dieser Technologie ist die begrenzte Skalierbarkeit.",
+            "english": "The disadvantage of this technology is the limited scalability."
+        },
+        {
+            "german": "Ein Nachteil des neuen Systems ist die lange Einarbeitungszeit.",
+            "english": "One disadvantage of the new system is the long training period."
+        }
+    ]
 }

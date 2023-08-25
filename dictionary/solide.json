@@ -1,28 +1,26 @@
 {
     "word": "solide",
     "definition": "A term used to describe something that is reliable, stable, and trustworthy, often referring to a person's character, work, or financial situation. It is commonly used to indicate a high level of quality, durability, or solidity in various contexts, such as describing a well-built structure, a dependable product, or a sound investment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein solider Arbeiter.",
-                "english": "He is a solid worker."
-            },
-            {
-                "german": "Das Unternehmen hat eine solide finanzielle Basis.",
-                "english": "The company has a solid financial foundation."
-            },
-            {
-                "german": "Sie hat solide Kenntnisse in Mathematik.",
-                "english": "She has solid knowledge in mathematics."
-            },
-            {
-                "german": "Die Mannschaft hat eine solide Leistung gezeigt.",
-                "english": "The team has shown a solid performance."
-            },
-            {
-                "german": "Er hat eine solide Ausbildung absolviert.",
-                "english": "He has completed a solid education."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein solider Arbeiter.",
+            "english": "He is a solid worker."
+        },
+        {
+            "german": "Das Unternehmen hat eine solide finanzielle Basis.",
+            "english": "The company has a solid financial foundation."
+        },
+        {
+            "german": "Sie hat solide Kenntnisse in Mathematik.",
+            "english": "She has solid knowledge in mathematics."
+        },
+        {
+            "german": "Die Mannschaft hat eine solide Leistung gezeigt.",
+            "english": "The team has shown a solid performance."
+        },
+        {
+            "german": "Er hat eine solide Ausbildung absolviert.",
+            "english": "He has completed a solid education."
+        }
+    ]
 }

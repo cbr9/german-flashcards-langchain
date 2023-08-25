@@ -1,28 +1,26 @@
 {
     "word": "die Kamera, die Kameras",
     "definition": "A device that captures visual images and records them for later viewing or reproduction, typically used in various fields such as photography, cinematography, and surveillance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Kamera ist kaputt.",
-                "english": "The camera is broken."
-            },
-            {
-                "german": "Ich habe eine neue Kamera gekauft.",
-                "english": "I bought a new camera."
-            },
-            {
-                "german": "Die Kamera hat einen Zoom.",
-                "english": "The camera has a zoom."
-            },
-            {
-                "german": "Kannst du ein Foto von mir mit deiner Kamera machen?",
-                "english": "Can you take a picture of me with your camera?"
-            },
-            {
-                "german": "Die Kamera ist sehr teuer.",
-                "english": "The camera is very expensive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Kamera ist kaputt.",
+            "english": "The camera is broken."
+        },
+        {
+            "german": "Ich habe eine neue Kamera gekauft.",
+            "english": "I bought a new camera."
+        },
+        {
+            "german": "Die Kamera hat einen Zoom.",
+            "english": "The camera has a zoom."
+        },
+        {
+            "german": "Kannst du ein Foto von mir mit deiner Kamera machen?",
+            "english": "Can you take a picture of me with your camera?"
+        },
+        {
+            "german": "Die Kamera ist sehr teuer.",
+            "english": "The camera is very expensive."
+        }
+    ]
 }

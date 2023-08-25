@@ -1,28 +1,26 @@
 {
     "word": "passen, passte, gepasst",
     "definition": "To correspond or be suitable in terms of compatibility, agreement, or appropriateness, often used to describe the fitting or matching of objects, actions, or circumstances.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Kleid passt dir perfekt.",
-                "english": "The dress fits you perfectly."
-            },
-            {
-                "german": "Die Schuhe passen nicht zu meinem Outfit.",
-                "english": "The shoes don't match my outfit."
-            },
-            {
-                "german": "Kannst du bitte auf meine Katze aufpassen?",
-                "english": "Can you please take care of my cat?"
-            },
-            {
-                "german": "Die Schlüssel passen nicht ins Schloss.",
-                "english": "The keys don't fit into the lock."
-            },
-            {
-                "german": "Die Farbe des Sofas passt gut zur Wandfarbe.",
-                "english": "The color of the sofa goes well with the wall color."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Kleid passt dir perfekt.",
+            "english": "The dress fits you perfectly."
+        },
+        {
+            "german": "Die Schuhe passen nicht zu meinem Outfit.",
+            "english": "The shoes don't match my outfit."
+        },
+        {
+            "german": "Kannst du bitte auf meine Katze aufpassen?",
+            "english": "Can you please take care of my cat?"
+        },
+        {
+            "german": "Die Schlüssel passen nicht ins Schloss.",
+            "english": "The keys don't fit into the lock."
+        },
+        {
+            "german": "Die Farbe des Sofas passt gut zur Wandfarbe.",
+            "english": "The color of the sofa goes well with the wall color."
+        }
+    ]
 }

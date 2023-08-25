@@ -1,28 +1,26 @@
 {
     "word": "mehr",
     "definition": "A comparative term often used to indicate a greater quantity, extent, or degree of something. It is commonly employed to express an increase or addition in comparison to a previous state or amount.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mehr Zeit",
-                "english": "More time"
-            },
-            {
-                "german": "Ich möchte mehr Informationen",
-                "english": "I would like more information"
-            },
-            {
-                "german": "Es gibt nichts mehr zu sagen",
-                "english": "There is nothing more to say"
-            },
-            {
-                "german": "Mehrere Personen haben das gleiche Problem",
-                "english": "Several people have the same problem"
-            },
-            {
-                "german": "Ich habe mehrere Optionen zur Auswahl",
-                "english": "I have several options to choose from"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mehr Zeit",
+            "english": "More time"
+        },
+        {
+            "german": "Ich möchte mehr Informationen",
+            "english": "I would like more information"
+        },
+        {
+            "german": "Es gibt nichts mehr zu sagen",
+            "english": "There is nothing more to say"
+        },
+        {
+            "german": "Mehrere Personen haben das gleiche Problem",
+            "english": "Several people have the same problem"
+        },
+        {
+            "german": "Ich habe mehrere Optionen zur Auswahl",
+            "english": "I have several options to choose from"
+        }
+    ]
 }

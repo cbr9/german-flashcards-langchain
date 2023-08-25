@@ -1,28 +1,26 @@
 {
     "word": "das Feuer, die Feuer",
     "definition": "A natural phenomenon that produces heat, light, and flames, commonly utilized for various purposes such as cooking, heating, and providing illumination. It is often associated with danger and destruction, but can also symbolize warmth, energy, and passion.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Feuer brennt.",
-                "english": "The fire is burning."
-            },
-            {
-                "german": "Feuer ist gefährlich.",
-                "english": "Fire is dangerous."
-            },
-            {
-                "german": "Wir machen ein Feuer im Garten.",
-                "english": "We are making a fire in the garden."
-            },
-            {
-                "german": "Das Feuer wärmt uns.",
-                "english": "The fire is warming us."
-            },
-            {
-                "german": "Feuer kann schnell verbreiten.",
-                "english": "Fire can spread quickly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Feuer brennt.",
+            "english": "The fire is burning."
+        },
+        {
+            "german": "Feuer ist gefährlich.",
+            "english": "Fire is dangerous."
+        },
+        {
+            "german": "Wir machen ein Feuer im Garten.",
+            "english": "We are making a fire in the garden."
+        },
+        {
+            "german": "Das Feuer wärmt uns.",
+            "english": "The fire is warming us."
+        },
+        {
+            "german": "Feuer kann schnell verbreiten.",
+            "english": "Fire can spread quickly."
+        }
+    ]
 }

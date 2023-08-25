@@ -1,28 +1,26 @@
 {
     "word": "das Talent, die Talente",
     "definition": "A natural ability or aptitude possessed by an individual, often associated with exceptional skills or proficiency in a specific area. It is commonly used to describe someone's innate talent or gift in various domains, such as arts, sports, or intellectual pursuits.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Talent",
-                "english": "talent"
-            },
-            {
-                "german": "Sie hat ein großes Talent für Musik.",
-                "english": "She has a great talent for music."
-            },
-            {
-                "german": "Er hat ein außergewöhnliches schauspielerisches Talent.",
-                "english": "He has an extraordinary acting talent."
-            },
-            {
-                "german": "Das Kind zeigt schon früh sein musikalisches Talent.",
-                "english": "The child shows its musical talent at an early age."
-            },
-            {
-                "german": "Sie hat ein verborgenes Talent für das Malen.",
-                "english": "She has a hidden talent for painting."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Talent",
+            "english": "talent"
+        },
+        {
+            "german": "Sie hat ein großes Talent für Musik.",
+            "english": "She has a great talent for music."
+        },
+        {
+            "german": "Er hat ein außergewöhnliches schauspielerisches Talent.",
+            "english": "He has an extraordinary acting talent."
+        },
+        {
+            "german": "Das Kind zeigt schon früh sein musikalisches Talent.",
+            "english": "The child shows its musical talent at an early age."
+        },
+        {
+            "german": "Sie hat ein verborgenes Talent für das Malen.",
+            "english": "She has a hidden talent for painting."
+        }
+    ]
 }

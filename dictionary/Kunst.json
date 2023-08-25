@@ -1,28 +1,26 @@
 {
     "word": "die Kunst, die Künste",
     "definition": "The term refers to the expression of creativity and imagination through various forms, such as visual, performing, or literary arts. It encompasses the creation and appreciation of aesthetic beauty, often involving skillful techniques and innovative ideas. It is commonly used to describe the broad realm of artistic endeavors, including painting, sculpture, music, dance, literature, and more.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kunst ist schön, macht aber viel Arbeit.",
-                "english": "Art is beautiful, but it takes a lot of work."
-            },
-            {
-                "german": "Die Kunst ist die Tochter der Freiheit.",
-                "english": "Art is the daughter of freedom."
-            },
-            {
-                "german": "Kunst ist die höchste Form der Hoffnung.",
-                "english": "Art is the highest form of hope."
-            },
-            {
-                "german": "Kunst ist die Vermittlerin des Unaussprechlichen.",
-                "english": "Art is the mediator of the inexpressible."
-            },
-            {
-                "german": "Kunst ist die Wahrheit, die sich der Illusion bedient.",
-                "english": "Art is the truth that uses illusion."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kunst ist schön, macht aber viel Arbeit.",
+            "english": "Art is beautiful, but it takes a lot of work."
+        },
+        {
+            "german": "Die Kunst ist die Tochter der Freiheit.",
+            "english": "Art is the daughter of freedom."
+        },
+        {
+            "german": "Kunst ist die höchste Form der Hoffnung.",
+            "english": "Art is the highest form of hope."
+        },
+        {
+            "german": "Kunst ist die Vermittlerin des Unaussprechlichen.",
+            "english": "Art is the mediator of the inexpressible."
+        },
+        {
+            "german": "Kunst ist die Wahrheit, die sich der Illusion bedient.",
+            "english": "Art is the truth that uses illusion."
+        }
+    ]
 }

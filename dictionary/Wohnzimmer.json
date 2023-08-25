@@ -1,28 +1,26 @@
 {
     "word": "das Wohnzimmer, die Wohnzimmer",
     "definition": "A common area within a residential space, typically used for relaxation, socializing, and entertainment purposes. It is often furnished with comfortable seating, a television, and other amenities to create a cozy and inviting atmosphere for family and guests.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Wohnzimmer ist groß.",
-                "english": "The living room is big."
-            },
-            {
-                "german": "Wir haben ein gemütliches Wohnzimmer.",
-                "english": "We have a cozy living room."
-            },
-            {
-                "german": "Das Wohnzimmer ist der Mittelpunkt des Hauses.",
-                "english": "The living room is the centerpiece of the house."
-            },
-            {
-                "german": "Im Wohnzimmer steht ein großer Fernseher.",
-                "english": "There is a big television in the living room."
-            },
-            {
-                "german": "Wir verbringen viel Zeit im Wohnzimmer.",
-                "english": "We spend a lot of time in the living room."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Wohnzimmer ist groß.",
+            "english": "The living room is big."
+        },
+        {
+            "german": "Wir haben ein gemütliches Wohnzimmer.",
+            "english": "We have a cozy living room."
+        },
+        {
+            "german": "Das Wohnzimmer ist der Mittelpunkt des Hauses.",
+            "english": "The living room is the centerpiece of the house."
+        },
+        {
+            "german": "Im Wohnzimmer steht ein großer Fernseher.",
+            "english": "There is a big television in the living room."
+        },
+        {
+            "german": "Wir verbringen viel Zeit im Wohnzimmer.",
+            "english": "We spend a lot of time in the living room."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "jederzeit",
     "definition": "At any given moment; without restriction or limitation; used to express the availability or possibility of something happening or being done at any time. It is commonly used to indicate that someone or something is always ready, accessible, or open for a particular action or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich stehe Ihnen jederzeit zur Verfügung.",
-                "english": "I am available to you at any time."
-            },
-            {
-                "german": "Sie können mich jederzeit anrufen.",
-                "english": "You can call me anytime."
-            },
-            {
-                "german": "Du kannst jederzeit vorbeikommen.",
-                "english": "You can come by anytime."
-            },
-            {
-                "german": "Wir können das jederzeit ändern.",
-                "english": "We can change that anytime."
-            },
-            {
-                "german": "Er ist jederzeit bereit zu helfen.",
-                "english": "He is always ready to help."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich stehe Ihnen jederzeit zur Verfügung.",
+            "english": "I am available to you at any time."
+        },
+        {
+            "german": "Sie können mich jederzeit anrufen.",
+            "english": "You can call me anytime."
+        },
+        {
+            "german": "Du kannst jederzeit vorbeikommen.",
+            "english": "You can come by anytime."
+        },
+        {
+            "german": "Wir können das jederzeit ändern.",
+            "english": "We can change that anytime."
+        },
+        {
+            "german": "Er ist jederzeit bereit zu helfen.",
+            "english": "He is always ready to help."
+        }
+    ]
 }

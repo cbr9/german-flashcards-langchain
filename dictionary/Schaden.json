@@ -1,28 +1,26 @@
 {
     "word": "der Schaden, die Schäden",
     "definition": "A term used to describe the negative consequences or harm that occurs as a result of an action, event, or situation. It is commonly employed to express the concept of damage, injury, or detriment caused by something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Schaden am Auto ist groß.",
-                "english": "The damage to the car is extensive."
-            },
-            {
-                "german": "Er hat großen Schaden angerichtet.",
-                "english": "He caused a lot of damage."
-            },
-            {
-                "german": "Der Schaden beläuft sich auf 1000 Euro.",
-                "english": "The damage amounts to 1000 euros."
-            },
-            {
-                "german": "Der Schaden ist irreparabel.",
-                "english": "The damage is irreparable."
-            },
-            {
-                "german": "Die Versicherung deckt den Schaden ab.",
-                "english": "The insurance covers the damage."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Schaden am Auto ist groß.",
+            "english": "The damage to the car is extensive."
+        },
+        {
+            "german": "Er hat großen Schaden angerichtet.",
+            "english": "He caused a lot of damage."
+        },
+        {
+            "german": "Der Schaden beläuft sich auf 1000 Euro.",
+            "english": "The damage amounts to 1000 euros."
+        },
+        {
+            "german": "Der Schaden ist irreparabel.",
+            "english": "The damage is irreparable."
+        },
+        {
+            "german": "Die Versicherung deckt den Schaden ab.",
+            "english": "The insurance covers the damage."
+        }
+    ]
 }

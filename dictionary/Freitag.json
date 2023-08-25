@@ -1,28 +1,26 @@
 {
     "word": "der Freitag, die Fridays",
     "definition": "A day of the week that typically falls between Thursday and Saturday, often associated with the end of the workweek and the beginning of the weekend. It is commonly used to refer to the sixth day of the week in many cultures and is often associated with relaxation, social activities, and anticipation for the weekend.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Freitag ist mein Lieblingstag.",
-                "english": "Friday is my favorite day."
-            },
-            {
-                "german": "Wir treffen uns am Freitagabend.",
-                "english": "We are meeting on Friday evening."
-            },
-            {
-                "german": "Freitag ist der letzte Arbeitstag der Woche.",
-                "english": "Friday is the last working day of the week."
-            },
-            {
-                "german": "Am Freitag haben wir immer Pizza zum Abendessen.",
-                "english": "On Fridays, we always have pizza for dinner."
-            },
-            {
-                "german": "Freitag ist der Tag, an dem ich ausschlafen kann.",
-                "english": "Friday is the day when I can sleep in."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Freitag ist mein Lieblingstag.",
+            "english": "Friday is my favorite day."
+        },
+        {
+            "german": "Wir treffen uns am Freitagabend.",
+            "english": "We are meeting on Friday evening."
+        },
+        {
+            "german": "Freitag ist der letzte Arbeitstag der Woche.",
+            "english": "Friday is the last working day of the week."
+        },
+        {
+            "german": "Am Freitag haben wir immer Pizza zum Abendessen.",
+            "english": "On Fridays, we always have pizza for dinner."
+        },
+        {
+            "german": "Freitag ist der Tag, an dem ich ausschlafen kann.",
+            "english": "Friday is the day when I can sleep in."
+        }
+    ]
 }

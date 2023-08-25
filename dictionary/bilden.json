@@ -1,28 +1,26 @@
 {
     "word": "bilden, bildete, gebildet",
     "definition": "To create or form something, often referring to the process of shaping or constructing an object, concept, or idea. It commonly involves the act of bringing together different elements or components to produce a coherent whole. This term is frequently employed in the context of education, referring to the act of imparting knowledge or skills to someone, or the process of acquiring knowledge or skills oneself.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte eine Familie gründen.",
-                "english": "I want to start a family."
-            },
-            {
-                "german": "Die Schüler sollen ihre eigenen Meinungen bilden.",
-                "english": "The students should form their own opinions."
-            },
-            {
-                "german": "Die beiden Länder wollen eine Allianz bilden.",
-                "english": "The two countries want to form an alliance."
-            },
-            {
-                "german": "Die Wolken bilden eine dunkle Wand am Himmel.",
-                "english": "The clouds form a dark wall in the sky."
-            },
-            {
-                "german": "Die Künstlerin kann aus Ton verschiedene Figuren bilden.",
-                "english": "The artist can create different figures from clay."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte eine Familie gründen.",
+            "english": "I want to start a family."
+        },
+        {
+            "german": "Die Schüler sollen ihre eigenen Meinungen bilden.",
+            "english": "The students should form their own opinions."
+        },
+        {
+            "german": "Die beiden Länder wollen eine Allianz bilden.",
+            "english": "The two countries want to form an alliance."
+        },
+        {
+            "german": "Die Wolken bilden eine dunkle Wand am Himmel.",
+            "english": "The clouds form a dark wall in the sky."
+        },
+        {
+            "german": "Die Künstlerin kann aus Ton verschiedene Figuren bilden.",
+            "english": "The artist can create different figures from clay."
+        }
+    ]
 }

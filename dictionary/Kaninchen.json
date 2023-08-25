@@ -1,28 +1,26 @@
 {
     "word": "das Kaninchen, die Kaninchen",
     "definition": "A small mammal often kept as a pet or raised for its meat, known for its long ears and hopping movement. It is commonly found in various colors and breeds, and is frequently associated with Easter traditions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Kaninchen hüpft über die Wiese.",
-                "english": "The rabbit hops across the meadow."
-            },
-            {
-                "german": "Meine Schwester hat ein süßes Kaninchen als Haustier.",
-                "english": "My sister has a cute rabbit as a pet."
-            },
-            {
-                "german": "Kaninchen sind bekannt für ihre schnelle Fortpflanzung.",
-                "english": "Rabbits are known for their rapid reproduction."
-            },
-            {
-                "german": "Ich esse gerne Kaninchenfleisch.",
-                "english": "I enjoy eating rabbit meat."
-            },
-            {
-                "german": "Das Kaninchen versteckt sich im Bau.",
-                "english": "The rabbit hides in its burrow."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Kaninchen hüpft über die Wiese.",
+            "english": "The rabbit hops across the meadow."
+        },
+        {
+            "german": "Meine Schwester hat ein süßes Kaninchen als Haustier.",
+            "english": "My sister has a cute rabbit as a pet."
+        },
+        {
+            "german": "Kaninchen sind bekannt für ihre schnelle Fortpflanzung.",
+            "english": "Rabbits are known for their rapid reproduction."
+        },
+        {
+            "german": "Ich esse gerne Kaninchenfleisch.",
+            "english": "I enjoy eating rabbit meat."
+        },
+        {
+            "german": "Das Kaninchen versteckt sich im Bau.",
+            "english": "The rabbit hides in its burrow."
+        }
+    ]
 }

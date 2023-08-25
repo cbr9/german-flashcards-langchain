@@ -1,28 +1,26 @@
 {
     "word": "die Fahrkarte, die Fahrkarten",
     "definition": "A document or item that grants permission or serves as proof of entitlement to travel on a specific mode of transportation, typically used for accessing public transportation services.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kann ich eine Fahrkarte kaufen?",
-                "english": "Can I buy a ticket?"
-            },
-            {
-                "german": "Die Fahrkarte ist gültig für eine Fahrt.",
-                "english": "The ticket is valid for one journey."
-            },
-            {
-                "german": "Ich habe meine Fahrkarte verloren.",
-                "english": "I lost my ticket."
-            },
-            {
-                "german": "Die Fahrkarte kostet 5 Euro.",
-                "english": "The ticket costs 5 euros."
-            },
-            {
-                "german": "Bitte zeigen Sie Ihre Fahrkarte dem Kontrolleur.",
-                "english": "Please show your ticket to the inspector."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kann ich eine Fahrkarte kaufen?",
+            "english": "Can I buy a ticket?"
+        },
+        {
+            "german": "Die Fahrkarte ist gültig für eine Fahrt.",
+            "english": "The ticket is valid for one journey."
+        },
+        {
+            "german": "Ich habe meine Fahrkarte verloren.",
+            "english": "I lost my ticket."
+        },
+        {
+            "german": "Die Fahrkarte kostet 5 Euro.",
+            "english": "The ticket costs 5 euros."
+        },
+        {
+            "german": "Bitte zeigen Sie Ihre Fahrkarte dem Kontrolleur.",
+            "english": "Please show your ticket to the inspector."
+        }
+    ]
 }

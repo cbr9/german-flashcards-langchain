@@ -1,28 +1,26 @@
 {
     "word": "mitnehmen, nahm mit, mitgenommen",
     "definition": "To transport or carry someone or something along with oneself, typically used when referring to taking someone or something along on a journey or trip.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mich bitte mitnehmen?",
-                "english": "Can you please take me with you?"
-            },
-            {
-                "german": "Ich nehme immer mein Handy mit.",
-                "english": "I always take my phone with me."
-            },
-            {
-                "german": "Kannst du mir etwas zu essen mitnehmen?",
-                "english": "Can you bring me something to eat?"
-            },
-            {
-                "german": "Vergiss nicht, den Müll mitzunehmen.",
-                "english": "Don't forget to take the trash with you."
-            },
-            {
-                "german": "Kannst du mir einen Kaffee mitnehmen?",
-                "english": "Can you get me a coffee to go?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mich bitte mitnehmen?",
+            "english": "Can you please take me with you?"
+        },
+        {
+            "german": "Ich nehme immer mein Handy mit.",
+            "english": "I always take my phone with me."
+        },
+        {
+            "german": "Kannst du mir etwas zu essen mitnehmen?",
+            "english": "Can you bring me something to eat?"
+        },
+        {
+            "german": "Vergiss nicht, den Müll mitzunehmen.",
+            "english": "Don't forget to take the trash with you."
+        },
+        {
+            "german": "Kannst du mir einen Kaffee mitnehmen?",
+            "english": "Can you get me a coffee to go?"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Flut, die Fluten",
     "definition": "A natural occurrence characterized by a large volume of water rapidly covering an area that is normally dry, often caused by heavy rainfall or the overflow of a body of water. It is commonly used to describe a catastrophic event that can result in significant damage to property and infrastructure, as well as pose a threat to human life.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Flut steigt langsam an.",
-                "english": "The flood is slowly rising."
-            },
-            {
-                "german": "Die Flut hat das Dorf überschwemmt.",
-                "english": "The flood has flooded the village."
-            },
-            {
-                "german": "Die Flutwelle traf die Küste mit großer Wucht.",
-                "english": "The tidal wave hit the coast with great force."
-            },
-            {
-                "german": "Die Flut des Verkehrs verursachte Staus.",
-                "english": "The flood of traffic caused congestion."
-            },
-            {
-                "german": "Die Flut der Informationen kann überwältigend sein.",
-                "english": "The flood of information can be overwhelming."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Flut steigt langsam an.",
+            "english": "The flood is slowly rising."
+        },
+        {
+            "german": "Die Flut hat das Dorf überschwemmt.",
+            "english": "The flood has flooded the village."
+        },
+        {
+            "german": "Die Flutwelle traf die Küste mit großer Wucht.",
+            "english": "The tidal wave hit the coast with great force."
+        },
+        {
+            "german": "Die Flut des Verkehrs verursachte Staus.",
+            "english": "The flood of traffic caused congestion."
+        },
+        {
+            "german": "Die Flut der Informationen kann überwältigend sein.",
+            "english": "The flood of information can be overwhelming."
+        }
+    ]
 }

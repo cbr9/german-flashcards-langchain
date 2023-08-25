@@ -1,28 +1,26 @@
 {
     "word": "der Kamin, die Kamine",
     "definition": "A structure typically found in homes, often made of brick or stone, used for containing and directing the flow of smoke and gases produced by a fire. It is commonly used for heating purposes and can be found in living rooms or other areas of a house.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kamin ist warm.",
-                "english": "The fireplace is warm."
-            },
-            {
-                "german": "Wir haben einen Kamin im Wohnzimmer.",
-                "english": "We have a fireplace in the living room."
-            },
-            {
-                "german": "Der Kamin raucht.",
-                "english": "The chimney is smoking."
-            },
-            {
-                "german": "Ich sitze gerne vor dem Kamin.",
-                "english": "I like sitting in front of the fireplace."
-            },
-            {
-                "german": "Der Kamin ist aus Stein.",
-                "english": "The fireplace is made of stone."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kamin ist warm.",
+            "english": "The fireplace is warm."
+        },
+        {
+            "german": "Wir haben einen Kamin im Wohnzimmer.",
+            "english": "We have a fireplace in the living room."
+        },
+        {
+            "german": "Der Kamin raucht.",
+            "english": "The chimney is smoking."
+        },
+        {
+            "german": "Ich sitze gerne vor dem Kamin.",
+            "english": "I like sitting in front of the fireplace."
+        },
+        {
+            "german": "Der Kamin ist aus Stein.",
+            "english": "The fireplace is made of stone."
+        }
+    ]
 }

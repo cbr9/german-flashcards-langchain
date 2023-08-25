@@ -1,28 +1,26 @@
 {
     "word": "die Korruption, die Korruptionen",
     "definition": "The act or behavior of dishonestly using one's position or power for personal gain, often involving bribery, embezzlement, or other unethical practices. It is commonly associated with abuse of authority in various sectors, such as politics, government, business, or public administration.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Korruption ist ein weit verbreitetes Problem in vielen Ländern.",
-                "english": "Corruption is a widespread problem in many countries."
-            },
-            {
-                "german": "Die Regierung verspricht, gegen Korruption vorzugehen.",
-                "english": "The government promises to tackle corruption."
-            },
-            {
-                "german": "Korruption untergräbt das Vertrauen der Bevölkerung in die Politik.",
-                "english": "Corruption undermines the public's trust in politics."
-            },
-            {
-                "german": "Der Politiker wurde wegen Korruption verhaftet.",
-                "english": "The politician was arrested for corruption."
-            },
-            {
-                "german": "Korruption führt zu wirtschaftlichen Schäden und Ungerechtigkeit.",
-                "english": "Corruption leads to economic damage and injustice."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Korruption ist ein weit verbreitetes Problem in vielen Ländern.",
+            "english": "Corruption is a widespread problem in many countries."
+        },
+        {
+            "german": "Die Regierung verspricht, gegen Korruption vorzugehen.",
+            "english": "The government promises to tackle corruption."
+        },
+        {
+            "german": "Korruption untergräbt das Vertrauen der Bevölkerung in die Politik.",
+            "english": "Corruption undermines the public's trust in politics."
+        },
+        {
+            "german": "Der Politiker wurde wegen Korruption verhaftet.",
+            "english": "The politician was arrested for corruption."
+        },
+        {
+            "german": "Korruption führt zu wirtschaftlichen Schäden und Ungerechtigkeit.",
+            "english": "Corruption leads to economic damage and injustice."
+        }
+    ]
 }

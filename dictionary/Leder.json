@@ -1,28 +1,26 @@
 {
     "word": "das Leder, die Leder",
     "definition": "A material commonly derived from animal hides, often used in the production of various goods such as clothing, accessories, and upholstery. It is known for its durability and flexibility, making it a popular choice for items that require strength and resilience.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Portemonnaie ist aus Leder.",
-                "english": "The wallet is made of leather."
-            },
-            {
-                "german": "Sie trägt eine Lederjacke.",
-                "english": "She is wearing a leather jacket."
-            },
-            {
-                "german": "Der Gürtel ist aus echtem Leder.",
-                "english": "The belt is made of genuine leather."
-            },
-            {
-                "german": "Er hat Lederhandschuhe.",
-                "english": "He has leather gloves."
-            },
-            {
-                "german": "Die Schuhe sind aus Leder.",
-                "english": "The shoes are made of leather."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Portemonnaie ist aus Leder.",
+            "english": "The wallet is made of leather."
+        },
+        {
+            "german": "Sie trägt eine Lederjacke.",
+            "english": "She is wearing a leather jacket."
+        },
+        {
+            "german": "Der Gürtel ist aus echtem Leder.",
+            "english": "The belt is made of genuine leather."
+        },
+        {
+            "german": "Er hat Lederhandschuhe.",
+            "english": "He has leather gloves."
+        },
+        {
+            "german": "Die Schuhe sind aus Leder.",
+            "english": "The shoes are made of leather."
+        }
+    ]
 }

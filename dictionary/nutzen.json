@@ -1,28 +1,26 @@
 {
     "word": "nutzen, nutzte, genutzt",
     "definition": "To make practical use of something, often with the intention of achieving a specific purpose or benefit. It is commonly employed in various contexts, such as in discussions related to maximizing resources, taking advantage of opportunities, or utilizing tools and skills effectively.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich nutze mein Smartphone, um im Internet zu surfen.",
-                "english": "I use my smartphone to surf the internet."
-            },
-            {
-                "german": "Wir sollten die vorhandenen Ressourcen effizient nutzen.",
-                "english": "We should use the available resources efficiently."
-            },
-            {
-                "german": "Du kannst diese Gelegenheit nutzen, um neue Fähigkeiten zu erlernen.",
-                "english": "You can use this opportunity to learn new skills."
-            },
-            {
-                "german": "Die Firma nutzt moderne Technologie, um ihre Produktivität zu steigern.",
-                "english": "The company uses modern technology to increase its productivity."
-            },
-            {
-                "german": "Er nutzt seine Kontakte, um an Informationen zu gelangen.",
-                "english": "He uses his contacts to access information."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich nutze mein Smartphone, um im Internet zu surfen.",
+            "english": "I use my smartphone to surf the internet."
+        },
+        {
+            "german": "Wir sollten die vorhandenen Ressourcen effizient nutzen.",
+            "english": "We should use the available resources efficiently."
+        },
+        {
+            "german": "Du kannst diese Gelegenheit nutzen, um neue Fähigkeiten zu erlernen.",
+            "english": "You can use this opportunity to learn new skills."
+        },
+        {
+            "german": "Die Firma nutzt moderne Technologie, um ihre Produktivität zu steigern.",
+            "english": "The company uses modern technology to increase its productivity."
+        },
+        {
+            "german": "Er nutzt seine Kontakte, um an Informationen zu gelangen.",
+            "english": "He uses his contacts to access information."
+        }
+    ]
 }

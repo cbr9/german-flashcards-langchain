@@ -1,28 +1,26 @@
 {
     "word": "das Netzwerk, die Netzwerke",
     "definition": "A system of interconnected nodes or entities that facilitates communication, collaboration, and exchange of information between individuals, organizations, or devices. It is commonly utilized to refer to a digital infrastructure or platform enabling connectivity and interaction among users, such as social media platforms, online communities, or computer networks.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Netzwerk",
-                "english": "network"
-            },
-            {
-                "german": "Das Unternehmen hat ein großes Netzwerk von Partnern.",
-                "english": "The company has a large network of partners."
-            },
-            {
-                "german": "Ich habe mein Netzwerk erweitert, um neue Geschäftsmöglichkeiten zu finden.",
-                "english": "I have expanded my network to find new business opportunities."
-            },
-            {
-                "german": "Unser Netzwerk ermöglicht es uns, effizient zusammenzuarbeiten.",
-                "english": "Our network allows us to collaborate efficiently."
-            },
-            {
-                "german": "Das soziale Netzwerk hat Millionen von Nutzern weltweit.",
-                "english": "The social network has millions of users worldwide."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Netzwerk",
+            "english": "network"
+        },
+        {
+            "german": "Das Unternehmen hat ein großes Netzwerk von Partnern.",
+            "english": "The company has a large network of partners."
+        },
+        {
+            "german": "Ich habe mein Netzwerk erweitert, um neue Geschäftsmöglichkeiten zu finden.",
+            "english": "I have expanded my network to find new business opportunities."
+        },
+        {
+            "german": "Unser Netzwerk ermöglicht es uns, effizient zusammenzuarbeiten.",
+            "english": "Our network allows us to collaborate efficiently."
+        },
+        {
+            "german": "Das soziale Netzwerk hat Millionen von Nutzern weltweit.",
+            "english": "The social network has millions of users worldwide."
+        }
+    ]
 }

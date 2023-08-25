@@ -1,28 +1,26 @@
 {
     "word": "das Auto, die Autos",
     "definition": "A four-wheeled vehicle typically used for transportation purposes, commonly found on roads and highways. It is often powered by an engine and designed to carry passengers or goods from one place to another.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Auto ist rot.",
-                "english": "The car is red."
-            },
-            {
-                "german": "Ich fahre gerne Auto.",
-                "english": "I enjoy driving a car."
-            },
-            {
-                "german": "Das Auto hat einen Motorschaden.",
-                "english": "The car has an engine problem."
-            },
-            {
-                "german": "Mein Auto ist sehr zuverlässig.",
-                "english": "My car is very reliable."
-            },
-            {
-                "german": "Das Auto gehört meinem Bruder.",
-                "english": "The car belongs to my brother."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Auto ist rot.",
+            "english": "The car is red."
+        },
+        {
+            "german": "Ich fahre gerne Auto.",
+            "english": "I enjoy driving a car."
+        },
+        {
+            "german": "Das Auto hat einen Motorschaden.",
+            "english": "The car has an engine problem."
+        },
+        {
+            "german": "Mein Auto ist sehr zuverlässig.",
+            "english": "My car is very reliable."
+        },
+        {
+            "german": "Das Auto gehört meinem Bruder.",
+            "english": "The car belongs to my brother."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "liegen, lag, gelegen",
     "definition": "To be in a horizontal position, typically used to describe the state of an object or a person's body. It often implies resting or being supported by a surface, such as lying on a bed or lying on the ground.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich liege im Bett.",
-                "english": "I am lying in bed."
-            },
-            {
-                "german": "Das Buch liegt auf dem Tisch.",
-                "english": "The book is lying on the table."
-            },
-            {
-                "german": "Die Schlüssel liegen auf dem Regal.",
-                "english": "The keys are lying on the shelf."
-            },
-            {
-                "german": "Der Hund liegt faul auf dem Sofa.",
-                "english": "The dog is lazily lying on the couch."
-            },
-            {
-                "german": "Die Stadt liegt am Flussufer.",
-                "english": "The city lies on the riverbank."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich liege im Bett.",
+            "english": "I am lying in bed."
+        },
+        {
+            "german": "Das Buch liegt auf dem Tisch.",
+            "english": "The book is lying on the table."
+        },
+        {
+            "german": "Die Schlüssel liegen auf dem Regal.",
+            "english": "The keys are lying on the shelf."
+        },
+        {
+            "german": "Der Hund liegt faul auf dem Sofa.",
+            "english": "The dog is lazily lying on the couch."
+        },
+        {
+            "german": "Die Stadt liegt am Flussufer.",
+            "english": "The city lies on the riverbank."
+        }
+    ]
 }

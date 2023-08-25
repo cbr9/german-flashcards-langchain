@@ -1,28 +1,26 @@
 {
     "word": "planen, plante, geplant",
     "definition": "To strategize and organize a series of actions or steps in advance, with the intention of achieving a specific goal or outcome. This term is commonly employed when outlining and preparing for future events, projects, or tasks.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich plane eine Reise nach Italien.",
-                "english": "I am planning a trip to Italy."
-            },
-            {
-                "german": "Wir planen eine Party am Wochenende.",
-                "english": "We are planning a party on the weekend."
-            },
-            {
-                "german": "Sie plant, nächstes Jahr zu studieren.",
-                "english": "She plans to study next year."
-            },
-            {
-                "german": "Er plant, ein neues Unternehmen zu gründen.",
-                "english": "He plans to start a new company."
-            },
-            {
-                "german": "Die Architekten planen den Bau eines neuen Gebäudes.",
-                "english": "The architects are planning the construction of a new building."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich plane eine Reise nach Italien.",
+            "english": "I am planning a trip to Italy."
+        },
+        {
+            "german": "Wir planen eine Party am Wochenende.",
+            "english": "We are planning a party on the weekend."
+        },
+        {
+            "german": "Sie plant, nächstes Jahr zu studieren.",
+            "english": "She plans to study next year."
+        },
+        {
+            "german": "Er plant, ein neues Unternehmen zu gründen.",
+            "english": "He plans to start a new company."
+        },
+        {
+            "german": "Die Architekten planen den Bau eines neuen Gebäudes.",
+            "english": "The architects are planning the construction of a new building."
+        }
+    ]
 }

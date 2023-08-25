@@ -1,28 +1,26 @@
 {
     "word": "der Feuerwehrleute, die Feuerwehrleute",
     "definition": "A group of individuals who are trained and equipped to respond to and extinguish fires, provide emergency medical assistance, and assist in various rescue operations. They are typically called upon during emergencies and play a crucial role in maintaining public safety.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Feuerwehrleute sind mutige Helden.",
-                "english": "Firefighters are brave heroes."
-            },
-            {
-                "german": "Die Feuerwehrleute löschten den Brand schnell.",
-                "english": "The firefighters extinguished the fire quickly."
-            },
-            {
-                "german": "Feuerwehrleute retten Menschenleben.",
-                "english": "Firefighters save lives."
-            },
-            {
-                "german": "Die Feuerwehrleute trainieren regelmäßig für den Ernstfall.",
-                "english": "Firefighters train regularly for emergencies."
-            },
-            {
-                "german": "Feuerwehrleute tragen spezielle Schutzkleidung.",
-                "english": "Firefighters wear special protective clothing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Feuerwehrleute sind mutige Helden.",
+            "english": "Firefighters are brave heroes."
+        },
+        {
+            "german": "Die Feuerwehrleute löschten den Brand schnell.",
+            "english": "The firefighters extinguished the fire quickly."
+        },
+        {
+            "german": "Feuerwehrleute retten Menschenleben.",
+            "english": "Firefighters save lives."
+        },
+        {
+            "german": "Die Feuerwehrleute trainieren regelmäßig für den Ernstfall.",
+            "english": "Firefighters train regularly for emergencies."
+        },
+        {
+            "german": "Feuerwehrleute tragen spezielle Schutzkleidung.",
+            "english": "Firefighters wear special protective clothing."
+        }
+    ]
 }

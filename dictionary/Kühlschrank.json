@@ -1,28 +1,26 @@
 {
     "word": "der Kühlschrank, die Kühlschränke",
     "definition": "A household appliance used for preserving perishable food items at low temperatures. It typically consists of a compartment with shelves and a door for easy access.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kühlschrank ist voll.",
-                "english": "The refrigerator is full."
-            },
-            {
-                "german": "Ich habe gestern einen neuen Kühlschrank gekauft.",
-                "english": "I bought a new refrigerator yesterday."
-            },
-            {
-                "german": "Bitte stell die Milch in den Kühlschrank.",
-                "english": "Please put the milk in the refrigerator."
-            },
-            {
-                "german": "Der Kühlschrank kühlt nicht mehr richtig.",
-                "english": "The refrigerator is not cooling properly anymore."
-            },
-            {
-                "german": "Der Kühlschrank macht komische Geräusche.",
-                "english": "The refrigerator is making strange noises."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kühlschrank ist voll.",
+            "english": "The refrigerator is full."
+        },
+        {
+            "german": "Ich habe gestern einen neuen Kühlschrank gekauft.",
+            "english": "I bought a new refrigerator yesterday."
+        },
+        {
+            "german": "Bitte stell die Milch in den Kühlschrank.",
+            "english": "Please put the milk in the refrigerator."
+        },
+        {
+            "german": "Der Kühlschrank kühlt nicht mehr richtig.",
+            "english": "The refrigerator is not cooling properly anymore."
+        },
+        {
+            "german": "Der Kühlschrank macht komische Geräusche.",
+            "english": "The refrigerator is making strange noises."
+        }
+    ]
 }

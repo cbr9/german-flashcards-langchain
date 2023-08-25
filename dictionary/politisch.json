@@ -1,28 +1,26 @@
 {
     "word": "politisch",
     "definition": "Relating to matters concerning governance, public affairs, or the organization and administration of a society. It is commonly used to describe anything pertaining to politics, political activities, or political ideologies.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die politische Lage ist sehr instabil.",
-                "english": "The political situation is very unstable."
-            },
-            {
-                "german": "Er ist politisch engagiert.",
-                "english": "He is politically engaged."
-            },
-            {
-                "german": "Die politische Partei hat viele Anhänger.",
-                "english": "The political party has many supporters."
-            },
-            {
-                "german": "Politische Entscheidungen müssen gut überlegt sein.",
-                "english": "Political decisions must be well thought out."
-            },
-            {
-                "german": "Die politische Debatte ist kontrovers.",
-                "english": "The political debate is controversial."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die politische Lage ist sehr instabil.",
+            "english": "The political situation is very unstable."
+        },
+        {
+            "german": "Er ist politisch engagiert.",
+            "english": "He is politically engaged."
+        },
+        {
+            "german": "Die politische Partei hat viele Anhänger.",
+            "english": "The political party has many supporters."
+        },
+        {
+            "german": "Politische Entscheidungen müssen gut überlegt sein.",
+            "english": "Political decisions must be well thought out."
+        },
+        {
+            "german": "Die politische Debatte ist kontrovers.",
+            "english": "The political debate is controversial."
+        }
+    ]
 }

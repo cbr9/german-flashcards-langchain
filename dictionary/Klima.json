@@ -1,28 +1,26 @@
 {
     "word": "das Klima, die Klimas",
     "definition": "A term referring to the long-term atmospheric conditions and weather patterns of a particular region or area, typically used to describe the overall climate or climatic conditions. It encompasses factors such as temperature, precipitation, humidity, wind patterns, and other environmental elements that characterize a specific geographical location.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Klima in dieser Region ist sehr mild.",
-                "english": "The climate in this region is very mild."
-            },
-            {
-                "german": "Der Klimawandel ist eine große Herausforderung für die Menschheit.",
-                "english": "Climate change is a major challenge for humanity."
-            },
-            {
-                "german": "Das Klima beeinflusst das Wachstum der Pflanzen.",
-                "english": "The climate influences the growth of plants."
-            },
-            {
-                "german": "Wir müssen Maßnahmen ergreifen, um das Klima zu schützen.",
-                "english": "We need to take measures to protect the climate."
-            },
-            {
-                "german": "Das Klima in den Tropen ist sehr heiß und feucht.",
-                "english": "The climate in the tropics is very hot and humid."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Klima in dieser Region ist sehr mild.",
+            "english": "The climate in this region is very mild."
+        },
+        {
+            "german": "Der Klimawandel ist eine große Herausforderung für die Menschheit.",
+            "english": "Climate change is a major challenge for humanity."
+        },
+        {
+            "german": "Das Klima beeinflusst das Wachstum der Pflanzen.",
+            "english": "The climate influences the growth of plants."
+        },
+        {
+            "german": "Wir müssen Maßnahmen ergreifen, um das Klima zu schützen.",
+            "english": "We need to take measures to protect the climate."
+        },
+        {
+            "german": "Das Klima in den Tropen ist sehr heiß und feucht.",
+            "english": "The climate in the tropics is very hot and humid."
+        }
+    ]
 }

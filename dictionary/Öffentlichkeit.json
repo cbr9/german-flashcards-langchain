@@ -1,28 +1,26 @@
 {
     "word": "die Öffentlichkeit, die Öffentlichkeiten",
     "definition": "The term refers to the collective space or domain where information, opinions, and events are shared, discussed, and made accessible to the general population. It commonly encompasses various forms of media, public discourse, and public spaces where communication and interaction take place. This word is often used to describe the concept of publicness or the state of being public, particularly in relation to matters of public interest, social engagement, and democratic participation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Öffentlichkeit war von dem Skandal schockiert.",
-                "english": "The public was shocked by the scandal."
-            },
-            {
-                "german": "Der Politiker sprach vor einer großen Öffentlichkeit.",
-                "english": "The politician spoke in front of a large audience."
-            },
-            {
-                "german": "Die Diskussion fand in der Öffentlichkeit statt.",
-                "english": "The discussion took place in public."
-            },
-            {
-                "german": "Die Meinung der Öffentlichkeit spielt eine wichtige Rolle.",
-                "english": "The opinion of the public plays an important role."
-            },
-            {
-                "german": "Die Veranstaltung war für die Öffentlichkeit zugänglich.",
-                "english": "The event was open to the public."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Öffentlichkeit war von dem Skandal schockiert.",
+            "english": "The public was shocked by the scandal."
+        },
+        {
+            "german": "Der Politiker sprach vor einer großen Öffentlichkeit.",
+            "english": "The politician spoke in front of a large audience."
+        },
+        {
+            "german": "Die Diskussion fand in der Öffentlichkeit statt.",
+            "english": "The discussion took place in public."
+        },
+        {
+            "german": "Die Meinung der Öffentlichkeit spielt eine wichtige Rolle.",
+            "english": "The opinion of the public plays an important role."
+        },
+        {
+            "german": "Die Veranstaltung war für die Öffentlichkeit zugänglich.",
+            "english": "The event was open to the public."
+        }
+    ]
 }

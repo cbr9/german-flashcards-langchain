@@ -1,28 +1,26 @@
 {
     "word": "ungewiss",
     "definition": "The term \"ungewiss\" refers to a state of uncertainty or doubt. It is commonly used to describe situations, events, or outcomes that are unpredictable or unknown. This word is often employed to express a lack of knowledge or clarity regarding a specific matter, emphasizing the absence of certainty.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Zukunft ist ungewiss.",
-                "english": "The future is uncertain."
-            },
-            {
-                "german": "Er blieb ungewiss über seine Pläne.",
-                "english": "He remained uncertain about his plans."
-            },
-            {
-                "german": "Die genaue Ursache des Unfalls ist noch ungewiss.",
-                "english": "The exact cause of the accident is still uncertain."
-            },
-            {
-                "german": "Die Entscheidung bleibt vorerst ungewiss.",
-                "english": "The decision remains uncertain for now."
-            },
-            {
-                "german": "Die Wettervorhersage ist ungewiss.",
-                "english": "The weather forecast is uncertain."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Zukunft ist ungewiss.",
+            "english": "The future is uncertain."
+        },
+        {
+            "german": "Er blieb ungewiss über seine Pläne.",
+            "english": "He remained uncertain about his plans."
+        },
+        {
+            "german": "Die genaue Ursache des Unfalls ist noch ungewiss.",
+            "english": "The exact cause of the accident is still uncertain."
+        },
+        {
+            "german": "Die Entscheidung bleibt vorerst ungewiss.",
+            "english": "The decision remains uncertain for now."
+        },
+        {
+            "german": "Die Wettervorhersage ist ungewiss.",
+            "english": "The weather forecast is uncertain."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Hauptdarstellerin, die Hauptdarstellerinnen",
     "definition": "A person who plays the leading role in a play, movie, or television show, typically portraying the main character. This term is commonly used in the context of performing arts and entertainment industry.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist die Hauptdarstellerin des Films.",
-                "english": "She is the main actress of the movie."
-            },
-            {
-                "german": "Die Hauptdarstellerin hat eine beeindruckende Leistung gezeigt.",
-                "english": "The leading actress delivered an impressive performance."
-            },
-            {
-                "german": "Die Hauptdarstellerin wurde für ihre Rolle mit einem Preis ausgezeichnet.",
-                "english": "The female lead was awarded for her role."
-            },
-            {
-                "german": "Die Hauptdarstellerin verkörpert die Hauptfigur auf eindrucksvolle Weise.",
-                "english": "The main actress embodies the main character in an impressive way."
-            },
-            {
-                "german": "Die Hauptdarstellerin hat eine große Fangemeinde.",
-                "english": "The leading actress has a large fan base."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist die Hauptdarstellerin des Films.",
+            "english": "She is the main actress of the movie."
+        },
+        {
+            "german": "Die Hauptdarstellerin hat eine beeindruckende Leistung gezeigt.",
+            "english": "The leading actress delivered an impressive performance."
+        },
+        {
+            "german": "Die Hauptdarstellerin wurde für ihre Rolle mit einem Preis ausgezeichnet.",
+            "english": "The female lead was awarded for her role."
+        },
+        {
+            "german": "Die Hauptdarstellerin verkörpert die Hauptfigur auf eindrucksvolle Weise.",
+            "english": "The main actress embodies the main character in an impressive way."
+        },
+        {
+            "german": "Die Hauptdarstellerin hat eine große Fangemeinde.",
+            "english": "The leading actress has a large fan base."
+        }
+    ]
 }

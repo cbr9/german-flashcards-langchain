@@ -1,28 +1,26 @@
 {
     "word": "die Forschung, die Forschungen",
     "definition": "The systematic investigation, study, and exploration of various phenomena, aiming to expand knowledge and understanding in a particular field. It typically involves conducting experiments, gathering data, analyzing results, and drawing conclusions. This term is commonly used in academic and scientific contexts, where scholars and researchers engage in rigorous inquiry to advance their respective disciplines.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Forschung hat gezeigt, dass Rauchen gesundheitsschädlich ist.",
-                "english": "Research has shown that smoking is harmful to health."
-            },
-            {
-                "german": "Die Forschung konzentriert sich auf die Entwicklung neuer Medikamente.",
-                "english": "Research focuses on the development of new drugs."
-            },
-            {
-                "german": "Die Forschungsergebnisse sind vielversprechend.",
-                "english": "The research results are promising."
-            },
-            {
-                "german": "Die Forschung wird von staatlichen Institutionen finanziert.",
-                "english": "Research is funded by government institutions."
-            },
-            {
-                "german": "Die Forschung in diesem Bereich ist noch nicht abgeschlossen.",
-                "english": "Research in this area is not yet complete."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Forschung hat gezeigt, dass Rauchen gesundheitsschädlich ist.",
+            "english": "Research has shown that smoking is harmful to health."
+        },
+        {
+            "german": "Die Forschung konzentriert sich auf die Entwicklung neuer Medikamente.",
+            "english": "Research focuses on the development of new drugs."
+        },
+        {
+            "german": "Die Forschungsergebnisse sind vielversprechend.",
+            "english": "The research results are promising."
+        },
+        {
+            "german": "Die Forschung wird von staatlichen Institutionen finanziert.",
+            "english": "Research is funded by government institutions."
+        },
+        {
+            "german": "Die Forschung in diesem Bereich ist noch nicht abgeschlossen.",
+            "english": "Research in this area is not yet complete."
+        }
+    ]
 }

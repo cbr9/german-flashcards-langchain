@@ -1,28 +1,26 @@
 {
     "word": "die Weile, die Weile",
     "definition": "A period of time that is typically used to express a short duration or interval, often implying a temporary pause or delay in an activity or process. It is commonly used in phrases or expressions to convey waiting, taking a break, or passing time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine Weile gewartet.",
-                "english": "I waited for a while."
-            },
-            {
-                "german": "Kannst du bitte einen Moment warten?",
-                "english": "Can you please wait for a while?"
-            },
-            {
-                "german": "Es dauert eine Weile, bis der Zug ankommt.",
-                "english": "It takes a while for the train to arrive."
-            },
-            {
-                "german": "Wir haben uns seit einer Weile nicht gesehen.",
-                "english": "We haven't seen each other for a while."
-            },
-            {
-                "german": "Er braucht eine Weile, um sich zu entscheiden.",
-                "english": "He needs a while to make a decision."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine Weile gewartet.",
+            "english": "I waited for a while."
+        },
+        {
+            "german": "Kannst du bitte einen Moment warten?",
+            "english": "Can you please wait for a while?"
+        },
+        {
+            "german": "Es dauert eine Weile, bis der Zug ankommt.",
+            "english": "It takes a while for the train to arrive."
+        },
+        {
+            "german": "Wir haben uns seit einer Weile nicht gesehen.",
+            "english": "We haven't seen each other for a while."
+        },
+        {
+            "german": "Er braucht eine Weile, um sich zu entscheiden.",
+            "english": "He needs a while to make a decision."
+        }
+    ]
 }

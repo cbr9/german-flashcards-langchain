@@ -1,28 +1,26 @@
 {
     "word": "das Experiment, die Experiments",
     "definition": "A process of systematic investigation, typically involving observation, measurement, and testing, used to gather empirical evidence and gain knowledge in various fields of study. It is commonly employed in scientific research, where controlled conditions are set up to test a hypothesis or validate a theory.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Experiment war erfolgreich.",
-                "english": "The experiment was successful."
-            },
-            {
-                "german": "Wir müssen das Experiment wiederholen.",
-                "english": "We need to repeat the experiment."
-            },
-            {
-                "german": "Das Experiment ist fehlgeschlagen.",
-                "english": "The experiment has failed."
-            },
-            {
-                "german": "Das Experiment liefert interessante Ergebnisse.",
-                "english": "The experiment yields interesting results."
-            },
-            {
-                "german": "Das Experiment erfordert präzise Messungen.",
-                "english": "The experiment requires precise measurements."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Experiment war erfolgreich.",
+            "english": "The experiment was successful."
+        },
+        {
+            "german": "Wir müssen das Experiment wiederholen.",
+            "english": "We need to repeat the experiment."
+        },
+        {
+            "german": "Das Experiment ist fehlgeschlagen.",
+            "english": "The experiment has failed."
+        },
+        {
+            "german": "Das Experiment liefert interessante Ergebnisse.",
+            "english": "The experiment yields interesting results."
+        },
+        {
+            "german": "Das Experiment erfordert präzise Messungen.",
+            "english": "The experiment requires precise measurements."
+        }
+    ]
 }

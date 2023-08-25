@@ -1,28 +1,26 @@
 {
     "word": "die Notlage, die Notlagen",
     "definition": "A situation of extreme difficulty or crisis, typically referring to a state of urgent need or distress. It is commonly used to describe a critical or emergency situation where immediate action or assistance is required.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Stadt befand sich in einer Notlage.",
-                "english": "The city was in a state of emergency."
-            },
-            {
-                "german": "Die Familie geriet in eine finanzielle Notlage.",
-                "english": "The family fell into a financial crisis."
-            },
-            {
-                "german": "In einer Notlage sollte man um Hilfe bitten.",
-                "english": "In an emergency, one should ask for help."
-            },
-            {
-                "german": "Die Notlage zwang ihn, drastische Maßnahmen zu ergreifen.",
-                "english": "The emergency forced him to take drastic measures."
-            },
-            {
-                "german": "Die Flüchtlinge waren in einer akuten Notlage.",
-                "english": "The refugees were in an acute distress."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Stadt befand sich in einer Notlage.",
+            "english": "The city was in a state of emergency."
+        },
+        {
+            "german": "Die Familie geriet in eine finanzielle Notlage.",
+            "english": "The family fell into a financial crisis."
+        },
+        {
+            "german": "In einer Notlage sollte man um Hilfe bitten.",
+            "english": "In an emergency, one should ask for help."
+        },
+        {
+            "german": "Die Notlage zwang ihn, drastische Maßnahmen zu ergreifen.",
+            "english": "The emergency forced him to take drastic measures."
+        },
+        {
+            "german": "Die Flüchtlinge waren in einer akuten Notlage.",
+            "english": "The refugees were in an acute distress."
+        }
+    ]
 }

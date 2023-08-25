@@ -1,28 +1,26 @@
 {
     "word": "draußen",
     "definition": "The term refers to the area or space that is located outside, typically used to describe the opposite of being indoors or inside. It commonly denotes the external environment, encompassing the outdoors or the external surroundings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist draußen kalt.",
-                "english": "It is cold outside."
-            },
-            {
-                "german": "Wir spielen draußen Fußball.",
-                "english": "We are playing football outside."
-            },
-            {
-                "german": "Geh bitte draußen spielen.",
-                "english": "Please go play outside."
-            },
-            {
-                "german": "Die Kinder sind draußen im Garten.",
-                "english": "The children are outside in the garden."
-            },
-            {
-                "german": "Ich habe draußen einen Vogel gesehen.",
-                "english": "I saw a bird outside."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist draußen kalt.",
+            "english": "It is cold outside."
+        },
+        {
+            "german": "Wir spielen draußen Fußball.",
+            "english": "We are playing football outside."
+        },
+        {
+            "german": "Geh bitte draußen spielen.",
+            "english": "Please go play outside."
+        },
+        {
+            "german": "Die Kinder sind draußen im Garten.",
+            "english": "The children are outside in the garden."
+        },
+        {
+            "german": "Ich habe draußen einen Vogel gesehen.",
+            "english": "I saw a bird outside."
+        }
+    ]
 }

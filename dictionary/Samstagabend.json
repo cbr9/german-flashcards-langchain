@@ -1,28 +1,26 @@
 {
     "word": "der Samstagabend, die Samstagabende",
     "definition": "A term commonly used to refer to the evening of the sixth day of the week, typically associated with relaxation, leisure activities, and social gatherings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe am Samstagabend ins Kino.",
-                "english": "I am going to the cinema on Saturday evening."
-            },
-            {
-                "german": "Wir treffen uns jeden Samstagabend zum Essen.",
-                "english": "We meet every Saturday evening for dinner."
-            },
-            {
-                "german": "Am Samstagabend gibt es eine Party im Club.",
-                "english": "There is a party at the club on Saturday evening."
-            },
-            {
-                "german": "Samstagabend ist meine Lieblingszeit der Woche.",
-                "english": "Saturday evening is my favorite time of the week."
-            },
-            {
-                "german": "Ich verbringe den Samstagabend gerne zu Hause.",
-                "english": "I like to spend Saturday evening at home."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe am Samstagabend ins Kino.",
+            "english": "I am going to the cinema on Saturday evening."
+        },
+        {
+            "german": "Wir treffen uns jeden Samstagabend zum Essen.",
+            "english": "We meet every Saturday evening for dinner."
+        },
+        {
+            "german": "Am Samstagabend gibt es eine Party im Club.",
+            "english": "There is a party at the club on Saturday evening."
+        },
+        {
+            "german": "Samstagabend ist meine Lieblingszeit der Woche.",
+            "english": "Saturday evening is my favorite time of the week."
+        },
+        {
+            "german": "Ich verbringe den Samstagabend gerne zu Hause.",
+            "english": "I like to spend Saturday evening at home."
+        }
+    ]
 }

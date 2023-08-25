@@ -1,28 +1,26 @@
 {
     "word": "das Schwärmen, die Schwärme",
     "definition": "To express great enthusiasm or admiration for someone or something, often used when talking about a group of people sharing the same sentiment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich schwärme für Schokolade.",
-                "english": "I am crazy about chocolate."
-            },
-            {
-                "german": "Sie schwärmt von ihrem neuen Job.",
-                "english": "She raves about her new job."
-            },
-            {
-                "german": "Die Kinder schwärmen von dem Ausflug zum Zoo.",
-                "english": "The children are enthusiastic about the trip to the zoo."
-            },
-            {
-                "german": "Er schwärmt von seinen Reisen um die Welt.",
-                "english": "He raves about his travels around the world."
-            },
-            {
-                "german": "Wir schwärmen für die Natur.",
-                "english": "We are passionate about nature."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich schwärme für Schokolade.",
+            "english": "I am crazy about chocolate."
+        },
+        {
+            "german": "Sie schwärmt von ihrem neuen Job.",
+            "english": "She raves about her new job."
+        },
+        {
+            "german": "Die Kinder schwärmen von dem Ausflug zum Zoo.",
+            "english": "The children are enthusiastic about the trip to the zoo."
+        },
+        {
+            "german": "Er schwärmt von seinen Reisen um die Welt.",
+            "english": "He raves about his travels around the world."
+        },
+        {
+            "german": "Wir schwärmen für die Natur.",
+            "english": "We are passionate about nature."
+        }
+    ]
 }

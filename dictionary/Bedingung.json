@@ -1,28 +1,26 @@
 {
     "word": "die Bedingung, die Bedingungen",
     "definition": "A condition or requirement that must be met in order for something else to happen or be true. It is commonly used in various contexts, such as in contracts, agreements, or rules, to specify a necessary condition or prerequisite.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Bedingung für den Erfolg ist harte Arbeit.",
-                "english": "The condition for success is hard work."
-            },
-            {
-                "german": "Unter welchen Bedingungen kann ich das Auto mieten?",
-                "english": "Under what conditions can I rent the car?"
-            },
-            {
-                "german": "Die Bedingungen waren sehr schwierig.",
-                "english": "The conditions were very difficult."
-            },
-            {
-                "german": "Ohne Bedingungen werde ich nicht zustimmen.",
-                "english": "I will not agree without conditions."
-            },
-            {
-                "german": "Die Bedingungen des Vertrags sind fair.",
-                "english": "The conditions of the contract are fair."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Bedingung für den Erfolg ist harte Arbeit.",
+            "english": "The condition for success is hard work."
+        },
+        {
+            "german": "Unter welchen Bedingungen kann ich das Auto mieten?",
+            "english": "Under what conditions can I rent the car?"
+        },
+        {
+            "german": "Die Bedingungen waren sehr schwierig.",
+            "english": "The conditions were very difficult."
+        },
+        {
+            "german": "Ohne Bedingungen werde ich nicht zustimmen.",
+            "english": "I will not agree without conditions."
+        },
+        {
+            "german": "Die Bedingungen des Vertrags sind fair.",
+            "english": "The conditions of the contract are fair."
+        }
+    ]
 }

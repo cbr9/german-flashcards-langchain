@@ -1,28 +1,26 @@
 {
     "word": "beauftragen, beauftragte, beauftragt",
     "definition": "To assign someone with a specific task or responsibility, typically involving the delegation of authority or the request for a service. This word is commonly used in professional or formal contexts, where individuals or organizations entrust others with a particular job or duty.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich beauftrage dich mit der Aufgabe.",
-                "english": "I am entrusting you with the task."
-            },
-            {
-                "german": "Wir haben eine Firma beauftragt, das Projekt umzusetzen.",
-                "english": "We have commissioned a company to implement the project."
-            },
-            {
-                "german": "Kannst du mich bitte beauftragen, die Präsentation vorzubereiten?",
-                "english": "Can you please instruct me to prepare the presentation?"
-            },
-            {
-                "german": "Der Kunde hat uns mit der Lieferung beauftragt.",
-                "english": "The customer has entrusted us with the delivery."
-            },
-            {
-                "german": "Er wurde beauftragt, die Verhandlungen zu führen.",
-                "english": "He was tasked with conducting the negotiations."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich beauftrage dich mit der Aufgabe.",
+            "english": "I am entrusting you with the task."
+        },
+        {
+            "german": "Wir haben eine Firma beauftragt, das Projekt umzusetzen.",
+            "english": "We have commissioned a company to implement the project."
+        },
+        {
+            "german": "Kannst du mich bitte beauftragen, die Präsentation vorzubereiten?",
+            "english": "Can you please instruct me to prepare the presentation?"
+        },
+        {
+            "german": "Der Kunde hat uns mit der Lieferung beauftragt.",
+            "english": "The customer has entrusted us with the delivery."
+        },
+        {
+            "german": "Er wurde beauftragt, die Verhandlungen zu führen.",
+            "english": "He was tasked with conducting the negotiations."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Demonstrant, die Demonstranten",
     "definition": "A person who actively participates in public gatherings or protests to express their opinions, often advocating for social or political change. This term typically refers to individuals who engage in peaceful demonstrations or marches to raise awareness or voice their concerns about specific issues.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Demonstrant protestierte gegen die Regierung.",
-                "english": "The demonstrator protested against the government."
-            },
-            {
-                "german": "Die Demonstranten forderten mehr Rechte für Arbeiter.",
-                "english": "The demonstrators demanded more rights for workers."
-            },
-            {
-                "german": "Die Polizei versuchte, die Demonstranten zu beruhigen.",
-                "english": "The police tried to calm down the demonstrators."
-            },
-            {
-                "german": "Die Demonstranten marschierten friedlich durch die Straßen.",
-                "english": "The demonstrators peacefully marched through the streets."
-            },
-            {
-                "german": "Die Demonstranten skandierten lautstark ihre Forderungen.",
-                "english": "The demonstrators chanted their demands loudly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Demonstrant protestierte gegen die Regierung.",
+            "english": "The demonstrator protested against the government."
+        },
+        {
+            "german": "Die Demonstranten forderten mehr Rechte für Arbeiter.",
+            "english": "The demonstrators demanded more rights for workers."
+        },
+        {
+            "german": "Die Polizei versuchte, die Demonstranten zu beruhigen.",
+            "english": "The police tried to calm down the demonstrators."
+        },
+        {
+            "german": "Die Demonstranten marschierten friedlich durch die Straßen.",
+            "english": "The demonstrators peacefully marched through the streets."
+        },
+        {
+            "german": "Die Demonstranten skandierten lautstark ihre Forderungen.",
+            "english": "The demonstrators chanted their demands loudly."
+        }
+    ]
 }

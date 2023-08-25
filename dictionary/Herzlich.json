@@ -1,28 +1,26 @@
 {
     "word": "Herzlich",
     "definition": "A warm and sincere expression or feeling, often used to convey genuine affection, friendliness, or wholeheartedness towards someone or something. It is commonly used in greetings, well-wishes, and expressions of gratitude or appreciation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Herzlich willkommen!",
-                "english": "Welcome!"
-            },
-            {
-                "german": "Herzliche Glückwünsche zum Geburtstag!",
-                "english": "Warm congratulations on your birthday!"
-            },
-            {
-                "german": "Ich danke dir herzlich.",
-                "english": "I thank you warmly."
-            },
-            {
-                "german": "Herzlichen Dank für deine Hilfe!",
-                "english": "Many thanks for your help!"
-            },
-            {
-                "german": "Herzliche Grüße aus Deutschland!",
-                "english": "Warm greetings from Germany!"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Herzlich willkommen!",
+            "english": "Welcome!"
+        },
+        {
+            "german": "Herzliche Glückwünsche zum Geburtstag!",
+            "english": "Warm congratulations on your birthday!"
+        },
+        {
+            "german": "Ich danke dir herzlich.",
+            "english": "I thank you warmly."
+        },
+        {
+            "german": "Herzlichen Dank für deine Hilfe!",
+            "english": "Many thanks for your help!"
+        },
+        {
+            "german": "Herzliche Grüße aus Deutschland!",
+            "english": "Warm greetings from Germany!"
+        }
+    ]
 }

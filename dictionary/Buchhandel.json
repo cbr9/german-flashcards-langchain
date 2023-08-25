@@ -1,28 +1,26 @@
 {
     "word": "der Buchhandel, die Buchhandlungen",
     "definition": "The term refers to the commercial activity involving the exchange of written works, typically in physical form, through various channels such as bookstores, online platforms, or publishing houses. It encompasses the buying, selling, and distribution of books, magazines, and other printed materials. This word is commonly used to describe the industry or sector related to the trade of books.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Buchhandel hat in den letzten Jahren stark gelitten.",
-                "english": "The book trade has suffered greatly in recent years."
-            },
-            {
-                "german": "Sie arbeitet im Buchhandel und liebt es, Bücher zu verkaufen.",
-                "english": "She works in the book trade and loves selling books."
-            },
-            {
-                "german": "Der Buchhandel bietet eine große Auswahl an Büchern aller Genres.",
-                "english": "The book trade offers a wide selection of books from all genres."
-            },
-            {
-                "german": "Im Buchhandel gibt es oft Rabattaktionen und Sonderangebote.",
-                "english": "The book trade often has discount promotions and special offers."
-            },
-            {
-                "german": "Der Buchhandel hat sich durch den Aufstieg des E-Books verändert.",
-                "english": "The book trade has changed due to the rise of e-books."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Buchhandel hat in den letzten Jahren stark gelitten.",
+            "english": "The book trade has suffered greatly in recent years."
+        },
+        {
+            "german": "Sie arbeitet im Buchhandel und liebt es, Bücher zu verkaufen.",
+            "english": "She works in the book trade and loves selling books."
+        },
+        {
+            "german": "Der Buchhandel bietet eine große Auswahl an Büchern aller Genres.",
+            "english": "The book trade offers a wide selection of books from all genres."
+        },
+        {
+            "german": "Im Buchhandel gibt es oft Rabattaktionen und Sonderangebote.",
+            "english": "The book trade often has discount promotions and special offers."
+        },
+        {
+            "german": "Der Buchhandel hat sich durch den Aufstieg des E-Books verändert.",
+            "english": "The book trade has changed due to the rise of e-books."
+        }
+    ]
 }

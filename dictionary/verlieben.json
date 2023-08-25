@@ -1,28 +1,26 @@
 {
     "word": "verlieben, verliebte, verliebt",
     "definition": "To develop strong affection or romantic feelings towards someone or something, often used to describe the initial stages of falling in love.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe mich in ihn verliebt.",
-                "english": "I have fallen in love with him."
-            },
-            {
-                "german": "Sie hat sich in ihren besten Freund verliebt.",
-                "english": "She has fallen in love with her best friend."
-            },
-            {
-                "german": "Er hat sich in sie verliebt, als er sie das erste Mal gesehen hat.",
-                "english": "He fell in love with her the first time he saw her."
-            },
-            {
-                "german": "Wir haben uns ineinander verliebt.",
-                "english": "We have fallen in love with each other."
-            },
-            {
-                "german": "Sie verliebt sich immer in die falschen Männer.",
-                "english": "She always falls in love with the wrong men."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe mich in ihn verliebt.",
+            "english": "I have fallen in love with him."
+        },
+        {
+            "german": "Sie hat sich in ihren besten Freund verliebt.",
+            "english": "She has fallen in love with her best friend."
+        },
+        {
+            "german": "Er hat sich in sie verliebt, als er sie das erste Mal gesehen hat.",
+            "english": "He fell in love with her the first time he saw her."
+        },
+        {
+            "german": "Wir haben uns ineinander verliebt.",
+            "english": "We have fallen in love with each other."
+        },
+        {
+            "german": "Sie verliebt sich immer in die falschen Männer.",
+            "english": "She always falls in love with the wrong men."
+        }
+    ]
 }

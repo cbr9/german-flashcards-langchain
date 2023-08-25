@@ -1,28 +1,26 @@
 {
     "word": "warum",
     "definition": "A question word used to inquire about the reason, cause, or purpose behind something. It is commonly used to ask \"why\" in various contexts, seeking explanations or motivations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Warum hast du das gemacht?",
-                "english": "Why did you do that?"
-            },
-            {
-                "german": "Warum bist du so traurig?",
-                "english": "Why are you so sad?"
-            },
-            {
-                "german": "Warum hast du mich angelogen?",
-                "english": "Why did you lie to me?"
-            },
-            {
-                "german": "Warum hast du den Job gekündigt?",
-                "english": "Why did you quit the job?"
-            },
-            {
-                "german": "Warum hast du das Buch nicht gelesen?",
-                "english": "Why didn't you read the book?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Warum hast du das gemacht?",
+            "english": "Why did you do that?"
+        },
+        {
+            "german": "Warum bist du so traurig?",
+            "english": "Why are you so sad?"
+        },
+        {
+            "german": "Warum hast du mich angelogen?",
+            "english": "Why did you lie to me?"
+        },
+        {
+            "german": "Warum hast du den Job gekündigt?",
+            "english": "Why did you quit the job?"
+        },
+        {
+            "german": "Warum hast du das Buch nicht gelesen?",
+            "english": "Why didn't you read the book?"
+        }
+    ]
 }

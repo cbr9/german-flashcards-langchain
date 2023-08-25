@@ -1,28 +1,26 @@
 {
     "word": "das Gemüse, die Gemüse",
     "definition": "A term commonly employed to refer to a variety of edible plants, typically cultivated for their leaves, stems, roots, or fruits, which are consumed as part of a meal. It is frequently used in the context of cooking, nutrition, and dietary discussions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse gerne Gemüse.",
-                "english": "I like to eat vegetables."
-            },
-            {
-                "german": "Gemüse ist gesund.",
-                "english": "Vegetables are healthy."
-            },
-            {
-                "german": "Meine Mutter kocht immer frisches Gemüse.",
-                "english": "My mother always cooks fresh vegetables."
-            },
-            {
-                "german": "Ich kaufe mein Gemüse auf dem Wochenmarkt.",
-                "english": "I buy my vegetables at the weekly market."
-            },
-            {
-                "german": "Gemüse enthält viele Vitamine.",
-                "english": "Vegetables contain many vitamins."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse gerne Gemüse.",
+            "english": "I like to eat vegetables."
+        },
+        {
+            "german": "Gemüse ist gesund.",
+            "english": "Vegetables are healthy."
+        },
+        {
+            "german": "Meine Mutter kocht immer frisches Gemüse.",
+            "english": "My mother always cooks fresh vegetables."
+        },
+        {
+            "german": "Ich kaufe mein Gemüse auf dem Wochenmarkt.",
+            "english": "I buy my vegetables at the weekly market."
+        },
+        {
+            "german": "Gemüse enthält viele Vitamine.",
+            "english": "Vegetables contain many vitamins."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Gewitterwolke, die Gewitterwolken",
     "definition": "A meteorological phenomenon characterized by a dense, dark, and towering formation in the sky, often associated with thunderstorms and lightning. It is commonly used to describe the specific cloud formation that precedes or accompanies a thunderstorm.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Gewitterwolke zog langsam über den Himmel.",
-                "english": "The thundercloud slowly moved across the sky."
-            },
-            {
-                "german": "Eine dunkle Gewitterwolke kündigte den Sturm an.",
-                "english": "A dark thundercloud announced the storm."
-            },
-            {
-                "german": "Die Gewitterwolke brachte heftigen Regen und Blitzschläge.",
-                "english": "The thundercloud brought heavy rain and lightning."
-            },
-            {
-                "german": "Die Gewitterwolke löste einen lauten Donnerschlag aus.",
-                "english": "The thundercloud triggered a loud thunderclap."
-            },
-            {
-                "german": "Die Gewitterwolke verschwand langsam und der Himmel klarte auf.",
-                "english": "The thundercloud slowly disappeared and the sky cleared up."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Gewitterwolke zog langsam über den Himmel.",
+            "english": "The thundercloud slowly moved across the sky."
+        },
+        {
+            "german": "Eine dunkle Gewitterwolke kündigte den Sturm an.",
+            "english": "A dark thundercloud announced the storm."
+        },
+        {
+            "german": "Die Gewitterwolke brachte heftigen Regen und Blitzschläge.",
+            "english": "The thundercloud brought heavy rain and lightning."
+        },
+        {
+            "german": "Die Gewitterwolke löste einen lauten Donnerschlag aus.",
+            "english": "The thundercloud triggered a loud thunderclap."
+        },
+        {
+            "german": "Die Gewitterwolke verschwand langsam und der Himmel klarte auf.",
+            "english": "The thundercloud slowly disappeared and the sky cleared up."
+        }
+    ]
 }

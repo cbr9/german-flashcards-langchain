@@ -1,28 +1,26 @@
 {
     "word": "niederdeutsch",
     "definition": "A regional variety of a certain language spoken in northern Germany, often associated with the lowlands and coastal areas. It is primarily used as a spoken language and is characterized by distinct phonological, grammatical, and lexical features.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Niederdeutsch wird in Norddeutschland gesprochen.",
-                "english": "Low German is spoken in northern Germany."
-            },
-            {
-                "german": "Meine Großeltern sprechen Niederdeutsch.",
-                "english": "My grandparents speak Low German."
-            },
-            {
-                "german": "Niederdeutsch ist eine westgermanische Sprache.",
-                "english": "Low German is a West Germanic language."
-            },
-            {
-                "german": "In einigen Regionen wird Niederdeutsch als Minderheitensprache anerkannt.",
-                "english": "In some regions, Low German is recognized as a minority language."
-            },
-            {
-                "german": "Niederdeutsch hat viele Gemeinsamkeiten mit dem Niederländischen.",
-                "english": "Low German has many similarities with Dutch."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Niederdeutsch wird in Norddeutschland gesprochen.",
+            "english": "Low German is spoken in northern Germany."
+        },
+        {
+            "german": "Meine Großeltern sprechen Niederdeutsch.",
+            "english": "My grandparents speak Low German."
+        },
+        {
+            "german": "Niederdeutsch ist eine westgermanische Sprache.",
+            "english": "Low German is a West Germanic language."
+        },
+        {
+            "german": "In einigen Regionen wird Niederdeutsch als Minderheitensprache anerkannt.",
+            "english": "In some regions, Low German is recognized as a minority language."
+        },
+        {
+            "german": "Niederdeutsch hat viele Gemeinsamkeiten mit dem Niederländischen.",
+            "english": "Low German has many similarities with Dutch."
+        }
+    ]
 }

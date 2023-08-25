@@ -1,28 +1,26 @@
 {
     "word": "die Schuld, die Schulden",
     "definition": "A concept that refers to the responsibility or blame attributed to someone for a wrongdoing or a debt. It is commonly used to describe the moral or legal obligation one has towards a particular action or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe Schuld.",
-                "english": "I am guilty."
-            },
-            {
-                "german": "Es ist meine Schuld.",
-                "english": "It's my fault."
-            },
-            {
-                "german": "Er trägt die Schuld.",
-                "english": "He bears the blame."
-            },
-            {
-                "german": "Sie hat Schuldgefühle.",
-                "english": "She feels guilty."
-            },
-            {
-                "german": "Die Schuld liegt bei ihm.",
-                "english": "The blame lies with him."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe Schuld.",
+            "english": "I am guilty."
+        },
+        {
+            "german": "Es ist meine Schuld.",
+            "english": "It's my fault."
+        },
+        {
+            "german": "Er trägt die Schuld.",
+            "english": "He bears the blame."
+        },
+        {
+            "german": "Sie hat Schuldgefühle.",
+            "english": "She feels guilty."
+        },
+        {
+            "german": "Die Schuld liegt bei ihm.",
+            "english": "The blame lies with him."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Nachbar, die Nachbarn",
     "definition": "A person who resides in close proximity to another individual, typically in the same building or nearby area. This term is commonly used to refer to someone who lives next door or in close physical proximity, and is often used in the context of describing relationships or interactions with individuals in one's immediate vicinity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Nachbar ist sehr freundlich.",
-                "english": "My neighbor is very friendly."
-            },
-            {
-                "german": "Unsere Nachbarn haben ein neues Auto gekauft.",
-                "english": "Our neighbors bought a new car."
-            },
-            {
-                "german": "Ich habe mich gut mit meinem Nachbarn angefreundet.",
-                "english": "I have become good friends with my neighbor."
-            },
-            {
-                "german": "Unser Nachbar hat einen Hund, der immer bellt.",
-                "english": "Our neighbor has a dog that always barks."
-            },
-            {
-                "german": "Die Nachbarn haben eine laute Party gefeiert.",
-                "english": "The neighbors had a loud party."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Nachbar ist sehr freundlich.",
+            "english": "My neighbor is very friendly."
+        },
+        {
+            "german": "Unsere Nachbarn haben ein neues Auto gekauft.",
+            "english": "Our neighbors bought a new car."
+        },
+        {
+            "german": "Ich habe mich gut mit meinem Nachbarn angefreundet.",
+            "english": "I have become good friends with my neighbor."
+        },
+        {
+            "german": "Unser Nachbar hat einen Hund, der immer bellt.",
+            "english": "Our neighbor has a dog that always barks."
+        },
+        {
+            "german": "Die Nachbarn haben eine laute Party gefeiert.",
+            "english": "The neighbors had a loud party."
+        }
+    ]
 }

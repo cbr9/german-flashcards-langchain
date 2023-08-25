@@ -1,28 +1,26 @@
 {
     "word": "freilich",
     "definition": "A term commonly employed to express agreement or affirmation in response to a statement or situation. It is often used to convey a sense of acknowledging the obvious or expressing a sentiment that aligns with the speaker's perspective.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Freilich habe ich das Buch gelesen.",
-                "english": "Of course, I have read the book."
-            },
-            {
-                "german": "Er ist freilich ein begabter Schauspieler.",
-                "english": "He is indeed a talented actor."
-            },
-            {
-                "german": "Freilich kann ich Ihnen helfen.",
-                "english": "Certainly, I can help you."
-            },
-            {
-                "german": "Freilich ist es möglich, dass er kommt.",
-                "english": "It is possible, of course, that he will come."
-            },
-            {
-                "german": "Freilich, das ist eine gute Idee.",
-                "english": "Indeed, that is a good idea."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Freilich habe ich das Buch gelesen.",
+            "english": "Of course, I have read the book."
+        },
+        {
+            "german": "Er ist freilich ein begabter Schauspieler.",
+            "english": "He is indeed a talented actor."
+        },
+        {
+            "german": "Freilich kann ich Ihnen helfen.",
+            "english": "Certainly, I can help you."
+        },
+        {
+            "german": "Freilich ist es möglich, dass er kommt.",
+            "english": "It is possible, of course, that he will come."
+        },
+        {
+            "german": "Freilich, das ist eine gute Idee.",
+            "english": "Indeed, that is a good idea."
+        }
+    ]
 }

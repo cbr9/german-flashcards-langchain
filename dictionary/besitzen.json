@@ -1,28 +1,26 @@
 {
     "word": "besitzen, besaß, besessen",
     "definition": "To have ownership or possession of something, often referring to personal belongings or property. It is commonly used to describe the act of possessing or owning physical objects or assets.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich besitze ein Auto.",
-                "english": "I own a car."
-            },
-            {
-                "german": "Er besitzt ein großes Haus.",
-                "english": "He owns a big house."
-            },
-            {
-                "german": "Sie besitzen viele Bücher.",
-                "english": "They own many books."
-            },
-            {
-                "german": "Wir besitzen einen Hund.",
-                "english": "We own a dog."
-            },
-            {
-                "german": "Das Gemälde gehört ihm, er besitzt es.",
-                "english": "The painting belongs to him, he owns it."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich besitze ein Auto.",
+            "english": "I own a car."
+        },
+        {
+            "german": "Er besitzt ein großes Haus.",
+            "english": "He owns a big house."
+        },
+        {
+            "german": "Sie besitzen viele Bücher.",
+            "english": "They own many books."
+        },
+        {
+            "german": "Wir besitzen einen Hund.",
+            "english": "We own a dog."
+        },
+        {
+            "german": "Das Gemälde gehört ihm, er besitzt es.",
+            "english": "The painting belongs to him, he owns it."
+        }
+    ]
 }

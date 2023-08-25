@@ -1,28 +1,26 @@
 {
     "word": "das Glas, die Gläser",
     "definition": "A transparent container typically used for holding liquids or other substances, often with a cylindrical shape and made of a brittle material. It is commonly utilized for drinking, storing, or displaying various substances.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Glas ist halb voll.",
-                "english": "The glass is half full."
-            },
-            {
-                "german": "Ich trinke gerne aus einem Glas.",
-                "english": "I like to drink from a glass."
-            },
-            {
-                "german": "Das Glas ist zerbrochen.",
-                "english": "The glass is broken."
-            },
-            {
-                "german": "Sie hat ein Glas Wasser bestellt.",
-                "english": "She ordered a glass of water."
-            },
-            {
-                "german": "Ich habe ein Glas Wein getrunken.",
-                "english": "I drank a glass of wine."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Glas ist halb voll.",
+            "english": "The glass is half full."
+        },
+        {
+            "german": "Ich trinke gerne aus einem Glas.",
+            "english": "I like to drink from a glass."
+        },
+        {
+            "german": "Das Glas ist zerbrochen.",
+            "english": "The glass is broken."
+        },
+        {
+            "german": "Sie hat ein Glas Wasser bestellt.",
+            "english": "She ordered a glass of water."
+        },
+        {
+            "german": "Ich habe ein Glas Wein getrunken.",
+            "english": "I drank a glass of wine."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Behandlung, die Behandlungen",
     "definition": "A process or action aimed at addressing a particular condition, ailment, or issue, typically involving medical or therapeutic measures. It is commonly used to describe the act of providing care, treatment, or management for a person's physical or mental well-being.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Behandlung war sehr erfolgreich.",
-                "english": "The treatment was very successful."
-            },
-            {
-                "german": "Ich habe eine Behandlung beim Zahnarzt.",
-                "english": "I have a treatment at the dentist."
-            },
-            {
-                "german": "Die Behandlung dauert etwa eine Stunde.",
-                "english": "The treatment lasts about an hour."
-            },
-            {
-                "german": "Die Behandlungsmethode ist sehr effektiv.",
-                "english": "The treatment method is very effective."
-            },
-            {
-                "german": "Die Behandlung von Krankheiten erfordert Fachwissen.",
-                "english": "The treatment of diseases requires expertise."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Behandlung war sehr erfolgreich.",
+            "english": "The treatment was very successful."
+        },
+        {
+            "german": "Ich habe eine Behandlung beim Zahnarzt.",
+            "english": "I have a treatment at the dentist."
+        },
+        {
+            "german": "Die Behandlung dauert etwa eine Stunde.",
+            "english": "The treatment lasts about an hour."
+        },
+        {
+            "german": "Die Behandlungsmethode ist sehr effektiv.",
+            "english": "The treatment method is very effective."
+        },
+        {
+            "german": "Die Behandlung von Krankheiten erfordert Fachwissen.",
+            "english": "The treatment of diseases requires expertise."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Bühne, die Bühnen",
     "definition": "A platform or elevated area typically found in theaters, concert halls, or other performance venues, where actors, musicians, or performers showcase their talents to an audience. It is commonly used for theatrical productions, live performances, concerts, or any form of artistic expression in front of spectators.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Schauspieler standen auf der Bühne.",
-                "english": "The actors were on the stage."
-            },
-            {
-                "german": "Der Sänger betrat die Bühne und begann zu singen.",
-                "english": "The singer entered the stage and started singing."
-            },
-            {
-                "german": "Die Band spielte vor einem begeisterten Publikum auf der Bühne.",
-                "english": "The band performed on the stage in front of an enthusiastic audience."
-            },
-            {
-                "german": "Die Theatergruppe probte intensiv für ihre nächste Aufführung auf der Bühne.",
-                "english": "The theater group rehearsed intensively for their upcoming performance on the stage."
-            },
-            {
-                "german": "Die Balletttänzerinnen tanzten anmutig über die Bühne.",
-                "english": "The ballet dancers gracefully danced across the stage."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Schauspieler standen auf der Bühne.",
+            "english": "The actors were on the stage."
+        },
+        {
+            "german": "Der Sänger betrat die Bühne und begann zu singen.",
+            "english": "The singer entered the stage and started singing."
+        },
+        {
+            "german": "Die Band spielte vor einem begeisterten Publikum auf der Bühne.",
+            "english": "The band performed on the stage in front of an enthusiastic audience."
+        },
+        {
+            "german": "Die Theatergruppe probte intensiv für ihre nächste Aufführung auf der Bühne.",
+            "english": "The theater group rehearsed intensively for their upcoming performance on the stage."
+        },
+        {
+            "german": "Die Balletttänzerinnen tanzten anmutig über die Bühne.",
+            "english": "The ballet dancers gracefully danced across the stage."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "wundersam",
     "definition": "The word \"wundersam\" refers to something that is extraordinary or remarkable in a positive sense. It is commonly used to describe events, experiences, or phenomena that inspire awe, wonder, or amazement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist eine wundersame Geschichte.",
-                "english": "This is a miraculous story."
-            },
-            {
-                "german": "Sie hat eine wundersame Fähigkeit.",
-                "english": "She has a wondrous ability."
-            },
-            {
-                "german": "Es war ein wundersamer Anblick.",
-                "english": "It was a marvelous sight."
-            },
-            {
-                "german": "Die wundersame Heilung hat alle überrascht.",
-                "english": "The miraculous healing surprised everyone."
-            },
-            {
-                "german": "Er hat eine wundersame Verwandlung durchgemacht.",
-                "english": "He underwent a miraculous transformation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist eine wundersame Geschichte.",
+            "english": "This is a miraculous story."
+        },
+        {
+            "german": "Sie hat eine wundersame Fähigkeit.",
+            "english": "She has a wondrous ability."
+        },
+        {
+            "german": "Es war ein wundersamer Anblick.",
+            "english": "It was a marvelous sight."
+        },
+        {
+            "german": "Die wundersame Heilung hat alle überrascht.",
+            "english": "The miraculous healing surprised everyone."
+        },
+        {
+            "german": "Er hat eine wundersame Verwandlung durchgemacht.",
+            "english": "He underwent a miraculous transformation."
+        }
+    ]
 }

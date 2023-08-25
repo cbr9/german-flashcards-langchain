@@ -1,28 +1,26 @@
 {
     "word": "das Angebot, die Angebote",
     "definition": "A statement or proposition made to someone, typically in a commercial context, indicating the availability or provision of goods, services, or opportunities. It is commonly used in business transactions, negotiations, and advertising.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Angebot gilt nur heute.",
-                "english": "The offer is only valid today."
-            },
-            {
-                "german": "Wir haben ein attraktives Angebot für Sie.",
-                "english": "We have an attractive offer for you."
-            },
-            {
-                "german": "Das ist ein unschlagbares Angebot.",
-                "english": "This is an unbeatable offer."
-            },
-            {
-                "german": "Das Angebot umfasst verschiedene Produkte.",
-                "english": "The offer includes various products."
-            },
-            {
-                "german": "Sie können das Angebot online bestellen.",
-                "english": "You can order the offer online."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Angebot gilt nur heute.",
+            "english": "The offer is only valid today."
+        },
+        {
+            "german": "Wir haben ein attraktives Angebot für Sie.",
+            "english": "We have an attractive offer for you."
+        },
+        {
+            "german": "Das ist ein unschlagbares Angebot.",
+            "english": "This is an unbeatable offer."
+        },
+        {
+            "german": "Das Angebot umfasst verschiedene Produkte.",
+            "english": "The offer includes various products."
+        },
+        {
+            "german": "Sie können das Angebot online bestellen.",
+            "english": "You can order the offer online."
+        }
+    ]
 }

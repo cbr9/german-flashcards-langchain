@@ -1,28 +1,26 @@
 {
     "word": "die Anerkennung, die Anerkennungen",
     "definition": "Anerkennung refers to the act or process of acknowledging, appreciating, or recognizing someone's achievements, efforts, or qualities. It is commonly used to describe the expression of approval, respect, or gratitude towards someone for their accomplishments, skills, or contributions. This term is often used in contexts related to education, work, or personal relationships to convey a sense of validation and appreciation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Anerkennung seiner Leistung hat ihn sehr gefreut.",
-                "english": "He was very pleased with the recognition of his achievement."
-            },
-            {
-                "german": "Sie hat für ihre Arbeit endlich die verdiente Anerkennung erhalten.",
-                "english": "She finally received the deserved recognition for her work."
-            },
-            {
-                "german": "Die Anerkennung seiner Fähigkeiten hat ihm Selbstvertrauen gegeben.",
-                "english": "The recognition of his abilities has given him confidence."
-            },
-            {
-                "german": "Die Anerkennung der internationalen Gemeinschaft war ein wichtiger Schritt.",
-                "english": "The recognition of the international community was an important step."
-            },
-            {
-                "german": "Die Anerkennung seiner Fehler zeugt von seiner Reife.",
-                "english": "The recognition of his mistakes shows his maturity."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Anerkennung seiner Leistung hat ihn sehr gefreut.",
+            "english": "He was very pleased with the recognition of his achievement."
+        },
+        {
+            "german": "Sie hat für ihre Arbeit endlich die verdiente Anerkennung erhalten.",
+            "english": "She finally received the deserved recognition for her work."
+        },
+        {
+            "german": "Die Anerkennung seiner Fähigkeiten hat ihm Selbstvertrauen gegeben.",
+            "english": "The recognition of his abilities has given him confidence."
+        },
+        {
+            "german": "Die Anerkennung der internationalen Gemeinschaft war ein wichtiger Schritt.",
+            "english": "The recognition of the international community was an important step."
+        },
+        {
+            "german": "Die Anerkennung seiner Fehler zeugt von seiner Reife.",
+            "english": "The recognition of his mistakes shows his maturity."
+        }
+    ]
 }

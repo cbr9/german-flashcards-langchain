@@ -1,28 +1,26 @@
 {
     "word": "der Kandidat, die Kandidaten",
     "definition": "A person who is being considered or nominated for a specific position, role, or opportunity, typically in the context of elections, job applications, or competitions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein Kandidat für das Amt des Bürgermeisters.",
-                "english": "He is a candidate for the position of mayor."
-            },
-            {
-                "german": "Die Partei hat einen neuen Kandidaten für die Wahl aufgestellt.",
-                "english": "The party has nominated a new candidate for the election."
-            },
-            {
-                "german": "Der Kandidat hat gute Chancen, die Prüfung zu bestehen.",
-                "english": "The candidate has a good chance of passing the exam."
-            },
-            {
-                "german": "Die Kandidaten müssen sich einem Auswahlverfahren unterziehen.",
-                "english": "The candidates have to go through a selection process."
-            },
-            {
-                "german": "Der Kandidat hat eine beeindruckende Rede gehalten.",
-                "english": "The candidate delivered an impressive speech."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein Kandidat für das Amt des Bürgermeisters.",
+            "english": "He is a candidate for the position of mayor."
+        },
+        {
+            "german": "Die Partei hat einen neuen Kandidaten für die Wahl aufgestellt.",
+            "english": "The party has nominated a new candidate for the election."
+        },
+        {
+            "german": "Der Kandidat hat gute Chancen, die Prüfung zu bestehen.",
+            "english": "The candidate has a good chance of passing the exam."
+        },
+        {
+            "german": "Die Kandidaten müssen sich einem Auswahlverfahren unterziehen.",
+            "english": "The candidates have to go through a selection process."
+        },
+        {
+            "german": "Der Kandidat hat eine beeindruckende Rede gehalten.",
+            "english": "The candidate delivered an impressive speech."
+        }
+    ]
 }

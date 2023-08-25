@@ -1,28 +1,26 @@
 {
     "word": "die Rechnung, die Rechnungen",
     "definition": "A document that provides a detailed record of goods or services provided, along with their corresponding costs, typically used in commercial transactions for the purpose of billing and payment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kann ich bitte die Rechnung haben?",
-                "english": "Can I please have the bill?"
-            },
-            {
-                "german": "Die Rechnung ist schon bezahlt.",
-                "english": "The bill has already been paid."
-            },
-            {
-                "german": "Ich habe die Rechnung verloren.",
-                "english": "I have lost the invoice."
-            },
-            {
-                "german": "Die Rechnung ist zu hoch.",
-                "english": "The bill is too high."
-            },
-            {
-                "german": "Können Sie mir die Rechnung per E-Mail schicken?",
-                "english": "Can you send me the invoice by email?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kann ich bitte die Rechnung haben?",
+            "english": "Can I please have the bill?"
+        },
+        {
+            "german": "Die Rechnung ist schon bezahlt.",
+            "english": "The bill has already been paid."
+        },
+        {
+            "german": "Ich habe die Rechnung verloren.",
+            "english": "I have lost the invoice."
+        },
+        {
+            "german": "Die Rechnung ist zu hoch.",
+            "english": "The bill is too high."
+        },
+        {
+            "german": "Können Sie mir die Rechnung per E-Mail schicken?",
+            "english": "Can you send me the invoice by email?"
+        }
+    ]
 }

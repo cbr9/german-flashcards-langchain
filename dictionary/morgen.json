@@ -1,28 +1,26 @@
 {
     "word": "morgen",
     "definition": "A term commonly employed to refer to the time period immediately following the present day, typically used to indicate the upcoming day or the future in general. It is frequently utilized in conversations, plans, and schedules to discuss events, appointments, or tasks that will occur on the day following the current one.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Morgen ist ein neuer Tag.",
-                "english": "Tomorrow is a new day."
-            },
-            {
-                "german": "Ich treffe dich morgen.",
-                "english": "I will meet you tomorrow."
-            },
-            {
-                "german": "Morgen früh gehe ich joggen.",
-                "english": "Tomorrow morning I will go jogging."
-            },
-            {
-                "german": "Was hast du morgen vor?",
-                "english": "What are you doing tomorrow?"
-            },
-            {
-                "german": "Morgen ist Feiertag.",
-                "english": "Tomorrow is a holiday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Morgen ist ein neuer Tag.",
+            "english": "Tomorrow is a new day."
+        },
+        {
+            "german": "Ich treffe dich morgen.",
+            "english": "I will meet you tomorrow."
+        },
+        {
+            "german": "Morgen früh gehe ich joggen.",
+            "english": "Tomorrow morning I will go jogging."
+        },
+        {
+            "german": "Was hast du morgen vor?",
+            "english": "What are you doing tomorrow?"
+        },
+        {
+            "german": "Morgen ist Feiertag.",
+            "english": "Tomorrow is a holiday."
+        }
+    ]
 }

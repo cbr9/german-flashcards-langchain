@@ -1,28 +1,26 @@
 {
     "word": "heller",
     "definition": "A small unit of currency, typically used in the context of pre-euro German currency. It is commonly used to refer to a coin of low value.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Himmel ist heute heller als gestern.",
-                "english": "The sky is brighter today than yesterday."
-            },
-            {
-                "german": "Kannst du bitte das Licht heller machen?",
-                "english": "Can you please make the light brighter?"
-            },
-            {
-                "german": "Die Kerze brennt nicht mehr, sie ist heller geworden.",
-                "english": "The candle is no longer burning, it has become brighter."
-            },
-            {
-                "german": "Der Raum wirkt heller, seit wir die Wände weiß gestrichen haben.",
-                "english": "The room appears brighter since we painted the walls white."
-            },
-            {
-                "german": "Die Sonne scheint heute besonders hell.",
-                "english": "The sun is shining particularly brightly today."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Himmel ist heute heller als gestern.",
+            "english": "The sky is brighter today than yesterday."
+        },
+        {
+            "german": "Kannst du bitte das Licht heller machen?",
+            "english": "Can you please make the light brighter?"
+        },
+        {
+            "german": "Die Kerze brennt nicht mehr, sie ist heller geworden.",
+            "english": "The candle is no longer burning, it has become brighter."
+        },
+        {
+            "german": "Der Raum wirkt heller, seit wir die Wände weiß gestrichen haben.",
+            "english": "The room appears brighter since we painted the walls white."
+        },
+        {
+            "german": "Die Sonne scheint heute besonders hell.",
+            "english": "The sun is shining particularly brightly today."
+        }
+    ]
 }

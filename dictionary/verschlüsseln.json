@@ -1,28 +1,26 @@
 {
     "word": "verschlüsseln, verschlüsselte, verschlüsselt",
     "definition": "To encode or convert information into a different form using a specific method, typically to ensure confidentiality or prevent unauthorized access. This term is commonly employed in the context of data security and cryptography.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich kann meine Nachrichten verschlüsseln.",
-                "english": "I can encrypt my messages."
-            },
-            {
-                "german": "Die Daten wurden erfolgreich verschlüsselt.",
-                "english": "The data was successfully encrypted."
-            },
-            {
-                "german": "Verschlüsseln Sie Ihr Passwort, um es sicherer zu machen.",
-                "english": "Encrypt your password to make it more secure."
-            },
-            {
-                "german": "Die Datei wurde mit einem Passwort verschlüsselt.",
-                "english": "The file was encrypted with a password."
-            },
-            {
-                "german": "Es ist wichtig, persönliche Informationen zu verschlüsseln.",
-                "english": "It is important to encrypt personal information."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich kann meine Nachrichten verschlüsseln.",
+            "english": "I can encrypt my messages."
+        },
+        {
+            "german": "Die Daten wurden erfolgreich verschlüsselt.",
+            "english": "The data was successfully encrypted."
+        },
+        {
+            "german": "Verschlüsseln Sie Ihr Passwort, um es sicherer zu machen.",
+            "english": "Encrypt your password to make it more secure."
+        },
+        {
+            "german": "Die Datei wurde mit einem Passwort verschlüsselt.",
+            "english": "The file was encrypted with a password."
+        },
+        {
+            "german": "Es ist wichtig, persönliche Informationen zu verschlüsseln.",
+            "english": "It is important to encrypt personal information."
+        }
+    ]
 }

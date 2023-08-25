@@ -1,28 +1,26 @@
 {
     "word": "höflich",
     "definition": "The term \"höflich\" refers to a characteristic or behavior that is considered courteous, polite, and respectful towards others. It is commonly used to describe the way someone interacts with others in a manner that shows good manners and consideration.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sei höflich zu deinen Eltern.",
-                "english": "Be polite to your parents."
-            },
-            {
-                "german": "Er ist immer höflich zu anderen Menschen.",
-                "english": "He is always polite to other people."
-            },
-            {
-                "german": "Sie bedankte sich höflich für das Geschenk.",
-                "english": "She politely thanked for the gift."
-            },
-            {
-                "german": "Der Kellner war sehr höflich und aufmerksam.",
-                "english": "The waiter was very polite and attentive."
-            },
-            {
-                "german": "Es ist höflich, anderen zuzuhören.",
-                "english": "It is polite to listen to others."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sei höflich zu deinen Eltern.",
+            "english": "Be polite to your parents."
+        },
+        {
+            "german": "Er ist immer höflich zu anderen Menschen.",
+            "english": "He is always polite to other people."
+        },
+        {
+            "german": "Sie bedankte sich höflich für das Geschenk.",
+            "english": "She politely thanked for the gift."
+        },
+        {
+            "german": "Der Kellner war sehr höflich und aufmerksam.",
+            "english": "The waiter was very polite and attentive."
+        },
+        {
+            "german": "Es ist höflich, anderen zuzuhören.",
+            "english": "It is polite to listen to others."
+        }
+    ]
 }

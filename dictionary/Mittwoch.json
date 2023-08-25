@@ -1,28 +1,26 @@
 {
     "word": "der Mittwoch, die Mittwoche",
     "definition": "A day of the week that falls between Tuesday and Thursday, commonly used to refer to the fourth day of the standard seven-day week.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mittwoch ist mein freier Tag.",
-                "english": "Wednesday is my day off."
-            },
-            {
-                "german": "Wir treffen uns nächsten Mittwoch.",
-                "english": "We are meeting next Wednesday."
-            },
-            {
-                "german": "Am Mittwoch habe ich einen Arzttermin.",
-                "english": "I have a doctor's appointment on Wednesday."
-            },
-            {
-                "german": "Mittwoch ist der dritte Tag der Woche.",
-                "english": "Wednesday is the third day of the week."
-            },
-            {
-                "german": "Der Mittwoch ist oft der stressigste Tag.",
-                "english": "Wednesday is often the busiest day."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mittwoch ist mein freier Tag.",
+            "english": "Wednesday is my day off."
+        },
+        {
+            "german": "Wir treffen uns nächsten Mittwoch.",
+            "english": "We are meeting next Wednesday."
+        },
+        {
+            "german": "Am Mittwoch habe ich einen Arzttermin.",
+            "english": "I have a doctor's appointment on Wednesday."
+        },
+        {
+            "german": "Mittwoch ist der dritte Tag der Woche.",
+            "english": "Wednesday is the third day of the week."
+        },
+        {
+            "german": "Der Mittwoch ist oft der stressigste Tag.",
+            "english": "Wednesday is often the busiest day."
+        }
+    ]
 }

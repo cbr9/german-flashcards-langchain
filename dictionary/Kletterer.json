@@ -1,28 +1,26 @@
 {
     "word": "der Kletterer, die Kletterer",
     "definition": "A person who engages in the activity of ascending or climbing, typically referring to someone who enjoys rock climbing or mountaineering.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kletterer erklimmt den Berg.",
-                "english": "The climber climbs the mountain."
-            },
-            {
-                "german": "Die Kletterer sind sehr mutig.",
-                "english": "The climbers are very brave."
-            },
-            {
-                "german": "Der erfahrene Kletterer hat viele Gipfel erklommen.",
-                "english": "The experienced climber has climbed many peaks."
-            },
-            {
-                "german": "Die Kletterer verwenden Sicherheitsausrüstung.",
-                "english": "The climbers use safety equipment."
-            },
-            {
-                "german": "Der Kletterer hat eine steile Wand erklommen.",
-                "english": "The climber has climbed a steep wall."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kletterer erklimmt den Berg.",
+            "english": "The climber climbs the mountain."
+        },
+        {
+            "german": "Die Kletterer sind sehr mutig.",
+            "english": "The climbers are very brave."
+        },
+        {
+            "german": "Der erfahrene Kletterer hat viele Gipfel erklommen.",
+            "english": "The experienced climber has climbed many peaks."
+        },
+        {
+            "german": "Die Kletterer verwenden Sicherheitsausrüstung.",
+            "english": "The climbers use safety equipment."
+        },
+        {
+            "german": "Der Kletterer hat eine steile Wand erklommen.",
+            "english": "The climber has climbed a steep wall."
+        }
+    ]
 }

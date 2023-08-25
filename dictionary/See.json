@@ -1,28 +1,26 @@
 {
     "word": "der See, die Seen",
     "definition": "A large body of water, typically surrounded by land, often used for recreational activities such as swimming, boating, and fishing. It is commonly found in various geographical locations and is a popular destination for tourists and locals alike.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der See ist sehr schön.",
-                "english": "The lake is very beautiful."
-            },
-            {
-                "german": "Wir gehen am Wochenende zum See.",
-                "english": "We are going to the lake on the weekend."
-            },
-            {
-                "german": "Im Sommer schwimme ich gerne im See.",
-                "english": "I like to swim in the lake in the summer."
-            },
-            {
-                "german": "Der See ist zugefroren.",
-                "english": "The lake is frozen."
-            },
-            {
-                "german": "Viele Vögel leben am See.",
-                "english": "Many birds live by the lake."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der See ist sehr schön.",
+            "english": "The lake is very beautiful."
+        },
+        {
+            "german": "Wir gehen am Wochenende zum See.",
+            "english": "We are going to the lake on the weekend."
+        },
+        {
+            "german": "Im Sommer schwimme ich gerne im See.",
+            "english": "I like to swim in the lake in the summer."
+        },
+        {
+            "german": "Der See ist zugefroren.",
+            "english": "The lake is frozen."
+        },
+        {
+            "german": "Viele Vögel leben am See.",
+            "english": "Many birds live by the lake."
+        }
+    ]
 }

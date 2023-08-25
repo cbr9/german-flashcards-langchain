@@ -1,28 +1,26 @@
 {
     "word": "die Option, die Optionen",
     "definition": "A choice or alternative that allows one to select from various possibilities or courses of action, often used in the context of decision-making or problem-solving. It is commonly employed when discussing different available alternatives or potential choices in a given situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Option 1",
-                "english": "Option 1"
-            },
-            {
-                "german": "Welche Option wählst du?",
-                "english": "Which option do you choose?"
-            },
-            {
-                "german": "Die Optionen sind begrenzt.",
-                "english": "The options are limited."
-            },
-            {
-                "german": "Ich habe keine andere Option.",
-                "english": "I have no other option."
-            },
-            {
-                "german": "Die Optionen werden später besprochen.",
-                "english": "The options will be discussed later."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Option 1",
+            "english": "Option 1"
+        },
+        {
+            "german": "Welche Option wählst du?",
+            "english": "Which option do you choose?"
+        },
+        {
+            "german": "Die Optionen sind begrenzt.",
+            "english": "The options are limited."
+        },
+        {
+            "german": "Ich habe keine andere Option.",
+            "english": "I have no other option."
+        },
+        {
+            "german": "Die Optionen werden später besprochen.",
+            "english": "The options will be discussed later."
+        }
+    ]
 }

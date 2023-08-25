@@ -1,28 +1,26 @@
 {
     "word": "spenden, spendete, gespendet",
     "definition": "To contribute resources, such as money, goods, or services, with the intention of supporting a cause or helping others in need. This term is commonly employed when referring to the act of giving donations or making charitable contributions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte Geld spenden.",
-                "english": "I want to donate money."
-            },
-            {
-                "german": "Er spendet regelmäßig Blut.",
-                "english": "He regularly donates blood."
-            },
-            {
-                "german": "Wir haben Kleidung für die Flüchtlinge gespendet.",
-                "english": "We donated clothes for the refugees."
-            },
-            {
-                "german": "Sie spendet ihre Zeit für wohltätige Zwecke.",
-                "english": "She donates her time for charitable purposes."
-            },
-            {
-                "german": "Die Firma hat eine große Summe an die Hilfsorganisation gespendet.",
-                "english": "The company donated a large sum to the relief organization."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte Geld spenden.",
+            "english": "I want to donate money."
+        },
+        {
+            "german": "Er spendet regelmäßig Blut.",
+            "english": "He regularly donates blood."
+        },
+        {
+            "german": "Wir haben Kleidung für die Flüchtlinge gespendet.",
+            "english": "We donated clothes for the refugees."
+        },
+        {
+            "german": "Sie spendet ihre Zeit für wohltätige Zwecke.",
+            "english": "She donates her time for charitable purposes."
+        },
+        {
+            "german": "Die Firma hat eine große Summe an die Hilfsorganisation gespendet.",
+            "english": "The company donated a large sum to the relief organization."
+        }
+    ]
 }

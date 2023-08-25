@@ -1,28 +1,26 @@
 {
     "word": "der Sohn, die Söhne",
     "definition": "A male offspring, typically used to refer to a person's biological or adopted son. This term is commonly used in familial contexts to denote a male child or descendant.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Sohn ist fünf Jahre alt.",
-                "english": "My son is five years old."
-            },
-            {
-                "german": "Er ist der Sohn meines Bruders.",
-                "english": "He is my brother's son."
-            },
-            {
-                "german": "Unser Sohn spielt Fußball.",
-                "english": "Our son plays soccer."
-            },
-            {
-                "german": "Der Sohn des Königs wird der nächste Thronfolger sein.",
-                "english": "The king's son will be the next heir to the throne."
-            },
-            {
-                "german": "Sie hat zwei Söhne und eine Tochter.",
-                "english": "She has two sons and one daughter."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Sohn ist fünf Jahre alt.",
+            "english": "My son is five years old."
+        },
+        {
+            "german": "Er ist der Sohn meines Bruders.",
+            "english": "He is my brother's son."
+        },
+        {
+            "german": "Unser Sohn spielt Fußball.",
+            "english": "Our son plays soccer."
+        },
+        {
+            "german": "Der Sohn des Königs wird der nächste Thronfolger sein.",
+            "english": "The king's son will be the next heir to the throne."
+        },
+        {
+            "german": "Sie hat zwei Söhne und eine Tochter.",
+            "english": "She has two sons and one daughter."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Spiegel, die Spiegel",
     "definition": "A reflective object typically made of glass, used for viewing one's own reflection or for enhancing visibility in various contexts, such as personal grooming, interior decoration, or in vehicles. It is commonly found in bathrooms, bedrooms, and dressing rooms, and is often used to check one's appearance or to apply makeup. It can also be utilized in scientific experiments, optical devices, or as a symbol in literature and art.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Spiegel hängt an der Wand.",
-                "english": "The mirror hangs on the wall."
-            },
-            {
-                "german": "Sie betrachtet ihr Spiegelbild.",
-                "english": "She looks at her reflection in the mirror."
-            },
-            {
-                "german": "Der Spiegel ist zerbrochen.",
-                "english": "The mirror is broken."
-            },
-            {
-                "german": "Er putzt den Spiegel mit einem Tuch.",
-                "english": "He cleans the mirror with a cloth."
-            },
-            {
-                "german": "Der Spiegel zeigt ein verzerrtes Bild.",
-                "english": "The mirror shows a distorted image."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Spiegel hängt an der Wand.",
+            "english": "The mirror hangs on the wall."
+        },
+        {
+            "german": "Sie betrachtet ihr Spiegelbild.",
+            "english": "She looks at her reflection in the mirror."
+        },
+        {
+            "german": "Der Spiegel ist zerbrochen.",
+            "english": "The mirror is broken."
+        },
+        {
+            "german": "Er putzt den Spiegel mit einem Tuch.",
+            "english": "He cleans the mirror with a cloth."
+        },
+        {
+            "german": "Der Spiegel zeigt ein verzerrtes Bild.",
+            "english": "The mirror shows a distorted image."
+        }
+    ]
 }

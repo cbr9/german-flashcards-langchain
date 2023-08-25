@@ -1,28 +1,26 @@
 {
     "word": "wedeln, wedelte, gewedelt",
     "definition": "To move a body part in a rhythmic back-and-forth motion, typically involving the tail, as a form of communication or expression of emotion. This action is commonly observed in certain animals, particularly dogs, to convey excitement, happiness, or friendliness.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Hund wedelt mit dem Schwanz.",
-                "english": "The dog wags its tail."
-            },
-            {
-                "german": "Er wedelte mit dem Handtuch, um sich abzukühlen.",
-                "english": "He waved the towel to cool himself down."
-            },
-            {
-                "german": "Die Fahne wedelte im Wind.",
-                "english": "The flag fluttered in the wind."
-            },
-            {
-                "german": "Der Fächer wedelte sanft hin und her.",
-                "english": "The fan gently waved back and forth."
-            },
-            {
-                "german": "Die Kinder wedelten mit den Händen, um Hallo zu sagen.",
-                "english": "The children waved their hands to say hello."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Hund wedelt mit dem Schwanz.",
+            "english": "The dog wags its tail."
+        },
+        {
+            "german": "Er wedelte mit dem Handtuch, um sich abzukühlen.",
+            "english": "He waved the towel to cool himself down."
+        },
+        {
+            "german": "Die Fahne wedelte im Wind.",
+            "english": "The flag fluttered in the wind."
+        },
+        {
+            "german": "Der Fächer wedelte sanft hin und her.",
+            "english": "The fan gently waved back and forth."
+        },
+        {
+            "german": "Die Kinder wedelten mit den Händen, um Hallo zu sagen.",
+            "english": "The children waved their hands to say hello."
+        }
+    ]
 }

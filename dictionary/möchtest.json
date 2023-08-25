@@ -1,28 +1,26 @@
 {
     "word": "möchten, möchtest, gemöchtet",
     "definition": "A form of the verb \"to want\" that is typically used in the second person singular informal. It is commonly employed when expressing desires, preferences, or making polite requests.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Möchtest du etwas trinken?",
-                "english": "Would you like something to drink?"
-            },
-            {
-                "german": "Was möchtest du zum Abendessen?",
-                "english": "What would you like for dinner?"
-            },
-            {
-                "german": "Möchtest du mit mir ins Kino gehen?",
-                "english": "Would you like to go to the movies with me?"
-            },
-            {
-                "german": "Möchtest du mir helfen?",
-                "english": "Would you like to help me?"
-            },
-            {
-                "german": "Möchtest du ein Stück Kuchen?",
-                "english": "Would you like a piece of cake?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Möchtest du etwas trinken?",
+            "english": "Would you like something to drink?"
+        },
+        {
+            "german": "Was möchtest du zum Abendessen?",
+            "english": "What would you like for dinner?"
+        },
+        {
+            "german": "Möchtest du mit mir ins Kino gehen?",
+            "english": "Would you like to go to the movies with me?"
+        },
+        {
+            "german": "Möchtest du mir helfen?",
+            "english": "Would you like to help me?"
+        },
+        {
+            "german": "Möchtest du ein Stück Kuchen?",
+            "english": "Would you like a piece of cake?"
+        }
+    ]
 }

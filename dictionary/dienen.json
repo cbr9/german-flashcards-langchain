@@ -1,28 +1,26 @@
 {
     "word": "dienen, diente, gedient",
     "definition": "To perform actions or provide assistance to others, often in a subordinate or supportive role. It is commonly used to describe actions related to fulfilling duties, serving others, or being of service in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich diene meinem Land.",
-                "english": "I serve my country."
-            },
-            {
-                "german": "Er möchte anderen Menschen dienen.",
-                "english": "He wants to serve other people."
-            },
-            {
-                "german": "Die Kellnerin dient den Gästen.",
-                "english": "The waitress serves the guests."
-            },
-            {
-                "german": "Die Soldaten dienen ihrem Land.",
-                "english": "The soldiers serve their country."
-            },
-            {
-                "german": "Der Butler dient dem Hausherrn.",
-                "english": "The butler serves the master of the house."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich diene meinem Land.",
+            "english": "I serve my country."
+        },
+        {
+            "german": "Er möchte anderen Menschen dienen.",
+            "english": "He wants to serve other people."
+        },
+        {
+            "german": "Die Kellnerin dient den Gästen.",
+            "english": "The waitress serves the guests."
+        },
+        {
+            "german": "Die Soldaten dienen ihrem Land.",
+            "english": "The soldiers serve their country."
+        },
+        {
+            "german": "Der Butler dient dem Hausherrn.",
+            "english": "The butler serves the master of the house."
+        }
+    ]
 }

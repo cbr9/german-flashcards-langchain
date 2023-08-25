@@ -1,28 +1,26 @@
 {
     "word": "das Gesicht, die Gesichter",
     "definition": "A term referring to the front part of the head, typically used to describe the visible part of a person's face, including the eyes, nose, mouth, and other features. It is commonly used to express emotions, convey non-verbal communication, and recognize individuals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe ein rundes Gesicht.",
-                "english": "I have a round face."
-            },
-            {
-                "german": "Sie hat ein schönes Gesicht.",
-                "english": "She has a beautiful face."
-            },
-            {
-                "german": "Er hat ein markantes Gesicht.",
-                "english": "He has a striking face."
-            },
-            {
-                "german": "Das Gesicht ist der Spiegel der Seele.",
-                "english": "The face is the mirror of the soul."
-            },
-            {
-                "german": "Sie wusch sich das Gesicht mit kaltem Wasser.",
-                "english": "She washed her face with cold water."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe ein rundes Gesicht.",
+            "english": "I have a round face."
+        },
+        {
+            "german": "Sie hat ein schönes Gesicht.",
+            "english": "She has a beautiful face."
+        },
+        {
+            "german": "Er hat ein markantes Gesicht.",
+            "english": "He has a striking face."
+        },
+        {
+            "german": "Das Gesicht ist der Spiegel der Seele.",
+            "english": "The face is the mirror of the soul."
+        },
+        {
+            "german": "Sie wusch sich das Gesicht mit kaltem Wasser.",
+            "english": "She washed her face with cold water."
+        }
+    ]
 }

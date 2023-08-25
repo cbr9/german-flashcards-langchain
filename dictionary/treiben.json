@@ -1,28 +1,26 @@
 {
     "word": "das Treiben, die Treiben",
     "definition": "To engage in an activity that involves exerting effort or energy, often with a sense of purpose or direction. It is commonly used to describe actions related to driving, pushing, or propelling something forward, as well as activities involving movement, progress, or advancement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich treibe Sport.",
-                "english": "I do sports."
-            },
-            {
-                "german": "Die Wolken treiben über den Himmel.",
-                "english": "The clouds drift across the sky."
-            },
-            {
-                "german": "Er treibt seinen Freund zum Wahnsinn.",
-                "english": "He drives his friend crazy."
-            },
-            {
-                "german": "Die Strömung treibt das Boot ans Ufer.",
-                "english": "The current carries the boat to the shore."
-            },
-            {
-                "german": "Sie treibt ihre Karriere voran.",
-                "english": "She advances her career."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich treibe Sport.",
+            "english": "I do sports."
+        },
+        {
+            "german": "Die Wolken treiben über den Himmel.",
+            "english": "The clouds drift across the sky."
+        },
+        {
+            "german": "Er treibt seinen Freund zum Wahnsinn.",
+            "english": "He drives his friend crazy."
+        },
+        {
+            "german": "Die Strömung treibt das Boot ans Ufer.",
+            "english": "The current carries the boat to the shore."
+        },
+        {
+            "german": "Sie treibt ihre Karriere voran.",
+            "english": "She advances her career."
+        }
+    ]
 }

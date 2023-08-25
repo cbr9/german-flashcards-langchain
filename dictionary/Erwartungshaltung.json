@@ -1,28 +1,26 @@
 {
     "word": "die Erwartungshaltung, die Erwartungshaltungen",
     "definition": "A compound noun that refers to the state or act of having certain expectations or anticipations towards someone or something. It is commonly used to describe the mindset or attitude of expecting specific behavior, outcomes, or results from a person, situation, or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Erwartungshaltung der Kunden ist hoch.",
-                "english": "The customers' expectations are high."
-            },
-            {
-                "german": "Er hat eine hohe Erwartungshaltung an sich selbst.",
-                "english": "He has high expectations of himself."
-            },
-            {
-                "german": "Die Erwartungshaltung der Mitarbeiter sollte klar kommuniziert werden.",
-                "english": "The employees' expectations should be clearly communicated."
-            },
-            {
-                "german": "Die Erwartungshaltung der Eltern kann manchmal überwältigend sein.",
-                "english": "The parents' expectations can sometimes be overwhelming."
-            },
-            {
-                "german": "Es ist wichtig, realistische Erwartungshaltungen zu haben.",
-                "english": "It is important to have realistic expectations."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Erwartungshaltung der Kunden ist hoch.",
+            "english": "The customers' expectations are high."
+        },
+        {
+            "german": "Er hat eine hohe Erwartungshaltung an sich selbst.",
+            "english": "He has high expectations of himself."
+        },
+        {
+            "german": "Die Erwartungshaltung der Mitarbeiter sollte klar kommuniziert werden.",
+            "english": "The employees' expectations should be clearly communicated."
+        },
+        {
+            "german": "Die Erwartungshaltung der Eltern kann manchmal überwältigend sein.",
+            "english": "The parents' expectations can sometimes be overwhelming."
+        },
+        {
+            "german": "Es ist wichtig, realistische Erwartungshaltungen zu haben.",
+            "english": "It is important to have realistic expectations."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "schön",
     "definition": "The word \"schön\" refers to something that is aesthetically pleasing or attractive. It is commonly used to describe the appearance of people, objects, or places. Additionally, it can also convey a sense of beauty in a broader sense, such as referring to a beautiful experience or a beautiful idea.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist ein schönes Haus.",
-                "english": "This is a beautiful house."
-            },
-            {
-                "german": "Sie sieht heute sehr schön aus.",
-                "english": "She looks very beautiful today."
-            },
-            {
-                "german": "Der Sonnenuntergang war wunderschön.",
-                "english": "The sunset was stunningly beautiful."
-            },
-            {
-                "german": "Er hat eine schöne Stimme.",
-                "english": "He has a lovely voice."
-            },
-            {
-                "german": "Das ist ein schönes Geschenk.",
-                "english": "This is a nice gift."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist ein schönes Haus.",
+            "english": "This is a beautiful house."
+        },
+        {
+            "german": "Sie sieht heute sehr schön aus.",
+            "english": "She looks very beautiful today."
+        },
+        {
+            "german": "Der Sonnenuntergang war wunderschön.",
+            "english": "The sunset was stunningly beautiful."
+        },
+        {
+            "german": "Er hat eine schöne Stimme.",
+            "english": "He has a lovely voice."
+        },
+        {
+            "german": "Das ist ein schönes Geschenk.",
+            "english": "This is a nice gift."
+        }
+    ]
 }

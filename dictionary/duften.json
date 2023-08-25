@@ -1,28 +1,26 @@
 {
     "word": "duften, duftete, geduftet",
     "definition": "To emit a pleasant and fragrant smell, often used to describe the pleasant aroma of flowers, perfumes, or other scented objects.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Essen duftet köstlich.",
-                "english": "The food smells delicious."
-            },
-            {
-                "german": "Die Blumen duften nach Frühling.",
-                "english": "The flowers smell like spring."
-            },
-            {
-                "german": "Der Kuchen duftet nach Zimt.",
-                "english": "The cake smells of cinnamon."
-            },
-            {
-                "german": "Die frische Luft duftet nach Meer.",
-                "english": "The fresh air smells of the sea."
-            },
-            {
-                "german": "Das Parfüm duftet blumig.",
-                "english": "The perfume smells floral."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Essen duftet köstlich.",
+            "english": "The food smells delicious."
+        },
+        {
+            "german": "Die Blumen duften nach Frühling.",
+            "english": "The flowers smell like spring."
+        },
+        {
+            "german": "Der Kuchen duftet nach Zimt.",
+            "english": "The cake smells of cinnamon."
+        },
+        {
+            "german": "Die frische Luft duftet nach Meer.",
+            "english": "The fresh air smells of the sea."
+        },
+        {
+            "german": "Das Parfüm duftet blumig.",
+            "english": "The perfume smells floral."
+        }
+    ]
 }

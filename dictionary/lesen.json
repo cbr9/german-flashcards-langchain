@@ -1,28 +1,26 @@
 {
     "word": "lesen, las, gelesen",
     "definition": "To visually process and comprehend written text, typically involving the interpretation of symbols and characters, often done for the purpose of gaining knowledge, entertainment, or information. This activity is commonly performed using books, articles, or other written materials.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich lese gerne Bücher.",
-                "english": "I like to read books."
-            },
-            {
-                "german": "Er liest die Zeitung jeden Morgen.",
-                "english": "He reads the newspaper every morning."
-            },
-            {
-                "german": "Sie hat gestern ein Buch gelesen.",
-                "english": "She read a book yesterday."
-            },
-            {
-                "german": "Wir lesen gerade einen spannenden Roman.",
-                "english": "We are currently reading an exciting novel."
-            },
-            {
-                "german": "Das Kind liest ein Märchen vor.",
-                "english": "The child is reading a fairy tale."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich lese gerne Bücher.",
+            "english": "I like to read books."
+        },
+        {
+            "german": "Er liest die Zeitung jeden Morgen.",
+            "english": "He reads the newspaper every morning."
+        },
+        {
+            "german": "Sie hat gestern ein Buch gelesen.",
+            "english": "She read a book yesterday."
+        },
+        {
+            "german": "Wir lesen gerade einen spannenden Roman.",
+            "english": "We are currently reading an exciting novel."
+        },
+        {
+            "german": "Das Kind liest ein Märchen vor.",
+            "english": "The child is reading a fairy tale."
+        }
+    ]
 }

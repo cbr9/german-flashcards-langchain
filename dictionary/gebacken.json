@@ -1,28 +1,26 @@
 {
     "word": "backen, backte, gebacken",
     "definition": "The term \"gebacken\" refers to a culinary technique involving the preparation of food by subjecting it to dry heat in an enclosed space, such as an oven or a stove. It is commonly used to describe the state of food after it has undergone this cooking process, resulting in a desirable texture and flavor.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe gestern einen Kuchen gebacken.",
-                "english": "I baked a cake yesterday."
-            },
-            {
-                "german": "Sie hat frische Brötchen gebacken.",
-                "english": "She baked fresh rolls."
-            },
-            {
-                "german": "Meine Oma hat immer selbstgebackenes Brot gemacht.",
-                "english": "My grandma always made homemade bread."
-            },
-            {
-                "german": "Er hat einen leckeren Apfelkuchen gebacken.",
-                "english": "He baked a delicious apple pie."
-            },
-            {
-                "german": "Wir haben Plätzchen für Weihnachten gebacken.",
-                "english": "We baked cookies for Christmas."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe gestern einen Kuchen gebacken.",
+            "english": "I baked a cake yesterday."
+        },
+        {
+            "german": "Sie hat frische Brötchen gebacken.",
+            "english": "She baked fresh rolls."
+        },
+        {
+            "german": "Meine Oma hat immer selbstgebackenes Brot gemacht.",
+            "english": "My grandma always made homemade bread."
+        },
+        {
+            "german": "Er hat einen leckeren Apfelkuchen gebacken.",
+            "english": "He baked a delicious apple pie."
+        },
+        {
+            "german": "Wir haben Plätzchen für Weihnachten gebacken.",
+            "english": "We baked cookies for Christmas."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Defekt, die Defekte",
     "definition": "A term used to describe a malfunction or flaw in an object, system, or device, resulting in its failure to function properly. It is commonly used to refer to a defect or breakdown in mechanical or electronic equipment, appliances, or machinery.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Fernseher ist defekt.",
-                "english": "The television is defective."
-            },
-            {
-                "german": "Die Maschine hat einen Defekt.",
-                "english": "The machine has a defect."
-            },
-            {
-                "german": "Der defekte Kühlschrank muss repariert werden.",
-                "english": "The defective refrigerator needs to be repaired."
-            },
-            {
-                "german": "Der Defekt wurde schnell behoben.",
-                "english": "The defect was quickly fixed."
-            },
-            {
-                "german": "Ein technischer Defekt führte zum Ausfall des Computers.",
-                "english": "A technical defect caused the computer to fail."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Fernseher ist defekt.",
+            "english": "The television is defective."
+        },
+        {
+            "german": "Die Maschine hat einen Defekt.",
+            "english": "The machine has a defect."
+        },
+        {
+            "german": "Der defekte Kühlschrank muss repariert werden.",
+            "english": "The defective refrigerator needs to be repaired."
+        },
+        {
+            "german": "Der Defekt wurde schnell behoben.",
+            "english": "The defect was quickly fixed."
+        },
+        {
+            "german": "Ein technischer Defekt führte zum Ausfall des Computers.",
+            "english": "A technical defect caused the computer to fail."
+        }
+    ]
 }

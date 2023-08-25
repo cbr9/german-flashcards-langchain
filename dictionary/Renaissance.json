@@ -1,28 +1,26 @@
 {
     "word": "die Renaissance, die Renaissancen",
     "definition": "A period of cultural and artistic rebirth that occurred in Europe between the 14th and 17th centuries, characterized by a renewed interest in classical learning, humanism, and the arts. It is often used to refer to the historical era, as well as the cultural movement that emerged during this time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Renaissance war eine Epoche der europäischen Geschichte.",
-                "english": "The Renaissance was a period of European history."
-            },
-            {
-                "german": "Leonardo da Vinci war ein berühmter Künstler der Renaissance.",
-                "english": "Leonardo da Vinci was a famous artist of the Renaissance."
-            },
-            {
-                "german": "Die Renaissance war geprägt von einem Wiederaufleben antiker Ideen und Kulturelemente.",
-                "english": "The Renaissance was characterized by a revival of ancient ideas and cultural elements."
-            },
-            {
-                "german": "Die Renaissance führte zu bedeutenden Fortschritten in den Bereichen Kunst, Wissenschaft und Literatur.",
-                "english": "The Renaissance led to significant advancements in the fields of art, science, and literature."
-            },
-            {
-                "german": "Die Renaissance wird oft als Übergangszeit zwischen dem Mittelalter und der Neuzeit betrachtet.",
-                "english": "The Renaissance is often considered a transitional period between the Middle Ages and the Modern Era."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Renaissance war eine Epoche der europäischen Geschichte.",
+            "english": "The Renaissance was a period of European history."
+        },
+        {
+            "german": "Leonardo da Vinci war ein berühmter Künstler der Renaissance.",
+            "english": "Leonardo da Vinci was a famous artist of the Renaissance."
+        },
+        {
+            "german": "Die Renaissance war geprägt von einem Wiederaufleben antiker Ideen und Kulturelemente.",
+            "english": "The Renaissance was characterized by a revival of ancient ideas and cultural elements."
+        },
+        {
+            "german": "Die Renaissance führte zu bedeutenden Fortschritten in den Bereichen Kunst, Wissenschaft und Literatur.",
+            "english": "The Renaissance led to significant advancements in the fields of art, science, and literature."
+        },
+        {
+            "german": "Die Renaissance wird oft als Übergangszeit zwischen dem Mittelalter und der Neuzeit betrachtet.",
+            "english": "The Renaissance is often considered a transitional period between the Middle Ages and the Modern Era."
+        }
+    ]
 }

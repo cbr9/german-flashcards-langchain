@@ -1,28 +1,26 @@
 {
     "word": "die Küste, die Küsten",
     "definition": "A geographical term referring to the area where land meets the sea, typically characterized by sandy or rocky shores, cliffs, and the presence of waves. It is commonly used to describe a specific type of natural landscape found in various regions around the world.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Küste ist sehr schön.",
-                "english": "The coast is very beautiful."
-            },
-            {
-                "german": "Wir haben einen Ausflug an die Küste gemacht.",
-                "english": "We took a trip to the coast."
-            },
-            {
-                "german": "Die Fischer leben an der Küste.",
-                "english": "The fishermen live on the coast."
-            },
-            {
-                "german": "Die Küste ist ein beliebtes Urlaubsziel.",
-                "english": "The coast is a popular vacation destination."
-            },
-            {
-                "german": "Die Küste ist von Klippen umgeben.",
-                "english": "The coast is surrounded by cliffs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Küste ist sehr schön.",
+            "english": "The coast is very beautiful."
+        },
+        {
+            "german": "Wir haben einen Ausflug an die Küste gemacht.",
+            "english": "We took a trip to the coast."
+        },
+        {
+            "german": "Die Fischer leben an der Küste.",
+            "english": "The fishermen live on the coast."
+        },
+        {
+            "german": "Die Küste ist ein beliebtes Urlaubsziel.",
+            "english": "The coast is a popular vacation destination."
+        },
+        {
+            "german": "Die Küste ist von Klippen umgeben.",
+            "english": "The coast is surrounded by cliffs."
+        }
+    ]
 }

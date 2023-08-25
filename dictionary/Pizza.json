@@ -1,28 +1,26 @@
 {
     "word": "die Pizza, die Pizzen",
     "definition": "A popular dish typically consisting of a round, flat, baked bread topped with various ingredients such as cheese, tomato sauce, and various toppings. It is commonly enjoyed as a savory meal and is often associated with casual dining, takeout, or delivery.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse gerne Pizza.",
-                "english": "I like to eat pizza."
-            },
-            {
-                "german": "Die Pizza ist sehr lecker.",
-                "english": "The pizza is very delicious."
-            },
-            {
-                "german": "Kann ich eine Pizza bestellen?",
-                "english": "Can I order a pizza?"
-            },
-            {
-                "german": "Wir haben gestern eine Pizza gegessen.",
-                "english": "We ate a pizza yesterday."
-            },
-            {
-                "german": "Die Pizza hat einen dünnen Boden.",
-                "english": "The pizza has a thin crust."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse gerne Pizza.",
+            "english": "I like to eat pizza."
+        },
+        {
+            "german": "Die Pizza ist sehr lecker.",
+            "english": "The pizza is very delicious."
+        },
+        {
+            "german": "Kann ich eine Pizza bestellen?",
+            "english": "Can I order a pizza?"
+        },
+        {
+            "german": "Wir haben gestern eine Pizza gegessen.",
+            "english": "We ate a pizza yesterday."
+        },
+        {
+            "german": "Die Pizza hat einen dünnen Boden.",
+            "english": "The pizza has a thin crust."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "schädlich",
     "definition": "The term \"schädlich\" refers to something that has a negative impact or harmful effect on a person, object, or situation. It is commonly used to describe substances, actions, or conditions that can cause damage, injury, or detriment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Rauchen ist schädlich für die Gesundheit.",
-                "english": "Smoking is harmful to health."
-            },
-            {
-                "german": "Der Einsatz von Pestiziden kann schädlich für die Umwelt sein.",
-                "english": "The use of pesticides can be harmful to the environment."
-            },
-            {
-                "german": "Schädliche Bakterien können Lebensmittel verunreinigen.",
-                "english": "Harmful bacteria can contaminate food."
-            },
-            {
-                "german": "Die schädlichen Auswirkungen von Alkoholmissbrauch sind gut dokumentiert.",
-                "english": "The harmful effects of alcohol abuse are well documented."
-            },
-            {
-                "german": "Die Sonnenstrahlen können schädlich für die Haut sein.",
-                "english": "The sun's rays can be harmful to the skin."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Rauchen ist schädlich für die Gesundheit.",
+            "english": "Smoking is harmful to health."
+        },
+        {
+            "german": "Der Einsatz von Pestiziden kann schädlich für die Umwelt sein.",
+            "english": "The use of pesticides can be harmful to the environment."
+        },
+        {
+            "german": "Schädliche Bakterien können Lebensmittel verunreinigen.",
+            "english": "Harmful bacteria can contaminate food."
+        },
+        {
+            "german": "Die schädlichen Auswirkungen von Alkoholmissbrauch sind gut dokumentiert.",
+            "english": "The harmful effects of alcohol abuse are well documented."
+        },
+        {
+            "german": "Die Sonnenstrahlen können schädlich für die Haut sein.",
+            "english": "The sun's rays can be harmful to the skin."
+        }
+    ]
 }

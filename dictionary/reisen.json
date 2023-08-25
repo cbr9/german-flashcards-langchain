@@ -1,28 +1,26 @@
 {
     "word": "reisen, reiste, gereist",
     "definition": "To embark on a journey, typically involving traveling from one place to another, often for leisure, exploration, or business purposes. It commonly refers to the act of moving between different locations, either domestically or internationally, using various modes of transportation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich reise gerne in ferne Länder.",
-                "english": "I enjoy traveling to distant countries."
-            },
-            {
-                "german": "Wir planen eine Reise nach Italien.",
-                "english": "We are planning a trip to Italy."
-            },
-            {
-                "german": "Er hat viel gereist und viele Kulturen kennengelernt.",
-                "english": "He has traveled a lot and experienced many cultures."
-            },
-            {
-                "german": "Sie reist oft geschäftlich ins Ausland.",
-                "english": "She often travels abroad for business."
-            },
-            {
-                "german": "Reisen bildet.",
-                "english": "Travel broadens the mind."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich reise gerne in ferne Länder.",
+            "english": "I enjoy traveling to distant countries."
+        },
+        {
+            "german": "Wir planen eine Reise nach Italien.",
+            "english": "We are planning a trip to Italy."
+        },
+        {
+            "german": "Er hat viel gereist und viele Kulturen kennengelernt.",
+            "english": "He has traveled a lot and experienced many cultures."
+        },
+        {
+            "german": "Sie reist oft geschäftlich ins Ausland.",
+            "english": "She often travels abroad for business."
+        },
+        {
+            "german": "Reisen bildet.",
+            "english": "Travel broadens the mind."
+        }
+    ]
 }

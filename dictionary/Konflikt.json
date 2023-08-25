@@ -1,28 +1,26 @@
 {
     "word": "der Konflikt, die Konflikte",
     "definition": "A situation characterized by disagreement, opposition, or tension between individuals, groups, or entities, often resulting from conflicting interests, opinions, or objectives. It is commonly used to describe a state of discord or dispute that arises due to differing viewpoints, interests, or goals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es gab einen Konflikt zwischen den beiden Parteien.",
-                "english": "There was a conflict between the two parties."
-            },
-            {
-                "german": "Der Konflikt wurde gewaltsam gelöst.",
-                "english": "The conflict was resolved violently."
-            },
-            {
-                "german": "Die Verhandlungen führten zu einem Konflikt.",
-                "english": "The negotiations led to a conflict."
-            },
-            {
-                "german": "Der Konflikt eskalierte schnell.",
-                "english": "The conflict escalated quickly."
-            },
-            {
-                "german": "Es besteht ein Konflikt zwischen den Interessen der beiden Länder.",
-                "english": "There is a conflict between the interests of the two countries."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es gab einen Konflikt zwischen den beiden Parteien.",
+            "english": "There was a conflict between the two parties."
+        },
+        {
+            "german": "Der Konflikt wurde gewaltsam gelöst.",
+            "english": "The conflict was resolved violently."
+        },
+        {
+            "german": "Die Verhandlungen führten zu einem Konflikt.",
+            "english": "The negotiations led to a conflict."
+        },
+        {
+            "german": "Der Konflikt eskalierte schnell.",
+            "english": "The conflict escalated quickly."
+        },
+        {
+            "german": "Es besteht ein Konflikt zwischen den Interessen der beiden Länder.",
+            "english": "There is a conflict between the interests of the two countries."
+        }
+    ]
 }

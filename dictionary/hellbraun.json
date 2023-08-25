@@ -1,28 +1,26 @@
 {
     "word": "hellbraun",
     "definition": "A color that is lighter than brown, often used to describe hair or skin tones.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Haare sind hellbraun.",
-                "english": "My hair is light brown."
-            },
-            {
-                "german": "Der Hund hat hellbraune Flecken.",
-                "english": "The dog has light brown spots."
-            },
-            {
-                "german": "Die Wand ist hellbraun gestrichen.",
-                "english": "The wall is painted light brown."
-            },
-            {
-                "german": "Sie trägt eine hellbraune Jacke.",
-                "english": "She is wearing a light brown jacket."
-            },
-            {
-                "german": "Die Kekse haben eine hellbraune Kruste.",
-                "english": "The cookies have a light brown crust."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Haare sind hellbraun.",
+            "english": "My hair is light brown."
+        },
+        {
+            "german": "Der Hund hat hellbraune Flecken.",
+            "english": "The dog has light brown spots."
+        },
+        {
+            "german": "Die Wand ist hellbraun gestrichen.",
+            "english": "The wall is painted light brown."
+        },
+        {
+            "german": "Sie trägt eine hellbraune Jacke.",
+            "english": "She is wearing a light brown jacket."
+        },
+        {
+            "german": "Die Kekse haben eine hellbraune Kruste.",
+            "english": "The cookies have a light brown crust."
+        }
+    ]
 }

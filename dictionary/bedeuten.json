@@ -1,28 +1,26 @@
 {
     "word": "bedeuten, bedeutete, bedeutet",
     "definition": "To convey or express the significance, sense, or meaning of something, often through words, gestures, or symbols. It is commonly employed to explain or indicate the intended message behind an action, statement, or symbol.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Was bedeutet das?",
-                "english": "What does that mean?"
-            },
-            {
-                "german": "Das Wort hat viele Bedeutungen.",
-                "english": "The word has many meanings."
-            },
-            {
-                "german": "Das Symbol bedeuten Glück.",
-                "english": "The symbol signifies luck."
-            },
-            {
-                "german": "Diese Entscheidung bedeutet viel für mich.",
-                "english": "This decision means a lot to me."
-            },
-            {
-                "german": "Die Farbe Rot bedeutet Liebe.",
-                "english": "The color red represents love."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Was bedeutet das?",
+            "english": "What does that mean?"
+        },
+        {
+            "german": "Das Wort hat viele Bedeutungen.",
+            "english": "The word has many meanings."
+        },
+        {
+            "german": "Das Symbol bedeuten Glück.",
+            "english": "The symbol signifies luck."
+        },
+        {
+            "german": "Diese Entscheidung bedeutet viel für mich.",
+            "english": "This decision means a lot to me."
+        },
+        {
+            "german": "Die Farbe Rot bedeutet Liebe.",
+            "english": "The color red represents love."
+        }
+    ]
 }

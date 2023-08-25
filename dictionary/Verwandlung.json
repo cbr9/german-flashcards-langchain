@@ -1,28 +1,26 @@
 {
     "word": "die Verwandlung, die Verwandlungen",
     "definition": "A process of profound change or transformation, often associated with a significant shift in appearance, form, or nature. It is commonly used to describe a metamorphosis or a radical alteration in someone or something, typically involving a complete and noticeable transformation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Verwandlung des Schmetterlings ist faszinierend.",
-                "english": "The transformation of the butterfly is fascinating."
-            },
-            {
-                "german": "Die Verwandlung des Märchensprinzen in einen Frosch war unerwartet.",
-                "english": "The transformation of the fairy tale prince into a frog was unexpected."
-            },
-            {
-                "german": "Die Verwandlung des Raumes in ein gemütliches Wohnzimmer war gelungen.",
-                "english": "The transformation of the room into a cozy living room was successful."
-            },
-            {
-                "german": "Die Verwandlung des alten Gebäudes in ein modernes Bürogebäude dauerte mehrere Monate.",
-                "english": "The transformation of the old building into a modern office building took several months."
-            },
-            {
-                "german": "Die Verwandlung des jungen Mannes vom schüchternen zum selbstbewussten Menschen war beeindruckend.",
-                "english": "The transformation of the young man from shy to confident was impressive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Verwandlung des Schmetterlings ist faszinierend.",
+            "english": "The transformation of the butterfly is fascinating."
+        },
+        {
+            "german": "Die Verwandlung des Märchensprinzen in einen Frosch war unerwartet.",
+            "english": "The transformation of the fairy tale prince into a frog was unexpected."
+        },
+        {
+            "german": "Die Verwandlung des Raumes in ein gemütliches Wohnzimmer war gelungen.",
+            "english": "The transformation of the room into a cozy living room was successful."
+        },
+        {
+            "german": "Die Verwandlung des alten Gebäudes in ein modernes Bürogebäude dauerte mehrere Monate.",
+            "english": "The transformation of the old building into a modern office building took several months."
+        },
+        {
+            "german": "Die Verwandlung des jungen Mannes vom schüchternen zum selbstbewussten Menschen war beeindruckend.",
+            "english": "The transformation of the young man from shy to confident was impressive."
+        }
+    ]
 }

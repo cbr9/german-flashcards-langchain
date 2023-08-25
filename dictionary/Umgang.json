@@ -1,28 +1,26 @@
 {
     "word": "der Umgang, die Umgänge",
     "definition": "A term referring to the way individuals interact, communicate, and behave with one another in various social contexts. It commonly encompasses the manner in which people engage in conversations, establish relationships, and navigate social situations. This word is often used to describe the overall conduct and interpersonal skills exhibited by individuals in their daily interactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Umgang mit Kindern erfordert viel Geduld.",
-                "english": "Dealing with children requires a lot of patience."
-            },
-            {
-                "german": "Sie hat einen freundlichen Umgangston.",
-                "english": "She has a friendly manner of speaking."
-            },
-            {
-                "german": "Der Umgang mit dem Computer fällt ihm leicht.",
-                "english": "He finds it easy to handle the computer."
-            },
-            {
-                "german": "Im Umgang mit Kunden ist er sehr professionell.",
-                "english": "He is very professional in dealing with customers."
-            },
-            {
-                "german": "Der Umgang mit Geld sollte verantwortungsbewusst sein.",
-                "english": "Handling money should be responsible."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Umgang mit Kindern erfordert viel Geduld.",
+            "english": "Dealing with children requires a lot of patience."
+        },
+        {
+            "german": "Sie hat einen freundlichen Umgangston.",
+            "english": "She has a friendly manner of speaking."
+        },
+        {
+            "german": "Der Umgang mit dem Computer fällt ihm leicht.",
+            "english": "He finds it easy to handle the computer."
+        },
+        {
+            "german": "Im Umgang mit Kunden ist er sehr professionell.",
+            "english": "He is very professional in dealing with customers."
+        },
+        {
+            "german": "Der Umgang mit Geld sollte verantwortungsbewusst sein.",
+            "english": "Handling money should be responsible."
+        }
+    ]
 }

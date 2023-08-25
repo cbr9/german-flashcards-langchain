@@ -1,28 +1,26 @@
 {
     "word": "die Erde, die There is no plural form for the noun \"erde\" as it is already a plural noun.",
     "definition": "The term refers to the celestial body that humans inhabit, characterized by its solid surface and the presence of water, air, and diverse ecosystems. It is commonly employed to describe the planet on which we live, and is often used in scientific, geographical, and environmental contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Erde ist der dritte Planet von der Sonne.",
-                "english": "Earth is the third planet from the sun."
-            },
-            {
-                "german": "Die Erde dreht sich um ihre eigene Achse.",
-                "english": "The Earth rotates on its own axis."
-            },
-            {
-                "german": "Die Erde hat eine Atmosphäre.",
-                "english": "Earth has an atmosphere."
-            },
-            {
-                "german": "Die Erde ist der einzige bekannte Planet mit Leben.",
-                "english": "Earth is the only known planet with life."
-            },
-            {
-                "german": "Die Erde besteht zu einem großen Teil aus Wasser.",
-                "english": "Earth is composed mostly of water."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Erde ist der dritte Planet von der Sonne.",
+            "english": "Earth is the third planet from the sun."
+        },
+        {
+            "german": "Die Erde dreht sich um ihre eigene Achse.",
+            "english": "The Earth rotates on its own axis."
+        },
+        {
+            "german": "Die Erde hat eine Atmosphäre.",
+            "english": "Earth has an atmosphere."
+        },
+        {
+            "german": "Die Erde ist der einzige bekannte Planet mit Leben.",
+            "english": "Earth is the only known planet with life."
+        },
+        {
+            "german": "Die Erde besteht zu einem großen Teil aus Wasser.",
+            "english": "Earth is composed mostly of water."
+        }
+    ]
 }

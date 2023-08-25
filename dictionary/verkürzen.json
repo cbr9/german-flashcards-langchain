@@ -1,28 +1,26 @@
 {
     "word": "verkürzen, verkürzte, verkürzt",
     "definition": "To reduce the length, duration, or time of something, often used in the context of making something shorter or more concise. It is commonly employed when referring to shortening a period, distance, or waiting time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte meine Arbeitszeit verkürzen.",
-                "english": "I want to reduce my working hours."
-            },
-            {
-                "german": "Kannst du den Text bitte verkürzen?",
-                "english": "Can you please shorten the text?"
-            },
-            {
-                "german": "Die Veranstaltung wurde verkürzt.",
-                "english": "The event was shortened."
-            },
-            {
-                "german": "Durch den Umweg konnten wir die Strecke verkürzen.",
-                "english": "By taking the detour, we were able to shorten the distance."
-            },
-            {
-                "german": "Die Wartezeit wurde verkürzt, indem mehr Personal eingesetzt wurde.",
-                "english": "The waiting time was reduced by deploying more staff."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte meine Arbeitszeit verkürzen.",
+            "english": "I want to reduce my working hours."
+        },
+        {
+            "german": "Kannst du den Text bitte verkürzen?",
+            "english": "Can you please shorten the text?"
+        },
+        {
+            "german": "Die Veranstaltung wurde verkürzt.",
+            "english": "The event was shortened."
+        },
+        {
+            "german": "Durch den Umweg konnten wir die Strecke verkürzen.",
+            "english": "By taking the detour, we were able to shorten the distance."
+        },
+        {
+            "german": "Die Wartezeit wurde verkürzt, indem mehr Personal eingesetzt wurde.",
+            "english": "The waiting time was reduced by deploying more staff."
+        }
+    ]
 }

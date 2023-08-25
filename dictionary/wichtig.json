@@ -1,28 +1,26 @@
 {
     "word": "wichtig",
     "definition": "The term \"wichtig\" refers to something that holds significant value or importance in various contexts. It is commonly used to describe matters, issues, or topics that are considered essential, crucial, or significant. This word is frequently employed to emphasize the significance or relevance of a particular subject or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wichtig ist es, pünktlich zu sein.",
-                "english": "It is important to be punctual."
-            },
-            {
-                "german": "Die Prüfungsergebnisse sind für die Schüler wichtig.",
-                "english": "The exam results are important for the students."
-            },
-            {
-                "german": "Es ist wichtig, genug Wasser zu trinken.",
-                "english": "It is important to drink enough water."
-            },
-            {
-                "german": "Die Sicherheit der Passagiere ist sehr wichtig.",
-                "english": "The safety of the passengers is very important."
-            },
-            {
-                "german": "Es ist wichtig, regelmäßig Sport zu treiben.",
-                "english": "It is important to exercise regularly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wichtig ist es, pünktlich zu sein.",
+            "english": "It is important to be punctual."
+        },
+        {
+            "german": "Die Prüfungsergebnisse sind für die Schüler wichtig.",
+            "english": "The exam results are important for the students."
+        },
+        {
+            "german": "Es ist wichtig, genug Wasser zu trinken.",
+            "english": "It is important to drink enough water."
+        },
+        {
+            "german": "Die Sicherheit der Passagiere ist sehr wichtig.",
+            "english": "The safety of the passengers is very important."
+        },
+        {
+            "german": "Es ist wichtig, regelmäßig Sport zu treiben.",
+            "english": "It is important to exercise regularly."
+        }
+    ]
 }

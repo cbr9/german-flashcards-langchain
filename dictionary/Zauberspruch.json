@@ -1,28 +1,26 @@
 {
     "word": "das Zauberspruch, die Zaubersprüche",
     "definition": "A magical incantation or spell typically used in folklore, fantasy literature, and mystical practices to invoke supernatural powers, cast enchantments, or create magical effects. It is commonly recited or chanted with specific words and phrases, often accompanied by ritualistic gestures or actions. Zaubersprüche are believed to possess mystical properties and are frequently employed by wizards, witches, and other magical beings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Zauberspruch verwandelte den Frosch in einen Prinzen.",
-                "english": "The magic spell turned the frog into a prince."
-            },
-            {
-                "german": "Sie flüsterte den Zauberspruch und die Tür öffnete sich.",
-                "english": "She whispered the magic spell and the door opened."
-            },
-            {
-                "german": "Der Zauberspruch hatte eine verheerende Wirkung auf das Dorf.",
-                "english": "The magic spell had a devastating effect on the village."
-            },
-            {
-                "german": "Er murmelte den Zauberspruch und die Wunde heilte sofort.",
-                "english": "He muttered the magic spell and the wound healed instantly."
-            },
-            {
-                "german": "Der Zauberspruch war so mächtig, dass er die ganze Armee besiegen konnte.",
-                "english": "The magic spell was so powerful that it could defeat the entire army."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Zauberspruch verwandelte den Frosch in einen Prinzen.",
+            "english": "The magic spell turned the frog into a prince."
+        },
+        {
+            "german": "Sie flüsterte den Zauberspruch und die Tür öffnete sich.",
+            "english": "She whispered the magic spell and the door opened."
+        },
+        {
+            "german": "Der Zauberspruch hatte eine verheerende Wirkung auf das Dorf.",
+            "english": "The magic spell had a devastating effect on the village."
+        },
+        {
+            "german": "Er murmelte den Zauberspruch und die Wunde heilte sofort.",
+            "english": "He muttered the magic spell and the wound healed instantly."
+        },
+        {
+            "german": "Der Zauberspruch war so mächtig, dass er die ganze Armee besiegen konnte.",
+            "english": "The magic spell was so powerful that it could defeat the entire army."
+        }
+    ]
 }

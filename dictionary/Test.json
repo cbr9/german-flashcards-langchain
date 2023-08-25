@@ -1,28 +1,26 @@
 {
     "word": "der Test, die There is no plural form for the singular noun \"article test.\"",
     "definition": "A methodical examination or evaluation conducted to assess knowledge, skills, abilities, or the quality, performance, or reliability of something or someone. It is commonly used in educational settings, professional assessments, or scientific experiments to measure understanding, proficiency, or the validity of hypotheses.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Test war schwierig.",
-                "english": "The test was difficult."
-            },
-            {
-                "german": "Ich muss für den Test lernen.",
-                "english": "I have to study for the test."
-            },
-            {
-                "german": "Der Arzt hat einen Test gemacht.",
-                "english": "The doctor performed a test."
-            },
-            {
-                "german": "Der Test ist bestanden.",
-                "english": "The test is passed."
-            },
-            {
-                "german": "Der Test dauert zwei Stunden.",
-                "english": "The test lasts two hours."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Test war schwierig.",
+            "english": "The test was difficult."
+        },
+        {
+            "german": "Ich muss für den Test lernen.",
+            "english": "I have to study for the test."
+        },
+        {
+            "german": "Der Arzt hat einen Test gemacht.",
+            "english": "The doctor performed a test."
+        },
+        {
+            "german": "Der Test ist bestanden.",
+            "english": "The test is passed."
+        },
+        {
+            "german": "Der Test dauert zwei Stunden.",
+            "english": "The test lasts two hours."
+        }
+    ]
 }

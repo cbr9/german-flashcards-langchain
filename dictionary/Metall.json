@@ -1,28 +1,26 @@
 {
     "word": "das Metall, die Metalle",
     "definition": "A solid substance that is typically hard, shiny, and malleable, often used in various industries for its conductivity and durability. It is commonly employed in construction, manufacturing, and engineering, and can be found in various forms such as sheets, bars, and wires.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Metall ist ein fester Werkstoff.",
-                "english": "Metal is a solid material."
-            },
-            {
-                "german": "Das Auto ist aus Metall.",
-                "english": "The car is made of metal."
-            },
-            {
-                "german": "Metall ist ein guter Leiter für Elektrizität.",
-                "english": "Metal is a good conductor of electricity."
-            },
-            {
-                "german": "Metall kann rosten.",
-                "english": "Metal can rust."
-            },
-            {
-                "german": "Metall wird oft für den Bau von Gebäuden verwendet.",
-                "english": "Metal is often used for building construction."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Metall ist ein fester Werkstoff.",
+            "english": "Metal is a solid material."
+        },
+        {
+            "german": "Das Auto ist aus Metall.",
+            "english": "The car is made of metal."
+        },
+        {
+            "german": "Metall ist ein guter Leiter für Elektrizität.",
+            "english": "Metal is a good conductor of electricity."
+        },
+        {
+            "german": "Metall kann rosten.",
+            "english": "Metal can rust."
+        },
+        {
+            "german": "Metall wird oft für den Bau von Gebäuden verwendet.",
+            "english": "Metal is often used for building construction."
+        }
+    ]
 }

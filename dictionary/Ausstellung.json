@@ -1,28 +1,26 @@
 {
     "word": "die Ausstellung, die Ausstellungen",
     "definition": "A public event or occasion where various items, objects, or works of art are displayed for the purpose of showcasing or presenting them to the public. It is commonly used to refer to an organized exhibition or display, often held in a gallery, museum, or similar venue, where visitors can view and appreciate the showcased items.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Ausstellung zeigt Werke berühmter Künstler.",
-                "english": "The exhibition showcases works by famous artists."
-            },
-            {
-                "german": "Ich habe eine Eintrittskarte für die Ausstellung gekauft.",
-                "english": "I bought a ticket for the exhibition."
-            },
-            {
-                "german": "Die Ausstellung ist noch bis zum 30. September geöffnet.",
-                "english": "The exhibition is open until September 30th."
-            },
-            {
-                "german": "In der Ausstellung werden historische Artefakte präsentiert.",
-                "english": "Historical artifacts are presented in the exhibition."
-            },
-            {
-                "german": "Die Ausstellung findet im örtlichen Museum statt.",
-                "english": "The exhibition takes place in the local museum."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Ausstellung zeigt Werke berühmter Künstler.",
+            "english": "The exhibition showcases works by famous artists."
+        },
+        {
+            "german": "Ich habe eine Eintrittskarte für die Ausstellung gekauft.",
+            "english": "I bought a ticket for the exhibition."
+        },
+        {
+            "german": "Die Ausstellung ist noch bis zum 30. September geöffnet.",
+            "english": "The exhibition is open until September 30th."
+        },
+        {
+            "german": "In der Ausstellung werden historische Artefakte präsentiert.",
+            "english": "Historical artifacts are presented in the exhibition."
+        },
+        {
+            "german": "Die Ausstellung findet im örtlichen Museum statt.",
+            "english": "The exhibition takes place in the local museum."
+        }
+    ]
 }

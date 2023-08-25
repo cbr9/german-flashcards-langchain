@@ -1,28 +1,26 @@
 {
     "word": "die Sicherheitsmaßnahme, die Sicherheitsmaßnahmen",
     "definition": "A precautionary action taken to ensure safety and security, often implemented in various settings to prevent potential harm or risks. It is commonly employed in contexts related to protecting individuals, property, or information from potential threats or dangers.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Installation von Überwachungskameras ist eine wichtige Sicherheitsmaßnahme.",
-                "english": "Installing surveillance cameras is an important security measure."
-            },
-            {
-                "german": "Das Tragen von Schutzkleidung ist eine obligatorische Sicherheitsmaßnahme in dieser Fabrik.",
-                "english": "Wearing protective clothing is a mandatory safety measure in this factory."
-            },
-            {
-                "german": "Die regelmäßige Wartung der Maschinen ist eine präventive Sicherheitsmaßnahme.",
-                "english": "Regular maintenance of the machines is a preventive security measure."
-            },
-            {
-                "german": "Die Einführung von Zugangskontrollen ist eine effektive Sicherheitsmaßnahme für den Schutz sensibler Daten.",
-                "english": "Implementing access controls is an effective security measure for protecting sensitive data."
-            },
-            {
-                "german": "Das Anbringen von Alarmanlagen ist eine gängige Sicherheitsmaßnahme in Wohngebäuden.",
-                "english": "Installing alarm systems is a common security measure in residential buildings."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Installation von Überwachungskameras ist eine wichtige Sicherheitsmaßnahme.",
+            "english": "Installing surveillance cameras is an important security measure."
+        },
+        {
+            "german": "Das Tragen von Schutzkleidung ist eine obligatorische Sicherheitsmaßnahme in dieser Fabrik.",
+            "english": "Wearing protective clothing is a mandatory safety measure in this factory."
+        },
+        {
+            "german": "Die regelmäßige Wartung der Maschinen ist eine präventive Sicherheitsmaßnahme.",
+            "english": "Regular maintenance of the machines is a preventive security measure."
+        },
+        {
+            "german": "Die Einführung von Zugangskontrollen ist eine effektive Sicherheitsmaßnahme für den Schutz sensibler Daten.",
+            "english": "Implementing access controls is an effective security measure for protecting sensitive data."
+        },
+        {
+            "german": "Das Anbringen von Alarmanlagen ist eine gängige Sicherheitsmaßnahme in Wohngebäuden.",
+            "english": "Installing alarm systems is a common security measure in residential buildings."
+        }
+    ]
 }

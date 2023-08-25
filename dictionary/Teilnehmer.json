@@ -1,28 +1,26 @@
 {
     "word": "der Teilnehmer, die Teilnehmer",
     "definition": "A person who actively participates in a specific event, activity, or program, typically referring to someone who takes part in a group or collective endeavor. This term is commonly used in the context of conferences, workshops, courses, competitions, or any situation involving multiple individuals engaging in a shared experience.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Teilnehmer hat den Wettbewerb gewonnen.",
-                "english": "The participant won the competition."
-            },
-            {
-                "german": "Die Teilnehmerzahl ist begrenzt.",
-                "english": "The number of participants is limited."
-            },
-            {
-                "german": "Alle Teilnehmer erhalten eine Urkunde.",
-                "english": "All participants receive a certificate."
-            },
-            {
-                "german": "Der Teilnehmerkreis umfasst verschiedene Altersgruppen.",
-                "english": "The group of participants includes different age groups."
-            },
-            {
-                "german": "Die Teilnehmer müssen sich vorab anmelden.",
-                "english": "The participants must register in advance."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Teilnehmer hat den Wettbewerb gewonnen.",
+            "english": "The participant won the competition."
+        },
+        {
+            "german": "Die Teilnehmerzahl ist begrenzt.",
+            "english": "The number of participants is limited."
+        },
+        {
+            "german": "Alle Teilnehmer erhalten eine Urkunde.",
+            "english": "All participants receive a certificate."
+        },
+        {
+            "german": "Der Teilnehmerkreis umfasst verschiedene Altersgruppen.",
+            "english": "The group of participants includes different age groups."
+        },
+        {
+            "german": "Die Teilnehmer müssen sich vorab anmelden.",
+            "english": "The participants must register in advance."
+        }
+    ]
 }

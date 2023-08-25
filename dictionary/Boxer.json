@@ -1,28 +1,26 @@
 {
     "word": "der Boxer, die Boxer",
     "definition": "A breed of dog known for its muscular build, short coat, and strong jaw, often used in various activities such as guarding, police work, and as a family pet.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Boxer trainiert hart für den Wettkampf.",
-                "english": "The boxer trains hard for the competition."
-            },
-            {
-                "german": "Mein Hund ist ein Boxer.",
-                "english": "My dog is a boxer."
-            },
-            {
-                "german": "Der Boxer hat den Kampf gewonnen.",
-                "english": "The boxer won the fight."
-            },
-            {
-                "german": "Der Boxer hat eine starke Schlagkraft.",
-                "english": "The boxer has a strong punching power."
-            },
-            {
-                "german": "Der Boxer trägt Boxhandschuhe.",
-                "english": "The boxer wears boxing gloves."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Boxer trainiert hart für den Wettkampf.",
+            "english": "The boxer trains hard for the competition."
+        },
+        {
+            "german": "Mein Hund ist ein Boxer.",
+            "english": "My dog is a boxer."
+        },
+        {
+            "german": "Der Boxer hat den Kampf gewonnen.",
+            "english": "The boxer won the fight."
+        },
+        {
+            "german": "Der Boxer hat eine starke Schlagkraft.",
+            "english": "The boxer has a strong punching power."
+        },
+        {
+            "german": "Der Boxer trägt Boxhandschuhe.",
+            "english": "The boxer wears boxing gloves."
+        }
+    ]
 }

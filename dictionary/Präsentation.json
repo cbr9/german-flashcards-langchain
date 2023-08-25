@@ -1,28 +1,26 @@
 {
     "word": "die Präsentation, die Präsentationen",
     "definition": "A formal display or demonstration of information, ideas, or products, typically involving visual aids and delivered to an audience. It is commonly used in educational, professional, or business settings to convey information, persuade, or showcase a topic or project.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Präsentation war sehr informativ.",
-                "english": "The presentation was very informative."
-            },
-            {
-                "german": "Er hat eine Präsentation über das Projekt gehalten.",
-                "english": "He gave a presentation about the project."
-            },
-            {
-                "german": "Die Präsentation hat mich beeindruckt.",
-                "english": "The presentation impressed me."
-            },
-            {
-                "german": "Sie hat eine Präsentation vorbereitet.",
-                "english": "She prepared a presentation."
-            },
-            {
-                "german": "Die Präsentation war gut strukturiert.",
-                "english": "The presentation was well-structured."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Präsentation war sehr informativ.",
+            "english": "The presentation was very informative."
+        },
+        {
+            "german": "Er hat eine Präsentation über das Projekt gehalten.",
+            "english": "He gave a presentation about the project."
+        },
+        {
+            "german": "Die Präsentation hat mich beeindruckt.",
+            "english": "The presentation impressed me."
+        },
+        {
+            "german": "Sie hat eine Präsentation vorbereitet.",
+            "english": "She prepared a presentation."
+        },
+        {
+            "german": "Die Präsentation war gut strukturiert.",
+            "english": "The presentation was well-structured."
+        }
+    ]
 }

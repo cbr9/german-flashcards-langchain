@@ -1,28 +1,26 @@
 {
     "word": "gerade",
     "definition": "A term commonly employed to describe a state or condition of being in a direct line or path, often used to indicate a straight or linear direction. It is frequently utilized to express the concept of something being level, even, or straight in shape or form. Additionally, it can be employed to convey the notion of something occurring at a specific moment or time, often referring to an immediate or current occurrence.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin gerade erst angekommen.",
-                "english": "I just arrived."
-            },
-            {
-                "german": "Er hat gerade angerufen.",
-                "english": "He just called."
-            },
-            {
-                "german": "Es ist gerade 12 Uhr.",
-                "english": "It's exactly 12 o'clock."
-            },
-            {
-                "german": "Sie ist gerade im Büro.",
-                "english": "She is currently in the office."
-            },
-            {
-                "german": "Ich habe gerade keine Zeit.",
-                "english": "I don't have time right now."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin gerade erst angekommen.",
+            "english": "I just arrived."
+        },
+        {
+            "german": "Er hat gerade angerufen.",
+            "english": "He just called."
+        },
+        {
+            "german": "Es ist gerade 12 Uhr.",
+            "english": "It's exactly 12 o'clock."
+        },
+        {
+            "german": "Sie ist gerade im Büro.",
+            "english": "She is currently in the office."
+        },
+        {
+            "german": "Ich habe gerade keine Zeit.",
+            "english": "I don't have time right now."
+        }
+    ]
 }

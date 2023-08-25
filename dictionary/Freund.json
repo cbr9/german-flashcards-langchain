@@ -1,28 +1,26 @@
 {
     "word": "der Freund, die Freunde",
     "definition": "A person with whom one shares a close and affectionate bond, often characterized by mutual trust, support, and companionship. This term is commonly used to refer to someone who is considered a close friend or companion.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Freund hat mir geholfen.",
-                "english": "My friend helped me."
-            },
-            {
-                "german": "Sie ist eine gute Freundin von mir.",
-                "english": "She is a good friend of mine."
-            },
-            {
-                "german": "Er hat viele Freunde in der Schule.",
-                "english": "He has many friends at school."
-            },
-            {
-                "german": "Unsere Hunde sind beste Freunde.",
-                "english": "Our dogs are best friends."
-            },
-            {
-                "german": "Ich habe meinen Freund seit Jahren nicht gesehen.",
-                "english": "I haven't seen my friend for years."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Freund hat mir geholfen.",
+            "english": "My friend helped me."
+        },
+        {
+            "german": "Sie ist eine gute Freundin von mir.",
+            "english": "She is a good friend of mine."
+        },
+        {
+            "german": "Er hat viele Freunde in der Schule.",
+            "english": "He has many friends at school."
+        },
+        {
+            "german": "Unsere Hunde sind beste Freunde.",
+            "english": "Our dogs are best friends."
+        },
+        {
+            "german": "Ich habe meinen Freund seit Jahren nicht gesehen.",
+            "english": "I haven't seen my friend for years."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Bruder, die Brüder",
     "definition": "A male sibling, typically used to refer to a person who shares at least one biological or legal parent with another person. This term is commonly used in familial contexts to denote a brotherly relationship.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Bruder ist sehr groß.",
-                "english": "My brother is very tall."
-            },
-            {
-                "german": "Ich habe zwei Brüder und eine Schwester.",
-                "english": "I have two brothers and one sister."
-            },
-            {
-                "german": "Mein Bruder spielt gerne Fußball.",
-                "english": "My brother likes to play soccer."
-            },
-            {
-                "german": "Mein Bruder wohnt in Berlin.",
-                "english": "My brother lives in Berlin."
-            },
-            {
-                "german": "Ich habe meinen Bruder lange nicht gesehen.",
-                "english": "I haven't seen my brother in a long time."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Bruder ist sehr groß.",
+            "english": "My brother is very tall."
+        },
+        {
+            "german": "Ich habe zwei Brüder und eine Schwester.",
+            "english": "I have two brothers and one sister."
+        },
+        {
+            "german": "Mein Bruder spielt gerne Fußball.",
+            "english": "My brother likes to play soccer."
+        },
+        {
+            "german": "Mein Bruder wohnt in Berlin.",
+            "english": "My brother lives in Berlin."
+        },
+        {
+            "german": "Ich habe meinen Bruder lange nicht gesehen.",
+            "english": "I haven't seen my brother in a long time."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Lieblingslied, die Lieblingslieder",
     "definition": "A cherished musical composition that holds a special place in one's heart, often associated with personal preferences and fond memories. It is commonly used to refer to a song that is particularly beloved or favored by an individual.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Lieblingslied ist 'Imagine' von John Lennon.",
-                "english": "My favorite song is 'Imagine' by John Lennon."
-            },
-            {
-                "german": "Sie sang ihr Lieblingslied auf der Bühne.",
-                "english": "She sang her favorite song on stage."
-            },
-            {
-                "german": "Ich höre mein Lieblingslied jeden Morgen.",
-                "english": "I listen to my favorite song every morning."
-            },
-            {
-                "german": "Sein Lieblingslied erinnert ihn an seine Kindheit.",
-                "english": "His favorite song reminds him of his childhood."
-            },
-            {
-                "german": "Sie hat ihr Lieblingslied auf ihrer Hochzeit gespielt.",
-                "english": "She played her favorite song at her wedding."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Lieblingslied ist 'Imagine' von John Lennon.",
+            "english": "My favorite song is 'Imagine' by John Lennon."
+        },
+        {
+            "german": "Sie sang ihr Lieblingslied auf der Bühne.",
+            "english": "She sang her favorite song on stage."
+        },
+        {
+            "german": "Ich höre mein Lieblingslied jeden Morgen.",
+            "english": "I listen to my favorite song every morning."
+        },
+        {
+            "german": "Sein Lieblingslied erinnert ihn an seine Kindheit.",
+            "english": "His favorite song reminds him of his childhood."
+        },
+        {
+            "german": "Sie hat ihr Lieblingslied auf ihrer Hochzeit gespielt.",
+            "english": "She played her favorite song at her wedding."
+        }
+    ]
 }

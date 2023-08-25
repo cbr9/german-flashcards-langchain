@@ -1,28 +1,26 @@
 {
     "word": "der Ort, die Orte",
     "definition": "A specific geographical location, often referring to a place where events or activities take place, such as a town, city, village, or site. It can also refer to a designated spot or position within a larger context.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Ort liegt in den Bergen.",
-                "english": "The place is located in the mountains."
-            },
-            {
-                "german": "Wir haben einen Treffpunkt am vereinbarten Ort.",
-                "english": "We have a meeting point at the agreed place."
-            },
-            {
-                "german": "Der Ort hat eine schöne Altstadt.",
-                "english": "The town has a beautiful old town."
-            },
-            {
-                "german": "Er hat seinen eigenen Ort gefunden.",
-                "english": "He has found his own place."
-            },
-            {
-                "german": "Der Ort des Verbrechens wurde abgesperrt.",
-                "english": "The crime scene was cordoned off."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Ort liegt in den Bergen.",
+            "english": "The place is located in the mountains."
+        },
+        {
+            "german": "Wir haben einen Treffpunkt am vereinbarten Ort.",
+            "english": "We have a meeting point at the agreed place."
+        },
+        {
+            "german": "Der Ort hat eine schöne Altstadt.",
+            "english": "The town has a beautiful old town."
+        },
+        {
+            "german": "Er hat seinen eigenen Ort gefunden.",
+            "english": "He has found his own place."
+        },
+        {
+            "german": "Der Ort des Verbrechens wurde abgesperrt.",
+            "english": "The crime scene was cordoned off."
+        }
+    ]
 }

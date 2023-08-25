@@ -1,28 +1,26 @@
 {
     "word": "der Meter, die Meter",
     "definition": "A unit of length commonly used to measure distances, typically employed in scientific, mathematical, and technical contexts. It is often utilized to quantify the length of objects, spaces, or distances between two points.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Meter ist eine Längeneinheit.",
-                "english": "The meter is a unit of length."
-            },
-            {
-                "german": "Die Strecke beträgt 100 Meter.",
-                "english": "The distance is 100 meters."
-            },
-            {
-                "german": "Das Seil ist 5 Meter lang.",
-                "english": "The rope is 5 meters long."
-            },
-            {
-                "german": "Die Höhe des Gebäudes beträgt 50 Meter.",
-                "english": "The height of the building is 50 meters."
-            },
-            {
-                "german": "Der Marathon hat eine Länge von 42,195 Metern.",
-                "english": "The marathon has a length of 42.195 meters."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Meter ist eine Längeneinheit.",
+            "english": "The meter is a unit of length."
+        },
+        {
+            "german": "Die Strecke beträgt 100 Meter.",
+            "english": "The distance is 100 meters."
+        },
+        {
+            "german": "Das Seil ist 5 Meter lang.",
+            "english": "The rope is 5 meters long."
+        },
+        {
+            "german": "Die Höhe des Gebäudes beträgt 50 Meter.",
+            "english": "The height of the building is 50 meters."
+        },
+        {
+            "german": "Der Marathon hat eine Länge von 42,195 Metern.",
+            "english": "The marathon has a length of 42.195 meters."
+        }
+    ]
 }

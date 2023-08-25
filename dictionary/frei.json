@@ -1,28 +1,26 @@
 {
     "word": "frei",
     "definition": "The word \"frei\" refers to a state or condition where one is not bound, restricted, or constrained. It is often used to describe a person's freedom or liberty, indicating that they are not under any form of control or captivity. Additionally, \"frei\" can also be used to describe something that is available, unoccupied, or not in use.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin frei.",
-                "english": "I am free."
-            },
-            {
-                "german": "Das Buch ist frei von Fehlern.",
-                "english": "The book is free of errors."
-            },
-            {
-                "german": "Er hat freie Hand.",
-                "english": "He has a free hand."
-            },
-            {
-                "german": "Die Vögel fliegen frei im Himmel.",
-                "english": "The birds fly freely in the sky."
-            },
-            {
-                "german": "Die Kinder haben freie Zeit.",
-                "english": "The children have free time."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin frei.",
+            "english": "I am free."
+        },
+        {
+            "german": "Das Buch ist frei von Fehlern.",
+            "english": "The book is free of errors."
+        },
+        {
+            "german": "Er hat freie Hand.",
+            "english": "He has a free hand."
+        },
+        {
+            "german": "Die Vögel fliegen frei im Himmel.",
+            "english": "The birds fly freely in the sky."
+        },
+        {
+            "german": "Die Kinder haben freie Zeit.",
+            "english": "The children have free time."
+        }
+    ]
 }

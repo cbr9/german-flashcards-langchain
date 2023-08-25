@@ -1,28 +1,26 @@
 {
     "word": "blau",
     "definition": "The color often associated with the sky and the ocean, commonly used to describe objects, clothing, or natural elements. It is frequently employed to convey a sense of calmness, tranquility, or coolness.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Himmel ist blau.",
-                "english": "The sky is blue."
-            },
-            {
-                "german": "Sie trägt ein blaues Kleid.",
-                "english": "She is wearing a blue dress."
-            },
-            {
-                "german": "Das Meer leuchtet in einem tiefen Blau.",
-                "english": "The sea shines in a deep blue."
-            },
-            {
-                "german": "Seine Augen sind blau wie der Ozean.",
-                "english": "His eyes are blue like the ocean."
-            },
-            {
-                "german": "Die Flagge Frankreichs ist blau, weiß und rot.",
-                "english": "The flag of France is blue, white, and red."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Himmel ist blau.",
+            "english": "The sky is blue."
+        },
+        {
+            "german": "Sie trägt ein blaues Kleid.",
+            "english": "She is wearing a blue dress."
+        },
+        {
+            "german": "Das Meer leuchtet in einem tiefen Blau.",
+            "english": "The sea shines in a deep blue."
+        },
+        {
+            "german": "Seine Augen sind blau wie der Ozean.",
+            "english": "His eyes are blue like the ocean."
+        },
+        {
+            "german": "Die Flagge Frankreichs ist blau, weiß und rot.",
+            "english": "The flag of France is blue, white, and red."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Schnee, die Schneemassen",
     "definition": "A white, crystalline substance that falls from the sky in colder climates, forming a soft layer on the ground. It is often associated with winter and is commonly used for recreational activities such as skiing, snowboarding, and building snowmen.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Schnee fällt leise vom Himmel.",
-                "english": "The snow falls silently from the sky."
-            },
-            {
-                "german": "Kinder bauen Schneemänner im Winter.",
-                "english": "Children build snowmen in winter."
-            },
-            {
-                "german": "Die Landschaft ist mit Schnee bedeckt.",
-                "english": "The landscape is covered with snow."
-            },
-            {
-                "german": "Wir machen einen Spaziergang im frischen Schnee.",
-                "english": "We take a walk in the fresh snow."
-            },
-            {
-                "german": "Der Schnee glitzert in der Sonne.",
-                "english": "The snow sparkles in the sun."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Schnee fällt leise vom Himmel.",
+            "english": "The snow falls silently from the sky."
+        },
+        {
+            "german": "Kinder bauen Schneemänner im Winter.",
+            "english": "Children build snowmen in winter."
+        },
+        {
+            "german": "Die Landschaft ist mit Schnee bedeckt.",
+            "english": "The landscape is covered with snow."
+        },
+        {
+            "german": "Wir machen einen Spaziergang im frischen Schnee.",
+            "english": "We take a walk in the fresh snow."
+        },
+        {
+            "german": "Der Schnee glitzert in der Sonne.",
+            "english": "The snow sparkles in the sun."
+        }
+    ]
 }

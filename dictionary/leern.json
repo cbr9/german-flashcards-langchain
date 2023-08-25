@@ -1,28 +1,26 @@
 {
     "word": "leern, lernte, gelernt",
     "definition": "The word \"leern\" refers to a state or condition where something lacks or is devoid of content, substance, or presence. It is commonly used to describe empty spaces, containers, or objects that are vacant, hollow, or barren. Additionally, it can be used metaphorically to convey a sense of emptiness or void in a non-physical context, such as emotions, thoughts, or experiences.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Glas ist leer.",
-                "english": "The glass is empty."
-            },
-            {
-                "german": "Die Straße ist leer.",
-                "english": "The street is empty."
-            },
-            {
-                "german": "Der Raum ist leer.",
-                "english": "The room is empty."
-            },
-            {
-                "german": "Die Flasche ist leer.",
-                "english": "The bottle is empty."
-            },
-            {
-                "german": "Die Kasse ist leer.",
-                "english": "The cash register is empty."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Glas ist leer.",
+            "english": "The glass is empty."
+        },
+        {
+            "german": "Die Straße ist leer.",
+            "english": "The street is empty."
+        },
+        {
+            "german": "Der Raum ist leer.",
+            "english": "The room is empty."
+        },
+        {
+            "german": "Die Flasche ist leer.",
+            "english": "The bottle is empty."
+        },
+        {
+            "german": "Die Kasse ist leer.",
+            "english": "The cash register is empty."
+        }
+    ]
 }

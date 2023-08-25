@@ -1,28 +1,26 @@
 {
     "word": "bezahlen, bezahlte, bezahlt",
     "definition": "To settle a financial obligation by providing payment, typically in exchange for goods, services, or debts. This word is commonly used when referring to the act of paying for purchases or bills.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bezahle die Rechnung.",
-                "english": "I pay the bill."
-            },
-            {
-                "german": "Kann ich mit Kreditkarte bezahlen?",
-                "english": "Can I pay with a credit card?"
-            },
-            {
-                "german": "Er hat das Essen bezahlt.",
-                "english": "He paid for the meal."
-            },
-            {
-                "german": "Wir müssen die Miete bezahlen.",
-                "english": "We have to pay the rent."
-            },
-            {
-                "german": "Sie bezahlt immer bar.",
-                "english": "She always pays in cash."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bezahle die Rechnung.",
+            "english": "I pay the bill."
+        },
+        {
+            "german": "Kann ich mit Kreditkarte bezahlen?",
+            "english": "Can I pay with a credit card?"
+        },
+        {
+            "german": "Er hat das Essen bezahlt.",
+            "english": "He paid for the meal."
+        },
+        {
+            "german": "Wir müssen die Miete bezahlen.",
+            "english": "We have to pay the rent."
+        },
+        {
+            "german": "Sie bezahlt immer bar.",
+            "english": "She always pays in cash."
+        }
+    ]
 }

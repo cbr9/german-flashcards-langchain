@@ -1,28 +1,26 @@
 {
     "word": "die Outtak, die Outtakes",
     "definition": "A term commonly used in the entertainment industry to describe a segment or scene that has been removed or excluded from the final version of a production, such as a film, TV show, or music album. These outtakes are typically humorous, unplanned, or considered less suitable for the final product. They are often shared as bonus content or bloopers to entertain audiences.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Outtak ist ein Begriff aus der Filmindustrie.",
-                "english": "Outtake is a term used in the film industry."
-            },
-            {
-                "german": "Der Regisseur hat viele Outtakes in den Bonusmaterialien der DVD veröffentlicht.",
-                "english": "The director has released many outtakes in the DVD bonus materials."
-            },
-            {
-                "german": "Die lustigen Outtakes am Ende des Films haben das Publikum zum Lachen gebracht.",
-                "english": "The funny outtakes at the end of the movie made the audience laugh."
-            },
-            {
-                "german": "Die Schauspieler konnten ihre Texte nicht behalten und es gab viele Outtakes während der Dreharbeiten.",
-                "english": "The actors couldn't remember their lines and there were many outtakes during the filming."
-            },
-            {
-                "german": "Die Outtakes wurden aus dem finalen Schnitt des Films entfernt.",
-                "english": "The outtakes were removed from the final edit of the film."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Outtak ist ein Begriff aus der Filmindustrie.",
+            "english": "Outtake is a term used in the film industry."
+        },
+        {
+            "german": "Der Regisseur hat viele Outtakes in den Bonusmaterialien der DVD veröffentlicht.",
+            "english": "The director has released many outtakes in the DVD bonus materials."
+        },
+        {
+            "german": "Die lustigen Outtakes am Ende des Films haben das Publikum zum Lachen gebracht.",
+            "english": "The funny outtakes at the end of the movie made the audience laugh."
+        },
+        {
+            "german": "Die Schauspieler konnten ihre Texte nicht behalten und es gab viele Outtakes während der Dreharbeiten.",
+            "english": "The actors couldn't remember their lines and there were many outtakes during the filming."
+        },
+        {
+            "german": "Die Outtakes wurden aus dem finalen Schnitt des Films entfernt.",
+            "english": "The outtakes were removed from the final edit of the film."
+        }
+    ]
 }

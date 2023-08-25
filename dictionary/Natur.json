@@ -1,28 +1,26 @@
 {
     "word": "die Natur, die Natur",
     "definition": "A concept encompassing the physical world, including all living and non-living entities, as well as the forces and processes that govern them. It is commonly employed to refer to the environment, natural surroundings, and the inherent qualities of the natural world.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Natur ist schön.",
-                "english": "Nature is beautiful."
-            },
-            {
-                "german": "Ich liebe es, in der Natur spazieren zu gehen.",
-                "english": "I love to go for a walk in nature."
-            },
-            {
-                "german": "Die Tiere leben in ihrer natürlichen Umgebung.",
-                "english": "The animals live in their natural habitat."
-            },
-            {
-                "german": "Der Wald ist ein wichtiger Bestandteil der Natur.",
-                "english": "The forest is an important part of nature."
-            },
-            {
-                "german": "Die Natur bietet uns viele Möglichkeiten zur Erholung.",
-                "english": "Nature offers us many opportunities for relaxation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Natur ist schön.",
+            "english": "Nature is beautiful."
+        },
+        {
+            "german": "Ich liebe es, in der Natur spazieren zu gehen.",
+            "english": "I love to go for a walk in nature."
+        },
+        {
+            "german": "Die Tiere leben in ihrer natürlichen Umgebung.",
+            "english": "The animals live in their natural habitat."
+        },
+        {
+            "german": "Der Wald ist ein wichtiger Bestandteil der Natur.",
+            "english": "The forest is an important part of nature."
+        },
+        {
+            "german": "Die Natur bietet uns viele Möglichkeiten zur Erholung.",
+            "english": "Nature offers us many opportunities for relaxation."
+        }
+    ]
 }

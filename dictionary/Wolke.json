@@ -1,28 +1,26 @@
 {
     "word": "die Wolke, die Wolken",
     "definition": "A visible mass of condensed water vapor suspended in the atmosphere, typically high above the ground, often associated with weather patterns and commonly observed in the sky. It is frequently used to describe the fluffy, white formations that can be seen on a clear day or during meteorological events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Wolken ziehen langsam über den Himmel.",
-                "english": "The clouds are moving slowly across the sky."
-            },
-            {
-                "german": "Heute ist der Himmel wolkenlos.",
-                "english": "Today the sky is cloudless."
-            },
-            {
-                "german": "Die Sonne verschwindet hinter einer Wolke.",
-                "english": "The sun disappears behind a cloud."
-            },
-            {
-                "german": "Die Wolkenformationen am Horizont sind beeindruckend.",
-                "english": "The cloud formations on the horizon are impressive."
-            },
-            {
-                "german": "Es sieht nach Regen aus, dunkle Wolken ziehen auf.",
-                "english": "It looks like rain, dark clouds are approaching."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Wolken ziehen langsam über den Himmel.",
+            "english": "The clouds are moving slowly across the sky."
+        },
+        {
+            "german": "Heute ist der Himmel wolkenlos.",
+            "english": "Today the sky is cloudless."
+        },
+        {
+            "german": "Die Sonne verschwindet hinter einer Wolke.",
+            "english": "The sun disappears behind a cloud."
+        },
+        {
+            "german": "Die Wolkenformationen am Horizont sind beeindruckend.",
+            "english": "The cloud formations on the horizon are impressive."
+        },
+        {
+            "german": "Es sieht nach Regen aus, dunkle Wolken ziehen auf.",
+            "english": "It looks like rain, dark clouds are approaching."
+        }
+    ]
 }

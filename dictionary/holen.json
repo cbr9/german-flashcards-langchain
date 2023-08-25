@@ -1,28 +1,26 @@
 {
     "word": "holen, holte, geholt",
     "definition": "To retrieve or bring something or someone from one place to another, often used when referring to obtaining an object or fetching a person.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich hole das Buch aus der Bibliothek.",
-                "english": "I fetch the book from the library."
-            },
-            {
-                "german": "Kannst du bitte Wasser aus dem Kühlschrank holen?",
-                "english": "Can you please get water from the fridge?"
-            },
-            {
-                "german": "Er holt seine Kinder vom Kindergarten ab.",
-                "english": "He picks up his children from kindergarten."
-            },
-            {
-                "german": "Wir müssen noch Brot vom Bäcker holen.",
-                "english": "We still need to fetch bread from the bakery."
-            },
-            {
-                "german": "Sie holt ihre Jacke aus dem Schrank.",
-                "english": "She retrieves her jacket from the closet."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich hole das Buch aus der Bibliothek.",
+            "english": "I fetch the book from the library."
+        },
+        {
+            "german": "Kannst du bitte Wasser aus dem Kühlschrank holen?",
+            "english": "Can you please get water from the fridge?"
+        },
+        {
+            "german": "Er holt seine Kinder vom Kindergarten ab.",
+            "english": "He picks up his children from kindergarten."
+        },
+        {
+            "german": "Wir müssen noch Brot vom Bäcker holen.",
+            "english": "We still need to fetch bread from the bakery."
+        },
+        {
+            "german": "Sie holt ihre Jacke aus dem Schrank.",
+            "english": "She retrieves her jacket from the closet."
+        }
+    ]
 }

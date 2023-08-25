@@ -1,28 +1,26 @@
 {
     "word": "funktionieren, funktionierte, funktioniert",
     "definition": "To operate or work as intended; to perform as expected or desired, typically referring to the proper functioning of a system, mechanism, or process. This word is commonly used when discussing the functionality or effectiveness of various objects, devices, or procedures.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Auto funktioniert einwandfrei.",
-                "english": "The car works perfectly."
-            },
-            {
-                "german": "Die Maschine funktioniert nicht mehr.",
-                "english": "The machine doesn't work anymore."
-            },
-            {
-                "german": "Kannst du mir sagen, ob der Drucker funktioniert?",
-                "english": "Can you tell me if the printer is working?"
-            },
-            {
-                "german": "Das Experiment hat nicht funktioniert.",
-                "english": "The experiment didn't work."
-            },
-            {
-                "german": "Die Uhr funktioniert nicht richtig.",
-                "english": "The clock is not functioning properly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Auto funktioniert einwandfrei.",
+            "english": "The car works perfectly."
+        },
+        {
+            "german": "Die Maschine funktioniert nicht mehr.",
+            "english": "The machine doesn't work anymore."
+        },
+        {
+            "german": "Kannst du mir sagen, ob der Drucker funktioniert?",
+            "english": "Can you tell me if the printer is working?"
+        },
+        {
+            "german": "Das Experiment hat nicht funktioniert.",
+            "english": "The experiment didn't work."
+        },
+        {
+            "german": "Die Uhr funktioniert nicht richtig.",
+            "english": "The clock is not functioning properly."
+        }
+    ]
 }

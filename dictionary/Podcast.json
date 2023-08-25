@@ -1,28 +1,26 @@
 {
     "word": "der Podcast, die Podcasts",
     "definition": "A digital audio or video file series that is regularly released and can be downloaded or streamed online, typically covering a wide range of topics and interests, such as news, entertainment, education, or storytelling. It is commonly consumed through various devices, allowing users to listen or watch at their convenience.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich höre gerne Podcasts.",
-                "english": "I enjoy listening to podcasts."
-            },
-            {
-                "german": "Der Podcast hat viele interessante Gäste.",
-                "english": "The podcast has many interesting guests."
-            },
-            {
-                "german": "Ich habe gestern einen neuen Podcast entdeckt.",
-                "english": "I discovered a new podcast yesterday."
-            },
-            {
-                "german": "Podcasts sind eine großartige Möglichkeit, Wissen zu erweitern.",
-                "english": "Podcasts are a great way to expand knowledge."
-            },
-            {
-                "german": "Ich abonniere regelmäßig Podcasts über Technologie.",
-                "english": "I regularly subscribe to podcasts about technology."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich höre gerne Podcasts.",
+            "english": "I enjoy listening to podcasts."
+        },
+        {
+            "german": "Der Podcast hat viele interessante Gäste.",
+            "english": "The podcast has many interesting guests."
+        },
+        {
+            "german": "Ich habe gestern einen neuen Podcast entdeckt.",
+            "english": "I discovered a new podcast yesterday."
+        },
+        {
+            "german": "Podcasts sind eine großartige Möglichkeit, Wissen zu erweitern.",
+            "english": "Podcasts are a great way to expand knowledge."
+        },
+        {
+            "german": "Ich abonniere regelmäßig Podcasts über Technologie.",
+            "english": "I regularly subscribe to podcasts about technology."
+        }
+    ]
 }

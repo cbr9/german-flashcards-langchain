@@ -1,28 +1,26 @@
 {
     "word": "die Elternteil, die Eltern",
     "definition": "The term \"Eltern\" refers to individuals who have a significant role in the upbringing and care of a person, typically in a familial context. It commonly denotes the biological or adoptive parents of a child, but can also encompass guardians or other caretakers who fulfill parental responsibilities. This word is frequently used to discuss family dynamics, parenting styles, and the relationship between parents and their children.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Eltern sind sehr nett.",
-                "english": "My parents are very nice."
-            },
-            {
-                "german": "Die Eltern meiner Freundin leben in Berlin.",
-                "english": "My girlfriend's parents live in Berlin."
-            },
-            {
-                "german": "Die Eltern des Kindes sind stolz auf seine Leistungen.",
-                "english": "The child's parents are proud of his achievements."
-            },
-            {
-                "german": "Die Eltern haben ihre Kinder zum Fußballtraining gebracht.",
-                "english": "The parents brought their children to soccer practice."
-            },
-            {
-                "german": "Die Eltern haben ihre Kinder ins Bett gebracht.",
-                "english": "The parents put their children to bed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Eltern sind sehr nett.",
+            "english": "My parents are very nice."
+        },
+        {
+            "german": "Die Eltern meiner Freundin leben in Berlin.",
+            "english": "My girlfriend's parents live in Berlin."
+        },
+        {
+            "german": "Die Eltern des Kindes sind stolz auf seine Leistungen.",
+            "english": "The child's parents are proud of his achievements."
+        },
+        {
+            "german": "Die Eltern haben ihre Kinder zum Fußballtraining gebracht.",
+            "english": "The parents brought their children to soccer practice."
+        },
+        {
+            "german": "Die Eltern haben ihre Kinder ins Bett gebracht.",
+            "english": "The parents put their children to bed."
+        }
+    ]
 }

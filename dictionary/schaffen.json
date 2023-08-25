@@ -1,28 +1,26 @@
 {
     "word": "schaffen, schaffte, geschafft",
     "definition": "To complete a task or achieve a goal, often involving effort, perseverance, and overcoming challenges. It is commonly used to describe the act of accomplishing something, whether it be a physical or mental task, or the successful completion of a project or objective.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich schaffe es!",
-                "english": "I can do it!"
-            },
-            {
-                "german": "Er schafft seine Arbeit nicht rechtzeitig.",
-                "english": "He doesn't finish his work on time."
-            },
-            {
-                "german": "Wir müssen das Projekt schaffen.",
-                "english": "We have to complete the project."
-            },
-            {
-                "german": "Sie schafft es, pünktlich zu sein.",
-                "english": "She manages to be on time."
-            },
-            {
-                "german": "Kannst du es schaffen?",
-                "english": "Can you make it?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich schaffe es!",
+            "english": "I can do it!"
+        },
+        {
+            "german": "Er schafft seine Arbeit nicht rechtzeitig.",
+            "english": "He doesn't finish his work on time."
+        },
+        {
+            "german": "Wir müssen das Projekt schaffen.",
+            "english": "We have to complete the project."
+        },
+        {
+            "german": "Sie schafft es, pünktlich zu sein.",
+            "english": "She manages to be on time."
+        },
+        {
+            "german": "Kannst du es schaffen?",
+            "english": "Can you make it?"
+        }
+    ]
 }

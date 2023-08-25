@@ -1,28 +1,26 @@
 {
     "word": "der Titel, die Titel",
     "definition": "A term used to refer to a written or printed heading or caption that introduces or summarizes a piece of work, such as a book, article, or document. It is commonly used to denote the name or title of a publication, as well as the heading of a chapter or section within a larger work.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Titel des Buches lautet 'Die Verwandlung'.",
-                "english": "The title of the book is 'The Metamorphosis'."
-            },
-            {
-                "german": "Sie hat den Titel 'Professorin' erhalten.",
-                "english": "She has been awarded the title of 'Professor'."
-            },
-            {
-                "german": "Der Titel des Films ist 'Der Pate'.",
-                "english": "The title of the movie is 'The Godfather'."
-            },
-            {
-                "german": "Er trägt den Titel 'Weltmeister'.",
-                "english": "He holds the title of 'World Champion'."
-            },
-            {
-                "german": "Der Titel des Liedes ist 'Imagine'.",
-                "english": "The title of the song is 'Imagine'."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Titel des Buches lautet 'Die Verwandlung'.",
+            "english": "The title of the book is 'The Metamorphosis'."
+        },
+        {
+            "german": "Sie hat den Titel 'Professorin' erhalten.",
+            "english": "She has been awarded the title of 'Professor'."
+        },
+        {
+            "german": "Der Titel des Films ist 'Der Pate'.",
+            "english": "The title of the movie is 'The Godfather'."
+        },
+        {
+            "german": "Er trägt den Titel 'Weltmeister'.",
+            "english": "He holds the title of 'World Champion'."
+        },
+        {
+            "german": "Der Titel des Liedes ist 'Imagine'.",
+            "english": "The title of the song is 'Imagine'."
+        }
+    ]
 }

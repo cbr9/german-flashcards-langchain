@@ -1,28 +1,26 @@
 {
     "word": "die Frau, die Frauen",
     "definition": "A term used to refer to an adult human being of the female gender, typically used to address or refer to a woman in a formal or respectful manner. It is commonly used in various contexts, such as in professional settings, formal conversations, or when addressing someone with politeness.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Frau geht einkaufen.",
-                "english": "The woman goes shopping."
-            },
-            {
-                "german": "Die junge Frau liest ein Buch.",
-                "english": "The young woman is reading a book."
-            },
-            {
-                "german": "Die Frau arbeitet als Ärztin.",
-                "english": "The woman works as a doctor."
-            },
-            {
-                "german": "Die Frau trägt einen roten Mantel.",
-                "english": "The woman is wearing a red coat."
-            },
-            {
-                "german": "Die Frau spricht fließend Englisch.",
-                "english": "The woman speaks fluent English."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Frau geht einkaufen.",
+            "english": "The woman goes shopping."
+        },
+        {
+            "german": "Die junge Frau liest ein Buch.",
+            "english": "The young woman is reading a book."
+        },
+        {
+            "german": "Die Frau arbeitet als Ärztin.",
+            "english": "The woman works as a doctor."
+        },
+        {
+            "german": "Die Frau trägt einen roten Mantel.",
+            "english": "The woman is wearing a red coat."
+        },
+        {
+            "german": "Die Frau spricht fließend Englisch.",
+            "english": "The woman speaks fluent English."
+        }
+    ]
 }

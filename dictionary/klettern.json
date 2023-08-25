@@ -1,28 +1,26 @@
 {
     "word": "klettern, kletterte, geklettert",
     "definition": "To ascend or move upwards by using one's hands and feet to grip and pull oneself up, typically on a vertical or inclined surface. This activity is commonly practiced as a recreational sport, a form of exercise, or as a means of reaching higher points or overcoming obstacles.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich klettere gerne auf Berge.",
-                "english": "I like to climb mountains."
-            },
-            {
-                "german": "Er hat gestern eine hohe Mauer geklettert.",
-                "english": "He climbed a high wall yesterday."
-            },
-            {
-                "german": "Wir werden morgen in den Kletterpark gehen.",
-                "english": "We will go to the climbing park tomorrow."
-            },
-            {
-                "german": "Sie klettert seit ihrer Kindheit.",
-                "english": "She has been climbing since her childhood."
-            },
-            {
-                "german": "Kannst du an der Kletterwand hochklettern?",
-                "english": "Can you climb up the climbing wall?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich klettere gerne auf Berge.",
+            "english": "I like to climb mountains."
+        },
+        {
+            "german": "Er hat gestern eine hohe Mauer geklettert.",
+            "english": "He climbed a high wall yesterday."
+        },
+        {
+            "german": "Wir werden morgen in den Kletterpark gehen.",
+            "english": "We will go to the climbing park tomorrow."
+        },
+        {
+            "german": "Sie klettert seit ihrer Kindheit.",
+            "english": "She has been climbing since her childhood."
+        },
+        {
+            "german": "Kannst du an der Kletterwand hochklettern?",
+            "english": "Can you climb up the climbing wall?"
+        }
+    ]
 }

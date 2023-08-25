@@ -1,28 +1,26 @@
 {
     "word": "rauchen, rauchte, geraucht",
     "definition": "A term commonly employed to describe the act of inhaling and exhaling the byproduct of combustion, typically produced by burning organic matter. It is often associated with recreational activities and is frequently utilized in social settings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich rauche nicht.",
-                "english": "I don't smoke."
-            },
-            {
-                "german": "Rauchst du?",
-                "english": "Do you smoke?"
-            },
-            {
-                "german": "Er raucht eine Zigarette.",
-                "english": "He is smoking a cigarette."
-            },
-            {
-                "german": "Sie raucht seit 10 Jahren.",
-                "english": "She has been smoking for 10 years."
-            },
-            {
-                "german": "Wir rauchen nur gelegentlich.",
-                "english": "We only smoke occasionally."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich rauche nicht.",
+            "english": "I don't smoke."
+        },
+        {
+            "german": "Rauchst du?",
+            "english": "Do you smoke?"
+        },
+        {
+            "german": "Er raucht eine Zigarette.",
+            "english": "He is smoking a cigarette."
+        },
+        {
+            "german": "Sie raucht seit 10 Jahren.",
+            "english": "She has been smoking for 10 years."
+        },
+        {
+            "german": "Wir rauchen nur gelegentlich.",
+            "english": "We only smoke occasionally."
+        }
+    ]
 }

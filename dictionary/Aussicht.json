@@ -1,28 +1,26 @@
 {
     "word": "die Aussicht, die Aussichten",
     "definition": "A term referring to the act of visually perceiving the surrounding environment, typically from a higher vantage point, often associated with a sense of anticipation, hope, or contemplation. It is commonly used to describe the view or panorama observed from a specific location, such as a lookout point, a window, or a scenic spot.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Aussicht vom Berggipfel ist atemberaubend.",
-                "english": "The view from the mountain peak is breathtaking."
-            },
-            {
-                "german": "Von meinem Büro aus habe ich eine tolle Aussicht auf die Stadt.",
-                "english": "From my office, I have a great view of the city."
-            },
-            {
-                "german": "Wir haben eine gute Aussicht, den Wettbewerb zu gewinnen.",
-                "english": "We have a good chance of winning the competition."
-            },
-            {
-                "german": "Die Aussicht auf eine Beförderung motiviert mich.",
-                "english": "The prospect of a promotion motivates me."
-            },
-            {
-                "german": "Die Aussicht auf Regen hat unsere Pläne für den Tag ruiniert.",
-                "english": "The forecast of rain ruined our plans for the day."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Aussicht vom Berggipfel ist atemberaubend.",
+            "english": "The view from the mountain peak is breathtaking."
+        },
+        {
+            "german": "Von meinem Büro aus habe ich eine tolle Aussicht auf die Stadt.",
+            "english": "From my office, I have a great view of the city."
+        },
+        {
+            "german": "Wir haben eine gute Aussicht, den Wettbewerb zu gewinnen.",
+            "english": "We have a good chance of winning the competition."
+        },
+        {
+            "german": "Die Aussicht auf eine Beförderung motiviert mich.",
+            "english": "The prospect of a promotion motivates me."
+        },
+        {
+            "german": "Die Aussicht auf Regen hat unsere Pläne für den Tag ruiniert.",
+            "english": "The forecast of rain ruined our plans for the day."
+        }
+    ]
 }

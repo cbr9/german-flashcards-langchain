@@ -1,28 +1,26 @@
 {
     "word": "einkaufen, kaufte ein, eingekauft",
     "definition": "To engage in the activity of acquiring goods or services in exchange for payment, typically done at various establishments such as stores, markets, or online platforms. This word is commonly used to describe the act of shopping for groceries, household items, clothing, or other consumer products.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe einkaufen.",
-                "english": "I am going shopping."
-            },
-            {
-                "german": "Kannst du für mich einkaufen gehen?",
-                "english": "Can you go shopping for me?"
-            },
-            {
-                "german": "Wir müssen noch Lebensmittel einkaufen.",
-                "english": "We still need to buy groceries."
-            },
-            {
-                "german": "Sie hat gestern neue Kleidung eingekauft.",
-                "english": "She bought new clothes yesterday."
-            },
-            {
-                "german": "Ich gehe gerne einkaufen, aber ich muss auf mein Budget achten.",
-                "english": "I enjoy shopping, but I have to watch my budget."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe einkaufen.",
+            "english": "I am going shopping."
+        },
+        {
+            "german": "Kannst du für mich einkaufen gehen?",
+            "english": "Can you go shopping for me?"
+        },
+        {
+            "german": "Wir müssen noch Lebensmittel einkaufen.",
+            "english": "We still need to buy groceries."
+        },
+        {
+            "german": "Sie hat gestern neue Kleidung eingekauft.",
+            "english": "She bought new clothes yesterday."
+        },
+        {
+            "german": "Ich gehe gerne einkaufen, aber ich muss auf mein Budget achten.",
+            "english": "I enjoy shopping, but I have to watch my budget."
+        }
+    ]
 }

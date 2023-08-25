@@ -1,28 +1,26 @@
 {
     "word": "das Stockwerk, die Stockwerke",
     "definition": "A level or floor within a building, typically used to describe the different levels of a multi-story structure.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Büro befindet sich im dritten Stockwerk.",
-                "english": "The office is located on the third floor."
-            },
-            {
-                "german": "Die Wohnung hat insgesamt fünf Stockwerke.",
-                "english": "The apartment has a total of five floors."
-            },
-            {
-                "german": "Der Aufzug fährt bis zum obersten Stockwerk.",
-                "english": "The elevator goes up to the top floor."
-            },
-            {
-                "german": "Im Erdgeschoss befindet sich ein Supermarkt.",
-                "english": "There is a supermarket on the ground floor."
-            },
-            {
-                "german": "Die Konferenzräume befinden sich im zweiten Stockwerk.",
-                "english": "The conference rooms are located on the second floor."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Büro befindet sich im dritten Stockwerk.",
+            "english": "The office is located on the third floor."
+        },
+        {
+            "german": "Die Wohnung hat insgesamt fünf Stockwerke.",
+            "english": "The apartment has a total of five floors."
+        },
+        {
+            "german": "Der Aufzug fährt bis zum obersten Stockwerk.",
+            "english": "The elevator goes up to the top floor."
+        },
+        {
+            "german": "Im Erdgeschoss befindet sich ein Supermarkt.",
+            "english": "There is a supermarket on the ground floor."
+        },
+        {
+            "german": "Die Konferenzräume befinden sich im zweiten Stockwerk.",
+            "english": "The conference rooms are located on the second floor."
+        }
+    ]
 }

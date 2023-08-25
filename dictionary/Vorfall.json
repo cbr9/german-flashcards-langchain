@@ -1,28 +1,26 @@
 {
     "word": "der Vorfall, die Vorfälle",
     "definition": "A situation or occurrence that takes place, typically involving an unexpected or noteworthy event. It is commonly used to describe incidents, accidents, or events that happen unexpectedly or out of the ordinary.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Vorfall wurde der Polizei gemeldet.",
-                "english": "The incident was reported to the police."
-            },
-            {
-                "german": "Es handelte sich um einen schweren Vorfall.",
-                "english": "It was a serious incident."
-            },
-            {
-                "german": "Der Vorfall ereignete sich gestern Abend.",
-                "english": "The incident occurred last night."
-            },
-            {
-                "german": "Nach dem Vorfall wurden Sicherheitsmaßnahmen ergriffen.",
-                "english": "Security measures were taken after the incident."
-            },
-            {
-                "german": "Der Vorfall führte zu erheblichen Schäden.",
-                "english": "The incident resulted in significant damages."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Vorfall wurde der Polizei gemeldet.",
+            "english": "The incident was reported to the police."
+        },
+        {
+            "german": "Es handelte sich um einen schweren Vorfall.",
+            "english": "It was a serious incident."
+        },
+        {
+            "german": "Der Vorfall ereignete sich gestern Abend.",
+            "english": "The incident occurred last night."
+        },
+        {
+            "german": "Nach dem Vorfall wurden Sicherheitsmaßnahmen ergriffen.",
+            "english": "Security measures were taken after the incident."
+        },
+        {
+            "german": "Der Vorfall führte zu erheblichen Schäden.",
+            "english": "The incident resulted in significant damages."
+        }
+    ]
 }

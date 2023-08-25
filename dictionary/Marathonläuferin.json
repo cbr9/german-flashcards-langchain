@@ -1,28 +1,26 @@
 {
     "word": "die Marathonläuferin, die Marathonläuferinnen",
     "definition": "A person who participates in a long-distance running event, typically covering a distance of 42.195 kilometers, often in organized races or competitions. This term is commonly used to refer to a female individual who engages in marathon running.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Marathonläuferin hat den Wettbewerb gewonnen.",
-                "english": "The marathon runner won the competition."
-            },
-            {
-                "german": "Die Marathonläuferin trainiert hart für den nächsten Lauf.",
-                "english": "The marathon runner trains hard for the next race."
-            },
-            {
-                "german": "Die Marathonläuferin hat einen neuen persönlichen Rekord aufgestellt.",
-                "english": "The marathon runner set a new personal record."
-            },
-            {
-                "german": "Die Marathonläuferin ist erschöpft, aber glücklich im Ziel angekommen.",
-                "english": "The marathon runner arrived exhausted but happy at the finish line."
-            },
-            {
-                "german": "Die Marathonläuferin nimmt an internationalen Wettkämpfen teil.",
-                "english": "The marathon runner participates in international competitions."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Marathonläuferin hat den Wettbewerb gewonnen.",
+            "english": "The marathon runner won the competition."
+        },
+        {
+            "german": "Die Marathonläuferin trainiert hart für den nächsten Lauf.",
+            "english": "The marathon runner trains hard for the next race."
+        },
+        {
+            "german": "Die Marathonläuferin hat einen neuen persönlichen Rekord aufgestellt.",
+            "english": "The marathon runner set a new personal record."
+        },
+        {
+            "german": "Die Marathonläuferin ist erschöpft, aber glücklich im Ziel angekommen.",
+            "english": "The marathon runner arrived exhausted but happy at the finish line."
+        },
+        {
+            "german": "Die Marathonläuferin nimmt an internationalen Wettkämpfen teil.",
+            "english": "The marathon runner participates in international competitions."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Supermarkt, die Supermärkte",
     "definition": "A large retail establishment where customers can purchase a wide variety of groceries, household items, and other consumer goods. It is commonly used to refer to a specific type of store that offers a convenient one-stop shopping experience for everyday necessities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe heute in den Supermarkt.",
-                "english": "I am going to the supermarket today."
-            },
-            {
-                "german": "Der Supermarkt hat bis 22 Uhr geöffnet.",
-                "english": "The supermarket is open until 10 PM."
-            },
-            {
-                "german": "Ich kaufe immer frisches Obst im Supermarkt.",
-                "english": "I always buy fresh fruits at the supermarket."
-            },
-            {
-                "german": "Im Supermarkt gibt es eine große Auswahl an Produkten.",
-                "english": "The supermarket offers a wide range of products."
-            },
-            {
-                "german": "Der Supermarkt ist um die Ecke.",
-                "english": "The supermarket is around the corner."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe heute in den Supermarkt.",
+            "english": "I am going to the supermarket today."
+        },
+        {
+            "german": "Der Supermarkt hat bis 22 Uhr geöffnet.",
+            "english": "The supermarket is open until 10 PM."
+        },
+        {
+            "german": "Ich kaufe immer frisches Obst im Supermarkt.",
+            "english": "I always buy fresh fruits at the supermarket."
+        },
+        {
+            "german": "Im Supermarkt gibt es eine große Auswahl an Produkten.",
+            "english": "The supermarket offers a wide range of products."
+        },
+        {
+            "german": "Der Supermarkt ist um die Ecke.",
+            "english": "The supermarket is around the corner."
+        }
+    ]
 }

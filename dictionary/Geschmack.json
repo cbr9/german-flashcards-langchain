@@ -1,28 +1,26 @@
 {
     "word": "der Geschmack, die Geschmäcker",
     "definition": "A term used to describe the sensory perception and evaluation of flavors, often associated with food and beverages. It encompasses the ability to discern and appreciate different tastes, such as sweet, sour, bitter, and salty, as well as the overall enjoyment or preference for certain flavors. Additionally, it can refer to an individual's personal taste or aesthetic preference in various contexts, such as art, fashion, or design.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Geschmack des Kuchens ist süß.",
-                "english": "The taste of the cake is sweet."
-            },
-            {
-                "german": "Ich mag den Geschmack von Kaffee.",
-                "english": "I like the taste of coffee."
-            },
-            {
-                "german": "Der Wein hat einen fruchtigen Geschmack.",
-                "english": "The wine has a fruity taste."
-            },
-            {
-                "german": "Der Geschmack des Essens ist köstlich.",
-                "english": "The taste of the food is delicious."
-            },
-            {
-                "german": "Sie hat einen eigenartigen Geschmack in Kleidung.",
-                "english": "She has a peculiar taste in clothing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Geschmack des Kuchens ist süß.",
+            "english": "The taste of the cake is sweet."
+        },
+        {
+            "german": "Ich mag den Geschmack von Kaffee.",
+            "english": "I like the taste of coffee."
+        },
+        {
+            "german": "Der Wein hat einen fruchtigen Geschmack.",
+            "english": "The wine has a fruity taste."
+        },
+        {
+            "german": "Der Geschmack des Essens ist köstlich.",
+            "english": "The taste of the food is delicious."
+        },
+        {
+            "german": "Sie hat einen eigenartigen Geschmack in Kleidung.",
+            "english": "She has a peculiar taste in clothing."
+        }
+    ]
 }

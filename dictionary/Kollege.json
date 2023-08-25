@@ -1,28 +1,26 @@
 {
     "word": "der Kollege, die Kollegen",
     "definition": "A person who works in the same organization or profession as another individual, typically in a collaborative or cooperative manner. This term is commonly used to refer to someone who shares the same workplace or field of work, fostering a sense of camaraderie and teamwork.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Kollege ist sehr nett.",
-                "english": "My colleague is very nice."
-            },
-            {
-                "german": "Ich arbeite eng mit meinen Kollegen zusammen.",
-                "english": "I work closely with my colleagues."
-            },
-            {
-                "german": "Unser neuer Kollege kommt aus Frankreich.",
-                "english": "Our new colleague is from France."
-            },
-            {
-                "german": "Mein Kollege hat heute Geburtstag.",
-                "english": "My colleague has his birthday today."
-            },
-            {
-                "german": "Die Kollegen haben mich zum Essen eingeladen.",
-                "english": "The colleagues invited me for dinner."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Kollege ist sehr nett.",
+            "english": "My colleague is very nice."
+        },
+        {
+            "german": "Ich arbeite eng mit meinen Kollegen zusammen.",
+            "english": "I work closely with my colleagues."
+        },
+        {
+            "german": "Unser neuer Kollege kommt aus Frankreich.",
+            "english": "Our new colleague is from France."
+        },
+        {
+            "german": "Mein Kollege hat heute Geburtstag.",
+            "english": "My colleague has his birthday today."
+        },
+        {
+            "german": "Die Kollegen haben mich zum Essen eingeladen.",
+            "english": "The colleagues invited me for dinner."
+        }
+    ]
 }

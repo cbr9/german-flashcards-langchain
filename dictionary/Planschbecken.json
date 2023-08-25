@@ -1,28 +1,26 @@
 {
     "word": "das Planschbecken, die Planschbecken",
     "definition": "A shallow container filled with water, typically used for recreational purposes by children during warm weather.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Planschbecken ist voll mit Wasser.",
-                "english": "The paddling pool is full of water."
-            },
-            {
-                "german": "Wir haben ein Planschbecken im Garten.",
-                "english": "We have a paddling pool in the garden."
-            },
-            {
-                "german": "Die Kinder spielen im Planschbecken.",
-                "english": "The children are playing in the paddling pool."
-            },
-            {
-                "german": "Im Sommer ist das Planschbecken sehr beliebt.",
-                "english": "The paddling pool is very popular in summer."
-            },
-            {
-                "german": "Das Planschbecken hat eine runde Form.",
-                "english": "The paddling pool has a round shape."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Planschbecken ist voll mit Wasser.",
+            "english": "The paddling pool is full of water."
+        },
+        {
+            "german": "Wir haben ein Planschbecken im Garten.",
+            "english": "We have a paddling pool in the garden."
+        },
+        {
+            "german": "Die Kinder spielen im Planschbecken.",
+            "english": "The children are playing in the paddling pool."
+        },
+        {
+            "german": "Im Sommer ist das Planschbecken sehr beliebt.",
+            "english": "The paddling pool is very popular in summer."
+        },
+        {
+            "german": "Das Planschbecken hat eine runde Form.",
+            "english": "The paddling pool has a round shape."
+        }
+    ]
 }

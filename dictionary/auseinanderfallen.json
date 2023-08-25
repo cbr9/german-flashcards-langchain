@@ -1,28 +1,26 @@
 {
     "word": "auseinanderfallen, fiel auseinander, auseinandergefallen",
     "definition": "To disintegrate or fall apart, often used to describe the gradual or sudden collapse of a complex structure or system. This term is commonly employed to depict the fragmentation or breakdown of relationships, organizations, or plans due to internal or external factors.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die alten Mauern des Schlosses fallen auseinander.",
-                "english": "The old walls of the castle are falling apart."
-            },
-            {
-                "german": "Die Beziehung zwischen den beiden Partnern fällt auseinander.",
-                "english": "The relationship between the two partners is falling apart."
-            },
-            {
-                "german": "Das Unternehmen droht auseinanderzufallen.",
-                "english": "The company is at risk of falling apart."
-            },
-            {
-                "german": "Die Gruppe konnte sich nicht einigen und fiel auseinander.",
-                "english": "The group couldn't agree and fell apart."
-            },
-            {
-                "german": "Die zerbrechliche Vase fiel auseinander, als sie auf den Boden fiel.",
-                "english": "The fragile vase fell apart when it hit the floor."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die alten Mauern des Schlosses fallen auseinander.",
+            "english": "The old walls of the castle are falling apart."
+        },
+        {
+            "german": "Die Beziehung zwischen den beiden Partnern fällt auseinander.",
+            "english": "The relationship between the two partners is falling apart."
+        },
+        {
+            "german": "Das Unternehmen droht auseinanderzufallen.",
+            "english": "The company is at risk of falling apart."
+        },
+        {
+            "german": "Die Gruppe konnte sich nicht einigen und fiel auseinander.",
+            "english": "The group couldn't agree and fell apart."
+        },
+        {
+            "german": "Die zerbrechliche Vase fiel auseinander, als sie auf den Boden fiel.",
+            "english": "The fragile vase fell apart when it hit the floor."
+        }
+    ]
 }

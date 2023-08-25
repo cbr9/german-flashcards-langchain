@@ -1,28 +1,26 @@
 {
     "word": "der Vermieter, die Vermieter",
     "definition": "A person who possesses and rents out a property or real estate to others, typically for residential purposes. This term is commonly used to refer to the individual or entity that acts as the landlord or property owner in a rental agreement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Vermieter hat die Miete erhöht.",
-                "english": "The landlord has increased the rent."
-            },
-            {
-                "german": "Mein Vermieter ist sehr freundlich.",
-                "english": "My landlord is very friendly."
-            },
-            {
-                "german": "Der Vermieter hat die Wohnung renoviert.",
-                "english": "The landlord has renovated the apartment."
-            },
-            {
-                "german": "Unser Vermieter verlangt eine Kaution.",
-                "english": "Our landlord demands a deposit."
-            },
-            {
-                "german": "Der Vermieter hat den Mietvertrag gekündigt.",
-                "english": "The landlord has terminated the lease agreement."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Vermieter hat die Miete erhöht.",
+            "english": "The landlord has increased the rent."
+        },
+        {
+            "german": "Mein Vermieter ist sehr freundlich.",
+            "english": "My landlord is very friendly."
+        },
+        {
+            "german": "Der Vermieter hat die Wohnung renoviert.",
+            "english": "The landlord has renovated the apartment."
+        },
+        {
+            "german": "Unser Vermieter verlangt eine Kaution.",
+            "english": "Our landlord demands a deposit."
+        },
+        {
+            "german": "Der Vermieter hat den Mietvertrag gekündigt.",
+            "english": "The landlord has terminated the lease agreement."
+        }
+    ]
 }

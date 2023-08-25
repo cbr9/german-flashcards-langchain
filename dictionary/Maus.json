@@ -1,28 +1,26 @@
 {
     "word": "die Maus, die Mäuse",
     "definition": "A small, furry creature typically kept as a pet or found in the wild, known for its ability to scurry quickly and its tendency to nibble on various objects. It is often associated with cheese and is a common character in children's stories and cartoons.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Maus ist klein.",
-                "english": "The mouse is small."
-            },
-            {
-                "german": "Die Maus frisst Käse.",
-                "english": "The mouse eats cheese."
-            },
-            {
-                "german": "Die Maus hat einen langen Schwanz.",
-                "english": "The mouse has a long tail."
-            },
-            {
-                "german": "Die Maus läuft schnell.",
-                "english": "The mouse runs fast."
-            },
-            {
-                "german": "Die Maus lebt in einem Mauseloch.",
-                "english": "The mouse lives in a mouse hole."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Maus ist klein.",
+            "english": "The mouse is small."
+        },
+        {
+            "german": "Die Maus frisst Käse.",
+            "english": "The mouse eats cheese."
+        },
+        {
+            "german": "Die Maus hat einen langen Schwanz.",
+            "english": "The mouse has a long tail."
+        },
+        {
+            "german": "Die Maus läuft schnell.",
+            "english": "The mouse runs fast."
+        },
+        {
+            "german": "Die Maus lebt in einem Mauseloch.",
+            "english": "The mouse lives in a mouse hole."
+        }
+    ]
 }

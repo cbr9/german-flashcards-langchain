@@ -1,28 +1,26 @@
 {
     "word": "das Schwimmen, die Schwimmen (no plural form)",
     "definition": "The action of propelling oneself through a body of water by moving the limbs in a coordinated manner, typically performed for recreational or competitive purposes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich schwimme gerne im See.",
-                "english": "I like swimming in the lake."
-            },
-            {
-                "german": "Er kann sehr gut schwimmen.",
-                "english": "He can swim very well."
-            },
-            {
-                "german": "Wir gehen morgen schwimmen.",
-                "english": "We are going swimming tomorrow."
-            },
-            {
-                "german": "Schwimmen ist ein guter Sport für die Gesundheit.",
-                "english": "Swimming is a good sport for health."
-            },
-            {
-                "german": "Sie schwimmt jeden Tag eine Stunde.",
-                "english": "She swims for an hour every day."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich schwimme gerne im See.",
+            "english": "I like swimming in the lake."
+        },
+        {
+            "german": "Er kann sehr gut schwimmen.",
+            "english": "He can swim very well."
+        },
+        {
+            "german": "Wir gehen morgen schwimmen.",
+            "english": "We are going swimming tomorrow."
+        },
+        {
+            "german": "Schwimmen ist ein guter Sport für die Gesundheit.",
+            "english": "Swimming is a good sport for health."
+        },
+        {
+            "german": "Sie schwimmt jeden Tag eine Stunde.",
+            "english": "She swims for an hour every day."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "berühren, berührte, berührt",
     "definition": "To come into physical contact with something or someone, typically involving touching or making contact with the skin, an object, or a surface. It is commonly used to describe the act of touching or making contact in a gentle or delicate manner.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich berühre die Blumen.",
-                "english": "I touch the flowers."
-            },
-            {
-                "german": "Bitte nicht berühren!",
-                "english": "Please do not touch!"
-            },
-            {
-                "german": "Die beiden Hände berühren sich.",
-                "english": "The two hands touch each other."
-            },
-            {
-                "german": "Seine Worte haben mich tief berührt.",
-                "english": "His words deeply touched me."
-            },
-            {
-                "german": "Die Musik berührt meine Seele.",
-                "english": "The music touches my soul."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich berühre die Blumen.",
+            "english": "I touch the flowers."
+        },
+        {
+            "german": "Bitte nicht berühren!",
+            "english": "Please do not touch!"
+        },
+        {
+            "german": "Die beiden Hände berühren sich.",
+            "english": "The two hands touch each other."
+        },
+        {
+            "german": "Seine Worte haben mich tief berührt.",
+            "english": "His words deeply touched me."
+        },
+        {
+            "german": "Die Musik berührt meine Seele.",
+            "english": "The music touches my soul."
+        }
+    ]
 }

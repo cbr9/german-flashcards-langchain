@@ -1,28 +1,26 @@
 {
     "word": "enthalten, enthielt, enthalten",
     "definition": "To possess or include something within, often used to describe the content or composition of a particular object or substance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Produkt enthält keine künstlichen Farbstoffe.",
-                "english": "The product does not contain any artificial colorings."
-            },
-            {
-                "german": "Die Schokolade kann Spuren von Nüssen enthalten.",
-                "english": "The chocolate may contain traces of nuts."
-            },
-            {
-                "german": "Die Zutatenliste enthält keine allergenen Stoffe.",
-                "english": "The ingredient list does not contain any allergenic substances."
-            },
-            {
-                "german": "Das Buch enthält viele interessante Informationen.",
-                "english": "The book contains a lot of interesting information."
-            },
-            {
-                "german": "Der Vertrag enthält eine Klausel zum Schadenersatz.",
-                "english": "The contract contains a clause for damages."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Produkt enthält keine künstlichen Farbstoffe.",
+            "english": "The product does not contain any artificial colorings."
+        },
+        {
+            "german": "Die Schokolade kann Spuren von Nüssen enthalten.",
+            "english": "The chocolate may contain traces of nuts."
+        },
+        {
+            "german": "Die Zutatenliste enthält keine allergenen Stoffe.",
+            "english": "The ingredient list does not contain any allergenic substances."
+        },
+        {
+            "german": "Das Buch enthält viele interessante Informationen.",
+            "english": "The book contains a lot of interesting information."
+        },
+        {
+            "german": "Der Vertrag enthält eine Klausel zum Schadenersatz.",
+            "english": "The contract contains a clause for damages."
+        }
+    ]
 }

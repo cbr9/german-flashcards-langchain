@@ -1,28 +1,26 @@
 {
     "word": "kochen, kochte, gekocht",
     "definition": "To prepare food by applying heat, typically involving the use of various ingredients and techniques. This term is commonly employed in the context of culinary activities, involving the transformation of raw ingredients into cooked dishes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich koche gerne.",
-                "english": "I enjoy cooking."
-            },
-            {
-                "german": "Kannst du heute Abend kochen?",
-                "english": "Can you cook tonight?"
-            },
-            {
-                "german": "Sie kocht ein leckeres Essen.",
-                "english": "She is cooking a delicious meal."
-            },
-            {
-                "german": "Ich habe gestern Nudeln gekocht.",
-                "english": "I cooked pasta yesterday."
-            },
-            {
-                "german": "Kochst du oft zu Hause?",
-                "english": "Do you cook often at home?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich koche gerne.",
+            "english": "I enjoy cooking."
+        },
+        {
+            "german": "Kannst du heute Abend kochen?",
+            "english": "Can you cook tonight?"
+        },
+        {
+            "german": "Sie kocht ein leckeres Essen.",
+            "english": "She is cooking a delicious meal."
+        },
+        {
+            "german": "Ich habe gestern Nudeln gekocht.",
+            "english": "I cooked pasta yesterday."
+        },
+        {
+            "german": "Kochst du oft zu Hause?",
+            "english": "Do you cook often at home?"
+        }
+    ]
 }

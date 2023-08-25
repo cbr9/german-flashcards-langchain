@@ -1,28 +1,26 @@
 {
     "word": "gefallen, gefiel, gefallen",
     "definition": "To please or to be pleasing to someone; often used to describe the act of liking or finding something enjoyable.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mir gefällt das Buch.",
-                "english": "I like the book."
-            },
-            {
-                "german": "Das Essen hat mir sehr gut gefallen.",
-                "english": "I really enjoyed the food."
-            },
-            {
-                "german": "Der Film hat mir nicht gefallen.",
-                "english": "I didn't like the movie."
-            },
-            {
-                "german": "Die Farbe gefällt mir nicht.",
-                "english": "I don't like the color."
-            },
-            {
-                "german": "Das neue Auto gefällt mir sehr.",
-                "english": "I really like the new car."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mir gefällt das Buch.",
+            "english": "I like the book."
+        },
+        {
+            "german": "Das Essen hat mir sehr gut gefallen.",
+            "english": "I really enjoyed the food."
+        },
+        {
+            "german": "Der Film hat mir nicht gefallen.",
+            "english": "I didn't like the movie."
+        },
+        {
+            "german": "Die Farbe gefällt mir nicht.",
+            "english": "I don't like the color."
+        },
+        {
+            "german": "Das neue Auto gefällt mir sehr.",
+            "english": "I really like the new car."
+        }
+    ]
 }

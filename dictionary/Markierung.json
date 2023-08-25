@@ -1,28 +1,26 @@
 {
     "word": "die Markierung, die Markierungen",
     "definition": "A visual or physical indication, often in the form of a symbol, sign, or marking, that is commonly employed to highlight, designate, or demarcate specific areas, objects, or boundaries. It is frequently utilized in various contexts, such as sports fields, roadways, construction sites, and public spaces, to provide clear guidance, identification, or restriction.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Markierung auf der Straße zeigt an, wo man parken darf.",
-                "english": "The marking on the road indicates where parking is allowed."
-            },
-            {
-                "german": "Die Markierung auf dem Fußballfeld zeigt den Strafstoßpunkt an.",
-                "english": "The marking on the football field indicates the penalty spot."
-            },
-            {
-                "german": "Bitte beachten Sie die Markierung auf dem Boden, um den richtigen Weg zu finden.",
-                "english": "Please follow the marking on the floor to find the right way."
-            },
-            {
-                "german": "Die Markierung auf dem Paket zeigt an, dass es zerbrechlich ist.",
-                "english": "The marking on the package indicates that it is fragile."
-            },
-            {
-                "german": "Die Markierung auf der Karte zeigt den Standort des Hotels an.",
-                "english": "The marking on the map indicates the location of the hotel."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Markierung auf der Straße zeigt an, wo man parken darf.",
+            "english": "The marking on the road indicates where parking is allowed."
+        },
+        {
+            "german": "Die Markierung auf dem Fußballfeld zeigt den Strafstoßpunkt an.",
+            "english": "The marking on the football field indicates the penalty spot."
+        },
+        {
+            "german": "Bitte beachten Sie die Markierung auf dem Boden, um den richtigen Weg zu finden.",
+            "english": "Please follow the marking on the floor to find the right way."
+        },
+        {
+            "german": "Die Markierung auf dem Paket zeigt an, dass es zerbrechlich ist.",
+            "english": "The marking on the package indicates that it is fragile."
+        },
+        {
+            "german": "Die Markierung auf der Karte zeigt den Standort des Hotels an.",
+            "english": "The marking on the map indicates the location of the hotel."
+        }
+    ]
 }

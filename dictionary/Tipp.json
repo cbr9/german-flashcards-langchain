@@ -1,28 +1,26 @@
 {
     "word": "der Tipp, die Tipps",
     "definition": "A piece of advice or suggestion typically given in a casual or informal manner, often related to practical tips, recommendations, or helpful hints in various areas of life. It is commonly used in contexts where individuals share useful information or recommendations with others.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir einen Tipp geben?",
-                "english": "Can you give me a tip?"
-            },
-            {
-                "german": "Hier ist ein guter Tipp für dich.",
-                "english": "Here's a good tip for you."
-            },
-            {
-                "german": "Ich habe einen Tipp für dich.",
-                "english": "I have a tip for you."
-            },
-            {
-                "german": "Hast du einen Tipp, wie ich das machen kann?",
-                "english": "Do you have a tip on how I can do that?"
-            },
-            {
-                "german": "Mein Tipp ist, es einfach zu versuchen.",
-                "english": "My tip is to just give it a try."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir einen Tipp geben?",
+            "english": "Can you give me a tip?"
+        },
+        {
+            "german": "Hier ist ein guter Tipp für dich.",
+            "english": "Here's a good tip for you."
+        },
+        {
+            "german": "Ich habe einen Tipp für dich.",
+            "english": "I have a tip for you."
+        },
+        {
+            "german": "Hast du einen Tipp, wie ich das machen kann?",
+            "english": "Do you have a tip on how I can do that?"
+        },
+        {
+            "german": "Mein Tipp ist, es einfach zu versuchen.",
+            "english": "My tip is to just give it a try."
+        }
+    ]
 }

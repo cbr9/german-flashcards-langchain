@@ -1,28 +1,26 @@
 {
     "word": "unterstützen, unterstützte, unterstützt",
     "definition": "To provide aid, help, or assistance to someone or something, typically in a supportive or beneficial manner. It is commonly used to describe actions that contribute to the advancement, well-being, or success of individuals, organizations, or causes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich unterstütze dich bei deinem Projekt.",
-                "english": "I support you in your project."
-            },
-            {
-                "german": "Wir sollten uns gegenseitig unterstützen.",
-                "english": "We should support each other."
-            },
-            {
-                "german": "Die Regierung unterstützt die Entwicklung erneuerbarer Energien.",
-                "english": "The government supports the development of renewable energy."
-            },
-            {
-                "german": "Kannst du mich finanziell unterstützen?",
-                "english": "Can you support me financially?"
-            },
-            {
-                "german": "Er unterstützt die Idee, das Unternehmen zu erweitern.",
-                "english": "He supports the idea of expanding the company."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich unterstütze dich bei deinem Projekt.",
+            "english": "I support you in your project."
+        },
+        {
+            "german": "Wir sollten uns gegenseitig unterstützen.",
+            "english": "We should support each other."
+        },
+        {
+            "german": "Die Regierung unterstützt die Entwicklung erneuerbarer Energien.",
+            "english": "The government supports the development of renewable energy."
+        },
+        {
+            "german": "Kannst du mich finanziell unterstützen?",
+            "english": "Can you support me financially?"
+        },
+        {
+            "german": "Er unterstützt die Idee, das Unternehmen zu erweitern.",
+            "english": "He supports the idea of expanding the company."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "haben, hatte, gehabt",
     "definition": "To possess or hold something, often used to indicate ownership or the state of having something. It is commonly used to express possession of objects, characteristics, or qualities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen Hund.",
-                "english": "I have a dog."
-            },
-            {
-                "german": "Hast du Hunger?",
-                "english": "Are you hungry?"
-            },
-            {
-                "german": "Er hat ein Buch gelesen.",
-                "english": "He has read a book."
-            },
-            {
-                "german": "Wir haben viel Spaß.",
-                "english": "We have a lot of fun."
-            },
-            {
-                "german": "Sie haben das Spiel gewonnen.",
-                "english": "They have won the game."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen Hund.",
+            "english": "I have a dog."
+        },
+        {
+            "german": "Hast du Hunger?",
+            "english": "Are you hungry?"
+        },
+        {
+            "german": "Er hat ein Buch gelesen.",
+            "english": "He has read a book."
+        },
+        {
+            "german": "Wir haben viel Spaß.",
+            "english": "We have a lot of fun."
+        },
+        {
+            "german": "Sie haben das Spiel gewonnen.",
+            "english": "They have won the game."
+        }
+    ]
 }

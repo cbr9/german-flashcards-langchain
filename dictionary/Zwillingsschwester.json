@@ -1,28 +1,26 @@
 {
     "word": "die Zwillingsschwester, die Zwillingsschwestern",
     "definition": "A female sibling who shares the same birth date and is born from the same pregnancy as another person. This term is commonly used to refer to a sister who is a twin.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Zwillingsschwester und ich sind unzertrennlich.",
-                "english": "My twin sister and I are inseparable."
-            },
-            {
-                "german": "Sie ist meine Zwillingsschwester, aber wir sehen uns überhaupt nicht ähnlich.",
-                "english": "She is my twin sister, but we don't look alike at all."
-            },
-            {
-                "german": "Meine Zwillingsschwester hat rote Haare, während ich blonde Haare habe.",
-                "english": "My twin sister has red hair, while I have blonde hair."
-            },
-            {
-                "german": "Ich habe eine eineiige Zwillingsschwester, die genauso aussieht wie ich.",
-                "english": "I have an identical twin sister who looks exactly like me."
-            },
-            {
-                "german": "Meine Zwillingsschwester und ich haben denselben Geburtstag.",
-                "english": "My twin sister and I have the same birthday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Zwillingsschwester und ich sind unzertrennlich.",
+            "english": "My twin sister and I are inseparable."
+        },
+        {
+            "german": "Sie ist meine Zwillingsschwester, aber wir sehen uns überhaupt nicht ähnlich.",
+            "english": "She is my twin sister, but we don't look alike at all."
+        },
+        {
+            "german": "Meine Zwillingsschwester hat rote Haare, während ich blonde Haare habe.",
+            "english": "My twin sister has red hair, while I have blonde hair."
+        },
+        {
+            "german": "Ich habe eine eineiige Zwillingsschwester, die genauso aussieht wie ich.",
+            "english": "I have an identical twin sister who looks exactly like me."
+        },
+        {
+            "german": "Meine Zwillingsschwester und ich haben denselben Geburtstag.",
+            "english": "My twin sister and I have the same birthday."
+        }
+    ]
 }

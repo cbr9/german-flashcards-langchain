@@ -1,28 +1,26 @@
 {
     "word": "das Lotto, die Lottos",
     "definition": "A game of chance involving the selection of numbers, typically played by purchasing tickets and matching the numbers drawn to win prizes. It is commonly used to refer to a popular form of gambling or a lottery-like game.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich spiele jede Woche Lotto.",
-                "english": "I play the lottery every week."
-            },
-            {
-                "german": "Gestern habe ich im Lotto gewonnen.",
-                "english": "Yesterday I won the lottery."
-            },
-            {
-                "german": "Lottozahlen werden jeden Mittwoch und Samstag gezogen.",
-                "english": "Lottery numbers are drawn every Wednesday and Saturday."
-            },
-            {
-                "german": "Meine Oma spielt seit Jahren Lotto.",
-                "english": "My grandma has been playing the lottery for years."
-            },
-            {
-                "german": "Der Jackpot im Lotto ist auf 10 Millionen Euro angestiegen.",
-                "english": "The jackpot in the lottery has reached 10 million euros."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich spiele jede Woche Lotto.",
+            "english": "I play the lottery every week."
+        },
+        {
+            "german": "Gestern habe ich im Lotto gewonnen.",
+            "english": "Yesterday I won the lottery."
+        },
+        {
+            "german": "Lottozahlen werden jeden Mittwoch und Samstag gezogen.",
+            "english": "Lottery numbers are drawn every Wednesday and Saturday."
+        },
+        {
+            "german": "Meine Oma spielt seit Jahren Lotto.",
+            "english": "My grandma has been playing the lottery for years."
+        },
+        {
+            "german": "Der Jackpot im Lotto ist auf 10 Millionen Euro angestiegen.",
+            "english": "The jackpot in the lottery has reached 10 million euros."
+        }
+    ]
 }

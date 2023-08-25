@@ -1,28 +1,26 @@
 {
     "word": "der Hut, die Hüte",
     "definition": "A head covering typically made of fabric or other materials, worn to protect the head from the elements or as a fashion accessory. It is commonly used to shield the head from sun, rain, or cold weather, and is often worn as part of a formal or casual outfit.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trage einen Hut.",
-                "english": "I am wearing a hat."
-            },
-            {
-                "german": "Er hat einen roten Hut.",
-                "english": "He has a red hat."
-            },
-            {
-                "german": "Sie setzte ihren Hut auf.",
-                "english": "She put on her hat."
-            },
-            {
-                "german": "Der Hut ist zu klein.",
-                "english": "The hat is too small."
-            },
-            {
-                "german": "Kannst du meinen Hut finden?",
-                "english": "Can you find my hat?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trage einen Hut.",
+            "english": "I am wearing a hat."
+        },
+        {
+            "german": "Er hat einen roten Hut.",
+            "english": "He has a red hat."
+        },
+        {
+            "german": "Sie setzte ihren Hut auf.",
+            "english": "She put on her hat."
+        },
+        {
+            "german": "Der Hut ist zu klein.",
+            "english": "The hat is too small."
+        },
+        {
+            "german": "Kannst du meinen Hut finden?",
+            "english": "Can you find my hat?"
+        }
+    ]
 }

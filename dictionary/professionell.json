@@ -1,28 +1,26 @@
 {
     "word": "professionell",
     "definition": "The term \"professionell\" refers to the quality or characteristic of being highly skilled, competent, and experienced in a particular field or occupation. It commonly describes individuals who exhibit a high level of expertise and conduct themselves in a manner that is appropriate and conforming to professional standards. This word is often used to describe someone's work, behavior, or approach in a professional context.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein professioneller Fußballspieler.",
-                "english": "He is a professional soccer player."
-            },
-            {
-                "german": "Sie hat eine professionelle Einstellung zu ihrer Arbeit.",
-                "english": "She has a professional attitude towards her work."
-            },
-            {
-                "german": "Das Unternehmen bietet professionelle Dienstleistungen an.",
-                "english": "The company offers professional services."
-            },
-            {
-                "german": "Er hat eine professionelle Ausbildung als Koch absolviert.",
-                "english": "He has completed a professional training as a chef."
-            },
-            {
-                "german": "Die Veranstaltung war professionell organisiert.",
-                "english": "The event was professionally organized."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein professioneller Fußballspieler.",
+            "english": "He is a professional soccer player."
+        },
+        {
+            "german": "Sie hat eine professionelle Einstellung zu ihrer Arbeit.",
+            "english": "She has a professional attitude towards her work."
+        },
+        {
+            "german": "Das Unternehmen bietet professionelle Dienstleistungen an.",
+            "english": "The company offers professional services."
+        },
+        {
+            "german": "Er hat eine professionelle Ausbildung als Koch absolviert.",
+            "english": "He has completed a professional training as a chef."
+        },
+        {
+            "german": "Die Veranstaltung war professionell organisiert.",
+            "english": "The event was professionally organized."
+        }
+    ]
 }

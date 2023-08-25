@@ -1,28 +1,26 @@
 {
     "word": "verfügbar",
     "definition": "The term \"verfügbar\" refers to something that is accessible or obtainable for use or consumption. It commonly describes the availability or readiness of a particular resource, product, or service. This word is frequently used in the context of technology, indicating the presence or availability of digital content, software, or online services. It can also be employed to describe the availability of physical goods or resources in various domains.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Produkt ist ab sofort verfügbar.",
-                "english": "The product is now available."
-            },
-            {
-                "german": "Die Informationen sind online verfügbar.",
-                "english": "The information is available online."
-            },
-            {
-                "german": "Es stehen verschiedene Optionen zur Verfügung.",
-                "english": "Various options are available."
-            },
-            {
-                "german": "Die gewünschten Artikel sind nicht verfügbar.",
-                "english": "The desired items are not available."
-            },
-            {
-                "german": "Die Funktion ist nur für Premium-Mitglieder verfügbar.",
-                "english": "The feature is only available for premium members."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Produkt ist ab sofort verfügbar.",
+            "english": "The product is now available."
+        },
+        {
+            "german": "Die Informationen sind online verfügbar.",
+            "english": "The information is available online."
+        },
+        {
+            "german": "Es stehen verschiedene Optionen zur Verfügung.",
+            "english": "Various options are available."
+        },
+        {
+            "german": "Die gewünschten Artikel sind nicht verfügbar.",
+            "english": "The desired items are not available."
+        },
+        {
+            "german": "Die Funktion ist nur für Premium-Mitglieder verfügbar.",
+            "english": "The feature is only available for premium members."
+        }
+    ]
 }

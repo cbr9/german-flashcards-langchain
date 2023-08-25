@@ -1,28 +1,26 @@
 {
     "word": "künstlerisch",
     "definition": "The term \"künstlerisch\" refers to something related to the expression of creativity, imagination, or artistic skills. It commonly describes activities, works, or qualities that are associated with the arts, such as painting, sculpture, music, dance, or literature. It is often used to describe the aesthetic or creative aspects of a particular field or endeavor.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist eine künstlerische Person.",
-                "english": "She is an artistic person."
-            },
-            {
-                "german": "Das Gemälde ist sehr künstlerisch.",
-                "english": "The painting is very artistic."
-            },
-            {
-                "german": "Er hat eine künstlerische Begabung.",
-                "english": "He has an artistic talent."
-            },
-            {
-                "german": "Die Ballettaufführung war äußerst künstlerisch.",
-                "english": "The ballet performance was extremely artistic."
-            },
-            {
-                "german": "Die künstlerische Darstellung des Films hat mich beeindruckt.",
-                "english": "The artistic portrayal in the movie impressed me."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist eine künstlerische Person.",
+            "english": "She is an artistic person."
+        },
+        {
+            "german": "Das Gemälde ist sehr künstlerisch.",
+            "english": "The painting is very artistic."
+        },
+        {
+            "german": "Er hat eine künstlerische Begabung.",
+            "english": "He has an artistic talent."
+        },
+        {
+            "german": "Die Ballettaufführung war äußerst künstlerisch.",
+            "english": "The ballet performance was extremely artistic."
+        },
+        {
+            "german": "Die künstlerische Darstellung des Films hat mich beeindruckt.",
+            "english": "The artistic portrayal in the movie impressed me."
+        }
+    ]
 }

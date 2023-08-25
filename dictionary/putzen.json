@@ -1,28 +1,26 @@
 {
     "word": "putzen, putzte, geputzt",
     "definition": "To clean or tidy a space, typically involving the removal of dirt, dust, or grime. It is commonly used in relation to household chores or maintaining cleanliness in various settings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss mein Zimmer putzen.",
-                "english": "I have to clean my room."
-            },
-            {
-                "german": "Kannst du bitte das Geschirr putzen?",
-                "english": "Can you please clean the dishes?"
-            },
-            {
-                "german": "Er putzt seine Schuhe jeden Tag.",
-                "english": "He cleans his shoes every day."
-            },
-            {
-                "german": "Wir müssen das Badezimmer putzen.",
-                "english": "We need to clean the bathroom."
-            },
-            {
-                "german": "Sie putzt die Fenster gründlich.",
-                "english": "She cleans the windows thoroughly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss mein Zimmer putzen.",
+            "english": "I have to clean my room."
+        },
+        {
+            "german": "Kannst du bitte das Geschirr putzen?",
+            "english": "Can you please clean the dishes?"
+        },
+        {
+            "german": "Er putzt seine Schuhe jeden Tag.",
+            "english": "He cleans his shoes every day."
+        },
+        {
+            "german": "Wir müssen das Badezimmer putzen.",
+            "english": "We need to clean the bathroom."
+        },
+        {
+            "german": "Sie putzt die Fenster gründlich.",
+            "english": "She cleans the windows thoroughly."
+        }
+    ]
 }

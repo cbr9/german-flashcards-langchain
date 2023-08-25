@@ -1,28 +1,26 @@
 {
     "word": "brein, , ",
     "definition": "A type of food product that is typically consumed for breakfast or as a snack. It is often spread on bread or toast and is made from ground nuts, usually with added sugar or other sweeteners.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen brein",
-                "english": "I have a brain"
-            },
-            {
-                "german": "Der brein ist ein wichtiges Organ",
-                "english": "The brain is an important organ"
-            },
-            {
-                "german": "Sie hat einen klugen brein",
-                "english": "She has a smart brain"
-            },
-            {
-                "german": "Der brein steuert viele Körperfunktionen",
-                "english": "The brain controls many bodily functions"
-            },
-            {
-                "german": "Ein gesunder brein ist wichtig für die geistige Gesundheit",
-                "english": "A healthy brain is important for mental health"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen brein",
+            "english": "I have a brain"
+        },
+        {
+            "german": "Der brein ist ein wichtiges Organ",
+            "english": "The brain is an important organ"
+        },
+        {
+            "german": "Sie hat einen klugen brein",
+            "english": "She has a smart brain"
+        },
+        {
+            "german": "Der brein steuert viele Körperfunktionen",
+            "english": "The brain controls many bodily functions"
+        },
+        {
+            "german": "Ein gesunder brein ist wichtig für die geistige Gesundheit",
+            "english": "A healthy brain is important for mental health"
+        }
+    ]
 }

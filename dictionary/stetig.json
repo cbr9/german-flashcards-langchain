@@ -1,28 +1,26 @@
 {
     "word": "stetig",
     "definition": "The word \"stetig\" refers to a quality or characteristic that describes a continuous and unbroken progression or development. It is often used to describe a consistent and steady pattern or behavior that remains unchanged over time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Bevölkerung wächst stetig.",
-                "english": "The population is growing steadily."
-            },
-            {
-                "german": "Der Fluss fließt stetig in Richtung Meer.",
-                "english": "The river flows continuously towards the sea."
-            },
-            {
-                "german": "Die Preise steigen stetig an.",
-                "english": "The prices are steadily increasing."
-            },
-            {
-                "german": "Er arbeitet stetig an seinem Projekt.",
-                "english": "He is working steadily on his project."
-            },
-            {
-                "german": "Die Nachfrage nach Bio-Produkten wächst stetig.",
-                "english": "The demand for organic products is steadily growing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Bevölkerung wächst stetig.",
+            "english": "The population is growing steadily."
+        },
+        {
+            "german": "Der Fluss fließt stetig in Richtung Meer.",
+            "english": "The river flows continuously towards the sea."
+        },
+        {
+            "german": "Die Preise steigen stetig an.",
+            "english": "The prices are steadily increasing."
+        },
+        {
+            "german": "Er arbeitet stetig an seinem Projekt.",
+            "english": "He is working steadily on his project."
+        },
+        {
+            "german": "Die Nachfrage nach Bio-Produkten wächst stetig.",
+            "english": "The demand for organic products is steadily growing."
+        }
+    ]
 }

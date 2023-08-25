@@ -1,28 +1,26 @@
 {
     "word": "wissenschaftlich",
     "definition": "The term \"wissenschaftlich\" refers to the quality or characteristic of being based on systematic and rigorous research methods, often associated with academic or scientific disciplines. It is commonly used to describe activities, studies, or approaches that are grounded in empirical evidence, logical reasoning, and critical analysis.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die wissenschaftliche Methode wird in vielen Bereichen angewendet.",
-                "english": "The scientific method is applied in many fields."
-            },
-            {
-                "german": "Die wissenschaftliche Forschung hat zu bedeutenden Entdeckungen geführt.",
-                "english": "Scientific research has led to significant discoveries."
-            },
-            {
-                "german": "Es gibt eine wissenschaftliche Debatte über den Klimawandel.",
-                "english": "There is a scientific debate about climate change."
-            },
-            {
-                "german": "Die wissenschaftliche Literatur enthält viele relevante Studien zu diesem Thema.",
-                "english": "Scientific literature contains many relevant studies on this topic."
-            },
-            {
-                "german": "Die wissenschaftliche Gemeinschaft arbeitet zusammen, um neue Erkenntnisse zu gewinnen.",
-                "english": "The scientific community works together to gain new insights."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die wissenschaftliche Methode wird in vielen Bereichen angewendet.",
+            "english": "The scientific method is applied in many fields."
+        },
+        {
+            "german": "Die wissenschaftliche Forschung hat zu bedeutenden Entdeckungen geführt.",
+            "english": "Scientific research has led to significant discoveries."
+        },
+        {
+            "german": "Es gibt eine wissenschaftliche Debatte über den Klimawandel.",
+            "english": "There is a scientific debate about climate change."
+        },
+        {
+            "german": "Die wissenschaftliche Literatur enthält viele relevante Studien zu diesem Thema.",
+            "english": "Scientific literature contains many relevant studies on this topic."
+        },
+        {
+            "german": "Die wissenschaftliche Gemeinschaft arbeitet zusammen, um neue Erkenntnisse zu gewinnen.",
+            "english": "The scientific community works together to gain new insights."
+        }
+    ]
 }

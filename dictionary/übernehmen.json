@@ -1,28 +1,26 @@
 {
     "word": "übernehmen, übernahm, übernommen",
     "definition": "To assume control or responsibility for something, often referring to taking over a task, role, or position from someone else. It is commonly used in the context of business, management, or leadership.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich übernehme die Verantwortung.",
-                "english": "I take responsibility."
-            },
-            {
-                "german": "Kannst du bitte das Projekt übernehmen?",
-                "english": "Can you please take over the project?"
-            },
-            {
-                "german": "Er wird das Unternehmen übernehmen.",
-                "english": "He will take over the company."
-            },
-            {
-                "german": "Die neue Regierung wird die Politik des Vorgängers übernehmen.",
-                "english": "The new government will adopt the policies of its predecessor."
-            },
-            {
-                "german": "Sie hat die Führung des Teams übernommen.",
-                "english": "She has assumed the leadership of the team."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich übernehme die Verantwortung.",
+            "english": "I take responsibility."
+        },
+        {
+            "german": "Kannst du bitte das Projekt übernehmen?",
+            "english": "Can you please take over the project?"
+        },
+        {
+            "german": "Er wird das Unternehmen übernehmen.",
+            "english": "He will take over the company."
+        },
+        {
+            "german": "Die neue Regierung wird die Politik des Vorgängers übernehmen.",
+            "english": "The new government will adopt the policies of its predecessor."
+        },
+        {
+            "german": "Sie hat die Führung des Teams übernommen.",
+            "english": "She has assumed the leadership of the team."
+        }
+    ]
 }

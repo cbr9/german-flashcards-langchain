@@ -1,28 +1,26 @@
 {
     "word": "das Land, die Länder",
     "definition": "A geographical term referring to a large area of Earth's surface, typically distinguished by its physical features, climate, and vegetation. It is commonly used to describe a specific region or territory, often associated with political boundaries and cultural identity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Land ist sehr schön.",
-                "english": "The country is very beautiful."
-            },
-            {
-                "german": "Ich reise gerne ins Ausland.",
-                "english": "I like to travel abroad."
-            },
-            {
-                "german": "Er besitzt viel Land.",
-                "english": "He owns a lot of land."
-            },
-            {
-                "german": "Das ist ein Land der Möglichkeiten.",
-                "english": "This is a land of opportunities."
-            },
-            {
-                "german": "Sie leben auf dem Land.",
-                "english": "They live in the countryside."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Land ist sehr schön.",
+            "english": "The country is very beautiful."
+        },
+        {
+            "german": "Ich reise gerne ins Ausland.",
+            "english": "I like to travel abroad."
+        },
+        {
+            "german": "Er besitzt viel Land.",
+            "english": "He owns a lot of land."
+        },
+        {
+            "german": "Das ist ein Land der Möglichkeiten.",
+            "english": "This is a land of opportunities."
+        },
+        {
+            "german": "Sie leben auf dem Land.",
+            "english": "They live in the countryside."
+        }
+    ]
 }

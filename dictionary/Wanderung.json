@@ -1,28 +1,26 @@
 {
     "word": "die Wanderung, die Wanderungen",
     "definition": "A journey or excursion, typically involving walking or hiking, often undertaken for leisure, exploration, or physical exercise. It commonly refers to the act of going on a long-distance hike or trek through natural landscapes, such as mountains, forests, or countryside areas. This term is frequently used in the context of outdoor activities and tourism.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Wanderung führt durch den Wald.",
-                "english": "The hike leads through the forest."
-            },
-            {
-                "german": "Wir planen eine Wanderung in den Alpen.",
-                "english": "We are planning a hike in the Alps."
-            },
-            {
-                "german": "Die Wanderung dauerte den ganzen Tag.",
-                "english": "The hike lasted the whole day."
-            },
-            {
-                "german": "Die Wanderung war sehr anstrengend.",
-                "english": "The hike was very exhausting."
-            },
-            {
-                "german": "Die Wanderung bietet eine atemberaubende Aussicht.",
-                "english": "The hike offers a breathtaking view."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Wanderung führt durch den Wald.",
+            "english": "The hike leads through the forest."
+        },
+        {
+            "german": "Wir planen eine Wanderung in den Alpen.",
+            "english": "We are planning a hike in the Alps."
+        },
+        {
+            "german": "Die Wanderung dauerte den ganzen Tag.",
+            "english": "The hike lasted the whole day."
+        },
+        {
+            "german": "Die Wanderung war sehr anstrengend.",
+            "english": "The hike was very exhausting."
+        },
+        {
+            "german": "Die Wanderung bietet eine atemberaubende Aussicht.",
+            "english": "The hike offers a breathtaking view."
+        }
+    ]
 }

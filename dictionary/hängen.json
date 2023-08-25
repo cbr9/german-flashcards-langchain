@@ -1,28 +1,26 @@
 {
     "word": "hängen, hing, gehangen",
     "definition": "To suspend or attach an object in a way that it is supported from above, often by a hook or a rope. This word is commonly used to describe the action of placing something on a higher surface or fixing it to a wall or ceiling.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich hänge das Bild an die Wand.",
-                "english": "I hang the picture on the wall."
-            },
-            {
-                "german": "Die Wäsche hängt draußen zum Trocknen.",
-                "english": "The laundry is hanging outside to dry."
-            },
-            {
-                "german": "Er hängt gerne mit seinen Freunden ab.",
-                "english": "He likes to hang out with his friends."
-            },
-            {
-                "german": "Der Mantel hängt im Schrank.",
-                "english": "The coat is hanging in the closet."
-            },
-            {
-                "german": "Die Lampe hängt zu hoch.",
-                "english": "The lamp is hanging too high."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich hänge das Bild an die Wand.",
+            "english": "I hang the picture on the wall."
+        },
+        {
+            "german": "Die Wäsche hängt draußen zum Trocknen.",
+            "english": "The laundry is hanging outside to dry."
+        },
+        {
+            "german": "Er hängt gerne mit seinen Freunden ab.",
+            "english": "He likes to hang out with his friends."
+        },
+        {
+            "german": "Der Mantel hängt im Schrank.",
+            "english": "The coat is hanging in the closet."
+        },
+        {
+            "german": "Die Lampe hängt zu hoch.",
+            "english": "The lamp is hanging too high."
+        }
+    ]
 }

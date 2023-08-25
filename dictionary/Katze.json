@@ -1,28 +1,26 @@
 {
     "word": "die Katze, die Katzen",
     "definition": "A small domesticated mammal often kept as a pet, known for its independent and curious nature. It typically has a slender body, sharp retractable claws, and a long tail. This word is commonly used to refer to a specific type of animal that is often found in households as a companion or for pest control.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Katze schläft auf dem Sofa.",
-                "english": "The cat is sleeping on the sofa."
-            },
-            {
-                "german": "Meine Katze mag Fisch.",
-                "english": "My cat likes fish."
-            },
-            {
-                "german": "Die schwarze Katze hat grüne Augen.",
-                "english": "The black cat has green eyes."
-            },
-            {
-                "german": "Die Katze spielt mit einem Ball.",
-                "english": "The cat is playing with a ball."
-            },
-            {
-                "german": "Die Katze jagt eine Maus.",
-                "english": "The cat is chasing a mouse."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Katze schläft auf dem Sofa.",
+            "english": "The cat is sleeping on the sofa."
+        },
+        {
+            "german": "Meine Katze mag Fisch.",
+            "english": "My cat likes fish."
+        },
+        {
+            "german": "Die schwarze Katze hat grüne Augen.",
+            "english": "The black cat has green eyes."
+        },
+        {
+            "german": "Die Katze spielt mit einem Ball.",
+            "english": "The cat is playing with a ball."
+        },
+        {
+            "german": "Die Katze jagt eine Maus.",
+            "english": "The cat is chasing a mouse."
+        }
+    ]
 }

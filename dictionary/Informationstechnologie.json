@@ -1,28 +1,26 @@
 {
     "word": "die Informationstechnologie, die Informationstechnologien",
     "definition": "A field of study and practice that encompasses the use and development of technology to process, store, transmit, and retrieve data and information. It involves the application of various tools, systems, and methodologies to manage and manipulate information effectively. This term is commonly used to refer to the study and application of technology in the context of data processing, computer systems, telecommunications, and related areas.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Informationstechnologie",
-                "english": "information technology"
-            },
-            {
-                "german": "Die Informationstechnologie ist ein wichtiger Bestandteil der modernen Gesellschaft.",
-                "english": "Information technology is an important part of modern society."
-            },
-            {
-                "german": "Die Informationstechnologie ermöglicht den schnellen Austausch von Daten.",
-                "english": "Information technology enables the fast exchange of data."
-            },
-            {
-                "german": "Die Informationstechnologie umfasst Bereiche wie Computer, Netzwerke und Software.",
-                "english": "Information technology includes areas such as computers, networks, and software."
-            },
-            {
-                "german": "Die Informationstechnologie hat die Art und Weise, wie wir arbeiten und kommunizieren, revolutioniert.",
-                "english": "Information technology has revolutionized the way we work and communicate."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Informationstechnologie",
+            "english": "information technology"
+        },
+        {
+            "german": "Die Informationstechnologie ist ein wichtiger Bestandteil der modernen Gesellschaft.",
+            "english": "Information technology is an important part of modern society."
+        },
+        {
+            "german": "Die Informationstechnologie ermöglicht den schnellen Austausch von Daten.",
+            "english": "Information technology enables the fast exchange of data."
+        },
+        {
+            "german": "Die Informationstechnologie umfasst Bereiche wie Computer, Netzwerke und Software.",
+            "english": "Information technology includes areas such as computers, networks, and software."
+        },
+        {
+            "german": "Die Informationstechnologie hat die Art und Weise, wie wir arbeiten und kommunizieren, revolutioniert.",
+            "english": "Information technology has revolutionized the way we work and communicate."
+        }
+    ]
 }

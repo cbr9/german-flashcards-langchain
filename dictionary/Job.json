@@ -1,28 +1,26 @@
 {
     "word": "der Job, die Jobs",
     "definition": "A task or occupation that one engages in to earn a living, typically involving specific skills or expertise. It is commonly used to refer to paid employment or work-related activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen neuen Job gefunden.",
-                "english": "I found a new job."
-            },
-            {
-                "german": "Er hat seinen Job verloren.",
-                "english": "He lost his job."
-            },
-            {
-                "german": "Sie arbeitet in einem Bürojob.",
-                "english": "She works in an office job."
-            },
-            {
-                "german": "Mein Traumjob ist es, Schriftsteller zu sein.",
-                "english": "My dream job is to be a writer."
-            },
-            {
-                "german": "Er hat einen gut bezahlten Job.",
-                "english": "He has a well-paid job."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen neuen Job gefunden.",
+            "english": "I found a new job."
+        },
+        {
+            "german": "Er hat seinen Job verloren.",
+            "english": "He lost his job."
+        },
+        {
+            "german": "Sie arbeitet in einem Bürojob.",
+            "english": "She works in an office job."
+        },
+        {
+            "german": "Mein Traumjob ist es, Schriftsteller zu sein.",
+            "english": "My dream job is to be a writer."
+        },
+        {
+            "german": "Er hat einen gut bezahlten Job.",
+            "english": "He has a well-paid job."
+        }
+    ]
 }

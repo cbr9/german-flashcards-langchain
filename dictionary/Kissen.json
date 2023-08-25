@@ -1,28 +1,26 @@
 {
     "word": "das Kissen, die Kissen",
     "definition": "A soft object typically used for comfort and support, often placed on furniture or used for sleeping. It is commonly found in bedrooms, living rooms, and other areas where relaxation or rest is desired.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Kissen ist weich.",
-                "english": "The pillow is soft."
-            },
-            {
-                "german": "Ich habe ein neues Kissen gekauft.",
-                "english": "I bought a new pillow."
-            },
-            {
-                "german": "Sie legte ihr Kissen auf das Bett.",
-                "english": "She placed her pillow on the bed."
-            },
-            {
-                "german": "Das Kissen ist zu flach.",
-                "english": "The pillow is too flat."
-            },
-            {
-                "german": "Er schläft immer mit zwei Kissen.",
-                "english": "He always sleeps with two pillows."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Kissen ist weich.",
+            "english": "The pillow is soft."
+        },
+        {
+            "german": "Ich habe ein neues Kissen gekauft.",
+            "english": "I bought a new pillow."
+        },
+        {
+            "german": "Sie legte ihr Kissen auf das Bett.",
+            "english": "She placed her pillow on the bed."
+        },
+        {
+            "german": "Das Kissen ist zu flach.",
+            "english": "The pillow is too flat."
+        },
+        {
+            "german": "Er schläft immer mit zwei Kissen.",
+            "english": "He always sleeps with two pillows."
+        }
+    ]
 }

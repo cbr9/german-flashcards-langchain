@@ -1,28 +1,26 @@
 {
     "word": "der Stuhl, die Stühle",
     "definition": "A piece of furniture typically used for sitting, often having a backrest and four legs, commonly found in various settings such as homes, offices, and public spaces.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Stuhl steht neben dem Tisch.",
-                "english": "The chair is next to the table."
-            },
-            {
-                "german": "Ich habe einen neuen Stuhl gekauft.",
-                "english": "I bought a new chair."
-            },
-            {
-                "german": "Der Stuhl ist aus Holz.",
-                "english": "The chair is made of wood."
-            },
-            {
-                "german": "Bitte nehmen Sie Platz auf dem Stuhl.",
-                "english": "Please have a seat on the chair."
-            },
-            {
-                "german": "Der Stuhl hat eine bequeme Polsterung.",
-                "english": "The chair has a comfortable cushioning."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Stuhl steht neben dem Tisch.",
+            "english": "The chair is next to the table."
+        },
+        {
+            "german": "Ich habe einen neuen Stuhl gekauft.",
+            "english": "I bought a new chair."
+        },
+        {
+            "german": "Der Stuhl ist aus Holz.",
+            "english": "The chair is made of wood."
+        },
+        {
+            "german": "Bitte nehmen Sie Platz auf dem Stuhl.",
+            "english": "Please have a seat on the chair."
+        },
+        {
+            "german": "Der Stuhl hat eine bequeme Polsterung.",
+            "english": "The chair has a comfortable cushioning."
+        }
+    ]
 }

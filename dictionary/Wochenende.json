@@ -1,28 +1,26 @@
 {
     "word": "das Wochenende, die Wochenenden",
     "definition": "A period of time typically consisting of two consecutive days, often occurring at the end of the week, during which individuals commonly take a break from work or school to relax, engage in leisure activities, or spend time with family and friends.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Am Wochenende gehe ich gerne spazieren.",
-                "english": "I like to go for a walk on the weekend."
-            },
-            {
-                "german": "Wir treffen uns am Wochenende zum Kaffeetrinken.",
-                "english": "We meet up for coffee on the weekend."
-            },
-            {
-                "german": "Am Wochenende habe ich endlich Zeit zum Lesen.",
-                "english": "I finally have time to read on the weekend."
-            },
-            {
-                "german": "Am Wochenende fahre ich oft zu meinen Eltern.",
-                "english": "I often visit my parents on the weekend."
-            },
-            {
-                "german": "Am Wochenende gehe ich gerne ins Kino.",
-                "english": "I like to go to the cinema on the weekend."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Am Wochenende gehe ich gerne spazieren.",
+            "english": "I like to go for a walk on the weekend."
+        },
+        {
+            "german": "Wir treffen uns am Wochenende zum Kaffeetrinken.",
+            "english": "We meet up for coffee on the weekend."
+        },
+        {
+            "german": "Am Wochenende habe ich endlich Zeit zum Lesen.",
+            "english": "I finally have time to read on the weekend."
+        },
+        {
+            "german": "Am Wochenende fahre ich oft zu meinen Eltern.",
+            "english": "I often visit my parents on the weekend."
+        },
+        {
+            "german": "Am Wochenende gehe ich gerne ins Kino.",
+            "english": "I like to go to the cinema on the weekend."
+        }
+    ]
 }

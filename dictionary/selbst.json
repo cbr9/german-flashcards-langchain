@@ -1,28 +1,26 @@
 {
     "word": "selbst",
     "definition": "The term \"selbst\" refers to the state or condition of being independent or self-reliant. It is commonly used to emphasize the idea of doing something on one's own, without external assistance or intervention. This word is often employed to convey a sense of self-sufficiency or self-determination in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe es selbst gemacht.",
-                "english": "I did it myself."
-            },
-            {
-                "german": "Er hat es selbst gesehen.",
-                "english": "He saw it himself."
-            },
-            {
-                "german": "Sie kann es selbst machen.",
-                "english": "She can do it herself."
-            },
-            {
-                "german": "Wir müssen es selbst herausfinden.",
-                "english": "We have to figure it out ourselves."
-            },
-            {
-                "german": "Du kannst es selbst entscheiden.",
-                "english": "You can decide it yourself."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe es selbst gemacht.",
+            "english": "I did it myself."
+        },
+        {
+            "german": "Er hat es selbst gesehen.",
+            "english": "He saw it himself."
+        },
+        {
+            "german": "Sie kann es selbst machen.",
+            "english": "She can do it herself."
+        },
+        {
+            "german": "Wir müssen es selbst herausfinden.",
+            "english": "We have to figure it out ourselves."
+        },
+        {
+            "german": "Du kannst es selbst entscheiden.",
+            "english": "You can decide it yourself."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "belügen, belog, belogen",
     "definition": "To deceive someone by intentionally providing false information, typically done to avoid the truth or manipulate a situation. This word is commonly used to describe the act of lying or telling lies to someone.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe ihn belogen.",
-                "english": "I lied to him."
-            },
-            {
-                "german": "Du darfst mich nicht belügen.",
-                "english": "You must not lie to me."
-            },
-            {
-                "german": "Er hat seine Eltern belogen.",
-                "english": "He lied to his parents."
-            },
-            {
-                "german": "Sie belügt alle um sich herum.",
-                "english": "She lies to everyone around her."
-            },
-            {
-                "german": "Wir wurden von ihm belogen.",
-                "english": "We were lied to by him."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe ihn belogen.",
+            "english": "I lied to him."
+        },
+        {
+            "german": "Du darfst mich nicht belügen.",
+            "english": "You must not lie to me."
+        },
+        {
+            "german": "Er hat seine Eltern belogen.",
+            "english": "He lied to his parents."
+        },
+        {
+            "german": "Sie belügt alle um sich herum.",
+            "english": "She lies to everyone around her."
+        },
+        {
+            "german": "Wir wurden von ihm belogen.",
+            "english": "We were lied to by him."
+        }
+    ]
 }

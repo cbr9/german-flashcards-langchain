@@ -1,28 +1,26 @@
 {
     "word": "die Pflicht, die Pflichten",
     "definition": "A mandatory obligation or duty that one is required to fulfill, often associated with legal or moral responsibilities. It is commonly used to refer to tasks, responsibilities, or obligations that individuals are expected to carry out in various contexts, such as work, education, or societal norms.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist meine Pflicht, pünktlich zur Arbeit zu kommen.",
-                "english": "It is my duty to come to work on time."
-            },
-            {
-                "german": "Die Schule hat die Pflicht, die Schüler zu unterrichten.",
-                "english": "The school has the obligation to teach the students."
-            },
-            {
-                "german": "Es ist Pflicht, den Müll zu trennen.",
-                "english": "It is mandatory to separate the garbage."
-            },
-            {
-                "german": "Die Pflichten eines Polizisten sind vielfältig.",
-                "english": "The duties of a police officer are diverse."
-            },
-            {
-                "german": "Es ist meine Pflicht, mich um meine Familie zu kümmern.",
-                "english": "It is my responsibility to take care of my family."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist meine Pflicht, pünktlich zur Arbeit zu kommen.",
+            "english": "It is my duty to come to work on time."
+        },
+        {
+            "german": "Die Schule hat die Pflicht, die Schüler zu unterrichten.",
+            "english": "The school has the obligation to teach the students."
+        },
+        {
+            "german": "Es ist Pflicht, den Müll zu trennen.",
+            "english": "It is mandatory to separate the garbage."
+        },
+        {
+            "german": "Die Pflichten eines Polizisten sind vielfältig.",
+            "english": "The duties of a police officer are diverse."
+        },
+        {
+            "german": "Es ist meine Pflicht, mich um meine Familie zu kümmern.",
+            "english": "It is my responsibility to take care of my family."
+        }
+    ]
 }

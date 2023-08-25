@@ -1,28 +1,26 @@
 {
     "word": "der Wandel, die Wandel",
     "definition": "A term commonly employed to describe the process of transformation or change, often referring to a shift or alteration in various aspects of life, society, or circumstances. It is frequently used to depict the evolution or transition from one state or condition to another, encompassing both gradual and significant modifications. This word finds frequent application in discussions related to social, cultural, economic, or personal changes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Wandel der Jahreszeiten ist schön.",
-                "english": "The change of seasons is beautiful."
-            },
-            {
-                "german": "Die Gesellschaft befindet sich im Wandel.",
-                "english": "Society is undergoing change."
-            },
-            {
-                "german": "Der technologische Wandel hat große Auswirkungen.",
-                "english": "Technological change has significant impacts."
-            },
-            {
-                "german": "Der Wandel der Mode ist ständig präsent.",
-                "english": "The change of fashion is constantly present."
-            },
-            {
-                "german": "Der Wandel der politischen Landschaft ist unvermeidlich.",
-                "english": "The change of the political landscape is inevitable."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Wandel der Jahreszeiten ist schön.",
+            "english": "The change of seasons is beautiful."
+        },
+        {
+            "german": "Die Gesellschaft befindet sich im Wandel.",
+            "english": "Society is undergoing change."
+        },
+        {
+            "german": "Der technologische Wandel hat große Auswirkungen.",
+            "english": "Technological change has significant impacts."
+        },
+        {
+            "german": "Der Wandel der Mode ist ständig präsent.",
+            "english": "The change of fashion is constantly present."
+        },
+        {
+            "german": "Der Wandel der politischen Landschaft ist unvermeidlich.",
+            "english": "The change of the political landscape is inevitable."
+        }
+    ]
 }

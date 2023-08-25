@@ -1,28 +1,26 @@
 {
     "word": "der Motor, die Motoren",
     "definition": "A device that converts a form of energy into mechanical motion, commonly used to power vehicles and machinery.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Motor meines Autos ist kaputt.",
-                "english": "The engine of my car is broken."
-            },
-            {
-                "german": "Der Motor läuft sehr leise.",
-                "english": "The motor runs very quietly."
-            },
-            {
-                "german": "Der Motor hat eine Leistung von 200 PS.",
-                "english": "The engine has a power of 200 horsepower."
-            },
-            {
-                "german": "Der Motor wird mit Benzin betrieben.",
-                "english": "The motor is powered by gasoline."
-            },
-            {
-                "german": "Der Motor ist überhitzt.",
-                "english": "The engine is overheated."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Motor meines Autos ist kaputt.",
+            "english": "The engine of my car is broken."
+        },
+        {
+            "german": "Der Motor läuft sehr leise.",
+            "english": "The motor runs very quietly."
+        },
+        {
+            "german": "Der Motor hat eine Leistung von 200 PS.",
+            "english": "The engine has a power of 200 horsepower."
+        },
+        {
+            "german": "Der Motor wird mit Benzin betrieben.",
+            "english": "The motor is powered by gasoline."
+        },
+        {
+            "german": "Der Motor ist überhitzt.",
+            "english": "The engine is overheated."
+        }
+    ]
 }

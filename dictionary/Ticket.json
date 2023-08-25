@@ -1,28 +1,26 @@
 {
     "word": "das Ticket, die Tickets",
     "definition": "A document or piece of paper that grants the holder permission to access a specific event, service, or mode of transportation, typically obtained in exchange for payment. It is commonly used for gaining entry to concerts, sporting events, public transportation, or other similar activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Ticket kostet 10 Euro.",
-                "english": "The ticket costs 10 euros."
-            },
-            {
-                "german": "Kann ich ein Ticket für den Zug kaufen?",
-                "english": "Can I buy a ticket for the train?"
-            },
-            {
-                "german": "Das Konzert ist ausverkauft, es gibt keine Tickets mehr.",
-                "english": "The concert is sold out, there are no more tickets."
-            },
-            {
-                "german": "Ich habe mein Ticket verloren, kann ich ein neues bekommen?",
-                "english": "I lost my ticket, can I get a new one?"
-            },
-            {
-                "german": "Das Ticket ist nur für eine Person gültig.",
-                "english": "The ticket is only valid for one person."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Ticket kostet 10 Euro.",
+            "english": "The ticket costs 10 euros."
+        },
+        {
+            "german": "Kann ich ein Ticket für den Zug kaufen?",
+            "english": "Can I buy a ticket for the train?"
+        },
+        {
+            "german": "Das Konzert ist ausverkauft, es gibt keine Tickets mehr.",
+            "english": "The concert is sold out, there are no more tickets."
+        },
+        {
+            "german": "Ich habe mein Ticket verloren, kann ich ein neues bekommen?",
+            "english": "I lost my ticket, can I get a new one?"
+        },
+        {
+            "german": "Das Ticket ist nur für eine Person gültig.",
+            "english": "The ticket is only valid for one person."
+        }
+    ]
 }

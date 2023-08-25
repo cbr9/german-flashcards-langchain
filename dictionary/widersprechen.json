@@ -1,28 +1,26 @@
 {
     "word": "widersprechen, widersprach, widersprochen",
     "definition": "To express disagreement or contradiction in response to a statement, opinion, or action, often in a verbal or written manner. It is commonly used in conversations, debates, or discussions to challenge or oppose someone's viewpoint or to highlight a conflicting perspective.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich widerspreche deiner Meinung.",
-                "english": "I disagree with your opinion."
-            },
-            {
-                "german": "Er widerspricht immer seinen Eltern.",
-                "english": "He always contradicts his parents."
-            },
-            {
-                "german": "Sie widersprach den Anschuldigungen.",
-                "english": "She refuted the accusations."
-            },
-            {
-                "german": "Widersprich nicht dem Chef!",
-                "english": "Don't contradict the boss!"
-            },
-            {
-                "german": "Das widerspricht den Regeln.",
-                "english": "That goes against the rules."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich widerspreche deiner Meinung.",
+            "english": "I disagree with your opinion."
+        },
+        {
+            "german": "Er widerspricht immer seinen Eltern.",
+            "english": "He always contradicts his parents."
+        },
+        {
+            "german": "Sie widersprach den Anschuldigungen.",
+            "english": "She refuted the accusations."
+        },
+        {
+            "german": "Widersprich nicht dem Chef!",
+            "english": "Don't contradict the boss!"
+        },
+        {
+            "german": "Das widerspricht den Regeln.",
+            "english": "That goes against the rules."
+        }
+    ]
 }

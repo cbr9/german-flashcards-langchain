@@ -1,28 +1,26 @@
 {
     "word": "der Oscar, die Oscars",
     "definition": "A prestigious accolade given annually to recognize outstanding achievements in the entertainment industry, particularly in the field of film. It is highly regarded and sought after by actors, directors, and other professionals in the film industry.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Oscar ist ein beliebter Name für Jungen.",
-                "english": "Oscar is a popular name for boys."
-            },
-            {
-                "german": "Der Film gewann den Oscar für den besten Hauptdarsteller.",
-                "english": "The movie won the Oscar for Best Actor."
-            },
-            {
-                "german": "Oscar ist ein bekannter Filmpreis.",
-                "english": "Oscar is a well-known film award."
-            },
-            {
-                "german": "Oscar Wilde war ein berühmter Schriftsteller.",
-                "english": "Oscar Wilde was a famous writer."
-            },
-            {
-                "german": "Oscar hat gestern Geburtstag gefeiert.",
-                "english": "Oscar celebrated his birthday yesterday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Oscar ist ein beliebter Name für Jungen.",
+            "english": "Oscar is a popular name for boys."
+        },
+        {
+            "german": "Der Film gewann den Oscar für den besten Hauptdarsteller.",
+            "english": "The movie won the Oscar for Best Actor."
+        },
+        {
+            "german": "Oscar ist ein bekannter Filmpreis.",
+            "english": "Oscar is a well-known film award."
+        },
+        {
+            "german": "Oscar Wilde war ein berühmter Schriftsteller.",
+            "english": "Oscar Wilde was a famous writer."
+        },
+        {
+            "german": "Oscar hat gestern Geburtstag gefeiert.",
+            "english": "Oscar celebrated his birthday yesterday."
+        }
+    ]
 }

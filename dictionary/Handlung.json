@@ -1,28 +1,26 @@
 {
     "word": "die Handlung, die Handlungen",
     "definition": "A sequence of events or actions that form a coherent and meaningful narrative, typically found in literature, theater, or film. It encompasses the unfolding plot, storyline, or course of events that drive the narrative forward and shape the characters' experiences and interactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Handlung des Films war sehr spannend.",
-                "english": "The plot of the movie was very exciting."
-            },
-            {
-                "german": "Die Handlung des Buches spielt im 19. Jahrhundert.",
-                "english": "The setting of the book is in the 19th century."
-            },
-            {
-                "german": "Die Handlung der Geschichte entwickelt sich langsam.",
-                "english": "The storyline of the story develops slowly."
-            },
-            {
-                "german": "Die Handlung des Theaterstücks war sehr verwirrend.",
-                "english": "The plot of the play was very confusing."
-            },
-            {
-                "german": "Die Handlung des Spiels basiert auf einer wahren Begebenheit.",
-                "english": "The storyline of the game is based on a true event."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Handlung des Films war sehr spannend.",
+            "english": "The plot of the movie was very exciting."
+        },
+        {
+            "german": "Die Handlung des Buches spielt im 19. Jahrhundert.",
+            "english": "The setting of the book is in the 19th century."
+        },
+        {
+            "german": "Die Handlung der Geschichte entwickelt sich langsam.",
+            "english": "The storyline of the story develops slowly."
+        },
+        {
+            "german": "Die Handlung des Theaterstücks war sehr verwirrend.",
+            "english": "The plot of the play was very confusing."
+        },
+        {
+            "german": "Die Handlung des Spiels basiert auf einer wahren Begebenheit.",
+            "english": "The storyline of the game is based on a true event."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Einbrecher, die Einbrecher",
     "definition": "A person who unlawfully enters a property with the intention of committing theft or other criminal activities. This term is commonly used to refer to individuals involved in illegal break-ins or burglaries.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Einbrecher hat das Fenster aufgebrochen.",
-                "english": "The burglar broke open the window."
-            },
-            {
-                "german": "Die Polizei hat den Einbrecher gefasst.",
-                "english": "The police caught the burglar."
-            },
-            {
-                "german": "Der Einbrecher hat Schmuck gestohlen.",
-                "english": "The burglar stole jewelry."
-            },
-            {
-                "german": "Die Bewohner waren während des Einbruchs nicht zu Hause.",
-                "english": "The residents were not at home during the break-in."
-            },
-            {
-                "german": "Der Einbrecher wurde zu einer langen Haftstrafe verurteilt.",
-                "english": "The burglar was sentenced to a long prison term."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Einbrecher hat das Fenster aufgebrochen.",
+            "english": "The burglar broke open the window."
+        },
+        {
+            "german": "Die Polizei hat den Einbrecher gefasst.",
+            "english": "The police caught the burglar."
+        },
+        {
+            "german": "Der Einbrecher hat Schmuck gestohlen.",
+            "english": "The burglar stole jewelry."
+        },
+        {
+            "german": "Die Bewohner waren während des Einbruchs nicht zu Hause.",
+            "english": "The residents were not at home during the break-in."
+        },
+        {
+            "german": "Der Einbrecher wurde zu einer langen Haftstrafe verurteilt.",
+            "english": "The burglar was sentenced to a long prison term."
+        }
+    ]
 }

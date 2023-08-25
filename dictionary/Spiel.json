@@ -1,28 +1,26 @@
 {
     "word": "das Spiel, die Spiele",
     "definition": "A form of activity or entertainment that involves structured play, often for amusement, enjoyment, or competition. It typically involves rules, objectives, and interaction between participants. This term is commonly used to refer to various types of games, such as board games, card games, sports, or video games.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Spiel beginnt um 20 Uhr.",
-                "english": "The game starts at 8 PM."
-            },
-            {
-                "german": "Wir haben gestern ein spannendes Spiel gesehen.",
-                "english": "We watched an exciting game yesterday."
-            },
-            {
-                "german": "Kommst du zum Fußballspiel am Samstag?",
-                "english": "Are you coming to the soccer match on Saturday?"
-            },
-            {
-                "german": "Sie gewann das Spiel mit Leichtigkeit.",
-                "english": "She won the game with ease."
-            },
-            {
-                "german": "Das Spielzeugauto ist rot und schnell.",
-                "english": "The toy car is red and fast."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Spiel beginnt um 20 Uhr.",
+            "english": "The game starts at 8 PM."
+        },
+        {
+            "german": "Wir haben gestern ein spannendes Spiel gesehen.",
+            "english": "We watched an exciting game yesterday."
+        },
+        {
+            "german": "Kommst du zum Fußballspiel am Samstag?",
+            "english": "Are you coming to the soccer match on Saturday?"
+        },
+        {
+            "german": "Sie gewann das Spiel mit Leichtigkeit.",
+            "english": "She won the game with ease."
+        },
+        {
+            "german": "Das Spielzeugauto ist rot und schnell.",
+            "english": "The toy car is red and fast."
+        }
+    ]
 }

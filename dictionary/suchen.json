@@ -1,28 +1,26 @@
 {
     "word": "suchen, suchte, gesucht",
     "definition": "To actively explore or inquire in order to find or obtain something, often involving a deliberate and purposeful effort. This verb is commonly employed when referring to the act of searching for information, objects, or individuals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich suche meinen Schlüssel.",
-                "english": "I am looking for my key."
-            },
-            {
-                "german": "Kannst du bitte den Weg zum Bahnhof suchen?",
-                "english": "Can you please look for the way to the train station?"
-            },
-            {
-                "german": "Wir suchen noch nach einem passenden Geschenk.",
-                "english": "We are still searching for a suitable gift."
-            },
-            {
-                "german": "Er sucht nach einer neuen Wohnung.",
-                "english": "He is searching for a new apartment."
-            },
-            {
-                "german": "Die Polizei sucht nach dem vermissten Kind.",
-                "english": "The police is searching for the missing child."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich suche meinen Schlüssel.",
+            "english": "I am looking for my key."
+        },
+        {
+            "german": "Kannst du bitte den Weg zum Bahnhof suchen?",
+            "english": "Can you please look for the way to the train station?"
+        },
+        {
+            "german": "Wir suchen noch nach einem passenden Geschenk.",
+            "english": "We are still searching for a suitable gift."
+        },
+        {
+            "german": "Er sucht nach einer neuen Wohnung.",
+            "english": "He is searching for a new apartment."
+        },
+        {
+            "german": "Die Polizei sucht nach dem vermissten Kind.",
+            "english": "The police is searching for the missing child."
+        }
+    ]
 }

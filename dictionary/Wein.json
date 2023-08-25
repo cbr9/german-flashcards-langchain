@@ -1,28 +1,26 @@
 {
     "word": "der Wein, die Weine",
     "definition": "A fermented alcoholic beverage made from grapes, typically enjoyed during meals, celebrations, or social gatherings. It is often associated with various flavors, colors, and aromas, and is commonly used to complement or enhance the taste of different cuisines.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Wein schmeckt gut.",
-                "english": "The wine tastes good."
-            },
-            {
-                "german": "Ich trinke gerne Rotwein.",
-                "english": "I like to drink red wine."
-            },
-            {
-                "german": "Wir haben gestern Wein gekauft.",
-                "english": "We bought wine yesterday."
-            },
-            {
-                "german": "Der Weinberg liegt am Hang.",
-                "english": "The vineyard is located on a slope."
-            },
-            {
-                "german": "Sie hat eine Flasche Wein mitgebracht.",
-                "english": "She brought a bottle of wine."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Wein schmeckt gut.",
+            "english": "The wine tastes good."
+        },
+        {
+            "german": "Ich trinke gerne Rotwein.",
+            "english": "I like to drink red wine."
+        },
+        {
+            "german": "Wir haben gestern Wein gekauft.",
+            "english": "We bought wine yesterday."
+        },
+        {
+            "german": "Der Weinberg liegt am Hang.",
+            "english": "The vineyard is located on a slope."
+        },
+        {
+            "german": "Sie hat eine Flasche Wein mitgebracht.",
+            "english": "She brought a bottle of wine."
+        }
+    ]
 }

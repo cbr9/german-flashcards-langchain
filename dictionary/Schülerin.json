@@ -1,28 +1,26 @@
 {
     "word": "die Schülerin, die Schülerinnen",
     "definition": "A female individual who is engaged in the process of acquiring knowledge and skills within an educational institution, typically attending classes and being instructed by a teacher. This term is commonly used to refer to a young girl or woman who is a student.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Schülerin geht zur Schule.",
-                "english": "The student (female) goes to school."
-            },
-            {
-                "german": "Die Schülerin lernt Deutsch.",
-                "english": "The student (female) learns German."
-            },
-            {
-                "german": "Die Schülerin ist fleißig.",
-                "english": "The student (female) is diligent."
-            },
-            {
-                "german": "Die Schülerin hat gute Noten.",
-                "english": "The student (female) has good grades."
-            },
-            {
-                "german": "Die Schülerin liest gerne Bücher.",
-                "english": "The student (female) likes to read books."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Schülerin geht zur Schule.",
+            "english": "The student (female) goes to school."
+        },
+        {
+            "german": "Die Schülerin lernt Deutsch.",
+            "english": "The student (female) learns German."
+        },
+        {
+            "german": "Die Schülerin ist fleißig.",
+            "english": "The student (female) is diligent."
+        },
+        {
+            "german": "Die Schülerin hat gute Noten.",
+            "english": "The student (female) has good grades."
+        },
+        {
+            "german": "Die Schülerin liest gerne Bücher.",
+            "english": "The student (female) likes to read books."
+        }
+    ]
 }

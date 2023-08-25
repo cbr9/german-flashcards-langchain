@@ -1,28 +1,26 @@
 {
     "word": "die Schauspielerin, die Schauspielerinnen",
     "definition": "A female performer who portrays characters in plays, movies, or television shows, typically embodying various roles and bringing them to life through acting skills. This term is commonly used in the entertainment industry to refer to women who specialize in acting.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist eine bekannte Schauspielerin.",
-                "english": "She is a famous actress."
-            },
-            {
-                "german": "Die Schauspielerin spielt die Hauptrolle in dem Film.",
-                "english": "The actress plays the lead role in the movie."
-            },
-            {
-                "german": "Die Schauspielerin gewann den Oscar für ihre Leistung.",
-                "english": "The actress won the Oscar for her performance."
-            },
-            {
-                "german": "Sie ist eine talentierte Schauspielerin.",
-                "english": "She is a talented actress."
-            },
-            {
-                "german": "Die Schauspielerin hat eine beeindruckende Karriere.",
-                "english": "The actress has an impressive career."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist eine bekannte Schauspielerin.",
+            "english": "She is a famous actress."
+        },
+        {
+            "german": "Die Schauspielerin spielt die Hauptrolle in dem Film.",
+            "english": "The actress plays the lead role in the movie."
+        },
+        {
+            "german": "Die Schauspielerin gewann den Oscar für ihre Leistung.",
+            "english": "The actress won the Oscar for her performance."
+        },
+        {
+            "german": "Sie ist eine talentierte Schauspielerin.",
+            "english": "She is a talented actress."
+        },
+        {
+            "german": "Die Schauspielerin hat eine beeindruckende Karriere.",
+            "english": "The actress has an impressive career."
+        }
+    ]
 }

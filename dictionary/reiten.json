@@ -1,28 +1,26 @@
 {
     "word": "reiten, ritt, geritten",
     "definition": "To engage in the activity of sitting on and controlling the movement of an animal, typically a four-legged mammal, by using reins and other equipment. This activity is commonly practiced for recreational purposes, as a sport, or as a means of transportation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich reite gerne Pferde.",
-                "english": "I enjoy riding horses."
-            },
-            {
-                "german": "Sie reitet seit ihrer Kindheit.",
-                "english": "She has been riding since her childhood."
-            },
-            {
-                "german": "Er möchte reiten lernen.",
-                "english": "He wants to learn how to ride."
-            },
-            {
-                "german": "Wir werden morgen ausreiten.",
-                "english": "We will go horseback riding tomorrow."
-            },
-            {
-                "german": "Reitest du oft im Wald?",
-                "english": "Do you ride in the forest often?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich reite gerne Pferde.",
+            "english": "I enjoy riding horses."
+        },
+        {
+            "german": "Sie reitet seit ihrer Kindheit.",
+            "english": "She has been riding since her childhood."
+        },
+        {
+            "german": "Er möchte reiten lernen.",
+            "english": "He wants to learn how to ride."
+        },
+        {
+            "german": "Wir werden morgen ausreiten.",
+            "english": "We will go horseback riding tomorrow."
+        },
+        {
+            "german": "Reitest du oft im Wald?",
+            "english": "Do you ride in the forest often?"
+        }
+    ]
 }

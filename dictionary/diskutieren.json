@@ -1,28 +1,26 @@
 {
     "word": "diskutieren, diskutierte, diskutiert",
     "definition": "To engage in a verbal exchange of ideas, opinions, or arguments with others, often in a structured or organized manner, with the aim of reaching a consensus or understanding. This word is commonly used in academic, professional, or social contexts, where individuals express and debate their viewpoints on various topics, such as politics, philosophy, or current events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir müssen über dieses Thema diskutieren.",
-                "english": "We need to discuss this topic."
-            },
-            {
-                "german": "Sie diskutierten leidenschaftlich über Politik.",
-                "english": "They passionately debated about politics."
-            },
-            {
-                "german": "Lass uns über die Pläne für das Wochenende diskutieren.",
-                "english": "Let's discuss the plans for the weekend."
-            },
-            {
-                "german": "Die Schüler diskutierten verschiedene Lösungsansätze.",
-                "english": "The students discussed various approaches to the solution."
-            },
-            {
-                "german": "Wir sollten diese Frage in der nächsten Sitzung diskutieren.",
-                "english": "We should discuss this question in the next meeting."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir müssen über dieses Thema diskutieren.",
+            "english": "We need to discuss this topic."
+        },
+        {
+            "german": "Sie diskutierten leidenschaftlich über Politik.",
+            "english": "They passionately debated about politics."
+        },
+        {
+            "german": "Lass uns über die Pläne für das Wochenende diskutieren.",
+            "english": "Let's discuss the plans for the weekend."
+        },
+        {
+            "german": "Die Schüler diskutierten verschiedene Lösungsansätze.",
+            "english": "The students discussed various approaches to the solution."
+        },
+        {
+            "german": "Wir sollten diese Frage in der nächsten Sitzung diskutieren.",
+            "english": "We should discuss this question in the next meeting."
+        }
+    ]
 }

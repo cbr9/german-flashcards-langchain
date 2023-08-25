@@ -1,28 +1,26 @@
 {
     "word": "issen, aß, gegessen",
     "definition": "The word \"issen\" refers to the act of consuming food through the mouth, typically involving the use of teeth and jaws to break down and swallow it. It is commonly used to describe a fundamental human action related to nourishment and sustenance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse gerne Pizza.",
-                "english": "I like to eat pizza."
-            },
-            {
-                "german": "Er isst jeden Tag Obst.",
-                "english": "He eats fruit every day."
-            },
-            {
-                "german": "Wir haben gestern Fisch gegessen.",
-                "english": "We ate fish yesterday."
-            },
-            {
-                "german": "Sie isst immer gesundes Essen.",
-                "english": "She always eats healthy food."
-            },
-            {
-                "german": "Das Kind isst seinen Teller leer.",
-                "english": "The child finishes its plate."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse gerne Pizza.",
+            "english": "I like to eat pizza."
+        },
+        {
+            "german": "Er isst jeden Tag Obst.",
+            "english": "He eats fruit every day."
+        },
+        {
+            "german": "Wir haben gestern Fisch gegessen.",
+            "english": "We ate fish yesterday."
+        },
+        {
+            "german": "Sie isst immer gesundes Essen.",
+            "english": "She always eats healthy food."
+        },
+        {
+            "german": "Das Kind isst seinen Teller leer.",
+            "english": "The child finishes its plate."
+        }
+    ]
 }

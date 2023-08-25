@@ -1,28 +1,26 @@
 {
     "word": "flackern, flackerte, geflackert",
     "definition": "The term refers to a phenomenon characterized by a rapid and irregular flickering or flashing of light. It is commonly used to describe the behavior of a light source, such as a flame or a candle, when it fluctuates in intensity or brightness. This word can also be employed metaphorically to depict the unsteady or unstable nature of something, like emotions or thoughts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Kerzen flackern im Wind.",
-                "english": "The candles flicker in the wind."
-            },
-            {
-                "german": "Das Licht flackert unregelmäßig.",
-                "english": "The light flickers irregularly."
-            },
-            {
-                "german": "Die Flamme flackert und erlischt schließlich.",
-                "english": "The flame flickers and eventually goes out."
-            },
-            {
-                "german": "Die Straßenlaternen flackern bei Stromausfällen.",
-                "english": "The street lamps flicker during power outages."
-            },
-            {
-                "german": "Die Bildschirme flackern aufgrund eines technischen Problems.",
-                "english": "The screens flicker due to a technical issue."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Kerzen flackern im Wind.",
+            "english": "The candles flicker in the wind."
+        },
+        {
+            "german": "Das Licht flackert unregelmäßig.",
+            "english": "The light flickers irregularly."
+        },
+        {
+            "german": "Die Flamme flackert und erlischt schließlich.",
+            "english": "The flame flickers and eventually goes out."
+        },
+        {
+            "german": "Die Straßenlaternen flackern bei Stromausfällen.",
+            "english": "The street lamps flicker during power outages."
+        },
+        {
+            "german": "Die Bildschirme flackern aufgrund eines technischen Problems.",
+            "english": "The screens flicker due to a technical issue."
+        }
+    ]
 }

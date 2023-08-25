@@ -1,28 +1,26 @@
 {
     "word": "die Party, die Partys",
     "definition": "A social gathering or event where people come together to celebrate, have fun, and socialize. It typically involves music, dancing, food, and drinks, and is often organized for special occasions or to mark a significant event. People attend parties to enjoy themselves, meet new people, and engage in lively conversations and activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe heute Abend auf eine Party.",
-                "english": "I'm going to a party tonight."
-            },
-            {
-                "german": "Die Party war gestern sehr lustig.",
-                "english": "The party was very fun yesterday."
-            },
-            {
-                "german": "Wir haben eine Überraschungsparty für ihn organisiert.",
-                "english": "We organized a surprise party for him."
-            },
-            {
-                "german": "Die Party endete spät in der Nacht.",
-                "english": "The party ended late at night."
-            },
-            {
-                "german": "Er hat eine Einladung zur Geburtstagsparty erhalten.",
-                "english": "He received an invitation to the birthday party."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe heute Abend auf eine Party.",
+            "english": "I'm going to a party tonight."
+        },
+        {
+            "german": "Die Party war gestern sehr lustig.",
+            "english": "The party was very fun yesterday."
+        },
+        {
+            "german": "Wir haben eine Überraschungsparty für ihn organisiert.",
+            "english": "We organized a surprise party for him."
+        },
+        {
+            "german": "Die Party endete spät in der Nacht.",
+            "english": "The party ended late at night."
+        },
+        {
+            "german": "Er hat eine Einladung zur Geburtstagsparty erhalten.",
+            "english": "He received an invitation to the birthday party."
+        }
+    ]
 }

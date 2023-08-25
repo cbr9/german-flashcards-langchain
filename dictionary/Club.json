@@ -1,28 +1,26 @@
 {
     "word": "der Club, die Clubs",
     "definition": "A social organization or group that typically gathers for recreational activities, discussions, or events, often centered around a shared interest or hobby. It is commonly used to refer to a place or establishment where members of the club meet regularly to engage in these activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin Mitglied in einem Club.",
-                "english": "I am a member of a club."
-            },
-            {
-                "german": "Der Club hat viele Mitglieder.",
-                "english": "The club has many members."
-            },
-            {
-                "german": "Wir treffen uns regelmäßig im Club.",
-                "english": "We meet regularly at the club."
-            },
-            {
-                "german": "Der Club veranstaltet eine Party.",
-                "english": "The club is organizing a party."
-            },
-            {
-                "german": "Der Club hat eine große Auswahl an Getränken.",
-                "english": "The club has a wide selection of drinks."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin Mitglied in einem Club.",
+            "english": "I am a member of a club."
+        },
+        {
+            "german": "Der Club hat viele Mitglieder.",
+            "english": "The club has many members."
+        },
+        {
+            "german": "Wir treffen uns regelmäßig im Club.",
+            "english": "We meet regularly at the club."
+        },
+        {
+            "german": "Der Club veranstaltet eine Party.",
+            "english": "The club is organizing a party."
+        },
+        {
+            "german": "Der Club hat eine große Auswahl an Getränken.",
+            "english": "The club has a wide selection of drinks."
+        }
+    ]
 }

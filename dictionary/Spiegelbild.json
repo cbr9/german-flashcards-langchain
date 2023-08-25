@@ -1,28 +1,26 @@
 {
     "word": "das Spiegelbild, die Spiegelbilder",
     "definition": "A reflection or image that is formed when light bounces off a surface, typically used to describe the visual representation of an object or person in a reflective surface.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Spiegelbild zeigt mein Gesicht.",
-                "english": "The mirror image shows my face."
-            },
-            {
-                "german": "Sie betrachtete ihr Spiegelbild und lächelte.",
-                "english": "She looked at her reflection in the mirror and smiled."
-            },
-            {
-                "german": "Das Spiegelbild des Baumes war im Wasser zu sehen.",
-                "english": "The reflection of the tree could be seen in the water."
-            },
-            {
-                "german": "Er konnte sein Spiegelbild nicht erkennen, da der Spiegel verschmutzt war.",
-                "english": "He couldn't recognize his reflection because the mirror was dirty."
-            },
-            {
-                "german": "Das Spiegelbild des Gebäudes war beeindruckend.",
-                "english": "The reflection of the building was impressive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Spiegelbild zeigt mein Gesicht.",
+            "english": "The mirror image shows my face."
+        },
+        {
+            "german": "Sie betrachtete ihr Spiegelbild und lächelte.",
+            "english": "She looked at her reflection in the mirror and smiled."
+        },
+        {
+            "german": "Das Spiegelbild des Baumes war im Wasser zu sehen.",
+            "english": "The reflection of the tree could be seen in the water."
+        },
+        {
+            "german": "Er konnte sein Spiegelbild nicht erkennen, da der Spiegel verschmutzt war.",
+            "english": "He couldn't recognize his reflection because the mirror was dirty."
+        },
+        {
+            "german": "Das Spiegelbild des Gebäudes war beeindruckend.",
+            "english": "The reflection of the building was impressive."
+        }
+    ]
 }

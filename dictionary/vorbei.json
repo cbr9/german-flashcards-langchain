@@ -1,28 +1,26 @@
 {
     "word": "vorbei",
     "definition": "The word \"vorbei\" refers to the state of something being finished, completed, or over. It is commonly used to describe the end or conclusion of an event, activity, or period of time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Spiel ist vorbei.",
-                "english": "The game is over."
-            },
-            {
-                "german": "Die Prüfung ist vorbei.",
-                "english": "The exam is finished."
-            },
-            {
-                "german": "Die Party ist vorbei.",
-                "english": "The party is done."
-            },
-            {
-                "german": "Der Zug ist gerade vorbei gefahren.",
-                "english": "The train just passed by."
-            },
-            {
-                "german": "Die Chance ist vorbei.",
-                "english": "The opportunity is gone."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Spiel ist vorbei.",
+            "english": "The game is over."
+        },
+        {
+            "german": "Die Prüfung ist vorbei.",
+            "english": "The exam is finished."
+        },
+        {
+            "german": "Die Party ist vorbei.",
+            "english": "The party is done."
+        },
+        {
+            "german": "Der Zug ist gerade vorbei gefahren.",
+            "english": "The train just passed by."
+        },
+        {
+            "german": "Die Chance ist vorbei.",
+            "english": "The opportunity is gone."
+        }
+    ]
 }

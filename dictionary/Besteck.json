@@ -1,28 +1,26 @@
 {
     "word": "das Besteck, die Bestecke",
     "definition": "A set of tools or implements typically used for eating, consisting of various utensils such as knives, forks, and spoons. It is commonly found in households and is used during meals for serving and consuming food.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Besteck liegt auf dem Tisch.",
-                "english": "The cutlery is on the table."
-            },
-            {
-                "german": "Ich habe das Besteck in die Schublade gelegt.",
-                "english": "I put the silverware in the drawer."
-            },
-            {
-                "german": "Das Besteck besteht aus Messer, Gabel und Löffel.",
-                "english": "The cutlery consists of a knife, fork, and spoon."
-            },
-            {
-                "german": "Kannst du bitte das Besteck abwaschen?",
-                "english": "Can you please wash the utensils?"
-            },
-            {
-                "german": "Das Besteck ist aus Edelstahl.",
-                "english": "The cutlery is made of stainless steel."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Besteck liegt auf dem Tisch.",
+            "english": "The cutlery is on the table."
+        },
+        {
+            "german": "Ich habe das Besteck in die Schublade gelegt.",
+            "english": "I put the silverware in the drawer."
+        },
+        {
+            "german": "Das Besteck besteht aus Messer, Gabel und Löffel.",
+            "english": "The cutlery consists of a knife, fork, and spoon."
+        },
+        {
+            "german": "Kannst du bitte das Besteck abwaschen?",
+            "english": "Can you please wash the utensils?"
+        },
+        {
+            "german": "Das Besteck ist aus Edelstahl.",
+            "english": "The cutlery is made of stainless steel."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "ärztlich",
     "definition": "The term \"ärztlich\" refers to something that is related to the medical field or the practice of medicine. It typically describes actions, procedures, or advice given by a medical professional. This word is commonly used to indicate the medical or doctor's perspective in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die ärztliche Untersuchung war gründlich.",
-                "english": "The medical examination was thorough."
-            },
-            {
-                "german": "Sie hat eine ärztliche Bescheinigung vorgelegt.",
-                "english": "She presented a medical certificate."
-            },
-            {
-                "german": "Der ärztliche Rat war, mehr Sport zu treiben.",
-                "english": "The medical advice was to do more exercise."
-            },
-            {
-                "german": "Er hat eine ärztliche Behandlung erhalten.",
-                "english": "He received medical treatment."
-            },
-            {
-                "german": "Die ärztliche Versorgung in diesem Krankenhaus ist ausgezeichnet.",
-                "english": "The medical care in this hospital is excellent."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die ärztliche Untersuchung war gründlich.",
+            "english": "The medical examination was thorough."
+        },
+        {
+            "german": "Sie hat eine ärztliche Bescheinigung vorgelegt.",
+            "english": "She presented a medical certificate."
+        },
+        {
+            "german": "Der ärztliche Rat war, mehr Sport zu treiben.",
+            "english": "The medical advice was to do more exercise."
+        },
+        {
+            "german": "Er hat eine ärztliche Behandlung erhalten.",
+            "english": "He received medical treatment."
+        },
+        {
+            "german": "Die ärztliche Versorgung in diesem Krankenhaus ist ausgezeichnet.",
+            "english": "The medical care in this hospital is excellent."
+        }
+    ]
 }

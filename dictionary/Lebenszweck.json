@@ -1,28 +1,26 @@
 {
     "word": "der Lebenszweck, die Lebenszwecke",
     "definition": "A term commonly employed to describe the ultimate purpose or reason for one's existence, encompassing the goals, aspirations, or objectives that give meaning and direction to an individual's life journey. It is often used in philosophical or introspective contexts to explore the deeper meaning and significance of one's life.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Lebenszweck eines Menschen ist individuell.",
-                "english": "The purpose of life for each person is individual."
-            },
-            {
-                "german": "Der Lebenszweck besteht darin, glücklich zu sein.",
-                "english": "The purpose of life is to be happy."
-            },
-            {
-                "german": "Der Lebenszweck kann sich im Laufe der Zeit ändern.",
-                "english": "The purpose of life can change over time."
-            },
-            {
-                "german": "Der Lebenszweck ist oft eine persönliche Frage.",
-                "english": "The purpose of life is often a personal question."
-            },
-            {
-                "german": "Der Lebenszweck kann von Person zu Person unterschiedlich sein.",
-                "english": "The purpose of life can vary from person to person."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Lebenszweck eines Menschen ist individuell.",
+            "english": "The purpose of life for each person is individual."
+        },
+        {
+            "german": "Der Lebenszweck besteht darin, glücklich zu sein.",
+            "english": "The purpose of life is to be happy."
+        },
+        {
+            "german": "Der Lebenszweck kann sich im Laufe der Zeit ändern.",
+            "english": "The purpose of life can change over time."
+        },
+        {
+            "german": "Der Lebenszweck ist oft eine persönliche Frage.",
+            "english": "The purpose of life is often a personal question."
+        },
+        {
+            "german": "Der Lebenszweck kann von Person zu Person unterschiedlich sein.",
+            "english": "The purpose of life can vary from person to person."
+        }
+    ]
 }

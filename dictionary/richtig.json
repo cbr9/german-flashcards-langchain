@@ -1,28 +1,26 @@
 {
     "word": "richtig",
     "definition": "The term \"richtig\" refers to something that is accurate, correct, or true. It is commonly used to describe actions, decisions, or statements that are in accordance with the facts or the desired outcome. This word is frequently employed to express agreement or confirmation, as well as to emphasize the correctness or appropriateness of a situation or behavior.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist richtig.",
-                "english": "That is correct."
-            },
-            {
-                "german": "Er hat es richtig gemacht.",
-                "english": "He did it right."
-            },
-            {
-                "german": "Ich habe dich richtig verstanden.",
-                "english": "I understood you correctly."
-            },
-            {
-                "german": "Das ist der richtige Weg.",
-                "english": "That is the right way."
-            },
-            {
-                "german": "Sie hat die richtige Antwort gegeben.",
-                "english": "She gave the correct answer."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist richtig.",
+            "english": "That is correct."
+        },
+        {
+            "german": "Er hat es richtig gemacht.",
+            "english": "He did it right."
+        },
+        {
+            "german": "Ich habe dich richtig verstanden.",
+            "english": "I understood you correctly."
+        },
+        {
+            "german": "Das ist der richtige Weg.",
+            "english": "That is the right way."
+        },
+        {
+            "german": "Sie hat die richtige Antwort gegeben.",
+            "english": "She gave the correct answer."
+        }
+    ]
 }

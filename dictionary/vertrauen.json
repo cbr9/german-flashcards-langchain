@@ -1,28 +1,26 @@
 {
     "word": "vertrauen, vertraute, vertraut",
     "definition": "To have faith in someone or something, relying on their reliability, integrity, and trustworthiness. It is commonly used to describe the act of placing confidence in another person, often in personal relationships, professional settings, or when sharing sensitive information.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich vertraue dir.",
-                "english": "I trust you."
-            },
-            {
-                "german": "Kann ich dir vertrauen?",
-                "english": "Can I trust you?"
-            },
-            {
-                "german": "Sie hat kein Vertrauen in ihn.",
-                "english": "She has no trust in him."
-            },
-            {
-                "german": "Vertraust du mir?",
-                "english": "Do you trust me?"
-            },
-            {
-                "german": "Das Vertrauen zwischen ihnen ist zerbrochen.",
-                "english": "The trust between them is broken."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich vertraue dir.",
+            "english": "I trust you."
+        },
+        {
+            "german": "Kann ich dir vertrauen?",
+            "english": "Can I trust you?"
+        },
+        {
+            "german": "Sie hat kein Vertrauen in ihn.",
+            "english": "She has no trust in him."
+        },
+        {
+            "german": "Vertraust du mir?",
+            "english": "Do you trust me?"
+        },
+        {
+            "german": "Das Vertrauen zwischen ihnen ist zerbrochen.",
+            "english": "The trust between them is broken."
+        }
+    ]
 }

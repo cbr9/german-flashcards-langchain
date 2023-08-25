@@ -1,28 +1,26 @@
 {
     "word": "die Portion, die Portionen",
     "definition": "A defined quantity or serving of food, typically referring to an individual portion or serving size. It is commonly used in the context of ordering or serving meals in restaurants, cafes, or other dining establishments.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eine Portion Pommes",
-                "english": "A portion of fries"
-            },
-            {
-                "german": "Eine kleine Portion Eis",
-                "english": "A small portion of ice cream"
-            },
-            {
-                "german": "Eine große Portion Pasta",
-                "english": "A large portion of pasta"
-            },
-            {
-                "german": "Eine Portion Gemüse",
-                "english": "A portion of vegetables"
-            },
-            {
-                "german": "Eine Portion Hähnchen",
-                "english": "A portion of chicken"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eine Portion Pommes",
+            "english": "A portion of fries"
+        },
+        {
+            "german": "Eine kleine Portion Eis",
+            "english": "A small portion of ice cream"
+        },
+        {
+            "german": "Eine große Portion Pasta",
+            "english": "A large portion of pasta"
+        },
+        {
+            "german": "Eine Portion Gemüse",
+            "english": "A portion of vegetables"
+        },
+        {
+            "german": "Eine Portion Hähnchen",
+            "english": "A portion of chicken"
+        }
+    ]
 }

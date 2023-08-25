@@ -1,28 +1,26 @@
 {
     "word": "kalt",
     "definition": "The word \"kalt\" refers to a state or condition that is opposite to being warm or hot. It is commonly used to describe the temperature of objects, weather, or environments. Additionally, it can be used metaphorically to describe emotions or attitudes that are distant, unfeeling, or lacking warmth.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist kalt draußen.",
-                "english": "It is cold outside."
-            },
-            {
-                "german": "Die Getränke sind kalt.",
-                "english": "The drinks are cold."
-            },
-            {
-                "german": "Ich habe kalte Hände.",
-                "english": "I have cold hands."
-            },
-            {
-                "german": "Die Suppe ist kalt geworden.",
-                "english": "The soup has gotten cold."
-            },
-            {
-                "german": "Er hat eine kalte Dusche genommen.",
-                "english": "He took a cold shower."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist kalt draußen.",
+            "english": "It is cold outside."
+        },
+        {
+            "german": "Die Getränke sind kalt.",
+            "english": "The drinks are cold."
+        },
+        {
+            "german": "Ich habe kalte Hände.",
+            "english": "I have cold hands."
+        },
+        {
+            "german": "Die Suppe ist kalt geworden.",
+            "english": "The soup has gotten cold."
+        },
+        {
+            "german": "Er hat eine kalte Dusche genommen.",
+            "english": "He took a cold shower."
+        }
+    ]
 }

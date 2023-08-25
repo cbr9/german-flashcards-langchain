@@ -1,28 +1,26 @@
 {
     "word": "die Ziffernfolge, die Ziffernfolgen",
     "definition": "A sequence of numerical characters arranged in a specific order, commonly utilized for representing and conveying numerical information in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eine Ziffernfolge kann aus beliebig vielen Zahlen bestehen.",
-                "english": "A sequence of digits can consist of any number of numbers."
-            },
-            {
-                "german": "Die Ziffernfolge 12345 ist eine aufsteigende Reihenfolge.",
-                "english": "The sequence of digits 12345 is an ascending order."
-            },
-            {
-                "german": "Eine Ziffernfolge kann auch Buchstaben enthalten.",
-                "english": "A sequence of digits can also contain letters."
-            },
-            {
-                "german": "Die Ziffernfolge 9876543210 ist eine absteigende Reihenfolge.",
-                "english": "The sequence of digits 9876543210 is a descending order."
-            },
-            {
-                "german": "Eine Ziffernfolge kann auch Sonderzeichen enthalten.",
-                "english": "A sequence of digits can also contain special characters."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eine Ziffernfolge kann aus beliebig vielen Zahlen bestehen.",
+            "english": "A sequence of digits can consist of any number of numbers."
+        },
+        {
+            "german": "Die Ziffernfolge 12345 ist eine aufsteigende Reihenfolge.",
+            "english": "The sequence of digits 12345 is an ascending order."
+        },
+        {
+            "german": "Eine Ziffernfolge kann auch Buchstaben enthalten.",
+            "english": "A sequence of digits can also contain letters."
+        },
+        {
+            "german": "Die Ziffernfolge 9876543210 ist eine absteigende Reihenfolge.",
+            "english": "The sequence of digits 9876543210 is a descending order."
+        },
+        {
+            "german": "Eine Ziffernfolge kann auch Sonderzeichen enthalten.",
+            "english": "A sequence of digits can also contain special characters."
+        }
+    ]
 }

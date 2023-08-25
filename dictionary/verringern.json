@@ -1,28 +1,26 @@
 {
     "word": "verringern, verringerte, verringert",
     "definition": "To reduce or decrease the quantity, size, intensity, or importance of something. It is commonly used when referring to the act of diminishing or lessening a specific aspect, such as reducing the amount of something, lowering the intensity of a sensation or emotion, or decreasing the significance or impact of an event or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Regierung will die Steuern verringern.",
-                "english": "The government wants to reduce taxes."
-            },
-            {
-                "german": "Der Arzt hat die Medikamentendosis verringert.",
-                "english": "The doctor reduced the medication dosage."
-            },
-            {
-                "german": "Wir müssen unseren Energieverbrauch verringern, um die Umwelt zu schützen.",
-                "english": "We need to reduce our energy consumption to protect the environment."
-            },
-            {
-                "german": "Die Maßnahmen sollen die Arbeitslosigkeit verringern.",
-                "english": "The measures are intended to decrease unemployment."
-            },
-            {
-                "german": "Der Lärmpegel wurde durch Schallschutzmaßnahmen verringert.",
-                "english": "The noise level was reduced through soundproofing measures."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Regierung will die Steuern verringern.",
+            "english": "The government wants to reduce taxes."
+        },
+        {
+            "german": "Der Arzt hat die Medikamentendosis verringert.",
+            "english": "The doctor reduced the medication dosage."
+        },
+        {
+            "german": "Wir müssen unseren Energieverbrauch verringern, um die Umwelt zu schützen.",
+            "english": "We need to reduce our energy consumption to protect the environment."
+        },
+        {
+            "german": "Die Maßnahmen sollen die Arbeitslosigkeit verringern.",
+            "english": "The measures are intended to decrease unemployment."
+        },
+        {
+            "german": "Der Lärmpegel wurde durch Schallschutzmaßnahmen verringert.",
+            "english": "The noise level was reduced through soundproofing measures."
+        }
+    ]
 }

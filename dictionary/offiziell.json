@@ -1,28 +1,26 @@
 {
     "word": "offiziell",
     "definition": "The term \"offiziell\" refers to something that is recognized or approved by an authoritative entity. It is commonly used to describe actions, statements, or documents that have been formally authorized or endorsed by an official source.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist offiziell.",
-                "english": "It is official."
-            },
-            {
-                "german": "Die Veranstaltung wurde offiziell abgesagt.",
-                "english": "The event has been officially canceled."
-            },
-            {
-                "german": "Er ist offiziell der Gewinner.",
-                "english": "He is officially the winner."
-            },
-            {
-                "german": "Die offizielle Sprache ist Deutsch.",
-                "english": "The official language is German."
-            },
-            {
-                "german": "Das offizielle Dokument wurde unterschrieben.",
-                "english": "The official document has been signed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist offiziell.",
+            "english": "It is official."
+        },
+        {
+            "german": "Die Veranstaltung wurde offiziell abgesagt.",
+            "english": "The event has been officially canceled."
+        },
+        {
+            "german": "Er ist offiziell der Gewinner.",
+            "english": "He is officially the winner."
+        },
+        {
+            "german": "Die offizielle Sprache ist Deutsch.",
+            "english": "The official language is German."
+        },
+        {
+            "german": "Das offizielle Dokument wurde unterschrieben.",
+            "english": "The official document has been signed."
+        }
+    ]
 }

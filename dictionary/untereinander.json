@@ -1,28 +1,26 @@
 {
     "word": "untereinander",
     "definition": "The term \"untereinander\" refers to the reciprocal or mutual relationship between multiple entities within a specific context. It is commonly used to describe interactions, communication, or exchanges that occur exclusively among a group of individuals or objects. This word emphasizes the interconnectedness and interdependence among the members of this group, highlighting their internal dynamics and interactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie müssen lernen, untereinander zu kommunizieren.",
-                "english": "You need to learn to communicate with each other."
-            },
-            {
-                "german": "Die Kinder spielen gerne untereinander.",
-                "english": "The children like to play with each other."
-            },
-            {
-                "german": "Die Mitglieder des Teams arbeiten gut untereinander.",
-                "english": "The team members work well together."
-            },
-            {
-                "german": "Wir sollten uns untereinander unterstützen.",
-                "english": "We should support each other."
-            },
-            {
-                "german": "Die Nachbarn haben ein gutes Verhältnis untereinander.",
-                "english": "The neighbors have a good relationship with each other."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie müssen lernen, untereinander zu kommunizieren.",
+            "english": "You need to learn to communicate with each other."
+        },
+        {
+            "german": "Die Kinder spielen gerne untereinander.",
+            "english": "The children like to play with each other."
+        },
+        {
+            "german": "Die Mitglieder des Teams arbeiten gut untereinander.",
+            "english": "The team members work well together."
+        },
+        {
+            "german": "Wir sollten uns untereinander unterstützen.",
+            "english": "We should support each other."
+        },
+        {
+            "german": "Die Nachbarn haben ein gutes Verhältnis untereinander.",
+            "english": "The neighbors have a good relationship with each other."
+        }
+    ]
 }

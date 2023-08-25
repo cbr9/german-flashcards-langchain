@@ -1,28 +1,26 @@
 {
     "word": "wagen, wagte, gewagt",
     "definition": "A vehicle used for transportation, typically with wheels, designed to carry people or goods from one place to another. It is commonly used for various purposes, such as commuting, traveling, or transporting goods.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich wage es, den Sprung zu wagen.",
-                "english": "I dare to take the leap."
-            },
-            {
-                "german": "Er wagte es, seine Meinung zu äußern.",
-                "english": "He dared to express his opinion."
-            },
-            {
-                "german": "Sie wagten es, gegen den Strom zu schwimmen.",
-                "english": "They dared to swim against the current."
-            },
-            {
-                "german": "Wagst du es, den Berg zu besteigen?",
-                "english": "Do you dare to climb the mountain?"
-            },
-            {
-                "german": "Wir haben es gewagt, unsere Träume zu verfolgen.",
-                "english": "We dared to pursue our dreams."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich wage es, den Sprung zu wagen.",
+            "english": "I dare to take the leap."
+        },
+        {
+            "german": "Er wagte es, seine Meinung zu äußern.",
+            "english": "He dared to express his opinion."
+        },
+        {
+            "german": "Sie wagten es, gegen den Strom zu schwimmen.",
+            "english": "They dared to swim against the current."
+        },
+        {
+            "german": "Wagst du es, den Berg zu besteigen?",
+            "english": "Do you dare to climb the mountain?"
+        },
+        {
+            "german": "Wir haben es gewagt, unsere Träume zu verfolgen.",
+            "english": "We dared to pursue our dreams."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "aufgeregt",
     "definition": "The word \"aufgeregt\" refers to a state of heightened emotional or mental agitation. It is commonly used to describe a person who is feeling excited, nervous, or anxious due to a particular event or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin aufgeregt wegen der Prüfung.",
-                "english": "I am excited about the exam."
-            },
-            {
-                "german": "Sie war sehr aufgeregt vor ihrem Auftritt.",
-                "english": "She was very nervous before her performance."
-            },
-            {
-                "german": "Er ist immer aufgeregt, wenn er fliegen muss.",
-                "english": "He is always anxious when he has to fly."
-            },
-            {
-                "german": "Die Kinder waren aufgeregt vor Weihnachten.",
-                "english": "The children were excited before Christmas."
-            },
-            {
-                "german": "Ich bin aufgeregt, weil ich heute meinen Führerschein bekomme.",
-                "english": "I am excited because I am getting my driver's license today."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin aufgeregt wegen der Prüfung.",
+            "english": "I am excited about the exam."
+        },
+        {
+            "german": "Sie war sehr aufgeregt vor ihrem Auftritt.",
+            "english": "She was very nervous before her performance."
+        },
+        {
+            "german": "Er ist immer aufgeregt, wenn er fliegen muss.",
+            "english": "He is always anxious when he has to fly."
+        },
+        {
+            "german": "Die Kinder waren aufgeregt vor Weihnachten.",
+            "english": "The children were excited before Christmas."
+        },
+        {
+            "german": "Ich bin aufgeregt, weil ich heute meinen Führerschein bekomme.",
+            "english": "I am excited because I am getting my driver's license today."
+        }
+    ]
 }

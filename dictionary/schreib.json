@@ -1,28 +1,26 @@
 {
     "word": "schreib, schrieb, geschrieben",
     "definition": "A term commonly employed to describe the action of creating written content, typically involving the use of a writing instrument or a keyboard. It encompasses the act of expressing thoughts, ideas, or information through the formation of words and sentences on a surface. This term is frequently associated with activities such as composing letters, essays, stories, or any other form of written communication.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich schreibe einen Brief.",
-                "english": "I am writing a letter."
-            },
-            {
-                "german": "Kannst du mir bitte schreiben?",
-                "english": "Can you please write to me?"
-            },
-            {
-                "german": "Sie schreibt Gedichte.",
-                "english": "She writes poems."
-            },
-            {
-                "german": "Er schreibt seine Hausaufgaben auf.",
-                "english": "He writes down his homework."
-            },
-            {
-                "german": "Wir schreiben uns regelmäßig E-Mails.",
-                "english": "We write each other emails regularly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich schreibe einen Brief.",
+            "english": "I am writing a letter."
+        },
+        {
+            "german": "Kannst du mir bitte schreiben?",
+            "english": "Can you please write to me?"
+        },
+        {
+            "german": "Sie schreibt Gedichte.",
+            "english": "She writes poems."
+        },
+        {
+            "german": "Er schreibt seine Hausaufgaben auf.",
+            "english": "He writes down his homework."
+        },
+        {
+            "german": "Wir schreiben uns regelmäßig E-Mails.",
+            "english": "We write each other emails regularly."
+        }
+    ]
 }

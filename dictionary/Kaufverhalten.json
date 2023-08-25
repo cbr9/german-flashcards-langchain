@@ -1,28 +1,26 @@
 {
     "word": "das Kaufverhalten, die Kaufverhalten",
     "definition": "The term refers to the manner in which individuals or groups make decisions and engage in activities related to purchasing goods or services. It encompasses the patterns, preferences, and behaviors that influence buying choices and consumer habits. This concept is commonly studied and analyzed in the field of marketing and consumer research to understand consumer trends, market dynamics, and develop effective marketing strategies.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Kaufverhalten der Kunden hat sich in den letzten Jahren stark verändert.",
-                "english": "The purchasing behavior of customers has changed significantly in recent years."
-            },
-            {
-                "german": "Das Kaufverhalten von Männern und Frauen unterscheidet sich oft.",
-                "english": "The purchasing behavior of men and women often differs."
-            },
-            {
-                "german": "Das Online-Kaufverhalten nimmt immer mehr zu.",
-                "english": "Online purchasing behavior is increasing."
-            },
-            {
-                "german": "Das Kaufverhalten von Jugendlichen wird stark von Werbung beeinflusst.",
-                "english": "The purchasing behavior of teenagers is strongly influenced by advertising."
-            },
-            {
-                "german": "Das Kaufverhalten in der Weihnachtszeit ist besonders hoch.",
-                "english": "Purchasing behavior during the Christmas season is particularly high."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Kaufverhalten der Kunden hat sich in den letzten Jahren stark verändert.",
+            "english": "The purchasing behavior of customers has changed significantly in recent years."
+        },
+        {
+            "german": "Das Kaufverhalten von Männern und Frauen unterscheidet sich oft.",
+            "english": "The purchasing behavior of men and women often differs."
+        },
+        {
+            "german": "Das Online-Kaufverhalten nimmt immer mehr zu.",
+            "english": "Online purchasing behavior is increasing."
+        },
+        {
+            "german": "Das Kaufverhalten von Jugendlichen wird stark von Werbung beeinflusst.",
+            "english": "The purchasing behavior of teenagers is strongly influenced by advertising."
+        },
+        {
+            "german": "Das Kaufverhalten in der Weihnachtszeit ist besonders hoch.",
+            "english": "Purchasing behavior during the Christmas season is particularly high."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Freizeit, die Freizeiten",
     "definition": "The term refers to the period of time when individuals are not engaged in work or other obligatory activities. It commonly encompasses leisure, recreational, and non-working hours, allowing individuals to pursue personal interests, hobbies, and relaxation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe am Wochenende viel Freizeit.",
-                "english": "I have a lot of free time on the weekend."
-            },
-            {
-                "german": "In meiner Freizeit spiele ich gerne Fußball.",
-                "english": "I like to play soccer in my free time."
-            },
-            {
-                "german": "Was machst du in deiner Freizeit?",
-                "english": "What do you do in your free time?"
-            },
-            {
-                "german": "Ich verbringe meine Freizeit gerne mit Freunden.",
-                "english": "I enjoy spending my free time with friends."
-            },
-            {
-                "german": "In meiner Freizeit lese ich gerne Bücher.",
-                "english": "I like to read books in my free time."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe am Wochenende viel Freizeit.",
+            "english": "I have a lot of free time on the weekend."
+        },
+        {
+            "german": "In meiner Freizeit spiele ich gerne Fußball.",
+            "english": "I like to play soccer in my free time."
+        },
+        {
+            "german": "Was machst du in deiner Freizeit?",
+            "english": "What do you do in your free time?"
+        },
+        {
+            "german": "Ich verbringe meine Freizeit gerne mit Freunden.",
+            "english": "I enjoy spending my free time with friends."
+        },
+        {
+            "german": "In meiner Freizeit lese ich gerne Bücher.",
+            "english": "I like to read books in my free time."
+        }
+    ]
 }

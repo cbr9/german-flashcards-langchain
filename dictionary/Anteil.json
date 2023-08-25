@@ -1,28 +1,26 @@
 {
     "word": "der Anteil, die Anteile",
     "definition": "A term used to describe a portion or share of something, often referring to a specific amount or proportion that one possesses or is entitled to. It is commonly used in various contexts, such as discussing ownership, participation, or distribution of resources, assets, or responsibilities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Anteil der Frauen in der Firma beträgt 40 Prozent.",
-                "english": "The proportion of women in the company is 40 percent."
-            },
-            {
-                "german": "Sein Anteil am Gewinn ist sehr hoch.",
-                "english": "His share of the profit is very high."
-            },
-            {
-                "german": "Der Anteil der Arbeitslosen ist gesunken.",
-                "english": "The percentage of unemployed people has decreased."
-            },
-            {
-                "german": "Der Anteil der Vegetarier nimmt stetig zu.",
-                "english": "The number of vegetarians is steadily increasing."
-            },
-            {
-                "german": "Der Anteil der Raucher ist in den letzten Jahren gesunken.",
-                "english": "The proportion of smokers has decreased in recent years."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Anteil der Frauen in der Firma beträgt 40 Prozent.",
+            "english": "The proportion of women in the company is 40 percent."
+        },
+        {
+            "german": "Sein Anteil am Gewinn ist sehr hoch.",
+            "english": "His share of the profit is very high."
+        },
+        {
+            "german": "Der Anteil der Arbeitslosen ist gesunken.",
+            "english": "The percentage of unemployed people has decreased."
+        },
+        {
+            "german": "Der Anteil der Vegetarier nimmt stetig zu.",
+            "english": "The number of vegetarians is steadily increasing."
+        },
+        {
+            "german": "Der Anteil der Raucher ist in den letzten Jahren gesunken.",
+            "english": "The proportion of smokers has decreased in recent years."
+        }
+    ]
 }

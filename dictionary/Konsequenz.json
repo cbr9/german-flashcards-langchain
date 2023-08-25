@@ -1,28 +1,26 @@
 {
     "word": "die Konsequenz, die Konsequenzen",
     "definition": "A term denoting the logical outcome or result that follows from a particular action, decision, or situation. It is commonly employed to describe the direct consequences or effects that arise as a result of a specific cause or set of circumstances. This word is frequently used in discussions related to personal behavior, decision-making, or the logical implications of a particular course of action.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Konsequenz seines Handelns war ein Verlust seines Jobs.",
-                "english": "The consequence of his actions was a loss of his job."
-            },
-            {
-                "german": "Sie hat die Konsequenzen ihres Verhaltens nicht bedacht.",
-                "english": "She did not consider the consequences of her behavior."
-            },
-            {
-                "german": "Er handelt immer mit großer Konsequenz.",
-                "english": "He always acts with great consistency."
-            },
-            {
-                "german": "Die Konsequenz dieser Entscheidung ist noch nicht absehbar.",
-                "english": "The consequence of this decision is not yet foreseeable."
-            },
-            {
-                "german": "Er hat die Konsequenzen seines Fehlers akzeptiert.",
-                "english": "He accepted the consequences of his mistake."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Konsequenz seines Handelns war ein Verlust seines Jobs.",
+            "english": "The consequence of his actions was a loss of his job."
+        },
+        {
+            "german": "Sie hat die Konsequenzen ihres Verhaltens nicht bedacht.",
+            "english": "She did not consider the consequences of her behavior."
+        },
+        {
+            "german": "Er handelt immer mit großer Konsequenz.",
+            "english": "He always acts with great consistency."
+        },
+        {
+            "german": "Die Konsequenz dieser Entscheidung ist noch nicht absehbar.",
+            "english": "The consequence of this decision is not yet foreseeable."
+        },
+        {
+            "german": "Er hat die Konsequenzen seines Fehlers akzeptiert.",
+            "english": "He accepted the consequences of his mistake."
+        }
+    ]
 }

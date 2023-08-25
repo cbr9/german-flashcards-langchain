@@ -1,28 +1,26 @@
 {
     "word": "die Müdigkeit, die Müdigkeiten",
     "definition": "A state of physical or mental exhaustion, often accompanied by a desire to rest or sleep. This term is commonly used to describe the feeling of tiredness or fatigue experienced after physical or mental exertion.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Müdigkeit übermannte ihn und er fiel sofort ins Bett.",
-                "english": "Fatigue overwhelmed him and he immediately fell into bed."
-            },
-            {
-                "german": "Die Müdigkeit machte sich nach der langen Reise bemerkbar.",
-                "english": "Fatigue became noticeable after the long journey."
-            },
-            {
-                "german": "Die Müdigkeit ließ ihn nicht konzentrieren.",
-                "english": "Fatigue prevented him from concentrating."
-            },
-            {
-                "german": "Die Müdigkeit war so stark, dass er fast eingeschlafen wäre.",
-                "english": "The fatigue was so strong that he almost fell asleep."
-            },
-            {
-                "german": "Die Müdigkeit war nach dem anstrengenden Tag kaum auszuhalten.",
-                "english": "The fatigue was almost unbearable after the exhausting day."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Müdigkeit übermannte ihn und er fiel sofort ins Bett.",
+            "english": "Fatigue overwhelmed him and he immediately fell into bed."
+        },
+        {
+            "german": "Die Müdigkeit machte sich nach der langen Reise bemerkbar.",
+            "english": "Fatigue became noticeable after the long journey."
+        },
+        {
+            "german": "Die Müdigkeit ließ ihn nicht konzentrieren.",
+            "english": "Fatigue prevented him from concentrating."
+        },
+        {
+            "german": "Die Müdigkeit war so stark, dass er fast eingeschlafen wäre.",
+            "english": "The fatigue was so strong that he almost fell asleep."
+        },
+        {
+            "german": "Die Müdigkeit war nach dem anstrengenden Tag kaum auszuhalten.",
+            "english": "The fatigue was almost unbearable after the exhausting day."
+        }
+    ]
 }

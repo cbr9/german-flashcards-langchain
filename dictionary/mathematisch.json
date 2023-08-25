@@ -1,28 +1,26 @@
 {
     "word": "mathematisch",
     "definition": "Relating to the study of numbers, quantities, and shapes, often involving calculations and logical reasoning. It is commonly used to describe concepts, principles, or methods used in solving mathematical problems.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mathematisch ist eine exakte Wissenschaft.",
-                "english": "Mathematical is an exact science."
-            },
-            {
-                "german": "Die mathematische Formel lautet E=mc².",
-                "english": "The mathematical formula is E=mc²."
-            },
-            {
-                "german": "Er hat ein mathematisches Problem gelöst.",
-                "english": "He solved a mathematical problem."
-            },
-            {
-                "german": "Die mathematische Funktion ist stetig.",
-                "english": "The mathematical function is continuous."
-            },
-            {
-                "german": "Mathematisch gesehen ist das unmöglich.",
-                "english": "Mathematically speaking, that is impossible."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mathematisch ist eine exakte Wissenschaft.",
+            "english": "Mathematical is an exact science."
+        },
+        {
+            "german": "Die mathematische Formel lautet E=mc².",
+            "english": "The mathematical formula is E=mc²."
+        },
+        {
+            "german": "Er hat ein mathematisches Problem gelöst.",
+            "english": "He solved a mathematical problem."
+        },
+        {
+            "german": "Die mathematische Funktion ist stetig.",
+            "english": "The mathematical function is continuous."
+        },
+        {
+            "german": "Mathematisch gesehen ist das unmöglich.",
+            "english": "Mathematically speaking, that is impossible."
+        }
+    ]
 }

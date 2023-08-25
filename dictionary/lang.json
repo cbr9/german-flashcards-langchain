@@ -1,28 +1,26 @@
 {
     "word": "lang",
     "definition": "The word \"lang\" refers to a measure of time or duration. It is commonly used to describe a period that extends beyond the average or expected length.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe lange geschlafen.",
-                "english": "I slept for a long time."
-            },
-            {
-                "german": "Das Buch ist langweilig.",
-                "english": "The book is boring."
-            },
-            {
-                "german": "Er hat einen langen Bart.",
-                "english": "He has a long beard."
-            },
-            {
-                "german": "Die Straße ist lang und gerade.",
-                "english": "The road is long and straight."
-            },
-            {
-                "german": "Sie hat lange Haare.",
-                "english": "She has long hair."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe lange geschlafen.",
+            "english": "I slept for a long time."
+        },
+        {
+            "german": "Das Buch ist langweilig.",
+            "english": "The book is boring."
+        },
+        {
+            "german": "Er hat einen langen Bart.",
+            "english": "He has a long beard."
+        },
+        {
+            "german": "Die Straße ist lang und gerade.",
+            "english": "The road is long and straight."
+        },
+        {
+            "german": "Sie hat lange Haare.",
+            "english": "She has long hair."
+        }
+    ]
 }

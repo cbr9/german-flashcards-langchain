@@ -1,28 +1,26 @@
 {
     "word": "der Kellner, die Kellner",
     "definition": "A person who works in a restaurant or café, taking orders from customers and serving food and drinks at their tables.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kellner bringt die Bestellung.",
-                "english": "The waiter brings the order."
-            },
-            {
-                "german": "Kann ich bitte die Rechnung haben, Kellner?",
-                "english": "Can I please have the bill, waiter?"
-            },
-            {
-                "german": "Der Kellner nimmt die Teller ab.",
-                "english": "The waiter clears the plates."
-            },
-            {
-                "german": "Der Kellner empfiehlt das Tagesgericht.",
-                "english": "The waiter recommends the daily special."
-            },
-            {
-                "german": "Der Kellner serviert die Getränke.",
-                "english": "The waiter serves the drinks."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kellner bringt die Bestellung.",
+            "english": "The waiter brings the order."
+        },
+        {
+            "german": "Kann ich bitte die Rechnung haben, Kellner?",
+            "english": "Can I please have the bill, waiter?"
+        },
+        {
+            "german": "Der Kellner nimmt die Teller ab.",
+            "english": "The waiter clears the plates."
+        },
+        {
+            "german": "Der Kellner empfiehlt das Tagesgericht.",
+            "english": "The waiter recommends the daily special."
+        },
+        {
+            "german": "Der Kellner serviert die Getränke.",
+            "english": "The waiter serves the drinks."
+        }
+    ]
 }

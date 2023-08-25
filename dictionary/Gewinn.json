@@ -1,28 +1,26 @@
 {
     "word": "der Gewinn, die Gewinne",
     "definition": "A positive outcome or advantage obtained through effort, skill, or luck, often associated with financial gain or profit. It is commonly used in the context of business, economics, and gambling.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Gewinn des Unternehmens stieg im letzten Quartal.",
-                "english": "The company's profit increased in the last quarter."
-            },
-            {
-                "german": "Sie hat einen hohen Gewinn mit ihrer Investition erzielt.",
-                "english": "She made a high profit with her investment."
-            },
-            {
-                "german": "Der Gewinn wird auf die Aktionäre verteilt.",
-                "english": "The profit is distributed to the shareholders."
-            },
-            {
-                "german": "Die Lotterie verspricht hohe Gewinne.",
-                "english": "The lottery promises high winnings."
-            },
-            {
-                "german": "Der Gewinn des Spiels hängt von der Strategie ab.",
-                "english": "The game's winnings depend on the strategy."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Gewinn des Unternehmens stieg im letzten Quartal.",
+            "english": "The company's profit increased in the last quarter."
+        },
+        {
+            "german": "Sie hat einen hohen Gewinn mit ihrer Investition erzielt.",
+            "english": "She made a high profit with her investment."
+        },
+        {
+            "german": "Der Gewinn wird auf die Aktionäre verteilt.",
+            "english": "The profit is distributed to the shareholders."
+        },
+        {
+            "german": "Die Lotterie verspricht hohe Gewinne.",
+            "english": "The lottery promises high winnings."
+        },
+        {
+            "german": "Der Gewinn des Spiels hängt von der Strategie ab.",
+            "english": "The game's winnings depend on the strategy."
+        }
+    ]
 }

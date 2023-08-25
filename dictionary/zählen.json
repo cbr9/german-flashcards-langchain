@@ -1,28 +1,26 @@
 {
     "word": "zählen, zählte, gezählt",
     "definition": "To determine the quantity or number of something by systematically counting or enumerating. It is commonly used when referring to the act of counting objects, people, or occurrences in a specific context.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich kann bis zehn zählen.",
-                "english": "I can count up to ten."
-            },
-            {
-                "german": "Wie viele Schafe zählst du, bevor du einschläfst?",
-                "english": "How many sheep do you count before falling asleep?"
-            },
-            {
-                "german": "Kannst du die Sterne am Himmel zählen?",
-                "english": "Can you count the stars in the sky?"
-            },
-            {
-                "german": "Er zählt zu den besten Spielern der Welt.",
-                "english": "He is counted among the best players in the world."
-            },
-            {
-                "german": "Das Ergebnis zählt am Ende.",
-                "english": "The result counts in the end."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich kann bis zehn zählen.",
+            "english": "I can count up to ten."
+        },
+        {
+            "german": "Wie viele Schafe zählst du, bevor du einschläfst?",
+            "english": "How many sheep do you count before falling asleep?"
+        },
+        {
+            "german": "Kannst du die Sterne am Himmel zählen?",
+            "english": "Can you count the stars in the sky?"
+        },
+        {
+            "german": "Er zählt zu den besten Spielern der Welt.",
+            "english": "He is counted among the best players in the world."
+        },
+        {
+            "german": "Das Ergebnis zählt am Ende.",
+            "english": "The result counts in the end."
+        }
+    ]
 }

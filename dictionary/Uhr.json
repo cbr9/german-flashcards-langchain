@@ -1,28 +1,26 @@
 {
     "word": "die Uhr, die Uhren",
     "definition": "A device typically found on walls or worn on the wrist, used to measure and display the passage of time. It is commonly used to keep track of hours, minutes, and seconds, and is often utilized for scheduling, time management, and punctuality purposes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Uhr zeigt 12 Uhr an.",
-                "english": "The clock shows 12 o'clock."
-            },
-            {
-                "german": "Ich habe eine neue Armbanduhr.",
-                "english": "I have a new wristwatch."
-            },
-            {
-                "german": "Die Uhr tickt laut.",
-                "english": "The clock is ticking loudly."
-            },
-            {
-                "german": "Die Uhrzeit ist falsch.",
-                "english": "The time is wrong."
-            },
-            {
-                "german": "Die Uhr hat einen Batteriewechsel nötig.",
-                "english": "The clock needs a battery replacement."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Uhr zeigt 12 Uhr an.",
+            "english": "The clock shows 12 o'clock."
+        },
+        {
+            "german": "Ich habe eine neue Armbanduhr.",
+            "english": "I have a new wristwatch."
+        },
+        {
+            "german": "Die Uhr tickt laut.",
+            "english": "The clock is ticking loudly."
+        },
+        {
+            "german": "Die Uhrzeit ist falsch.",
+            "english": "The time is wrong."
+        },
+        {
+            "german": "Die Uhr hat einen Batteriewechsel nötig.",
+            "english": "The clock needs a battery replacement."
+        }
+    ]
 }

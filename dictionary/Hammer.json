@@ -1,28 +1,26 @@
 {
     "word": "der Hammer, die Hämmer",
     "definition": "A handheld tool with a heavy head and a handle, typically used for driving nails, breaking objects, or shaping materials through forceful impact. It is commonly found in construction, carpentry, and various manual labor tasks.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Hammer liegt auf dem Tisch.",
-                "english": "The hammer is on the table."
-            },
-            {
-                "german": "Er schlug mit dem Hammer auf den Nagel.",
-                "english": "He hit the nail with the hammer."
-            },
-            {
-                "german": "Der Hammer ist ein Werkzeug.",
-                "english": "The hammer is a tool."
-            },
-            {
-                "german": "Sie hat den Hammer fallen lassen.",
-                "english": "She dropped the hammer."
-            },
-            {
-                "german": "Der Hammer ist aus Metall.",
-                "english": "The hammer is made of metal."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Hammer liegt auf dem Tisch.",
+            "english": "The hammer is on the table."
+        },
+        {
+            "german": "Er schlug mit dem Hammer auf den Nagel.",
+            "english": "He hit the nail with the hammer."
+        },
+        {
+            "german": "Der Hammer ist ein Werkzeug.",
+            "english": "The hammer is a tool."
+        },
+        {
+            "german": "Sie hat den Hammer fallen lassen.",
+            "english": "She dropped the hammer."
+        },
+        {
+            "german": "Der Hammer ist aus Metall.",
+            "english": "The hammer is made of metal."
+        }
+    ]
 }

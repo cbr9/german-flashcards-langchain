@@ -1,28 +1,26 @@
 {
     "word": "investieren, investierte, investiert",
     "definition": "To allocate resources, typically money or time, into a venture or project with the expectation of achieving a profitable return or desired outcome. This term is commonly employed in the context of financial activities, business endeavors, or personal initiatives.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte in Aktien investieren.",
-                "english": "I want to invest in stocks."
-            },
-            {
-                "german": "Er hat viel Geld in sein Unternehmen investiert.",
-                "english": "He has invested a lot of money in his company."
-            },
-            {
-                "german": "Wir sollten in erneuerbare Energien investieren.",
-                "english": "We should invest in renewable energy."
-            },
-            {
-                "german": "Sie hat ihr gesamtes Vermögen in Immobilien investiert.",
-                "english": "She has invested her entire fortune in real estate."
-            },
-            {
-                "german": "Die Regierung plant, in die Infrastruktur des Landes zu investieren.",
-                "english": "The government plans to invest in the country's infrastructure."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte in Aktien investieren.",
+            "english": "I want to invest in stocks."
+        },
+        {
+            "german": "Er hat viel Geld in sein Unternehmen investiert.",
+            "english": "He has invested a lot of money in his company."
+        },
+        {
+            "german": "Wir sollten in erneuerbare Energien investieren.",
+            "english": "We should invest in renewable energy."
+        },
+        {
+            "german": "Sie hat ihr gesamtes Vermögen in Immobilien investiert.",
+            "english": "She has invested her entire fortune in real estate."
+        },
+        {
+            "german": "Die Regierung plant, in die Infrastruktur des Landes zu investieren.",
+            "english": "The government plans to invest in the country's infrastructure."
+        }
+    ]
 }

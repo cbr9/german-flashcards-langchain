@@ -1,28 +1,26 @@
 {
     "word": "klein",
     "definition": "The word \"klein\" refers to something that is the opposite of large or big. It is commonly used to describe objects, people, or concepts that are of a small size or scale.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Haus ist klein.",
-                "english": "The house is small."
-            },
-            {
-                "german": "Sie hat kleine Hände.",
-                "english": "She has small hands."
-            },
-            {
-                "german": "Der Hund ist klein und niedlich.",
-                "english": "The dog is small and cute."
-            },
-            {
-                "german": "Ich trage eine kleine Tasche.",
-                "english": "I am carrying a small bag."
-            },
-            {
-                "german": "Er hat eine kleine Wohnung.",
-                "english": "He has a small apartment."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Haus ist klein.",
+            "english": "The house is small."
+        },
+        {
+            "german": "Sie hat kleine Hände.",
+            "english": "She has small hands."
+        },
+        {
+            "german": "Der Hund ist klein und niedlich.",
+            "english": "The dog is small and cute."
+        },
+        {
+            "german": "Ich trage eine kleine Tasche.",
+            "english": "I am carrying a small bag."
+        },
+        {
+            "german": "Er hat eine kleine Wohnung.",
+            "english": "He has a small apartment."
+        }
+    ]
 }

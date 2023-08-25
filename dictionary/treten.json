@@ -1,28 +1,26 @@
 {
     "word": "treten, trat, getreten",
     "definition": "To exert force or pressure with one's foot, typically against a surface or object, often in a deliberate or intentional manner. It is commonly used in various physical activities, such as sports, dancing, or martial arts, as well as in everyday actions like walking or stepping.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trete auf den Ball.",
-                "english": "I kick the ball."
-            },
-            {
-                "german": "Er tritt in die Pedale.",
-                "english": "He pedals."
-            },
-            {
-                "german": "Sie tritt gegen die Tür.",
-                "english": "She kicks the door."
-            },
-            {
-                "german": "Wir treten in die Fußstapfen unserer Vorfahren.",
-                "english": "We follow in the footsteps of our ancestors."
-            },
-            {
-                "german": "Der Hund hat mich getreten.",
-                "english": "The dog kicked me."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trete auf den Ball.",
+            "english": "I kick the ball."
+        },
+        {
+            "german": "Er tritt in die Pedale.",
+            "english": "He pedals."
+        },
+        {
+            "german": "Sie tritt gegen die Tür.",
+            "english": "She kicks the door."
+        },
+        {
+            "german": "Wir treten in die Fußstapfen unserer Vorfahren.",
+            "english": "We follow in the footsteps of our ancestors."
+        },
+        {
+            "german": "Der Hund hat mich getreten.",
+            "english": "The dog kicked me."
+        }
+    ]
 }

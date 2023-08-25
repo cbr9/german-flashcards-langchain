@@ -1,28 +1,26 @@
 {
     "word": "die Schulordnung, die Schulordnungen",
     "definition": "A set of regulations and guidelines established by an educational institution to govern the behavior and conduct of students and staff within the school premises. It outlines the expected standards of behavior, disciplinary procedures, and academic policies. This term is commonly used in the context of educational institutions, particularly schools, to refer to the official document that outlines these rules and regulations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Schulordnung verbietet das Tragen von Caps.",
-                "english": "The school rules prohibit wearing caps."
-            },
-            {
-                "german": "Die Schulordnung legt fest, dass Handys im Unterricht ausgeschaltet sein müssen.",
-                "english": "The school rules state that mobile phones must be turned off during class."
-            },
-            {
-                "german": "Die Schulordnung regelt das Verhalten der Schülerinnen und Schüler auf dem Schulgelände.",
-                "english": "The school rules regulate the behavior of the students on the school premises."
-            },
-            {
-                "german": "Die Schulordnung sieht vor, dass Pünktlichkeit wichtig ist.",
-                "english": "The school rules stipulate that punctuality is important."
-            },
-            {
-                "german": "Die Schulordnung enthält auch Vorschriften zur Kleiderordnung.",
-                "english": "The school rules also include regulations regarding dress code."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Schulordnung verbietet das Tragen von Caps.",
+            "english": "The school rules prohibit wearing caps."
+        },
+        {
+            "german": "Die Schulordnung legt fest, dass Handys im Unterricht ausgeschaltet sein müssen.",
+            "english": "The school rules state that mobile phones must be turned off during class."
+        },
+        {
+            "german": "Die Schulordnung regelt das Verhalten der Schülerinnen und Schüler auf dem Schulgelände.",
+            "english": "The school rules regulate the behavior of the students on the school premises."
+        },
+        {
+            "german": "Die Schulordnung sieht vor, dass Pünktlichkeit wichtig ist.",
+            "english": "The school rules stipulate that punctuality is important."
+        },
+        {
+            "german": "Die Schulordnung enthält auch Vorschriften zur Kleiderordnung.",
+            "english": "The school rules also include regulations regarding dress code."
+        }
+    ]
 }

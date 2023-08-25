@@ -1,28 +1,26 @@
 {
     "word": "die Aktie, die Aktien",
     "definition": "A financial instrument representing ownership in a company, typically issued as shares, which entitles the holder to a proportionate claim on the company's assets and earnings. It is commonly traded on stock exchanges and used as a means of investment or ownership in businesses.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eine Aktie ist ein Anteil an einer Aktiengesellschaft.",
-                "english": "A share is a stake in a joint-stock company."
-            },
-            {
-                "german": "Die Aktie des Unternehmens hat an Wert gewonnen.",
-                "english": "The company's stock has gained value."
-            },
-            {
-                "german": "Er hat seine Aktien verkauft und Gewinn gemacht.",
-                "english": "He sold his shares and made a profit."
-            },
-            {
-                "german": "Die Aktienkurse sind heute stark gefallen.",
-                "english": "Stock prices have fallen sharply today."
-            },
-            {
-                "german": "Die Aktie wird an der Börse gehandelt.",
-                "english": "The stock is traded on the stock exchange."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eine Aktie ist ein Anteil an einer Aktiengesellschaft.",
+            "english": "A share is a stake in a joint-stock company."
+        },
+        {
+            "german": "Die Aktie des Unternehmens hat an Wert gewonnen.",
+            "english": "The company's stock has gained value."
+        },
+        {
+            "german": "Er hat seine Aktien verkauft und Gewinn gemacht.",
+            "english": "He sold his shares and made a profit."
+        },
+        {
+            "german": "Die Aktienkurse sind heute stark gefallen.",
+            "english": "Stock prices have fallen sharply today."
+        },
+        {
+            "german": "Die Aktie wird an der Börse gehandelt.",
+            "english": "The stock is traded on the stock exchange."
+        }
+    ]
 }

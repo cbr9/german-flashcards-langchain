@@ -1,28 +1,26 @@
 {
     "word": "die Schriftgröße, die Schriftgrößen",
     "definition": "The term refers to a numerical value that determines the size of a specific element within a written or printed document. It is commonly utilized in various contexts, particularly in digital or print media, to adjust the visual appearance of text, headings, or other typographic elements.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Schriftgröße des Textes ist zu klein.",
-                "english": "The font size of the text is too small."
-            },
-            {
-                "german": "Bitte ändern Sie die Schriftgröße auf 12 Punkte.",
-                "english": "Please change the font size to 12 points."
-            },
-            {
-                "german": "Die Schriftgröße kann in den Einstellungen angepasst werden.",
-                "english": "The font size can be adjusted in the settings."
-            },
-            {
-                "german": "Die Schriftgröße beeinflusst die Lesbarkeit des Textes.",
-                "english": "The font size affects the readability of the text."
-            },
-            {
-                "german": "Die Schriftgröße wird in Pixeln angegeben.",
-                "english": "The font size is specified in pixels."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Schriftgröße des Textes ist zu klein.",
+            "english": "The font size of the text is too small."
+        },
+        {
+            "german": "Bitte ändern Sie die Schriftgröße auf 12 Punkte.",
+            "english": "Please change the font size to 12 points."
+        },
+        {
+            "german": "Die Schriftgröße kann in den Einstellungen angepasst werden.",
+            "english": "The font size can be adjusted in the settings."
+        },
+        {
+            "german": "Die Schriftgröße beeinflusst die Lesbarkeit des Textes.",
+            "english": "The font size affects the readability of the text."
+        },
+        {
+            "german": "Die Schriftgröße wird in Pixeln angegeben.",
+            "english": "The font size is specified in pixels."
+        }
+    ]
 }

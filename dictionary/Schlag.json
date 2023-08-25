@@ -1,28 +1,26 @@
 {
     "word": "der Schlag, die Schläge",
     "definition": "A forceful impact or strike, often produced by a hand or an object, typically used to describe a physical action. It can refer to a hit, blow, or strike, and is commonly used in the context of combat, percussion instruments, or sports.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Schlag war so stark, dass die Fensterscheibe zerbrach.",
-                "english": "The blow was so strong that the window pane broke."
-            },
-            {
-                "german": "Er erlitt einen Schlaganfall und musste ins Krankenhaus gebracht werden.",
-                "english": "He suffered a stroke and had to be taken to the hospital."
-            },
-            {
-                "german": "Die Polizei führte einen Schlag gegen die Drogenbande durch.",
-                "english": "The police carried out a raid against the drug gang."
-            },
-            {
-                "german": "Sie gab ihm einen Schlag ins Gesicht, um sich zu verteidigen.",
-                "english": "She gave him a slap in the face to defend herself."
-            },
-            {
-                "german": "Der Schlagzeuger spielte einen beeindruckenden Schlag auf seinem Drumset.",
-                "english": "The drummer played an impressive beat on his drum set."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Schlag war so stark, dass die Fensterscheibe zerbrach.",
+            "english": "The blow was so strong that the window pane broke."
+        },
+        {
+            "german": "Er erlitt einen Schlaganfall und musste ins Krankenhaus gebracht werden.",
+            "english": "He suffered a stroke and had to be taken to the hospital."
+        },
+        {
+            "german": "Die Polizei führte einen Schlag gegen die Drogenbande durch.",
+            "english": "The police carried out a raid against the drug gang."
+        },
+        {
+            "german": "Sie gab ihm einen Schlag ins Gesicht, um sich zu verteidigen.",
+            "english": "She gave him a slap in the face to defend herself."
+        },
+        {
+            "german": "Der Schlagzeuger spielte einen beeindruckenden Schlag auf seinem Drumset.",
+            "english": "The drummer played an impressive beat on his drum set."
+        }
+    ]
 }

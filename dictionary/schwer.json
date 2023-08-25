@@ -1,28 +1,26 @@
 {
     "word": "schwer",
     "definition": "The word \"schwer\" refers to something that requires a significant amount of effort, strength, or skill to accomplish. It is commonly used to describe tasks, challenges, or situations that are difficult, demanding, or burdensome.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es ist schwer zu verstehen.",
-                "english": "It is difficult to understand."
-            },
-            {
-                "german": "Der Koffer ist sehr schwer.",
-                "english": "The suitcase is very heavy."
-            },
-            {
-                "german": "Die Prüfung war schwer.",
-                "english": "The exam was difficult."
-            },
-            {
-                "german": "Er hat einen schweren Fehler gemacht.",
-                "english": "He made a serious mistake."
-            },
-            {
-                "german": "Es ist schwer, eine Entscheidung zu treffen.",
-                "english": "It is hard to make a decision."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es ist schwer zu verstehen.",
+            "english": "It is difficult to understand."
+        },
+        {
+            "german": "Der Koffer ist sehr schwer.",
+            "english": "The suitcase is very heavy."
+        },
+        {
+            "german": "Die Prüfung war schwer.",
+            "english": "The exam was difficult."
+        },
+        {
+            "german": "Er hat einen schweren Fehler gemacht.",
+            "english": "He made a serious mistake."
+        },
+        {
+            "german": "Es ist schwer, eine Entscheidung zu treffen.",
+            "english": "It is hard to make a decision."
+        }
+    ]
 }

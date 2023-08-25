@@ -1,28 +1,26 @@
 {
     "word": "ablaufen, lief ab, abgelaufen",
     "definition": "To come to an end or reach completion, often used to describe the expiration or completion of a process, event, or period of time. It is commonly used in contexts related to the passing of time, the conclusion of an activity, or the expiration of a deadline.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Film läuft heute Abend im Kino ab.",
-                "english": "The movie is showing at the cinema tonight."
-            },
-            {
-                "german": "Die Veranstaltung ist bereits abgelaufen.",
-                "english": "The event has already ended."
-            },
-            {
-                "german": "Das Wasser läuft aus dem Hahn ab.",
-                "english": "The water is running out of the tap."
-            },
-            {
-                "german": "Die Garantie läuft in zwei Wochen ab.",
-                "english": "The warranty expires in two weeks."
-            },
-            {
-                "german": "Die Verhandlungen laufen noch.",
-                "english": "The negotiations are still ongoing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Film läuft heute Abend im Kino ab.",
+            "english": "The movie is showing at the cinema tonight."
+        },
+        {
+            "german": "Die Veranstaltung ist bereits abgelaufen.",
+            "english": "The event has already ended."
+        },
+        {
+            "german": "Das Wasser läuft aus dem Hahn ab.",
+            "english": "The water is running out of the tap."
+        },
+        {
+            "german": "Die Garantie läuft in zwei Wochen ab.",
+            "english": "The warranty expires in two weeks."
+        },
+        {
+            "german": "Die Verhandlungen laufen noch.",
+            "english": "The negotiations are still ongoing."
+        }
+    ]
 }

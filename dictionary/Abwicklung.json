@@ -1,28 +1,26 @@
 {
     "word": "die Abwicklung, die Abwicklungen",
     "definition": "A process or action involving the completion, execution, or handling of various tasks, typically related to the finalization or conclusion of a particular matter or transaction. It is commonly used in the context of business, finance, or administrative procedures.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Abwicklung der Bestellung dauert etwa zwei Wochen.",
-                "english": "The processing of the order takes about two weeks."
-            },
-            {
-                "german": "Die Abwicklung des Projekts wurde erfolgreich abgeschlossen.",
-                "english": "The completion of the project was successful."
-            },
-            {
-                "german": "Die Abwicklung der Zahlung erfolgt über das Online-Portal.",
-                "english": "The payment processing is done through the online portal."
-            },
-            {
-                "german": "Die Abwicklung der Rücksendung ist kostenlos.",
-                "english": "The return process is free of charge."
-            },
-            {
-                "german": "Die Abwicklung des Vertrags erfolgt gemäß den vereinbarten Bedingungen.",
-                "english": "The execution of the contract is done according to the agreed conditions."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Abwicklung der Bestellung dauert etwa zwei Wochen.",
+            "english": "The processing of the order takes about two weeks."
+        },
+        {
+            "german": "Die Abwicklung des Projekts wurde erfolgreich abgeschlossen.",
+            "english": "The completion of the project was successful."
+        },
+        {
+            "german": "Die Abwicklung der Zahlung erfolgt über das Online-Portal.",
+            "english": "The payment processing is done through the online portal."
+        },
+        {
+            "german": "Die Abwicklung der Rücksendung ist kostenlos.",
+            "english": "The return process is free of charge."
+        },
+        {
+            "german": "Die Abwicklung des Vertrags erfolgt gemäß den vereinbarten Bedingungen.",
+            "english": "The execution of the contract is done according to the agreed conditions."
+        }
+    ]
 }

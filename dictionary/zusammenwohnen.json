@@ -1,28 +1,26 @@
 {
     "word": "zusammenwohnen, wohnte zusammen, zusammen gewohnt",
     "definition": "The term refers to the act of residing together with another person or multiple individuals in the same living space. It commonly denotes the arrangement of sharing a home or dwelling, typically used to describe the living situation of people who are not related by blood or marriage but choose to cohabitate.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir wohnen zusammen.",
-                "english": "We live together."
-            },
-            {
-                "german": "Sie möchten zusammenwohnen.",
-                "english": "They want to live together."
-            },
-            {
-                "german": "Wir haben beschlossen, zusammenzuwohnen.",
-                "english": "We have decided to live together."
-            },
-            {
-                "german": "Sie sind seit einem Jahr zusammenwohnend.",
-                "english": "They have been living together for a year."
-            },
-            {
-                "german": "Er hat vorgeschlagen, zusammenzuwohnen.",
-                "english": "He has suggested living together."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir wohnen zusammen.",
+            "english": "We live together."
+        },
+        {
+            "german": "Sie möchten zusammenwohnen.",
+            "english": "They want to live together."
+        },
+        {
+            "german": "Wir haben beschlossen, zusammenzuwohnen.",
+            "english": "We have decided to live together."
+        },
+        {
+            "german": "Sie sind seit einem Jahr zusammenwohnend.",
+            "english": "They have been living together for a year."
+        },
+        {
+            "german": "Er hat vorgeschlagen, zusammenzuwohnen.",
+            "english": "He has suggested living together."
+        }
+    ]
 }

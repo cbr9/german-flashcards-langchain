@@ -1,28 +1,26 @@
 {
     "word": "der Tee, die Tees",
     "definition": "A hot beverage made by infusing dried leaves or herbs in hot water, often consumed for its soothing and refreshing qualities. It is commonly enjoyed during breakfast, afternoon breaks, or as a way to relax and unwind.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trinke gerne Tee.",
-                "english": "I like to drink tea."
-            },
-            {
-                "german": "Kannst du mir eine Tasse Tee machen?",
-                "english": "Can you make me a cup of tea?"
-            },
-            {
-                "german": "Tee enthält viele gesunde Antioxidantien.",
-                "english": "Tea contains many healthy antioxidants."
-            },
-            {
-                "german": "Ich trinke meinen Tee gerne mit Milch und Zucker.",
-                "english": "I like to drink my tea with milk and sugar."
-            },
-            {
-                "german": "Grüner Tee ist gut für die Gesundheit.",
-                "english": "Green tea is good for health."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trinke gerne Tee.",
+            "english": "I like to drink tea."
+        },
+        {
+            "german": "Kannst du mir eine Tasse Tee machen?",
+            "english": "Can you make me a cup of tea?"
+        },
+        {
+            "german": "Tee enthält viele gesunde Antioxidantien.",
+            "english": "Tea contains many healthy antioxidants."
+        },
+        {
+            "german": "Ich trinke meinen Tee gerne mit Milch und Zucker.",
+            "english": "I like to drink my tea with milk and sugar."
+        },
+        {
+            "german": "Grüner Tee ist gut für die Gesundheit.",
+            "english": "Green tea is good for health."
+        }
+    ]
 }

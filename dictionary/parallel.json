@@ -1,28 +1,26 @@
 {
     "word": "parallel",
     "definition": "A term used to describe the state or condition of two or more lines, objects, or concepts that remain equidistant from each other at all points, never intersecting. It is commonly employed in mathematics, geometry, and various scientific fields to denote the relationship between two or more entities that maintain a constant distance between each other.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die beiden Straßen verlaufen parallel zueinander.",
-                "english": "The two streets run parallel to each other."
-            },
-            {
-                "german": "Die Schüler arbeiten in parallelen Gruppen.",
-                "english": "The students work in parallel groups."
-            },
-            {
-                "german": "Die beiden Ereignisse fanden parallel statt.",
-                "english": "The two events happened in parallel."
-            },
-            {
-                "german": "Die parallelen Linien treffen sich im Unendlichen.",
-                "english": "The parallel lines meet at infinity."
-            },
-            {
-                "german": "Die beiden Projekte laufen parallel.",
-                "english": "The two projects are running in parallel."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die beiden Straßen verlaufen parallel zueinander.",
+            "english": "The two streets run parallel to each other."
+        },
+        {
+            "german": "Die Schüler arbeiten in parallelen Gruppen.",
+            "english": "The students work in parallel groups."
+        },
+        {
+            "german": "Die beiden Ereignisse fanden parallel statt.",
+            "english": "The two events happened in parallel."
+        },
+        {
+            "german": "Die parallelen Linien treffen sich im Unendlichen.",
+            "english": "The parallel lines meet at infinity."
+        },
+        {
+            "german": "Die beiden Projekte laufen parallel.",
+            "english": "The two projects are running in parallel."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "verzerrt",
     "definition": "The term \"verzerrt\" refers to a state or quality of something that has been altered or distorted from its original form. It is commonly used to describe a visual or auditory distortion, often associated with images, sounds, or voices. This word is frequently employed in the context of art, music, or technology, where it signifies a deliberate or unintentional modification resulting in a distorted representation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sein Gesicht war verzerrt vor Schmerz.",
-                "english": "His face was distorted with pain."
-            },
-            {
-                "german": "Die Wahrheit wurde verzerrt dargestellt.",
-                "english": "The truth was misrepresented."
-            },
-            {
-                "german": "Das Bild war verzerrt und unscharf.",
-                "english": "The image was distorted and blurry."
-            },
-            {
-                "german": "Seine Stimme klang verzerrt durch das Mikrofon.",
-                "english": "His voice sounded distorted through the microphone."
-            },
-            {
-                "german": "Die Realität wurde verzerrt wahrgenommen.",
-                "english": "Reality was perceived as distorted."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sein Gesicht war verzerrt vor Schmerz.",
+            "english": "His face was distorted with pain."
+        },
+        {
+            "german": "Die Wahrheit wurde verzerrt dargestellt.",
+            "english": "The truth was misrepresented."
+        },
+        {
+            "german": "Das Bild war verzerrt und unscharf.",
+            "english": "The image was distorted and blurry."
+        },
+        {
+            "german": "Seine Stimme klang verzerrt durch das Mikrofon.",
+            "english": "His voice sounded distorted through the microphone."
+        },
+        {
+            "german": "Die Realität wurde verzerrt wahrgenommen.",
+            "english": "Reality was perceived as distorted."
+        }
+    ]
 }

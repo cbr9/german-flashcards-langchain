@@ -1,28 +1,26 @@
 {
     "word": "die Suppe, die Suppen",
     "definition": "A savory liquid dish typically made by combining various ingredients such as vegetables, meat, or fish with broth or water. It is commonly consumed as a starter or main course and can be served hot or cold.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse gerne Suppe.",
-                "english": "I like to eat soup."
-            },
-            {
-                "german": "Die Suppe ist zu heiß.",
-                "english": "The soup is too hot."
-            },
-            {
-                "german": "Kannst du mir bitte Suppe geben?",
-                "english": "Can you please give me soup?"
-            },
-            {
-                "german": "Die Suppe schmeckt köstlich.",
-                "english": "The soup tastes delicious."
-            },
-            {
-                "german": "Suppe ist ein beliebtes Gericht im Winter.",
-                "english": "Soup is a popular dish in winter."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse gerne Suppe.",
+            "english": "I like to eat soup."
+        },
+        {
+            "german": "Die Suppe ist zu heiß.",
+            "english": "The soup is too hot."
+        },
+        {
+            "german": "Kannst du mir bitte Suppe geben?",
+            "english": "Can you please give me soup?"
+        },
+        {
+            "german": "Die Suppe schmeckt köstlich.",
+            "english": "The soup tastes delicious."
+        },
+        {
+            "german": "Suppe ist ein beliebtes Gericht im Winter.",
+            "english": "Soup is a popular dish in winter."
+        }
+    ]
 }

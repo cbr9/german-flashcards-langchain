@@ -1,28 +1,26 @@
 {
     "word": "lecker",
     "definition": "The word \"lecker\" refers to something that has a pleasant taste or flavor. It is commonly used to describe food or beverages that are delicious or tasty.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Essen schmeckt lecker.",
-                "english": "The food tastes delicious."
-            },
-            {
-                "german": "Die Schokolade ist sehr lecker.",
-                "english": "The chocolate is very tasty."
-            },
-            {
-                "german": "Das Eis schmilzt auf der Zunge und ist richtig lecker.",
-                "english": "The ice cream melts on the tongue and is really delicious."
-            },
-            {
-                "german": "Die Pizza war lecker und sättigend.",
-                "english": "The pizza was tasty and filling."
-            },
-            {
-                "german": "Ich habe gestern ein leckeres Stück Kuchen gegessen.",
-                "english": "I ate a delicious piece of cake yesterday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Essen schmeckt lecker.",
+            "english": "The food tastes delicious."
+        },
+        {
+            "german": "Die Schokolade ist sehr lecker.",
+            "english": "The chocolate is very tasty."
+        },
+        {
+            "german": "Das Eis schmilzt auf der Zunge und ist richtig lecker.",
+            "english": "The ice cream melts on the tongue and is really delicious."
+        },
+        {
+            "german": "Die Pizza war lecker und sättigend.",
+            "english": "The pizza was tasty and filling."
+        },
+        {
+            "german": "Ich habe gestern ein leckeres Stück Kuchen gegessen.",
+            "english": "I ate a delicious piece of cake yesterday."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Kino, die Kinos",
     "definition": "A place where people gather to watch moving images projected onto a large screen, typically for entertainment purposes. It is commonly used to refer to a specific type of establishment or venue, often associated with films, movies, or cinema.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe heute ins Kino.",
-                "english": "I am going to the cinema today."
-            },
-            {
-                "german": "Das Kino ist um die Ecke.",
-                "english": "The cinema is around the corner."
-            },
-            {
-                "german": "Wir haben gestern einen Film im Kino gesehen.",
-                "english": "We watched a movie at the cinema yesterday."
-            },
-            {
-                "german": "Das Kino hat bequeme Sitze.",
-                "english": "The cinema has comfortable seats."
-            },
-            {
-                "german": "Im Kino gibt es oft Popcorn.",
-                "english": "There is often popcorn at the cinema."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe heute ins Kino.",
+            "english": "I am going to the cinema today."
+        },
+        {
+            "german": "Das Kino ist um die Ecke.",
+            "english": "The cinema is around the corner."
+        },
+        {
+            "german": "Wir haben gestern einen Film im Kino gesehen.",
+            "english": "We watched a movie at the cinema yesterday."
+        },
+        {
+            "german": "Das Kino hat bequeme Sitze.",
+            "english": "The cinema has comfortable seats."
+        },
+        {
+            "german": "Im Kino gibt es oft Popcorn.",
+            "english": "There is often popcorn at the cinema."
+        }
+    ]
 }

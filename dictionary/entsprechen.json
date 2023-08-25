@@ -1,28 +1,26 @@
 {
     "word": "entsprechen, entsprach, entsprochen",
     "definition": "To be in accordance with or to correspond to something, often used to describe a situation where one thing matches or fulfills the expectations, requirements, or standards of another thing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das entspricht nicht meinen Erwartungen.",
-                "english": "That does not meet my expectations."
-            },
-            {
-                "german": "Die Realität entspricht nicht immer unseren Vorstellungen.",
-                "english": "Reality doesn't always correspond to our expectations."
-            },
-            {
-                "german": "Die Ergebnisse entsprechen den Erwartungen.",
-                "english": "The results match the expectations."
-            },
-            {
-                "german": "Das entspricht genau dem, was ich gesucht habe.",
-                "english": "That is exactly what I was looking for."
-            },
-            {
-                "german": "Die Aussage entspricht nicht der Wahrheit.",
-                "english": "The statement does not correspond to the truth."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das entspricht nicht meinen Erwartungen.",
+            "english": "That does not meet my expectations."
+        },
+        {
+            "german": "Die Realität entspricht nicht immer unseren Vorstellungen.",
+            "english": "Reality doesn't always correspond to our expectations."
+        },
+        {
+            "german": "Die Ergebnisse entsprechen den Erwartungen.",
+            "english": "The results match the expectations."
+        },
+        {
+            "german": "Das entspricht genau dem, was ich gesucht habe.",
+            "english": "That is exactly what I was looking for."
+        },
+        {
+            "german": "Die Aussage entspricht nicht der Wahrheit.",
+            "english": "The statement does not correspond to the truth."
+        }
+    ]
 }

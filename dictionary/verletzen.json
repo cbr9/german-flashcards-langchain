@@ -1,28 +1,26 @@
 {
     "word": "verletzen, verletzte, verletzt",
     "definition": "To cause harm or injury to someone physically or emotionally, often resulting in pain, suffering, or distress. It is commonly used to describe the act of hurting or injuring someone, either intentionally or unintentionally, through physical actions or hurtful words.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe mich verletzt.",
-                "english": "I injured myself."
-            },
-            {
-                "german": "Er hat seinen Arm verletzt.",
-                "english": "He injured his arm."
-            },
-            {
-                "german": "Die Spielerin wurde schwer verletzt.",
-                "english": "The player was seriously injured."
-            },
-            {
-                "german": "Der Unfall hat viele Menschen verletzt.",
-                "english": "The accident injured many people."
-            },
-            {
-                "german": "Sie hat sich beim Sport verletzt.",
-                "english": "She got injured while playing sports."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe mich verletzt.",
+            "english": "I injured myself."
+        },
+        {
+            "german": "Er hat seinen Arm verletzt.",
+            "english": "He injured his arm."
+        },
+        {
+            "german": "Die Spielerin wurde schwer verletzt.",
+            "english": "The player was seriously injured."
+        },
+        {
+            "german": "Der Unfall hat viele Menschen verletzt.",
+            "english": "The accident injured many people."
+        },
+        {
+            "german": "Sie hat sich beim Sport verletzt.",
+            "english": "She got injured while playing sports."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Markt, die Märkte",
     "definition": "A place where goods and services are bought and sold, typically involving the exchange of currency. It is commonly used to refer to a physical location or a designated area where vendors and customers gather to engage in commercial transactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Markt ist voll von Menschen.",
-                "english": "The market is crowded with people."
-            },
-            {
-                "german": "Ich gehe heute auf den Markt.",
-                "english": "I'm going to the market today."
-            },
-            {
-                "german": "Der Markt öffnet um 8 Uhr morgens.",
-                "english": "The market opens at 8 o'clock in the morning."
-            },
-            {
-                "german": "Auf dem Markt gibt es frisches Obst und Gemüse.",
-                "english": "There is fresh fruit and vegetables at the market."
-            },
-            {
-                "german": "Der Markt findet jeden Samstag statt.",
-                "english": "The market takes place every Saturday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Markt ist voll von Menschen.",
+            "english": "The market is crowded with people."
+        },
+        {
+            "german": "Ich gehe heute auf den Markt.",
+            "english": "I'm going to the market today."
+        },
+        {
+            "german": "Der Markt öffnet um 8 Uhr morgens.",
+            "english": "The market opens at 8 o'clock in the morning."
+        },
+        {
+            "german": "Auf dem Markt gibt es frisches Obst und Gemüse.",
+            "english": "There is fresh fruit and vegetables at the market."
+        },
+        {
+            "german": "Der Markt findet jeden Samstag statt.",
+            "english": "The market takes place every Saturday."
+        }
+    ]
 }

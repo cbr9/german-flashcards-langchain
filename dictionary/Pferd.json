@@ -1,28 +1,26 @@
 {
     "word": "das Pferd, die Pferde",
     "definition": "A large, four-legged mammal commonly found in rural areas, often used for transportation, agricultural work, and recreational activities such as riding and racing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Pferd frisst Heu.",
-                "english": "The horse eats hay."
-            },
-            {
-                "german": "Meine Schwester reitet gerne auf dem Pferd.",
-                "english": "My sister enjoys riding the horse."
-            },
-            {
-                "german": "Das Pferd galoppiert über die Wiese.",
-                "english": "The horse gallops across the meadow."
-            },
-            {
-                "german": "Der Bauer füttert seine Pferde.",
-                "english": "The farmer feeds his horses."
-            },
-            {
-                "german": "Das Pferd hat ein schönes Fell.",
-                "english": "The horse has a beautiful coat."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Pferd frisst Heu.",
+            "english": "The horse eats hay."
+        },
+        {
+            "german": "Meine Schwester reitet gerne auf dem Pferd.",
+            "english": "My sister enjoys riding the horse."
+        },
+        {
+            "german": "Das Pferd galoppiert über die Wiese.",
+            "english": "The horse gallops across the meadow."
+        },
+        {
+            "german": "Der Bauer füttert seine Pferde.",
+            "english": "The farmer feeds his horses."
+        },
+        {
+            "german": "Das Pferd hat ein schönes Fell.",
+            "english": "The horse has a beautiful coat."
+        }
+    ]
 }

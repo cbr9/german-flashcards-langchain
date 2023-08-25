@@ -1,28 +1,26 @@
 {
     "word": "der Bleistift, die Bleistifte",
     "definition": "A writing instrument typically made of a thin cylindrical object filled with a graphite-like substance, encased in a wooden or plastic covering. It is commonly used for creating marks or writing on paper or other surfaces.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe meinen Bleistift verloren.",
-                "english": "I lost my pencil."
-            },
-            {
-                "german": "Kannst du mir bitte einen Bleistift leihen?",
-                "english": "Can you please lend me a pencil?"
-            },
-            {
-                "german": "Der Bleistift ist spitz.",
-                "english": "The pencil is sharp."
-            },
-            {
-                "german": "Mein Bleistift ist schon fast leer.",
-                "english": "My pencil is almost empty."
-            },
-            {
-                "german": "Ich brauche einen Bleistift zum Schreiben.",
-                "english": "I need a pencil for writing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe meinen Bleistift verloren.",
+            "english": "I lost my pencil."
+        },
+        {
+            "german": "Kannst du mir bitte einen Bleistift leihen?",
+            "english": "Can you please lend me a pencil?"
+        },
+        {
+            "german": "Der Bleistift ist spitz.",
+            "english": "The pencil is sharp."
+        },
+        {
+            "german": "Mein Bleistift ist schon fast leer.",
+            "english": "My pencil is almost empty."
+        },
+        {
+            "german": "Ich brauche einen Bleistift zum Schreiben.",
+            "english": "I need a pencil for writing."
+        }
+    ]
 }

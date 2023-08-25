@@ -1,28 +1,26 @@
 {
     "word": "die Welt, die Welten",
     "definition": "A term commonly employed to refer to the entirety of the physical and social environment in which individuals exist, encompassing the planet, its inhabitants, and the various aspects of human civilization. It is frequently used in contexts related to global affairs, international relations, and discussions about the state of the world.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Welt ist rund.",
-                "english": "The world is round."
-            },
-            {
-                "german": "Er reist um die Welt.",
-                "english": "He travels around the world."
-            },
-            {
-                "german": "Die Weltbevölkerung wächst stetig.",
-                "english": "The world population is growing steadily."
-            },
-            {
-                "german": "Sie hat die Welt bereist.",
-                "english": "She has traveled the world."
-            },
-            {
-                "german": "Die Weltmeisterschaft findet alle vier Jahre statt.",
-                "english": "The World Cup takes place every four years."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Welt ist rund.",
+            "english": "The world is round."
+        },
+        {
+            "german": "Er reist um die Welt.",
+            "english": "He travels around the world."
+        },
+        {
+            "german": "Die Weltbevölkerung wächst stetig.",
+            "english": "The world population is growing steadily."
+        },
+        {
+            "german": "Sie hat die Welt bereist.",
+            "english": "She has traveled the world."
+        },
+        {
+            "german": "Die Weltmeisterschaft findet alle vier Jahre statt.",
+            "english": "The World Cup takes place every four years."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "meinen, meinte, gemeint",
     "definition": "To express personal thoughts, opinions, or beliefs about something or someone, often used to convey intentions, assumptions, or interpretations. It is commonly employed in conversations, discussions, or written texts to convey subjective viewpoints or to indicate what one intends or thinks about a particular matter.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Was meinst du?",
-                "english": "What do you mean?"
-            },
-            {
-                "german": "Ich meine, dass er recht hat.",
-                "english": "I think he is right."
-            },
-            {
-                "german": "Meinst du das ernst?",
-                "english": "Are you serious?"
-            },
-            {
-                "german": "Er meint es gut mit dir.",
-                "english": "He means well for you."
-            },
-            {
-                "german": "Was meint ihr dazu?",
-                "english": "What do you guys think about it?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Was meinst du?",
+            "english": "What do you mean?"
+        },
+        {
+            "german": "Ich meine, dass er recht hat.",
+            "english": "I think he is right."
+        },
+        {
+            "german": "Meinst du das ernst?",
+            "english": "Are you serious?"
+        },
+        {
+            "german": "Er meint es gut mit dir.",
+            "english": "He means well for you."
+        },
+        {
+            "german": "Was meint ihr dazu?",
+            "english": "What do you guys think about it?"
+        }
+    ]
 }

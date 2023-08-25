@@ -1,28 +1,26 @@
 {
     "word": "der Flug, die Flüge",
     "definition": "A term commonly employed to describe the act of traversing through the air, typically in a controlled manner, using a vehicle or apparatus designed for aerial transportation. It is often utilized to refer to the action of flying in an aircraft, glider, or other similar means of airborne conveyance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Flug nach Berlin dauert zwei Stunden.",
-                "english": "The flight to Berlin takes two hours."
-            },
-            {
-                "german": "Ich habe einen Flug nach New York gebucht.",
-                "english": "I have booked a flight to New York."
-            },
-            {
-                "german": "Der Flug wurde wegen des schlechten Wetters abgesagt.",
-                "english": "The flight was canceled due to bad weather."
-            },
-            {
-                "german": "Mein Flugzeug landet in einer Stunde.",
-                "english": "My airplane lands in one hour."
-            },
-            {
-                "german": "Der Flugbegleiter servierte Getränke während des Fluges.",
-                "english": "The flight attendant served drinks during the flight."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Flug nach Berlin dauert zwei Stunden.",
+            "english": "The flight to Berlin takes two hours."
+        },
+        {
+            "german": "Ich habe einen Flug nach New York gebucht.",
+            "english": "I have booked a flight to New York."
+        },
+        {
+            "german": "Der Flug wurde wegen des schlechten Wetters abgesagt.",
+            "english": "The flight was canceled due to bad weather."
+        },
+        {
+            "german": "Mein Flugzeug landet in einer Stunde.",
+            "english": "My airplane lands in one hour."
+        },
+        {
+            "german": "Der Flugbegleiter servierte Getränke während des Fluges.",
+            "english": "The flight attendant served drinks during the flight."
+        }
+    ]
 }

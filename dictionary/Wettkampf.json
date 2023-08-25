@@ -1,28 +1,26 @@
 {
     "word": "der Wettkampf, die Wettkämpfe",
     "definition": "A competitive event where individuals or teams engage in a contest to showcase their skills, abilities, or strength, often with the aim of determining a winner. It is commonly used in the context of sports, athletics, or any organized activity involving competition.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Wettkampf beginnt um 10 Uhr.",
-                "english": "The competition starts at 10 o'clock."
-            },
-            {
-                "german": "Sie hat den Wettkampf gewonnen.",
-                "english": "She won the competition."
-            },
-            {
-                "german": "Der Wettkampf war sehr spannend.",
-                "english": "The competition was very exciting."
-            },
-            {
-                "german": "Er nimmt regelmäßig an Wettkämpfen teil.",
-                "english": "He regularly participates in competitions."
-            },
-            {
-                "german": "Der Wettkampf wurde wegen des schlechten Wetters abgesagt.",
-                "english": "The competition was canceled due to bad weather."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Wettkampf beginnt um 10 Uhr.",
+            "english": "The competition starts at 10 o'clock."
+        },
+        {
+            "german": "Sie hat den Wettkampf gewonnen.",
+            "english": "She won the competition."
+        },
+        {
+            "german": "Der Wettkampf war sehr spannend.",
+            "english": "The competition was very exciting."
+        },
+        {
+            "german": "Er nimmt regelmäßig an Wettkämpfen teil.",
+            "english": "He regularly participates in competitions."
+        },
+        {
+            "german": "Der Wettkampf wurde wegen des schlechten Wetters abgesagt.",
+            "english": "The competition was canceled due to bad weather."
+        }
+    ]
 }

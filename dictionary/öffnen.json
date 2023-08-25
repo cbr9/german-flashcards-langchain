@@ -1,28 +1,26 @@
 {
     "word": "öffnen, öffnete, geöffnet",
     "definition": "To initiate an action that allows access to an enclosed space, object, or container, typically by separating two parts or removing a barrier. This word is commonly used when referring to the act of unlocking, unfastening, or unsealing something in order to gain entry or reveal its contents.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du bitte das Fenster öffnen?",
-                "english": "Can you please open the window?"
-            },
-            {
-                "german": "Eröffne ein neues Konto bei der Bank.",
-                "english": "Open a new account at the bank."
-            },
-            {
-                "german": "Sie öffnete die Tür und trat ein.",
-                "english": "She opened the door and entered."
-            },
-            {
-                "german": "Der Laden öffnet um 9 Uhr morgens.",
-                "english": "The store opens at 9 o'clock in the morning."
-            },
-            {
-                "german": "Er konnte die Flasche nicht öffnen.",
-                "english": "He couldn't open the bottle."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du bitte das Fenster öffnen?",
+            "english": "Can you please open the window?"
+        },
+        {
+            "german": "Eröffne ein neues Konto bei der Bank.",
+            "english": "Open a new account at the bank."
+        },
+        {
+            "german": "Sie öffnete die Tür und trat ein.",
+            "english": "She opened the door and entered."
+        },
+        {
+            "german": "Der Laden öffnet um 9 Uhr morgens.",
+            "english": "The store opens at 9 o'clock in the morning."
+        },
+        {
+            "german": "Er konnte die Flasche nicht öffnen.",
+            "english": "He couldn't open the bottle."
+        }
+    ]
 }

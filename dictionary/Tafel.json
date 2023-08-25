@@ -1,28 +1,26 @@
 {
     "word": "die Tafel, die Tafeln",
     "definition": "A flat, rectangular object typically made of wood, metal, or other materials, used for various purposes such as writing, drawing, displaying information, or as a surface for eating. It is commonly found in classrooms, restaurants, and homes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Tafel ist grün.",
-                "english": "The blackboard is green."
-            },
-            {
-                "german": "Sie schrieb die Aufgaben an die Tafel.",
-                "english": "She wrote the exercises on the blackboard."
-            },
-            {
-                "german": "Die Tafel ist mit Kreide beschrieben.",
-                "english": "The blackboard is written with chalk."
-            },
-            {
-                "german": "Er wischte die Tafel sauber.",
-                "english": "He wiped the blackboard clean."
-            },
-            {
-                "german": "Die Tafel hängt an der Wand.",
-                "english": "The blackboard is hanging on the wall."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Tafel ist grün.",
+            "english": "The blackboard is green."
+        },
+        {
+            "german": "Sie schrieb die Aufgaben an die Tafel.",
+            "english": "She wrote the exercises on the blackboard."
+        },
+        {
+            "german": "Die Tafel ist mit Kreide beschrieben.",
+            "english": "The blackboard is written with chalk."
+        },
+        {
+            "german": "Er wischte die Tafel sauber.",
+            "english": "He wiped the blackboard clean."
+        },
+        {
+            "german": "Die Tafel hängt an der Wand.",
+            "english": "The blackboard is hanging on the wall."
+        }
+    ]
 }

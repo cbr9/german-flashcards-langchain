@@ -1,28 +1,26 @@
 {
     "word": "die Hand, die Hände",
     "definition": "A body part located at the end of the arm, typically consisting of fingers and a palm, used for grasping, holding, and manipulating objects. It is commonly employed for activities such as writing, gesturing, and performing tasks requiring fine motor skills.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Hand ist am Ende des Arms.",
-                "english": "The hand is at the end of the arm."
-            },
-            {
-                "german": "Sie hat eine zarte Hand.",
-                "english": "She has a delicate hand."
-            },
-            {
-                "german": "Er schüttelte ihm die Hand.",
-                "english": "He shook his hand."
-            },
-            {
-                "german": "Sie wusch ihre Hände gründlich.",
-                "english": "She washed her hands thoroughly."
-            },
-            {
-                "german": "Er legte seine Hand auf ihre Schulter.",
-                "english": "He placed his hand on her shoulder."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Hand ist am Ende des Arms.",
+            "english": "The hand is at the end of the arm."
+        },
+        {
+            "german": "Sie hat eine zarte Hand.",
+            "english": "She has a delicate hand."
+        },
+        {
+            "german": "Er schüttelte ihm die Hand.",
+            "english": "He shook his hand."
+        },
+        {
+            "german": "Sie wusch ihre Hände gründlich.",
+            "english": "She washed her hands thoroughly."
+        },
+        {
+            "german": "Er legte seine Hand auf ihre Schulter.",
+            "english": "He placed his hand on her shoulder."
+        }
+    ]
 }

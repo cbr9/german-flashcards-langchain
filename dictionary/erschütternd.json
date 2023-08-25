@@ -1,28 +1,26 @@
 {
     "word": "erschütternd",
     "definition": "The term \"erschütternd\" refers to something that evokes a strong emotional response, typically characterized by a profound sense of shock, dismay, or disturbance. It is commonly used to describe events, experiences, or information that deeply affects or unsettles individuals, often leaving them in a state of disbelief or profound sadness.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Film war erschütternd.",
-                "english": "The movie was shocking."
-            },
-            {
-                "german": "Die Nachrichten sind oft erschütternd.",
-                "english": "The news is often disturbing."
-            },
-            {
-                "german": "Die Bilder vom Unfall waren erschütternd.",
-                "english": "The pictures of the accident were shocking."
-            },
-            {
-                "german": "Seine Geschichte ist wirklich erschütternd.",
-                "english": "His story is truly heartbreaking."
-            },
-            {
-                "german": "Die Gewalttat hat die ganze Gemeinschaft erschüttert.",
-                "english": "The act of violence has shaken the entire community."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Film war erschütternd.",
+            "english": "The movie was shocking."
+        },
+        {
+            "german": "Die Nachrichten sind oft erschütternd.",
+            "english": "The news is often disturbing."
+        },
+        {
+            "german": "Die Bilder vom Unfall waren erschütternd.",
+            "english": "The pictures of the accident were shocking."
+        },
+        {
+            "german": "Seine Geschichte ist wirklich erschütternd.",
+            "english": "His story is truly heartbreaking."
+        },
+        {
+            "german": "Die Gewalttat hat die ganze Gemeinschaft erschüttert.",
+            "english": "The act of violence has shaken the entire community."
+        }
+    ]
 }

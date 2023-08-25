@@ -1,28 +1,26 @@
 {
     "word": "das Dachboden, die Dachböden",
     "definition": "A space within a building, typically located directly beneath the roof, that is primarily used for storage purposes or as an attic. It is commonly utilized to store items that are not frequently needed or to house mechanical equipment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Dachboden ist voller alter Möbel.",
-                "english": "The attic is full of old furniture."
-            },
-            {
-                "german": "Wir haben den Dachboden als zusätzlichen Stauraum genutzt.",
-                "english": "We used the attic as additional storage space."
-            },
-            {
-                "german": "Der Dachboden ist dunkel und staubig.",
-                "english": "The attic is dark and dusty."
-            },
-            {
-                "german": "Meine Eltern haben den Dachboden in ein Gästezimmer umgewandelt.",
-                "english": "My parents converted the attic into a guest room."
-            },
-            {
-                "german": "Ich habe meine alten Spielzeuge auf dem Dachboden gefunden.",
-                "english": "I found my old toys in the attic."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Dachboden ist voller alter Möbel.",
+            "english": "The attic is full of old furniture."
+        },
+        {
+            "german": "Wir haben den Dachboden als zusätzlichen Stauraum genutzt.",
+            "english": "We used the attic as additional storage space."
+        },
+        {
+            "german": "Der Dachboden ist dunkel und staubig.",
+            "english": "The attic is dark and dusty."
+        },
+        {
+            "german": "Meine Eltern haben den Dachboden in ein Gästezimmer umgewandelt.",
+            "english": "My parents converted the attic into a guest room."
+        },
+        {
+            "german": "Ich habe meine alten Spielzeuge auf dem Dachboden gefunden.",
+            "english": "I found my old toys in the attic."
+        }
+    ]
 }

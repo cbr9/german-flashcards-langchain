@@ -1,28 +1,26 @@
 {
     "word": "die Zeremonie, die Article zeremonien",
     "definition": "A formal event or ritual that follows a prescribed set of actions, often involving symbolic gestures, speeches, or performances. It is commonly observed during important occasions, such as weddings, graduations, or official ceremonies.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Zeremonie beginnt um 15 Uhr.",
-                "english": "The ceremony starts at 3 PM."
-            },
-            {
-                "german": "Bei der Hochzeit gab es eine schöne Zeremonie.",
-                "english": "There was a beautiful ceremony at the wedding."
-            },
-            {
-                "german": "Die Preisverleihung war eine feierliche Zeremonie.",
-                "english": "The award ceremony was a solemn event."
-            },
-            {
-                "german": "Die Zeremonie fand in einer kleinen Kapelle statt.",
-                "english": "The ceremony took place in a small chapel."
-            },
-            {
-                "german": "Die Abschlussfeier war eine emotionale Zeremonie.",
-                "english": "The graduation ceremony was an emotional event."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Zeremonie beginnt um 15 Uhr.",
+            "english": "The ceremony starts at 3 PM."
+        },
+        {
+            "german": "Bei der Hochzeit gab es eine schöne Zeremonie.",
+            "english": "There was a beautiful ceremony at the wedding."
+        },
+        {
+            "german": "Die Preisverleihung war eine feierliche Zeremonie.",
+            "english": "The award ceremony was a solemn event."
+        },
+        {
+            "german": "Die Zeremonie fand in einer kleinen Kapelle statt.",
+            "english": "The ceremony took place in a small chapel."
+        },
+        {
+            "german": "Die Abschlussfeier war eine emotionale Zeremonie.",
+            "english": "The graduation ceremony was an emotional event."
+        }
+    ]
 }

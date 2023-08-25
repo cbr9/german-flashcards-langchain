@@ -1,28 +1,26 @@
 {
     "word": "schlafen, schlief, geschlafen",
     "definition": "To temporarily enter a state of unconsciousness, typically during the night, in order to rest and rejuvenate the body and mind. It is a common action performed by humans and animals alike, usually occurring in a horizontal position on a bed or other comfortable surface.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich schlafe gerne.",
-                "english": "I like to sleep."
-            },
-            {
-                "german": "Er schläft tief und fest.",
-                "english": "He sleeps deeply and soundly."
-            },
-            {
-                "german": "Wir haben gestern lange geschlafen.",
-                "english": "We slept long yesterday."
-            },
-            {
-                "german": "Sie kann nicht schlafen, weil sie zu aufgeregt ist.",
-                "english": "She can't sleep because she is too excited."
-            },
-            {
-                "german": "Schlaf gut und träum süß!",
-                "english": "Sleep well and sweet dreams!"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich schlafe gerne.",
+            "english": "I like to sleep."
+        },
+        {
+            "german": "Er schläft tief und fest.",
+            "english": "He sleeps deeply and soundly."
+        },
+        {
+            "german": "Wir haben gestern lange geschlafen.",
+            "english": "We slept long yesterday."
+        },
+        {
+            "german": "Sie kann nicht schlafen, weil sie zu aufgeregt ist.",
+            "english": "She can't sleep because she is too excited."
+        },
+        {
+            "german": "Schlaf gut und träum süß!",
+            "english": "Sleep well and sweet dreams!"
+        }
+    ]
 }

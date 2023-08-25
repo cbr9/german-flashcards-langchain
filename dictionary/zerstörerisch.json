@@ -1,28 +1,26 @@
 {
     "word": "zerstörerisch",
     "definition": "The term \"zerstörerisch\" refers to an adjective that describes actions or behaviors that have a detrimental or destructive impact. It is commonly used to characterize activities, events, or individuals that cause significant damage, harm, or disruption.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die zerstörerische Kraft des Sturms war verheerend.",
-                "english": "The destructive power of the storm was devastating."
-            },
-            {
-                "german": "Seine zerstörerische Wut kannte keine Grenzen.",
-                "english": "His destructive rage knew no bounds."
-            },
-            {
-                "german": "Die zerstörerische Natur des Krieges ist unbestreitbar.",
-                "english": "The destructive nature of war is undeniable."
-            },
-            {
-                "german": "Der Hurrikan hinterließ eine zerstörerische Spur der Verwüstung.",
-                "english": "The hurricane left a destructive trail of devastation."
-            },
-            {
-                "german": "Die zerstörerische Gewalt des Erdbebens war erschütternd.",
-                "english": "The destructive force of the earthquake was shocking."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die zerstörerische Kraft des Sturms war verheerend.",
+            "english": "The destructive power of the storm was devastating."
+        },
+        {
+            "german": "Seine zerstörerische Wut kannte keine Grenzen.",
+            "english": "His destructive rage knew no bounds."
+        },
+        {
+            "german": "Die zerstörerische Natur des Krieges ist unbestreitbar.",
+            "english": "The destructive nature of war is undeniable."
+        },
+        {
+            "german": "Der Hurrikan hinterließ eine zerstörerische Spur der Verwüstung.",
+            "english": "The hurricane left a destructive trail of devastation."
+        },
+        {
+            "german": "Die zerstörerische Gewalt des Erdbebens war erschütternd.",
+            "english": "The destructive force of the earthquake was shocking."
+        }
+    ]
 }

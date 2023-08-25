@@ -1,28 +1,26 @@
 {
     "word": "die Spitze, die Spitzen",
     "definition": "A term commonly used to describe the highest point or peak of something, often referring to mountain tops or the apex of an object. It can also be used to describe excellence, superiority, or the highest level of quality in various contexts. Additionally, it may refer to the tip or pointy end of an object.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Spitze des Berges ist mit Schnee bedeckt.",
-                "english": "The top of the mountain is covered in snow."
-            },
-            {
-                "german": "Sie hat die Spitze des Turms erklommen.",
-                "english": "She climbed to the top of the tower."
-            },
-            {
-                "german": "Die Spitze des Eisbergs ist nur sichtbar.",
-                "english": "Only the tip of the iceberg is visible."
-            },
-            {
-                "german": "Er ist an der Spitze seiner Karriere.",
-                "english": "He is at the peak of his career."
-            },
-            {
-                "german": "Die Spitze des Bleistifts ist abgebrochen.",
-                "english": "The tip of the pencil is broken."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Spitze des Berges ist mit Schnee bedeckt.",
+            "english": "The top of the mountain is covered in snow."
+        },
+        {
+            "german": "Sie hat die Spitze des Turms erklommen.",
+            "english": "She climbed to the top of the tower."
+        },
+        {
+            "german": "Die Spitze des Eisbergs ist nur sichtbar.",
+            "english": "Only the tip of the iceberg is visible."
+        },
+        {
+            "german": "Er ist an der Spitze seiner Karriere.",
+            "english": "He is at the peak of his career."
+        },
+        {
+            "german": "Die Spitze des Bleistifts ist abgebrochen.",
+            "english": "The tip of the pencil is broken."
+        }
+    ]
 }

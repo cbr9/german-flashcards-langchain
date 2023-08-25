@@ -1,28 +1,26 @@
 {
     "word": "verwendet",
     "definition": "The word \"verwendet\" refers to the past tense form of a verb that is commonly used to describe the action of utilizing or employing something for a particular purpose. It is often used in contexts where one is discussing the application or utilization of objects, resources, or tools.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er verwendet immer dasselbe Parfum.",
-                "english": "He always uses the same perfume."
-            },
-            {
-                "german": "Sie verwendet eine spezielle Technik, um das Problem zu lösen.",
-                "english": "She uses a special technique to solve the problem."
-            },
-            {
-                "german": "Der Koch verwendet frische Zutaten für das Gericht.",
-                "english": "The chef uses fresh ingredients for the dish."
-            },
-            {
-                "german": "Die Firma verwendet umweltfreundliche Verpackungen.",
-                "english": "The company uses environmentally friendly packaging."
-            },
-            {
-                "german": "Er verwendet sein Handy nur für wichtige Anrufe.",
-                "english": "He only uses his phone for important calls."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er verwendet immer dasselbe Parfum.",
+            "english": "He always uses the same perfume."
+        },
+        {
+            "german": "Sie verwendet eine spezielle Technik, um das Problem zu lösen.",
+            "english": "She uses a special technique to solve the problem."
+        },
+        {
+            "german": "Der Koch verwendet frische Zutaten für das Gericht.",
+            "english": "The chef uses fresh ingredients for the dish."
+        },
+        {
+            "german": "Die Firma verwendet umweltfreundliche Verpackungen.",
+            "english": "The company uses environmentally friendly packaging."
+        },
+        {
+            "german": "Er verwendet sein Handy nur für wichtige Anrufe.",
+            "english": "He only uses his phone for important calls."
+        }
+    ]
 }

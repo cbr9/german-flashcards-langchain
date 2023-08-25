@@ -1,28 +1,26 @@
 {
     "word": "das Badezimmer, die Badezimmer",
     "definition": "A room in a house or building typically used for personal hygiene activities, such as bathing, showering, and grooming. It often contains a bathtub or shower, a sink, and a toilet.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Badezimmer ist sehr groß.",
-                "english": "The bathroom is very big."
-            },
-            {
-                "german": "Ich brauche eine neue Badezimmerlampe.",
-                "english": "I need a new bathroom lamp."
-            },
-            {
-                "german": "Das Badezimmer ist sauber und ordentlich.",
-                "english": "The bathroom is clean and tidy."
-            },
-            {
-                "german": "Unser Badezimmer hat eine Dusche und eine Badewanne.",
-                "english": "Our bathroom has a shower and a bathtub."
-            },
-            {
-                "german": "Das Badezimmer hat einen großen Spiegel.",
-                "english": "The bathroom has a large mirror."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Badezimmer ist sehr groß.",
+            "english": "The bathroom is very big."
+        },
+        {
+            "german": "Ich brauche eine neue Badezimmerlampe.",
+            "english": "I need a new bathroom lamp."
+        },
+        {
+            "german": "Das Badezimmer ist sauber und ordentlich.",
+            "english": "The bathroom is clean and tidy."
+        },
+        {
+            "german": "Unser Badezimmer hat eine Dusche und eine Badewanne.",
+            "english": "Our bathroom has a shower and a bathtub."
+        },
+        {
+            "german": "Das Badezimmer hat einen großen Spiegel.",
+            "english": "The bathroom has a large mirror."
+        }
+    ]
 }

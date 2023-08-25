@@ -1,28 +1,26 @@
 {
     "word": "das Erwissen, die There seems to be a typo in the example \"article erwissen.\" it is unclear what the intended word is. could you please provide the correct word so that i can provide the plural form?",
     "definition": "To gain knowledge or information about something through personal experience, observation, or learning from others. It is commonly used to describe the act of acquiring knowledge or understanding through various means.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich erwisse, dass du gestern Geburtstag hattest.",
-                "english": "I found out that you had a birthday yesterday."
-            },
-            {
-                "german": "Wir erwissen, dass der Zug Verspätung hat.",
-                "english": "We discovered that the train is delayed."
-            },
-            {
-                "german": "Sie erwissen, dass er ein Geheimnis hat.",
-                "english": "They learned that he has a secret."
-            },
-            {
-                "german": "Er erwiss, dass sie ihn belogen hat.",
-                "english": "He realized that she lied to him."
-            },
-            {
-                "german": "Ich erwisse, dass du mich angelogen hast.",
-                "english": "I found out that you lied to me."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich erwisse, dass du gestern Geburtstag hattest.",
+            "english": "I found out that you had a birthday yesterday."
+        },
+        {
+            "german": "Wir erwissen, dass der Zug Verspätung hat.",
+            "english": "We discovered that the train is delayed."
+        },
+        {
+            "german": "Sie erwissen, dass er ein Geheimnis hat.",
+            "english": "They learned that he has a secret."
+        },
+        {
+            "german": "Er erwiss, dass sie ihn belogen hat.",
+            "english": "He realized that she lied to him."
+        },
+        {
+            "german": "Ich erwisse, dass du mich angelogen hast.",
+            "english": "I found out that you lied to me."
+        }
+    ]
 }

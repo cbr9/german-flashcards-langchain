@@ -1,28 +1,26 @@
 {
     "word": "erledigen, erledigte, erledigt",
     "definition": "To complete or finish a task, duty, or responsibility, often implying the successful accomplishment of it. This word is commonly used to describe the act of taking care of or dealing with various matters, errands, or assignments efficiently and effectively.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss noch einige Besorgungen erledigen.",
-                "english": "I still have to run some errands."
-            },
-            {
-                "german": "Kannst du bitte die Rechnungen erledigen?",
-                "english": "Can you please take care of the invoices?"
-            },
-            {
-                "german": "Ich werde das Problem so schnell wie möglich erledigen.",
-                "english": "I will solve the problem as soon as possible."
-            },
-            {
-                "german": "Erledigst du die Aufgabe bis morgen?",
-                "english": "Will you complete the task by tomorrow?"
-            },
-            {
-                "german": "Ich habe alle offenen Punkte erledigt.",
-                "english": "I have taken care of all the open issues."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss noch einige Besorgungen erledigen.",
+            "english": "I still have to run some errands."
+        },
+        {
+            "german": "Kannst du bitte die Rechnungen erledigen?",
+            "english": "Can you please take care of the invoices?"
+        },
+        {
+            "german": "Ich werde das Problem so schnell wie möglich erledigen.",
+            "english": "I will solve the problem as soon as possible."
+        },
+        {
+            "german": "Erledigst du die Aufgabe bis morgen?",
+            "english": "Will you complete the task by tomorrow?"
+        },
+        {
+            "german": "Ich habe alle offenen Punkte erledigt.",
+            "english": "I have taken care of all the open issues."
+        }
+    ]
 }

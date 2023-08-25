@@ -1,28 +1,26 @@
 {
     "word": "der Mann, die Männer",
     "definition": "A human adult of the male gender, typically used to refer to an individual in a specific role or position within a family or society. It is commonly used to denote a person's spouse or partner, and can also refer to a male person in general.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Mann geht zur Arbeit.",
-                "english": "The man goes to work."
-            },
-            {
-                "german": "Der Mann trägt einen Hut.",
-                "english": "The man is wearing a hat."
-            },
-            {
-                "german": "Der Mann spielt Fußball.",
-                "english": "The man is playing soccer."
-            },
-            {
-                "german": "Der Mann liest ein Buch.",
-                "english": "The man is reading a book."
-            },
-            {
-                "german": "Der Mann ist groß.",
-                "english": "The man is tall."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Mann geht zur Arbeit.",
+            "english": "The man goes to work."
+        },
+        {
+            "german": "Der Mann trägt einen Hut.",
+            "english": "The man is wearing a hat."
+        },
+        {
+            "german": "Der Mann spielt Fußball.",
+            "english": "The man is playing soccer."
+        },
+        {
+            "german": "Der Mann liest ein Buch.",
+            "english": "The man is reading a book."
+        },
+        {
+            "german": "Der Mann ist groß.",
+            "english": "The man is tall."
+        }
+    ]
 }

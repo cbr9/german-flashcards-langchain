@@ -1,28 +1,26 @@
 {
     "word": "die Welle, die Wellen",
     "definition": "A natural occurrence in bodies of water, often caused by wind or seismic activity, characterized by the rising and falling of the surface, typically used to describe a specific type of movement or disturbance. It is commonly used in the context of describing oceanic or aquatic phenomena, as well as metaphorically to refer to a wave-like pattern or fluctuation in various domains.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Welle rollt auf den Strand zu.",
-                "english": "The wave is rolling towards the beach."
-            },
-            {
-                "german": "Die Surfer reiten auf den Wellen.",
-                "english": "The surfers are riding the waves."
-            },
-            {
-                "german": "Die Welle der Begeisterung war groß.",
-                "english": "The wave of enthusiasm was great."
-            },
-            {
-                "german": "Die Welle der Kritik traf ihn unvorbereitet.",
-                "english": "The wave of criticism caught him off guard."
-            },
-            {
-                "german": "Die Welle der Proteste wurde immer größer.",
-                "english": "The wave of protests kept growing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Welle rollt auf den Strand zu.",
+            "english": "The wave is rolling towards the beach."
+        },
+        {
+            "german": "Die Surfer reiten auf den Wellen.",
+            "english": "The surfers are riding the waves."
+        },
+        {
+            "german": "Die Welle der Begeisterung war groß.",
+            "english": "The wave of enthusiasm was great."
+        },
+        {
+            "german": "Die Welle der Kritik traf ihn unvorbereitet.",
+            "english": "The wave of criticism caught him off guard."
+        },
+        {
+            "german": "Die Welle der Proteste wurde immer größer.",
+            "english": "The wave of protests kept growing."
+        }
+    ]
 }

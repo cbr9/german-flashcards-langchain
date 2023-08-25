@@ -1,28 +1,26 @@
 {
     "word": "die Herausforderung, die Herausforderungen",
     "definition": "A situation or task that requires effort, skill, or determination to overcome, often involving obstacles or difficulties. It is commonly used to describe a challenging or demanding situation that requires one's abilities, resilience, or problem-solving skills to be tested.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Prüfung war eine große Herausforderung.",
-                "english": "The exam was a big challenge."
-            },
-            {
-                "german": "Der Marathonlauf ist eine Herausforderung für jeden Läufer.",
-                "english": "The marathon is a challenge for every runner."
-            },
-            {
-                "german": "Die neue Aufgabe stellt eine Herausforderung dar.",
-                "english": "The new task presents a challenge."
-            },
-            {
-                "german": "Die Verhandlungen waren eine große Herausforderung.",
-                "english": "The negotiations were a big challenge."
-            },
-            {
-                "german": "Die technische Umstellung ist eine Herausforderung für das Unternehmen.",
-                "english": "The technical transition is a challenge for the company."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Prüfung war eine große Herausforderung.",
+            "english": "The exam was a big challenge."
+        },
+        {
+            "german": "Der Marathonlauf ist eine Herausforderung für jeden Läufer.",
+            "english": "The marathon is a challenge for every runner."
+        },
+        {
+            "german": "Die neue Aufgabe stellt eine Herausforderung dar.",
+            "english": "The new task presents a challenge."
+        },
+        {
+            "german": "Die Verhandlungen waren eine große Herausforderung.",
+            "english": "The negotiations were a big challenge."
+        },
+        {
+            "german": "Die technische Umstellung ist eine Herausforderung für das Unternehmen.",
+            "english": "The technical transition is a challenge for the company."
+        }
+    ]
 }

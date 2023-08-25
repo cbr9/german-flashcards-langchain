@@ -1,28 +1,26 @@
 {
     "word": "berühmt",
     "definition": "The word \"berühmt\" refers to something or someone that is widely recognized and admired by many people. It is commonly used to describe individuals, places, or things that have gained significant fame or notoriety due to their achievements, talents, or influence.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein berühmter Schauspieler.",
-                "english": "He is a famous actor."
-            },
-            {
-                "german": "Das Gemälde ist weltweit berühmt.",
-                "english": "The painting is famous worldwide."
-            },
-            {
-                "german": "Sie ist eine berühmte Sängerin.",
-                "english": "She is a famous singer."
-            },
-            {
-                "german": "Der berühmte Autor hat viele Bücher geschrieben.",
-                "english": "The famous author has written many books."
-            },
-            {
-                "german": "Das Hotel ist für seinen berühmten Service bekannt.",
-                "english": "The hotel is known for its famous service."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein berühmter Schauspieler.",
+            "english": "He is a famous actor."
+        },
+        {
+            "german": "Das Gemälde ist weltweit berühmt.",
+            "english": "The painting is famous worldwide."
+        },
+        {
+            "german": "Sie ist eine berühmte Sängerin.",
+            "english": "She is a famous singer."
+        },
+        {
+            "german": "Der berühmte Autor hat viele Bücher geschrieben.",
+            "english": "The famous author has written many books."
+        },
+        {
+            "german": "Das Hotel ist für seinen berühmten Service bekannt.",
+            "english": "The hotel is known for its famous service."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "berichten, berichtete, berichtet",
     "definition": "To provide an account or convey information about an event, situation, or topic, typically through verbal or written means. It is commonly used in news reporting, storytelling, or sharing personal experiences.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde dir später berichten.",
-                "english": "I will tell you later."
-            },
-            {
-                "german": "Sie berichtete über ihre Reise nach Paris.",
-                "english": "She reported on her trip to Paris."
-            },
-            {
-                "german": "Die Zeitung berichtete über den Unfall.",
-                "english": "The newspaper reported on the accident."
-            },
-            {
-                "german": "Er berichtete von seinen Erfahrungen im Ausland.",
-                "english": "He recounted his experiences abroad."
-            },
-            {
-                "german": "Der Zeuge muss vor Gericht berichten.",
-                "english": "The witness has to testify in court."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde dir später berichten.",
+            "english": "I will tell you later."
+        },
+        {
+            "german": "Sie berichtete über ihre Reise nach Paris.",
+            "english": "She reported on her trip to Paris."
+        },
+        {
+            "german": "Die Zeitung berichtete über den Unfall.",
+            "english": "The newspaper reported on the accident."
+        },
+        {
+            "german": "Er berichtete von seinen Erfahrungen im Ausland.",
+            "english": "He recounted his experiences abroad."
+        },
+        {
+            "german": "Der Zeuge muss vor Gericht berichten.",
+            "english": "The witness has to testify in court."
+        }
+    ]
 }

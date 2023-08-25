@@ -1,28 +1,26 @@
 {
     "word": "das Lied, die Lieder",
     "definition": "A short musical composition typically consisting of lyrics and melody, often sung by a single voice or a small group of voices. It is commonly used for artistic expression, storytelling, and conveying emotions through music and lyrics.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist mein Lieblingslied.",
-                "english": "This is my favorite song."
-            },
-            {
-                "german": "Sie sang ein trauriges Lied.",
-                "english": "She sang a sad song."
-            },
-            {
-                "german": "Das Lied hat einen eingängigen Refrain.",
-                "english": "The song has a catchy chorus."
-            },
-            {
-                "german": "Er komponiert gerne Lieder.",
-                "english": "He enjoys composing songs."
-            },
-            {
-                "german": "Das Lied berührt mein Herz.",
-                "english": "The song touches my heart."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist mein Lieblingslied.",
+            "english": "This is my favorite song."
+        },
+        {
+            "german": "Sie sang ein trauriges Lied.",
+            "english": "She sang a sad song."
+        },
+        {
+            "german": "Das Lied hat einen eingängigen Refrain.",
+            "english": "The song has a catchy chorus."
+        },
+        {
+            "german": "Er komponiert gerne Lieder.",
+            "english": "He enjoys composing songs."
+        },
+        {
+            "german": "Das Lied berührt mein Herz.",
+            "english": "The song touches my heart."
+        }
+    ]
 }

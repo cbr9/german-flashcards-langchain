@@ -1,28 +1,26 @@
 {
     "word": "der Moment, die Momente",
     "definition": "A brief period of time, typically referring to a specific point or duration. It is commonly used to express the concept of a short interval or an instant, often in the context of waiting, pausing, or temporarily halting an activity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Moment",
-                "english": "moment"
-            },
-            {
-                "german": "Einen Moment bitte.",
-                "english": "One moment please."
-            },
-            {
-                "german": "Warte einen Moment.",
-                "english": "Wait a moment."
-            },
-            {
-                "german": "Im Moment bin ich beschäftigt.",
-                "english": "I'm busy at the moment."
-            },
-            {
-                "german": "Das war ein magischer Moment.",
-                "english": "That was a magical moment."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Moment",
+            "english": "moment"
+        },
+        {
+            "german": "Einen Moment bitte.",
+            "english": "One moment please."
+        },
+        {
+            "german": "Warte einen Moment.",
+            "english": "Wait a moment."
+        },
+        {
+            "german": "Im Moment bin ich beschäftigt.",
+            "english": "I'm busy at the moment."
+        },
+        {
+            "german": "Das war ein magischer Moment.",
+            "english": "That was a magical moment."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Fahrer, die Fahrer",
     "definition": "A person who operates a vehicle, typically used to refer to someone driving a car, motorcycle, or other motorized vehicle.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Fahrer des Busses war sehr freundlich.",
-                "english": "The driver of the bus was very friendly."
-            },
-            {
-                "german": "Der LKW-Fahrer lieferte die Waren pünktlich ab.",
-                "english": "The truck driver delivered the goods on time."
-            },
-            {
-                "german": "Mein Vater ist ein erfahrener Autofahrer.",
-                "english": "My father is an experienced car driver."
-            },
-            {
-                "german": "Der Taxifahrer brachte mich zum Flughafen.",
-                "english": "The taxi driver took me to the airport."
-            },
-            {
-                "german": "Die Rennfahrerin gewann das Autorennen.",
-                "english": "The female race driver won the car race."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Fahrer des Busses war sehr freundlich.",
+            "english": "The driver of the bus was very friendly."
+        },
+        {
+            "german": "Der LKW-Fahrer lieferte die Waren pünktlich ab.",
+            "english": "The truck driver delivered the goods on time."
+        },
+        {
+            "german": "Mein Vater ist ein erfahrener Autofahrer.",
+            "english": "My father is an experienced car driver."
+        },
+        {
+            "german": "Der Taxifahrer brachte mich zum Flughafen.",
+            "english": "The taxi driver took me to the airport."
+        },
+        {
+            "german": "Die Rennfahrerin gewann das Autorennen.",
+            "english": "The female race driver won the car race."
+        }
+    ]
 }

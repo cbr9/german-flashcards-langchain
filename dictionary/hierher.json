@@ -1,28 +1,26 @@
 {
     "word": "hierher",
     "definition": "A term used to indicate movement towards the current location or a place nearby, often used to give directions or express the idea of coming closer to a specific point.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Komm hierher!",
-                "english": "Come here!"
-            },
-            {
-                "german": "Ich bin gerade hierher gezogen.",
-                "english": "I just moved here."
-            },
-            {
-                "german": "Kannst du mir den Weg hierher zeigen?",
-                "english": "Can you show me the way here?"
-            },
-            {
-                "german": "Ich komme gleich hierher.",
-                "english": "I'll come right here."
-            },
-            {
-                "german": "Er ist von weit hierher gereist.",
-                "english": "He traveled from far away here."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Komm hierher!",
+            "english": "Come here!"
+        },
+        {
+            "german": "Ich bin gerade hierher gezogen.",
+            "english": "I just moved here."
+        },
+        {
+            "german": "Kannst du mir den Weg hierher zeigen?",
+            "english": "Can you show me the way here?"
+        },
+        {
+            "german": "Ich komme gleich hierher.",
+            "english": "I'll come right here."
+        },
+        {
+            "german": "Er ist von weit hierher gereist.",
+            "english": "He traveled from far away here."
+        }
+    ]
 }

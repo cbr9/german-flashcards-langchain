@@ -1,28 +1,26 @@
 {
     "word": "die Menge, die Mengen",
     "definition": "A collection or group of things or people, often referring to a large quantity or number. It is commonly used to describe a multitude of items, individuals, or concepts, and can be used in various contexts such as mathematics, statistics, or everyday language.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Menge der Menschen auf dem Platz war beeindruckend.",
-                "english": "The crowd of people in the square was impressive."
-            },
-            {
-                "german": "Eine große Menge Schnee fiel über Nacht.",
-                "english": "A large amount of snow fell overnight."
-            },
-            {
-                "german": "Die Menge an Informationen, die er behalten kann, ist erstaunlich.",
-                "english": "The amount of information he can retain is astonishing."
-            },
-            {
-                "german": "Ich habe eine Menge Arbeit vor mir.",
-                "english": "I have a lot of work ahead of me."
-            },
-            {
-                "german": "Die Menge der Bücher in der Bibliothek ist beeindruckend.",
-                "english": "The quantity of books in the library is impressive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Menge der Menschen auf dem Platz war beeindruckend.",
+            "english": "The crowd of people in the square was impressive."
+        },
+        {
+            "german": "Eine große Menge Schnee fiel über Nacht.",
+            "english": "A large amount of snow fell overnight."
+        },
+        {
+            "german": "Die Menge an Informationen, die er behalten kann, ist erstaunlich.",
+            "english": "The amount of information he can retain is astonishing."
+        },
+        {
+            "german": "Ich habe eine Menge Arbeit vor mir.",
+            "english": "I have a lot of work ahead of me."
+        },
+        {
+            "german": "Die Menge der Bücher in der Bibliothek ist beeindruckend.",
+            "english": "The quantity of books in the library is impressive."
+        }
+    ]
 }

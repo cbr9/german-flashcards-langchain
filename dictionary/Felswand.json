@@ -1,28 +1,26 @@
 {
     "word": "die Felswand, die Felswände",
     "definition": "A vertical or steep rock formation, typically found in natural landscapes, often used for climbing or as a scenic backdrop for outdoor activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Kletterer kletterten die steile Felswand hinauf.",
-                "english": "The climbers climbed up the steep rock face."
-            },
-            {
-                "german": "Die Felswand ist ein beliebter Ort für Bergsteiger.",
-                "english": "The rock wall is a popular spot for climbers."
-            },
-            {
-                "german": "Der Wanderweg führt entlang einer beeindruckenden Felswand.",
-                "english": "The hiking trail runs along an impressive cliff."
-            },
-            {
-                "german": "Die Felswand bietet einen atemberaubenden Ausblick auf das Tal.",
-                "english": "The rock face offers a breathtaking view of the valley."
-            },
-            {
-                "german": "Die Felswand ist mit Moos und Flechten bedeckt.",
-                "english": "The rock wall is covered with moss and lichens."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Kletterer kletterten die steile Felswand hinauf.",
+            "english": "The climbers climbed up the steep rock face."
+        },
+        {
+            "german": "Die Felswand ist ein beliebter Ort für Bergsteiger.",
+            "english": "The rock wall is a popular spot for climbers."
+        },
+        {
+            "german": "Der Wanderweg führt entlang einer beeindruckenden Felswand.",
+            "english": "The hiking trail runs along an impressive cliff."
+        },
+        {
+            "german": "Die Felswand bietet einen atemberaubenden Ausblick auf das Tal.",
+            "english": "The rock face offers a breathtaking view of the valley."
+        },
+        {
+            "german": "Die Felswand ist mit Moos und Flechten bedeckt.",
+            "english": "The rock wall is covered with moss and lichens."
+        }
+    ]
 }

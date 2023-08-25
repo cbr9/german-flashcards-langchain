@@ -1,28 +1,26 @@
 {
     "word": "die Schublade, die Schubladen",
     "definition": "A compartment or drawer typically found in furniture or storage units, used for organizing and storing various items. It is commonly used in household furniture, office desks, and cabinets to keep belongings or documents neatly arranged and easily accessible.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Socken liegen in der obersten Schublade.",
-                "english": "The socks are in the top drawer."
-            },
-            {
-                "german": "Er hat seine wichtigen Dokumente in einer geheimen Schublade versteckt.",
-                "english": "He has hidden his important documents in a secret drawer."
-            },
-            {
-                "german": "Die Schublade klemmt und lässt sich nicht öffnen.",
-                "english": "The drawer is stuck and won't open."
-            },
-            {
-                "german": "Sie hat ihre Schmuckstücke in einer Schublade des Schminktischs aufbewahrt.",
-                "english": "She kept her jewelry in a drawer of the dressing table."
-            },
-            {
-                "german": "In der Küche gibt es eine spezielle Schublade für Besteck.",
-                "english": "There is a special drawer for cutlery in the kitchen."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Socken liegen in der obersten Schublade.",
+            "english": "The socks are in the top drawer."
+        },
+        {
+            "german": "Er hat seine wichtigen Dokumente in einer geheimen Schublade versteckt.",
+            "english": "He has hidden his important documents in a secret drawer."
+        },
+        {
+            "german": "Die Schublade klemmt und lässt sich nicht öffnen.",
+            "english": "The drawer is stuck and won't open."
+        },
+        {
+            "german": "Sie hat ihre Schmuckstücke in einer Schublade des Schminktischs aufbewahrt.",
+            "english": "She kept her jewelry in a drawer of the dressing table."
+        },
+        {
+            "german": "In der Küche gibt es eine spezielle Schublade für Besteck.",
+            "english": "There is a special drawer for cutlery in the kitchen."
+        }
+    ]
 }

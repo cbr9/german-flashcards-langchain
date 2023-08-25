@@ -1,28 +1,26 @@
 {
     "word": "die Tasse, die Tassen",
     "definition": "A container typically used for holding hot beverages, such as coffee or tea, often with a handle and a cylindrical shape. It is commonly found in kitchens, cafes, and households, and is frequently used for drinking or serving hot liquids.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trinke meinen Kaffee aus einer Tasse.",
-                "english": "I drink my coffee from a cup."
-            },
-            {
-                "german": "Kannst du mir bitte eine Tasse Tee bringen?",
-                "english": "Can you please bring me a cup of tea?"
-            },
-            {
-                "german": "Die Tasse ist aus Porzellan und sehr zerbrechlich.",
-                "english": "The cup is made of porcelain and very fragile."
-            },
-            {
-                "german": "Er hat eine Tasse mit seinem Namen darauf.",
-                "english": "He has a cup with his name on it."
-            },
-            {
-                "german": "Die Tasse ist halb voll.",
-                "english": "The cup is half full."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trinke meinen Kaffee aus einer Tasse.",
+            "english": "I drink my coffee from a cup."
+        },
+        {
+            "german": "Kannst du mir bitte eine Tasse Tee bringen?",
+            "english": "Can you please bring me a cup of tea?"
+        },
+        {
+            "german": "Die Tasse ist aus Porzellan und sehr zerbrechlich.",
+            "english": "The cup is made of porcelain and very fragile."
+        },
+        {
+            "german": "Er hat eine Tasse mit seinem Namen darauf.",
+            "english": "He has a cup with his name on it."
+        },
+        {
+            "german": "Die Tasse ist halb voll.",
+            "english": "The cup is half full."
+        }
+    ]
 }

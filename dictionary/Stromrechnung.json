@@ -1,28 +1,26 @@
 {
     "word": "die Stromrechnung, die Stromrechnungen",
     "definition": "A document that provides a detailed account of the amount of money owed for the consumption of a particular utility service, typically electricity, within a specified period of time. It is commonly received by individuals or households to facilitate payment and keep track of their energy usage.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Stromrechnung ist diesen Monat höher als erwartet.",
-                "english": "The electricity bill is higher than expected this month."
-            },
-            {
-                "german": "Ich habe meine Stromrechnung noch nicht bezahlt.",
-                "english": "I haven't paid my electricity bill yet."
-            },
-            {
-                "german": "Die Stromrechnung wird monatlich per Lastschrift abgebucht.",
-                "english": "The electricity bill is debited monthly by direct debit."
-            },
-            {
-                "german": "Die Stromrechnung ist in den letzten Jahren stark gestiegen.",
-                "english": "The electricity bill has increased significantly in recent years."
-            },
-            {
-                "german": "Kannst du mir bei der Überprüfung meiner Stromrechnung helfen?",
-                "english": "Can you help me check my electricity bill?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Stromrechnung ist diesen Monat höher als erwartet.",
+            "english": "The electricity bill is higher than expected this month."
+        },
+        {
+            "german": "Ich habe meine Stromrechnung noch nicht bezahlt.",
+            "english": "I haven't paid my electricity bill yet."
+        },
+        {
+            "german": "Die Stromrechnung wird monatlich per Lastschrift abgebucht.",
+            "english": "The electricity bill is debited monthly by direct debit."
+        },
+        {
+            "german": "Die Stromrechnung ist in den letzten Jahren stark gestiegen.",
+            "english": "The electricity bill has increased significantly in recent years."
+        },
+        {
+            "german": "Kannst du mir bei der Überprüfung meiner Stromrechnung helfen?",
+            "english": "Can you help me check my electricity bill?"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Modelagentur, die Modelagenturen",
     "definition": "A company or organization that represents and manages individuals, typically in the field of fashion and entertainment, with the aim of securing them work opportunities, such as modeling assignments, endorsements, and promotional campaigns.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Modelagentur hat viele talentierte Models.",
-                "english": "The modeling agency has many talented models."
-            },
-            {
-                "german": "Sie hat bei einer Modelagentur als Model gearbeitet.",
-                "english": "She worked as a model at a modeling agency."
-            },
-            {
-                "german": "Die Modelagentur sucht nach neuen Gesichtern.",
-                "english": "The modeling agency is looking for new faces."
-            },
-            {
-                "german": "Er hat einen Vertrag mit einer Modelagentur unterschrieben.",
-                "english": "He signed a contract with a modeling agency."
-            },
-            {
-                "german": "Die Modelagentur organisiert regelmäßig Castings.",
-                "english": "The modeling agency regularly organizes castings."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Modelagentur hat viele talentierte Models.",
+            "english": "The modeling agency has many talented models."
+        },
+        {
+            "german": "Sie hat bei einer Modelagentur als Model gearbeitet.",
+            "english": "She worked as a model at a modeling agency."
+        },
+        {
+            "german": "Die Modelagentur sucht nach neuen Gesichtern.",
+            "english": "The modeling agency is looking for new faces."
+        },
+        {
+            "german": "Er hat einen Vertrag mit einer Modelagentur unterschrieben.",
+            "english": "He signed a contract with a modeling agency."
+        },
+        {
+            "german": "Die Modelagentur organisiert regelmäßig Castings.",
+            "english": "The modeling agency regularly organizes castings."
+        }
+    ]
 }

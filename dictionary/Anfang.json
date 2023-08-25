@@ -1,28 +1,26 @@
 {
     "word": "der Anfang, die Anfänge",
     "definition": "A term commonly employed to refer to the initial stage or beginning of something, often used to describe the starting point of a process, event, or period. It is frequently utilized in contexts related to time, narratives, or sequences.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Am Anfang war das Wort.",
-                "english": "In the beginning was the Word."
-            },
-            {
-                "german": "Der Anfang vom Ende.",
-                "english": "The beginning of the end."
-            },
-            {
-                "german": "Es ist schwer, einen Anfang zu machen.",
-                "english": "It is difficult to make a start."
-            },
-            {
-                "german": "Am Anfang war alles einfach.",
-                "english": "In the beginning, everything was easy."
-            },
-            {
-                "german": "Der Anfang ist gemacht.",
-                "english": "The start has been made."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Am Anfang war das Wort.",
+            "english": "In the beginning was the Word."
+        },
+        {
+            "german": "Der Anfang vom Ende.",
+            "english": "The beginning of the end."
+        },
+        {
+            "german": "Es ist schwer, einen Anfang zu machen.",
+            "english": "It is difficult to make a start."
+        },
+        {
+            "german": "Am Anfang war alles einfach.",
+            "english": "In the beginning, everything was easy."
+        },
+        {
+            "german": "Der Anfang ist gemacht.",
+            "english": "The start has been made."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "frisch",
     "definition": "The word \"frisch\" refers to something that is not old or stale, often associated with a recent or immediate state. It is commonly used to describe food or produce that is fresh and newly harvested. Additionally, it can be used to describe a feeling or appearance of being lively, invigorated, or rejuvenated.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Brot ist frisch.",
-                "english": "The bread is fresh."
-            },
-            {
-                "german": "Ich habe frische Blumen gekauft.",
-                "english": "I bought fresh flowers."
-            },
-            {
-                "german": "Er ist ein frischer Absolvent.",
-                "english": "He is a fresh graduate."
-            },
-            {
-                "german": "Die Luft riecht frisch nach Regen.",
-                "english": "The air smells fresh after the rain."
-            },
-            {
-                "german": "Ich brauche frische Milch.",
-                "english": "I need fresh milk."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Brot ist frisch.",
+            "english": "The bread is fresh."
+        },
+        {
+            "german": "Ich habe frische Blumen gekauft.",
+            "english": "I bought fresh flowers."
+        },
+        {
+            "german": "Er ist ein frischer Absolvent.",
+            "english": "He is a fresh graduate."
+        },
+        {
+            "german": "Die Luft riecht frisch nach Regen.",
+            "english": "The air smells fresh after the rain."
+        },
+        {
+            "german": "Ich brauche frische Milch.",
+            "english": "I need fresh milk."
+        }
+    ]
 }

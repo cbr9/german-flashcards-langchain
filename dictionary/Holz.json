@@ -1,28 +1,26 @@
 {
     "word": "das Holz, die Hölzer",
     "definition": "A solid, natural material derived from trees, commonly employed in construction, furniture making, and various crafting activities. It is often utilized for its durability, strength, and aesthetic appeal.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Haus ist aus Holz.",
-                "english": "The house is made of wood."
-            },
-            {
-                "german": "Ich habe ein Holzbrett gekauft.",
-                "english": "I bought a wooden board."
-            },
-            {
-                "german": "Der Tisch ist aus massivem Holz.",
-                "english": "The table is made of solid wood."
-            },
-            {
-                "german": "Er schnitzt gerne aus Holz.",
-                "english": "He enjoys carving from wood."
-            },
-            {
-                "german": "Holz ist ein natürlicher Rohstoff.",
-                "english": "Wood is a natural resource."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Haus ist aus Holz.",
+            "english": "The house is made of wood."
+        },
+        {
+            "german": "Ich habe ein Holzbrett gekauft.",
+            "english": "I bought a wooden board."
+        },
+        {
+            "german": "Der Tisch ist aus massivem Holz.",
+            "english": "The table is made of solid wood."
+        },
+        {
+            "german": "Er schnitzt gerne aus Holz.",
+            "english": "He enjoys carving from wood."
+        },
+        {
+            "german": "Holz ist ein natürlicher Rohstoff.",
+            "english": "Wood is a natural resource."
+        }
+    ]
 }

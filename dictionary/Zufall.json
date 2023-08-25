@@ -1,28 +1,26 @@
 {
     "word": "der Zufall, die Zufälle",
     "definition": "A situation or event that occurs by chance or without any apparent cause, often referring to an unexpected or unplanned occurrence. It is commonly used to describe coincidences, accidents, or random happenings that are not predetermined or intentional.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es war reiner Zufall, dass ich dich getroffen habe.",
-                "english": "It was pure chance that I ran into you."
-            },
-            {
-                "german": "Der Zufall wollte es, dass wir im selben Zug saßen.",
-                "english": "By chance, we happened to be on the same train."
-            },
-            {
-                "german": "Es war ein glücklicher Zufall, dass ich die Schlüssel gefunden habe.",
-                "english": "It was a lucky coincidence that I found the keys."
-            },
-            {
-                "german": "Der Zufall spielt manchmal verrückt.",
-                "english": "Chance sometimes plays tricks on us."
-            },
-            {
-                "german": "Es war kein Zufall, dass er den Wettbewerb gewonnen hat.",
-                "english": "It was no coincidence that he won the competition."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es war reiner Zufall, dass ich dich getroffen habe.",
+            "english": "It was pure chance that I ran into you."
+        },
+        {
+            "german": "Der Zufall wollte es, dass wir im selben Zug saßen.",
+            "english": "By chance, we happened to be on the same train."
+        },
+        {
+            "german": "Es war ein glücklicher Zufall, dass ich die Schlüssel gefunden habe.",
+            "english": "It was a lucky coincidence that I found the keys."
+        },
+        {
+            "german": "Der Zufall spielt manchmal verrückt.",
+            "english": "Chance sometimes plays tricks on us."
+        },
+        {
+            "german": "Es war kein Zufall, dass er den Wettbewerb gewonnen hat.",
+            "english": "It was no coincidence that he won the competition."
+        }
+    ]
 }

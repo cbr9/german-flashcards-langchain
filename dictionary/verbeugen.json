@@ -1,28 +1,26 @@
 {
     "word": "verbeugen, verbeugte, verbeugt",
     "definition": "To perform a respectful gesture involving a slight bending of the body, typically done by lowering the head and upper body forward, often used as a polite way to greet or show respect in formal settings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie verbeugte sich höflich vor dem Publikum.",
-                "english": "She politely bowed to the audience."
-            },
-            {
-                "german": "Der Kellner verbeugte sich vor den Gästen.",
-                "english": "The waiter bowed to the guests."
-            },
-            {
-                "german": "Die Schauspielerin verbeugte sich nach der Vorstellung.",
-                "english": "The actress bowed after the performance."
-            },
-            {
-                "german": "Er verbeugte sich vor dem König.",
-                "english": "He bowed to the king."
-            },
-            {
-                "german": "Die Kinder verbeugten sich vor ihrer Lehrerin.",
-                "english": "The children bowed to their teacher."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie verbeugte sich höflich vor dem Publikum.",
+            "english": "She politely bowed to the audience."
+        },
+        {
+            "german": "Der Kellner verbeugte sich vor den Gästen.",
+            "english": "The waiter bowed to the guests."
+        },
+        {
+            "german": "Die Schauspielerin verbeugte sich nach der Vorstellung.",
+            "english": "The actress bowed after the performance."
+        },
+        {
+            "german": "Er verbeugte sich vor dem König.",
+            "english": "He bowed to the king."
+        },
+        {
+            "german": "Die Kinder verbeugten sich vor ihrer Lehrerin.",
+            "english": "The children bowed to their teacher."
+        }
+    ]
 }

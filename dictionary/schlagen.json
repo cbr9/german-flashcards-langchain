@@ -1,28 +1,26 @@
 {
     "word": "schlagen, schlug, geschlagen",
     "definition": "To strike or hit something with force, typically using a hand, a tool, or a weapon. It is commonly used to describe actions like beating, hitting, or striking an object or a person.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich schlage den Ball.",
-                "english": "I hit the ball."
-            },
-            {
-                "german": "Er schlägt seine Schwester.",
-                "english": "He hits his sister."
-            },
-            {
-                "german": "Sie schlug die Tür zu.",
-                "english": "She slammed the door."
-            },
-            {
-                "german": "Wir schlagen vor, ins Kino zu gehen.",
-                "english": "We suggest going to the cinema."
-            },
-            {
-                "german": "Der Sturm schlägt gegen das Fenster.",
-                "english": "The storm beats against the window."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich schlage den Ball.",
+            "english": "I hit the ball."
+        },
+        {
+            "german": "Er schlägt seine Schwester.",
+            "english": "He hits his sister."
+        },
+        {
+            "german": "Sie schlug die Tür zu.",
+            "english": "She slammed the door."
+        },
+        {
+            "german": "Wir schlagen vor, ins Kino zu gehen.",
+            "english": "We suggest going to the cinema."
+        },
+        {
+            "german": "Der Sturm schlägt gegen das Fenster.",
+            "english": "The storm beats against the window."
+        }
+    ]
 }

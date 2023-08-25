@@ -1,28 +1,26 @@
 {
     "word": "die Wirkmächtigkeit, die Wirkmächtigkeiten",
     "definition": "The term refers to the inherent capacity or effectiveness of something to produce a desired or intended effect. It is commonly used in the context of analyzing the impact, influence, or efficacy of various phenomena, actions, or processes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Wirkmächtigkeit dieser Idee ist beeindruckend.",
-                "english": "The effectiveness of this idea is impressive."
-            },
-            {
-                "german": "Die Wirkmächtigkeit der Medikamente wurde in klinischen Studien nachgewiesen.",
-                "english": "The efficacy of the medications has been proven in clinical trials."
-            },
-            {
-                "german": "Die Wirkmächtigkeit von Kunst kann Menschen tief berühren.",
-                "english": "The power of art can deeply touch people."
-            },
-            {
-                "german": "Die Wirkmächtigkeit der Werbung beeinflusst das Kaufverhalten der Verbraucher.",
-                "english": "The effectiveness of advertising influences consumer buying behavior."
-            },
-            {
-                "german": "Die Wirkmächtigkeit der politischen Entscheidungen ist von großer Bedeutung für die Gesellschaft.",
-                "english": "The impact of political decisions is of great importance for society."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Wirkmächtigkeit dieser Idee ist beeindruckend.",
+            "english": "The effectiveness of this idea is impressive."
+        },
+        {
+            "german": "Die Wirkmächtigkeit der Medikamente wurde in klinischen Studien nachgewiesen.",
+            "english": "The efficacy of the medications has been proven in clinical trials."
+        },
+        {
+            "german": "Die Wirkmächtigkeit von Kunst kann Menschen tief berühren.",
+            "english": "The power of art can deeply touch people."
+        },
+        {
+            "german": "Die Wirkmächtigkeit der Werbung beeinflusst das Kaufverhalten der Verbraucher.",
+            "english": "The effectiveness of advertising influences consumer buying behavior."
+        },
+        {
+            "german": "Die Wirkmächtigkeit der politischen Entscheidungen ist von großer Bedeutung für die Gesellschaft.",
+            "english": "The impact of political decisions is of great importance for society."
+        }
+    ]
 }

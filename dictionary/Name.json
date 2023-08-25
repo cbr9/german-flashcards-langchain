@@ -1,28 +1,26 @@
 {
     "word": "der Name, die The plural form of \"article name\" cannot be determined based on the given examples.",
     "definition": "A linguistic symbol or combination of symbols used to identify and refer to an individual, entity, or concept, typically assigned at birth or given by parents. It is commonly employed to address or refer to someone in conversation, written communication, or official records.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wie ist dein Name?",
-                "english": "What is your name?"
-            },
-            {
-                "german": "Mein Name ist Anna.",
-                "english": "My name is Anna."
-            },
-            {
-                "german": "Kannst du deinen Namen buchstabieren?",
-                "english": "Can you spell your name?"
-            },
-            {
-                "german": "Ich habe deinen Namen vergessen.",
-                "english": "I forgot your name."
-            },
-            {
-                "german": "Der Name dieses Buches ist 'Die Verwandlung'.",
-                "english": "The name of this book is 'The Metamorphosis'."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wie ist dein Name?",
+            "english": "What is your name?"
+        },
+        {
+            "german": "Mein Name ist Anna.",
+            "english": "My name is Anna."
+        },
+        {
+            "german": "Kannst du deinen Namen buchstabieren?",
+            "english": "Can you spell your name?"
+        },
+        {
+            "german": "Ich habe deinen Namen vergessen.",
+            "english": "I forgot your name."
+        },
+        {
+            "german": "Der Name dieses Buches ist 'Die Verwandlung'.",
+            "english": "The name of this book is 'The Metamorphosis'."
+        }
+    ]
 }

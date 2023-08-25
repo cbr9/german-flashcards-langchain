@@ -1,28 +1,26 @@
 {
     "word": "kurz",
     "definition": "The word \"kurz\" refers to a state or condition that is opposite to long or extended. It is commonly used to describe something that has a limited duration, duration, or length. Additionally, it can be used to indicate brevity or conciseness in various contexts, such as in speech, writing, or time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kurz nach Mitternacht",
-                "english": "Shortly after midnight"
-            },
-            {
-                "german": "Das Buch ist kurz",
-                "english": "The book is short"
-            },
-            {
-                "german": "Kurz vor dem Ziel",
-                "english": "Just before the destination"
-            },
-            {
-                "german": "Die Präsentation war kurz",
-                "english": "The presentation was brief"
-            },
-            {
-                "german": "Kurz gesagt",
-                "english": "In short"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kurz nach Mitternacht",
+            "english": "Shortly after midnight"
+        },
+        {
+            "german": "Das Buch ist kurz",
+            "english": "The book is short"
+        },
+        {
+            "german": "Kurz vor dem Ziel",
+            "english": "Just before the destination"
+        },
+        {
+            "german": "Die Präsentation war kurz",
+            "english": "The presentation was brief"
+        },
+        {
+            "german": "Kurz gesagt",
+            "english": "In short"
+        }
+    ]
 }

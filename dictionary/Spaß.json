@@ -1,28 +1,26 @@
 {
     "word": "der Spaß, die Späße",
     "definition": "A feeling of enjoyment, amusement, or pleasure derived from engaging in activities that are entertaining, lighthearted, or humorous. It is commonly used to describe the experience of having fun, joking around, or engaging in playful activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe Spaß beim Tanzen.",
-                "english": "I have fun while dancing."
-            },
-            {
-                "german": "Wir hatten viel Spaß auf der Party.",
-                "english": "We had a lot of fun at the party."
-            },
-            {
-                "german": "Spaß ist wichtig für die Gesundheit.",
-                "english": "Fun is important for health."
-            },
-            {
-                "german": "Er macht immer Witze und verbreitet Spaß.",
-                "english": "He always makes jokes and spreads fun."
-            },
-            {
-                "german": "Das Spiel hat mir viel Spaß gemacht.",
-                "english": "I had a lot of fun playing the game."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe Spaß beim Tanzen.",
+            "english": "I have fun while dancing."
+        },
+        {
+            "german": "Wir hatten viel Spaß auf der Party.",
+            "english": "We had a lot of fun at the party."
+        },
+        {
+            "german": "Spaß ist wichtig für die Gesundheit.",
+            "english": "Fun is important for health."
+        },
+        {
+            "german": "Er macht immer Witze und verbreitet Spaß.",
+            "english": "He always makes jokes and spreads fun."
+        },
+        {
+            "german": "Das Spiel hat mir viel Spaß gemacht.",
+            "english": "I had a lot of fun playing the game."
+        }
+    ]
 }

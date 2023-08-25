@@ -1,28 +1,26 @@
 {
     "word": "fein",
     "definition": "\"Fein\" is an adjective that describes something as delicate, refined, or exquisite. It is often used to describe objects, actions, or qualities that are characterized by their elegance, precision, or subtlety. This word is commonly employed to express the fine details, craftsmanship, or high quality of an item or work. It can also refer to someone's refined taste, manners, or sophisticated behavior.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Essen schmeckt sehr fein.",
-                "english": "The food tastes very fine."
-            },
-            {
-                "german": "Sie hat einen feinen Geschmack.",
-                "english": "She has a refined taste."
-            },
-            {
-                "german": "Er hat feine Manieren.",
-                "english": "He has good manners."
-            },
-            {
-                "german": "Das Kleid ist aus feinem Stoff.",
-                "english": "The dress is made of fine fabric."
-            },
-            {
-                "german": "Die feine Linie zwischen Liebe und Hass.",
-                "english": "The fine line between love and hate."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Essen schmeckt sehr fein.",
+            "english": "The food tastes very fine."
+        },
+        {
+            "german": "Sie hat einen feinen Geschmack.",
+            "english": "She has a refined taste."
+        },
+        {
+            "german": "Er hat feine Manieren.",
+            "english": "He has good manners."
+        },
+        {
+            "german": "Das Kleid ist aus feinem Stoff.",
+            "english": "The dress is made of fine fabric."
+        },
+        {
+            "german": "Die feine Linie zwischen Liebe und Hass.",
+            "english": "The fine line between love and hate."
+        }
+    ]
 }

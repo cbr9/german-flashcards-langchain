@@ -1,28 +1,26 @@
 {
     "word": "belegen, belegte, belegt",
     "definition": "To provide evidence or support for a statement or claim, typically by citing sources or references. It is commonly used in academic or research contexts to substantiate arguments or assertions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte ein Sandwich mit Käse belegen.",
-                "english": "I would like to put cheese on a sandwich."
-            },
-            {
-                "german": "Kannst du bitte die Pizza mit Schinken belegen?",
-                "english": "Can you please top the pizza with ham?"
-            },
-            {
-                "german": "Der Tisch ist mit Büchern belegt.",
-                "english": "The table is covered with books."
-            },
-            {
-                "german": "Sie hat den Kuchen mit Sahne belegt.",
-                "english": "She topped the cake with cream."
-            },
-            {
-                "german": "Der Arzt hat den Patienten mit Verbänden belegt.",
-                "english": "The doctor applied bandages to the patient."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte ein Sandwich mit Käse belegen.",
+            "english": "I would like to put cheese on a sandwich."
+        },
+        {
+            "german": "Kannst du bitte die Pizza mit Schinken belegen?",
+            "english": "Can you please top the pizza with ham?"
+        },
+        {
+            "german": "Der Tisch ist mit Büchern belegt.",
+            "english": "The table is covered with books."
+        },
+        {
+            "german": "Sie hat den Kuchen mit Sahne belegt.",
+            "english": "She topped the cake with cream."
+        },
+        {
+            "german": "Der Arzt hat den Patienten mit Verbänden belegt.",
+            "english": "The doctor applied bandages to the patient."
+        }
+    ]
 }

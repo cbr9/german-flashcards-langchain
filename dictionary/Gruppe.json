@@ -1,28 +1,26 @@
 {
     "word": "die Gruppe, die Gruppen",
     "definition": "A collection of individuals or entities that are brought together based on a common characteristic or purpose, often for collaborative or organizational activities. It is commonly used to refer to a gathering of people with shared interests, a team, or a specific category within a larger set.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Gruppe von Freunden traf sich im Park.",
-                "english": "The group of friends met in the park."
-            },
-            {
-                "german": "Die Schüler wurden in Gruppen eingeteilt.",
-                "english": "The students were divided into groups."
-            },
-            {
-                "german": "Die Gruppe von Touristen besichtigte das Schloss.",
-                "english": "The group of tourists visited the castle."
-            },
-            {
-                "german": "Die Gruppe von Musikern spielte ein Konzert.",
-                "english": "The group of musicians performed a concert."
-            },
-            {
-                "german": "Die Gruppe von Kindern spielte im Garten.",
-                "english": "The group of children played in the garden."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Gruppe von Freunden traf sich im Park.",
+            "english": "The group of friends met in the park."
+        },
+        {
+            "german": "Die Schüler wurden in Gruppen eingeteilt.",
+            "english": "The students were divided into groups."
+        },
+        {
+            "german": "Die Gruppe von Touristen besichtigte das Schloss.",
+            "english": "The group of tourists visited the castle."
+        },
+        {
+            "german": "Die Gruppe von Musikern spielte ein Konzert.",
+            "english": "The group of musicians performed a concert."
+        },
+        {
+            "german": "Die Gruppe von Kindern spielte im Garten.",
+            "english": "The group of children played in the garden."
+        }
+    ]
 }

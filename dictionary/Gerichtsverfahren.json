@@ -1,28 +1,26 @@
 {
     "word": "das Gerichtsverfahren, die Gerichtsverfahren",
     "definition": "A formal process carried out by a legal system to resolve disputes or determine guilt or innocence, typically involving a judge, lawyers, and evidence. It is commonly used to refer to the legal proceedings or trial in a court of law.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Gerichtsverfahren wurde eingestellt.",
-                "english": "The court proceedings were dismissed."
-            },
-            {
-                "german": "Das Gerichtsverfahren dauerte mehrere Monate.",
-                "english": "The court proceedings lasted for several months."
-            },
-            {
-                "german": "Im Gerichtsverfahren wurde er freigesprochen.",
-                "english": "He was acquitted in the court proceedings."
-            },
-            {
-                "german": "Das Gerichtsverfahren wurde aufgrund neuer Beweise wiedereröffnet.",
-                "english": "The court proceedings were reopened due to new evidence."
-            },
-            {
-                "german": "Das Gerichtsverfahren endete mit einem Vergleich.",
-                "english": "The court proceedings ended with a settlement."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Gerichtsverfahren wurde eingestellt.",
+            "english": "The court proceedings were dismissed."
+        },
+        {
+            "german": "Das Gerichtsverfahren dauerte mehrere Monate.",
+            "english": "The court proceedings lasted for several months."
+        },
+        {
+            "german": "Im Gerichtsverfahren wurde er freigesprochen.",
+            "english": "He was acquitted in the court proceedings."
+        },
+        {
+            "german": "Das Gerichtsverfahren wurde aufgrund neuer Beweise wiedereröffnet.",
+            "english": "The court proceedings were reopened due to new evidence."
+        },
+        {
+            "german": "Das Gerichtsverfahren endete mit einem Vergleich.",
+            "english": "The court proceedings ended with a settlement."
+        }
+    ]
 }

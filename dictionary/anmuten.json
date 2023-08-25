@@ -1,28 +1,26 @@
 {
     "word": "anmuten, anmutete, angemutet",
     "definition": "To evoke a certain impression or feeling upon encountering something or someone, often used to describe the initial perception or appearance of an object, person, or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Bild anmutet sehr realistisch.",
-                "english": "The picture appears very realistic."
-            },
-            {
-                "german": "Sein Verhalten anmutet seltsam.",
-                "english": "His behavior seems strange."
-            },
-            {
-                "german": "Die Idee anmutet interessant.",
-                "english": "The idea appears interesting."
-            },
-            {
-                "german": "Der Ort anmutet idyllisch.",
-                "english": "The place looks idyllic."
-            },
-            {
-                "german": "Die Situation anmutet gefährlich.",
-                "english": "The situation seems dangerous."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Bild anmutet sehr realistisch.",
+            "english": "The picture appears very realistic."
+        },
+        {
+            "german": "Sein Verhalten anmutet seltsam.",
+            "english": "His behavior seems strange."
+        },
+        {
+            "german": "Die Idee anmutet interessant.",
+            "english": "The idea appears interesting."
+        },
+        {
+            "german": "Der Ort anmutet idyllisch.",
+            "english": "The place looks idyllic."
+        },
+        {
+            "german": "Die Situation anmutet gefährlich.",
+            "english": "The situation seems dangerous."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Baby, die Babies",
     "definition": "A term commonly used to refer to a young human being in its early stages of life, typically from birth to around two years old. It is often used affectionately to address or describe an infant or toddler.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Baby schläft.",
-                "english": "The baby is sleeping."
-            },
-            {
-                "german": "Das Baby lacht.",
-                "english": "The baby is laughing."
-            },
-            {
-                "german": "Das Baby weint.",
-                "english": "The baby is crying."
-            },
-            {
-                "german": "Das Baby krabbelt.",
-                "english": "The baby is crawling."
-            },
-            {
-                "german": "Das Baby trinkt Milch.",
-                "english": "The baby is drinking milk."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Baby schläft.",
+            "english": "The baby is sleeping."
+        },
+        {
+            "german": "Das Baby lacht.",
+            "english": "The baby is laughing."
+        },
+        {
+            "german": "Das Baby weint.",
+            "english": "The baby is crying."
+        },
+        {
+            "german": "Das Baby krabbelt.",
+            "english": "The baby is crawling."
+        },
+        {
+            "german": "Das Baby trinkt Milch.",
+            "english": "The baby is drinking milk."
+        }
+    ]
 }

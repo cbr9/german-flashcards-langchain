@@ -1,28 +1,26 @@
 {
     "word": "das Zentrum, die Zentren",
     "definition": "A location or place that serves as the focal point or hub for various activities, often associated with administrative, cultural, or commercial functions. It is commonly used to refer to the central area or core of a city or town where important institutions, businesses, and services are concentrated.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Zentrum der Stadt ist sehr belebt.",
-                "english": "The center of the city is very lively."
-            },
-            {
-                "german": "Das Einkaufszentrum hat viele Geschäfte.",
-                "english": "The shopping center has many stores."
-            },
-            {
-                "german": "Das Zentrum für Kunst und Kultur bietet verschiedene Veranstaltungen an.",
-                "english": "The center for art and culture offers various events."
-            },
-            {
-                "german": "Das Zentrum der Aufmerksamkeit lag auf dem Hauptredner.",
-                "english": "The center of attention was on the main speaker."
-            },
-            {
-                "german": "Das Zentrum des Sturms zog über die Küste hinweg.",
-                "english": "The center of the storm moved across the coast."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Zentrum der Stadt ist sehr belebt.",
+            "english": "The center of the city is very lively."
+        },
+        {
+            "german": "Das Einkaufszentrum hat viele Geschäfte.",
+            "english": "The shopping center has many stores."
+        },
+        {
+            "german": "Das Zentrum für Kunst und Kultur bietet verschiedene Veranstaltungen an.",
+            "english": "The center for art and culture offers various events."
+        },
+        {
+            "german": "Das Zentrum der Aufmerksamkeit lag auf dem Hauptredner.",
+            "english": "The center of attention was on the main speaker."
+        },
+        {
+            "german": "Das Zentrum des Sturms zog über die Küste hinweg.",
+            "english": "The center of the storm moved across the coast."
+        }
+    ]
 }

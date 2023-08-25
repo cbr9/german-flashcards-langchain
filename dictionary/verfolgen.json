@@ -1,28 +1,26 @@
 {
     "word": "verfolgen, verfolgte, verfolgt",
     "definition": "To observe someone or something closely and persistently over a period of time, often with the intention of gaining information or understanding their actions or whereabouts. It is commonly used to describe the act of tracking, monitoring, or pursuing someone or something with a specific purpose in mind.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich verfolge gerne Fußballspiele im Fernsehen.",
-                "english": "I enjoy watching football games on TV."
-            },
-            {
-                "german": "Die Polizei verfolgt den flüchtigen Verbrecher.",
-                "english": "The police are pursuing the fugitive criminal."
-            },
-            {
-                "german": "Sie verfolgt ihre Ziele mit großer Entschlossenheit.",
-                "english": "She pursues her goals with great determination."
-            },
-            {
-                "german": "Die Firma verfolgt eine nachhaltige Geschäftsstrategie.",
-                "english": "The company is pursuing a sustainable business strategy."
-            },
-            {
-                "german": "Er verfolgt die neuesten Entwicklungen in der Technologiebranche.",
-                "english": "He follows the latest developments in the technology industry."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich verfolge gerne Fußballspiele im Fernsehen.",
+            "english": "I enjoy watching football games on TV."
+        },
+        {
+            "german": "Die Polizei verfolgt den flüchtigen Verbrecher.",
+            "english": "The police are pursuing the fugitive criminal."
+        },
+        {
+            "german": "Sie verfolgt ihre Ziele mit großer Entschlossenheit.",
+            "english": "She pursues her goals with great determination."
+        },
+        {
+            "german": "Die Firma verfolgt eine nachhaltige Geschäftsstrategie.",
+            "english": "The company is pursuing a sustainable business strategy."
+        },
+        {
+            "german": "Er verfolgt die neuesten Entwicklungen in der Technologiebranche.",
+            "english": "He follows the latest developments in the technology industry."
+        }
+    ]
 }

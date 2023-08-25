@@ -1,28 +1,26 @@
 {
     "word": "die Stiftung, die Stiftungen",
     "definition": "A legal entity established by an individual or group with the purpose of promoting a specific cause or providing financial support for various projects, such as education, research, or charitable activities. It is commonly used to refer to an organization that operates independently and is funded through endowments or donations, aiming to make a positive impact in society.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Stiftung finanziert Bildungsprojekte.",
-                "english": "The foundation funds educational projects."
-            },
-            {
-                "german": "Die Stiftung unterstützt bedürftige Familien.",
-                "english": "The foundation supports needy families."
-            },
-            {
-                "german": "Die Stiftung vergibt Stipendien an begabte Studenten.",
-                "english": "The foundation awards scholarships to talented students."
-            },
-            {
-                "german": "Die Stiftung fördert den Umweltschutz.",
-                "english": "The foundation promotes environmental protection."
-            },
-            {
-                "german": "Die Stiftung wurde im Jahr 1990 gegründet.",
-                "english": "The foundation was established in 1990."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Stiftung finanziert Bildungsprojekte.",
+            "english": "The foundation funds educational projects."
+        },
+        {
+            "german": "Die Stiftung unterstützt bedürftige Familien.",
+            "english": "The foundation supports needy families."
+        },
+        {
+            "german": "Die Stiftung vergibt Stipendien an begabte Studenten.",
+            "english": "The foundation awards scholarships to talented students."
+        },
+        {
+            "german": "Die Stiftung fördert den Umweltschutz.",
+            "english": "The foundation promotes environmental protection."
+        },
+        {
+            "german": "Die Stiftung wurde im Jahr 1990 gegründet.",
+            "english": "The foundation was established in 1990."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "entschuldigen, entschuldigte, entschuldigt",
     "definition": "To express remorse or seek forgiveness for a mistake, action, or offense, often used in social interactions to apologize or make amends.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Entschuldigen Sie bitte!",
-                "english": "Excuse me, please!"
-            },
-            {
-                "german": "Kannst du mich entschuldigen?",
-                "english": "Can you excuse me?"
-            },
-            {
-                "german": "Ich möchte mich entschuldigen.",
-                "english": "I would like to apologize."
-            },
-            {
-                "german": "Entschuldigung, ich habe den Termin vergessen.",
-                "english": "Sorry, I forgot about the appointment."
-            },
-            {
-                "german": "Entschuldigen Sie die Unannehmlichkeiten.",
-                "english": "Apologies for the inconvenience."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Entschuldigen Sie bitte!",
+            "english": "Excuse me, please!"
+        },
+        {
+            "german": "Kannst du mich entschuldigen?",
+            "english": "Can you excuse me?"
+        },
+        {
+            "german": "Ich möchte mich entschuldigen.",
+            "english": "I would like to apologize."
+        },
+        {
+            "german": "Entschuldigung, ich habe den Termin vergessen.",
+            "english": "Sorry, I forgot about the appointment."
+        },
+        {
+            "german": "Entschuldigen Sie die Unannehmlichkeiten.",
+            "english": "Apologies for the inconvenience."
+        }
+    ]
 }

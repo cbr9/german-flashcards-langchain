@@ -1,28 +1,26 @@
 {
     "word": "feststellen, stellte fest, festgestellt",
     "definition": "To determine or ascertain something, often used to describe the act of identifying or confirming a fact, condition, or situation. It is commonly employed in various contexts, such as scientific research, investigations, examinations, or simply in everyday observations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich konnte feststellen, dass er die Wahrheit sagt.",
-                "english": "I could determine that he is telling the truth."
-            },
-            {
-                "german": "Wir müssen feststellen, ob das Experiment erfolgreich war.",
-                "english": "We need to ascertain if the experiment was successful."
-            },
-            {
-                "german": "Es lässt sich feststellen, dass das Problem komplexer ist als gedacht.",
-                "english": "It can be established that the problem is more complex than anticipated."
-            },
-            {
-                "german": "Die Polizei konnte den Täter schnell feststellen.",
-                "english": "The police were able to quickly identify the perpetrator."
-            },
-            {
-                "german": "Ich möchte feststellen, dass ich mit dieser Entscheidung nicht einverstanden bin.",
-                "english": "I want to state that I disagree with this decision."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich konnte feststellen, dass er die Wahrheit sagt.",
+            "english": "I could determine that he is telling the truth."
+        },
+        {
+            "german": "Wir müssen feststellen, ob das Experiment erfolgreich war.",
+            "english": "We need to ascertain if the experiment was successful."
+        },
+        {
+            "german": "Es lässt sich feststellen, dass das Problem komplexer ist als gedacht.",
+            "english": "It can be established that the problem is more complex than anticipated."
+        },
+        {
+            "german": "Die Polizei konnte den Täter schnell feststellen.",
+            "english": "The police were able to quickly identify the perpetrator."
+        },
+        {
+            "german": "Ich möchte feststellen, dass ich mit dieser Entscheidung nicht einverstanden bin.",
+            "english": "I want to state that I disagree with this decision."
+        }
+    ]
 }

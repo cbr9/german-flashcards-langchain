@@ -1,28 +1,26 @@
 {
     "word": "der Kurs, die Kurse",
     "definition": "A structured program or set of lessons designed to provide instruction, guidance, or training in a specific subject or skill. It is commonly used to refer to educational courses, training programs, or classes that aim to teach or develop knowledge, abilities, or expertise in a particular field.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen Deutschkurs besucht.",
-                "english": "I attended a German course."
-            },
-            {
-                "german": "Der Kurs beginnt um 9 Uhr.",
-                "english": "The course starts at 9 o'clock."
-            },
-            {
-                "german": "Sie hat den Kurs erfolgreich abgeschlossen.",
-                "english": "She successfully completed the course."
-            },
-            {
-                "german": "Der Kursleiter ist sehr kompetent.",
-                "english": "The course instructor is very competent."
-            },
-            {
-                "german": "Ich habe den Kurs online gebucht.",
-                "english": "I booked the course online."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen Deutschkurs besucht.",
+            "english": "I attended a German course."
+        },
+        {
+            "german": "Der Kurs beginnt um 9 Uhr.",
+            "english": "The course starts at 9 o'clock."
+        },
+        {
+            "german": "Sie hat den Kurs erfolgreich abgeschlossen.",
+            "english": "She successfully completed the course."
+        },
+        {
+            "german": "Der Kursleiter ist sehr kompetent.",
+            "english": "The course instructor is very competent."
+        },
+        {
+            "german": "Ich habe den Kurs online gebucht.",
+            "english": "I booked the course online."
+        }
+    ]
 }

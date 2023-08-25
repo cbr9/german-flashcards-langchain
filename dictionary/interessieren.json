@@ -1,28 +1,26 @@
 {
     "word": "interessieren, interessierte, interessiert",
     "definition": "To engage or captivate one's attention, typically used to describe the act of attracting someone's interest or curiosity towards a particular subject, activity, or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich interessiere mich für Kunst.",
-                "english": "I am interested in art."
-            },
-            {
-                "german": "Das Buch hat mich sehr interessiert.",
-                "english": "The book interested me a lot."
-            },
-            {
-                "german": "Es interessiert mich nicht, was andere denken.",
-                "english": "I don't care about what others think."
-            },
-            {
-                "german": "Die neue Ausstellung hat viele Besucher interessiert.",
-                "english": "The new exhibition interested many visitors."
-            },
-            {
-                "german": "Mich interessiert, ob es morgen regnen wird.",
-                "english": "I am interested to know if it will rain tomorrow."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich interessiere mich für Kunst.",
+            "english": "I am interested in art."
+        },
+        {
+            "german": "Das Buch hat mich sehr interessiert.",
+            "english": "The book interested me a lot."
+        },
+        {
+            "german": "Es interessiert mich nicht, was andere denken.",
+            "english": "I don't care about what others think."
+        },
+        {
+            "german": "Die neue Ausstellung hat viele Besucher interessiert.",
+            "english": "The new exhibition interested many visitors."
+        },
+        {
+            "german": "Mich interessiert, ob es morgen regnen wird.",
+            "english": "I am interested to know if it will rain tomorrow."
+        }
+    ]
 }

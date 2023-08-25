@@ -1,28 +1,26 @@
 {
     "word": "schmal",
     "definition": "The word \"schmal\" refers to a specific quality or characteristic of an object or space. It is often used to describe something that is narrow or slim in width, typically in comparison to its length or height. This term is commonly employed to describe physical objects, such as corridors, roads, or doorways, as well as abstract concepts like margins or profit margins.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Fenster ist schmal.",
-                "english": "The window is narrow."
-            },
-            {
-                "german": "Der Flur ist schmal und lang.",
-                "english": "The hallway is narrow and long."
-            },
-            {
-                "german": "Sie hat schmale Schultern.",
-                "english": "She has narrow shoulders."
-            },
-            {
-                "german": "Die Straße ist zu schmal für zwei Autos.",
-                "english": "The road is too narrow for two cars."
-            },
-            {
-                "german": "Der Schrank ist schmal, aber hoch.",
-                "english": "The cabinet is narrow, but tall."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Fenster ist schmal.",
+            "english": "The window is narrow."
+        },
+        {
+            "german": "Der Flur ist schmal und lang.",
+            "english": "The hallway is narrow and long."
+        },
+        {
+            "german": "Sie hat schmale Schultern.",
+            "english": "She has narrow shoulders."
+        },
+        {
+            "german": "Die Straße ist zu schmal für zwei Autos.",
+            "english": "The road is too narrow for two cars."
+        },
+        {
+            "german": "Der Schrank ist schmal, aber hoch.",
+            "english": "The cabinet is narrow, but tall."
+        }
+    ]
 }

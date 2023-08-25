@@ -1,28 +1,26 @@
 {
     "word": "regnen, regnete, geregnet",
     "definition": "To fall from the sky in the form of water droplets, typically from clouds, as a natural meteorological phenomenon. It is commonly used to describe the action of precipitation occurring in the atmosphere.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es regnet heute.",
-                "english": "It is raining today."
-            },
-            {
-                "german": "Es hat gestern den ganzen Tag geregnet.",
-                "english": "It rained all day yesterday."
-            },
-            {
-                "german": "Es wird morgen regnen.",
-                "english": "It will rain tomorrow."
-            },
-            {
-                "german": "Es regnete stark während des Gewitters.",
-                "english": "It was raining heavily during the thunderstorm."
-            },
-            {
-                "german": "Es regnete in Strömen.",
-                "english": "It was pouring rain."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es regnet heute.",
+            "english": "It is raining today."
+        },
+        {
+            "german": "Es hat gestern den ganzen Tag geregnet.",
+            "english": "It rained all day yesterday."
+        },
+        {
+            "german": "Es wird morgen regnen.",
+            "english": "It will rain tomorrow."
+        },
+        {
+            "german": "Es regnete stark während des Gewitters.",
+            "english": "It was raining heavily during the thunderstorm."
+        },
+        {
+            "german": "Es regnete in Strömen.",
+            "english": "It was pouring rain."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Verbraucher, die Verbraucher",
     "definition": "A person who utilizes goods or services, typically in the context of purchasing or consuming products. This term is commonly used in the field of economics and consumer protection.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Verbraucher hat das Recht auf Rückgabe.",
-                "english": "The consumer has the right to return."
-            },
-            {
-                "german": "Verbraucher können Produkte online kaufen.",
-                "english": "Consumers can buy products online."
-            },
-            {
-                "german": "Der Verbraucherzentrale hilft den Verbrauchern bei Problemen.",
-                "english": "The consumer center helps consumers with problems."
-            },
-            {
-                "german": "Verbraucher sollten ihre Rechte kennen.",
-                "english": "Consumers should know their rights."
-            },
-            {
-                "german": "Der Verbraucherpreisindex misst die Inflation.",
-                "english": "The consumer price index measures inflation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Verbraucher hat das Recht auf Rückgabe.",
+            "english": "The consumer has the right to return."
+        },
+        {
+            "german": "Verbraucher können Produkte online kaufen.",
+            "english": "Consumers can buy products online."
+        },
+        {
+            "german": "Der Verbraucherzentrale hilft den Verbrauchern bei Problemen.",
+            "english": "The consumer center helps consumers with problems."
+        },
+        {
+            "german": "Verbraucher sollten ihre Rechte kennen.",
+            "english": "Consumers should know their rights."
+        },
+        {
+            "german": "Der Verbraucherpreisindex misst die Inflation.",
+            "english": "The consumer price index measures inflation."
+        }
+    ]
 }

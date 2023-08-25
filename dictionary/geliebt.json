@@ -1,28 +1,26 @@
 {
     "word": "geliebt",
     "definition": "The word \"geliebt\" refers to the state of being highly regarded, cherished, or deeply loved by someone. It is commonly used to describe the emotional connection and affection that exists between individuals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe dich immer geliebt.",
-                "english": "I have always loved you."
-            },
-            {
-                "german": "Sie hat ihren Hund sehr geliebt.",
-                "english": "She loved her dog very much."
-            },
-            {
-                "german": "Er fühlte sich von allen geliebt.",
-                "english": "He felt loved by everyone."
-            },
-            {
-                "german": "Die Eltern lieben ihre Kinder bedingungslos.",
-                "english": "The parents love their children unconditionally."
-            },
-            {
-                "german": "Sie wurde von vielen Menschen geliebt und verehrt.",
-                "english": "She was loved and admired by many people."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe dich immer geliebt.",
+            "english": "I have always loved you."
+        },
+        {
+            "german": "Sie hat ihren Hund sehr geliebt.",
+            "english": "She loved her dog very much."
+        },
+        {
+            "german": "Er fühlte sich von allen geliebt.",
+            "english": "He felt loved by everyone."
+        },
+        {
+            "german": "Die Eltern lieben ihre Kinder bedingungslos.",
+            "english": "The parents love their children unconditionally."
+        },
+        {
+            "german": "Sie wurde von vielen Menschen geliebt und verehrt.",
+            "english": "She was loved and admired by many people."
+        }
+    ]
 }

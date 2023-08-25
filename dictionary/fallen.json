@@ -1,28 +1,26 @@
 {
     "word": "fallen, fiel, gefallen",
     "definition": "To move from a higher position to a lower position under the force of gravity, often unintentionally or unexpectedly. This word is commonly used to describe the act of physically descending or dropping down.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin gestern hingefallen.",
-                "english": "I fell down yesterday."
-            },
-            {
-                "german": "Die Blätter fallen von den Bäumen.",
-                "english": "The leaves are falling from the trees."
-            },
-            {
-                "german": "Er ist in Ohnmacht gefallen.",
-                "english": "He fainted."
-            },
-            {
-                "german": "Die Temperaturen fallen unter den Gefrierpunkt.",
-                "english": "The temperatures are dropping below freezing point."
-            },
-            {
-                "german": "Der Apfel ist vom Baum gefallen.",
-                "english": "The apple fell from the tree."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin gestern hingefallen.",
+            "english": "I fell down yesterday."
+        },
+        {
+            "german": "Die Blätter fallen von den Bäumen.",
+            "english": "The leaves are falling from the trees."
+        },
+        {
+            "german": "Er ist in Ohnmacht gefallen.",
+            "english": "He fainted."
+        },
+        {
+            "german": "Die Temperaturen fallen unter den Gefrierpunkt.",
+            "english": "The temperatures are dropping below freezing point."
+        },
+        {
+            "german": "Der Apfel ist vom Baum gefallen.",
+            "english": "The apple fell from the tree."
+        }
+    ]
 }

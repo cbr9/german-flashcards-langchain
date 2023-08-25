@@ -1,28 +1,26 @@
 {
     "word": "der Ball, die Bälle",
     "definition": "A round object typically used in various activities, often involving physical interaction, competition, or play. It is commonly kicked, thrown, caught, or hit with various body parts, such as feet, hands, or racquets, in sports, games, or recreational activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Ball ist rot.",
-                "english": "The ball is red."
-            },
-            {
-                "german": "Ich habe gestern Fußball gespielt.",
-                "english": "I played soccer yesterday."
-            },
-            {
-                "german": "Sie hat den Ball geworfen.",
-                "english": "She threw the ball."
-            },
-            {
-                "german": "Der Ball rollt den Hügel hinunter.",
-                "english": "The ball is rolling down the hill."
-            },
-            {
-                "german": "Kannst du den Ball fangen?",
-                "english": "Can you catch the ball?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Ball ist rot.",
+            "english": "The ball is red."
+        },
+        {
+            "german": "Ich habe gestern Fußball gespielt.",
+            "english": "I played soccer yesterday."
+        },
+        {
+            "german": "Sie hat den Ball geworfen.",
+            "english": "She threw the ball."
+        },
+        {
+            "german": "Der Ball rollt den Hügel hinunter.",
+            "english": "The ball is rolling down the hill."
+        },
+        {
+            "german": "Kannst du den Ball fangen?",
+            "english": "Can you catch the ball?"
+        }
+    ]
 }

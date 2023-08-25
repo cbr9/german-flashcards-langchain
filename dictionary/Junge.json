@@ -1,28 +1,26 @@
 {
     "word": "der Junge, die Jungen",
     "definition": "A term commonly employed to refer to a youthful individual, typically a male, who has not yet reached adulthood. It is frequently used in familial or informal contexts to denote a young boy or son.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Junge spielt Fußball.",
-                "english": "The boy is playing soccer."
-            },
-            {
-                "german": "Der Junge geht zur Schule.",
-                "english": "The boy is going to school."
-            },
-            {
-                "german": "Der Junge hat ein Haustier.",
-                "english": "The boy has a pet."
-            },
-            {
-                "german": "Der Junge isst ein Eis.",
-                "english": "The boy is eating an ice cream."
-            },
-            {
-                "german": "Der Junge liest ein Buch.",
-                "english": "The boy is reading a book."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Junge spielt Fußball.",
+            "english": "The boy is playing soccer."
+        },
+        {
+            "german": "Der Junge geht zur Schule.",
+            "english": "The boy is going to school."
+        },
+        {
+            "german": "Der Junge hat ein Haustier.",
+            "english": "The boy has a pet."
+        },
+        {
+            "german": "Der Junge isst ein Eis.",
+            "english": "The boy is eating an ice cream."
+        },
+        {
+            "german": "Der Junge liest ein Buch.",
+            "english": "The boy is reading a book."
+        }
+    ]
 }

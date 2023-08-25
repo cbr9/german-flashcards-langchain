@@ -1,28 +1,26 @@
 {
     "word": "die Beratung, die Beratungen",
     "definition": "A service or process of providing guidance, advice, and support to individuals or groups, typically in a professional or expert capacity. It is commonly sought in various fields, such as personal, professional, educational, or legal matters, to assist in decision-making, problem-solving, or obtaining information.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich brauche eine Beratung.",
-                "english": "I need some advice."
-            },
-            {
-                "german": "Die Beratung war sehr hilfreich.",
-                "english": "The consultation was very helpful."
-            },
-            {
-                "german": "Er bietet professionelle Beratung an.",
-                "english": "He offers professional counseling."
-            },
-            {
-                "german": "Die Beratungsgespräche sind vertraulich.",
-                "english": "The counseling sessions are confidential."
-            },
-            {
-                "german": "Sie hat eine Beratung bei einem Anwalt vereinbart.",
-                "english": "She has scheduled a consultation with a lawyer."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich brauche eine Beratung.",
+            "english": "I need some advice."
+        },
+        {
+            "german": "Die Beratung war sehr hilfreich.",
+            "english": "The consultation was very helpful."
+        },
+        {
+            "german": "Er bietet professionelle Beratung an.",
+            "english": "He offers professional counseling."
+        },
+        {
+            "german": "Die Beratungsgespräche sind vertraulich.",
+            "english": "The counseling sessions are confidential."
+        },
+        {
+            "german": "Sie hat eine Beratung bei einem Anwalt vereinbart.",
+            "english": "She has scheduled a consultation with a lawyer."
+        }
+    ]
 }

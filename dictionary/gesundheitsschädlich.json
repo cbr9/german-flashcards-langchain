@@ -1,28 +1,26 @@
 {
     "word": "gesundheitsschädlich",
     "definition": "A term used to describe something that has the potential to negatively impact one's well-being or health, often referring to substances, behaviors, or environmental factors. It is commonly used in discussions related to public health, safety regulations, and warnings about harmful effects on the human body.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Rauchen ist gesundheitsschädlich.",
-                "english": "Smoking is harmful to health."
-            },
-            {
-                "german": "Der Konsum von Alkohol ist gesundheitsschädlich.",
-                "english": "Consumption of alcohol is detrimental to health."
-            },
-            {
-                "german": "Die Verwendung von Pestiziden ist gesundheitsschädlich.",
-                "english": "The use of pesticides is harmful to health."
-            },
-            {
-                "german": "Langes Sitzen kann gesundheitsschädlich sein.",
-                "english": "Sitting for long periods can be detrimental to health."
-            },
-            {
-                "german": "Der übermäßige Konsum von Zucker ist gesundheitsschädlich.",
-                "english": "Excessive consumption of sugar is harmful to health."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Rauchen ist gesundheitsschädlich.",
+            "english": "Smoking is harmful to health."
+        },
+        {
+            "german": "Der Konsum von Alkohol ist gesundheitsschädlich.",
+            "english": "Consumption of alcohol is detrimental to health."
+        },
+        {
+            "german": "Die Verwendung von Pestiziden ist gesundheitsschädlich.",
+            "english": "The use of pesticides is harmful to health."
+        },
+        {
+            "german": "Langes Sitzen kann gesundheitsschädlich sein.",
+            "english": "Sitting for long periods can be detrimental to health."
+        },
+        {
+            "german": "Der übermäßige Konsum von Zucker ist gesundheitsschädlich.",
+            "english": "Excessive consumption of sugar is harmful to health."
+        }
+    ]
 }

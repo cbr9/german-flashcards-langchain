@@ -1,28 +1,26 @@
 {
     "word": "stehen, stand, gestanden",
     "definition": "To maintain an upright position on one's feet, often used to describe a stationary or static stance. It is commonly employed to convey the act of being in a standing position, typically on the ground, and can be used to describe both humans and objects.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich stehe früh auf.",
-                "english": "I get up early."
-            },
-            {
-                "german": "Er steht vor dem Spiegel.",
-                "english": "He is standing in front of the mirror."
-            },
-            {
-                "german": "Sie steht immer pünktlich auf.",
-                "english": "She always gets up on time."
-            },
-            {
-                "german": "Wir stehen in der Schlange.",
-                "english": "We are standing in line."
-            },
-            {
-                "german": "Die Flasche steht auf dem Tisch.",
-                "english": "The bottle is on the table."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich stehe früh auf.",
+            "english": "I get up early."
+        },
+        {
+            "german": "Er steht vor dem Spiegel.",
+            "english": "He is standing in front of the mirror."
+        },
+        {
+            "german": "Sie steht immer pünktlich auf.",
+            "english": "She always gets up on time."
+        },
+        {
+            "german": "Wir stehen in der Schlange.",
+            "english": "We are standing in line."
+        },
+        {
+            "german": "Die Flasche steht auf dem Tisch.",
+            "english": "The bottle is on the table."
+        }
+    ]
 }

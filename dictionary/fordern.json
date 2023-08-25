@@ -1,28 +1,26 @@
 {
     "word": "fordern, forderte, gefordert",
     "definition": "To request or demand someone to take action or perform a task, often implying a challenge or expectation for effort and achievement. It is commonly used in contexts related to competitions, sports, or educational settings, where individuals are encouraged to strive for improvement or demonstrate their abilities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich fordere mehr Gehalt.",
-                "english": "I demand a higher salary."
-            },
-            {
-                "german": "Die Schüler fordern bessere Schulbedingungen.",
-                "english": "The students demand better school conditions."
-            },
-            {
-                "german": "Der Politiker fordert eine Reform des Gesundheitssystems.",
-                "english": "The politician calls for a reform of the healthcare system."
-            },
-            {
-                "german": "Die Gewerkschaft fordert kürzere Arbeitszeiten.",
-                "english": "The labor union demands shorter working hours."
-            },
-            {
-                "german": "Der Trainer fordert von seinen Spielern mehr Einsatz.",
-                "english": "The coach demands more effort from his players."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich fordere mehr Gehalt.",
+            "english": "I demand a higher salary."
+        },
+        {
+            "german": "Die Schüler fordern bessere Schulbedingungen.",
+            "english": "The students demand better school conditions."
+        },
+        {
+            "german": "Der Politiker fordert eine Reform des Gesundheitssystems.",
+            "english": "The politician calls for a reform of the healthcare system."
+        },
+        {
+            "german": "Die Gewerkschaft fordert kürzere Arbeitszeiten.",
+            "english": "The labor union demands shorter working hours."
+        },
+        {
+            "german": "Der Trainer fordert von seinen Spielern mehr Einsatz.",
+            "english": "The coach demands more effort from his players."
+        }
+    ]
 }

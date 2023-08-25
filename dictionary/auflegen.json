@@ -1,28 +1,26 @@
 {
     "word": "auflegen, legte auf, aufgelegt",
     "definition": "To place an object or an item onto a surface or a platform, often with the intention of starting or initiating a specific action or process. This term is commonly used in the context of music, referring to the act of playing or putting on a record or a CD on a turntable or a player.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich lege die CD auf.",
-                "english": "I put the CD on."
-            },
-            {
-                "german": "Er legt den Hörer auf.",
-                "english": "He hangs up the receiver."
-            },
-            {
-                "german": "Sie legt das Buch auf den Tisch.",
-                "english": "She puts the book on the table."
-            },
-            {
-                "german": "Wir legen die Karten auf den Boden.",
-                "english": "We lay the cards on the floor."
-            },
-            {
-                "german": "Der DJ legt eine Platte auf.",
-                "english": "The DJ puts on a record."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich lege die CD auf.",
+            "english": "I put the CD on."
+        },
+        {
+            "german": "Er legt den Hörer auf.",
+            "english": "He hangs up the receiver."
+        },
+        {
+            "german": "Sie legt das Buch auf den Tisch.",
+            "english": "She puts the book on the table."
+        },
+        {
+            "german": "Wir legen die Karten auf den Boden.",
+            "english": "We lay the cards on the floor."
+        },
+        {
+            "german": "Der DJ legt eine Platte auf.",
+            "english": "The DJ puts on a record."
+        }
+    ]
 }

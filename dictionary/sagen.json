@@ -1,28 +1,26 @@
 {
     "word": "sagen, sagte, gesagt",
     "definition": "To express thoughts, opinions, or information orally, often in a narrative or storytelling manner. It is commonly used to convey personal experiences, recount historical events, share legends, or communicate traditional tales.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich sage dir die Wahrheit.",
-                "english": "I tell you the truth."
-            },
-            {
-                "german": "Was möchtest du mir sagen?",
-                "english": "What do you want to tell me?"
-            },
-            {
-                "german": "Er hat mir gesagt, dass er kommt.",
-                "english": "He told me that he is coming."
-            },
-            {
-                "german": "Kannst du mir sagen, wie spät es ist?",
-                "english": "Can you tell me what time it is?"
-            },
-            {
-                "german": "Sie sagte, dass sie es nicht wusste.",
-                "english": "She said that she didn't know."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich sage dir die Wahrheit.",
+            "english": "I tell you the truth."
+        },
+        {
+            "german": "Was möchtest du mir sagen?",
+            "english": "What do you want to tell me?"
+        },
+        {
+            "german": "Er hat mir gesagt, dass er kommt.",
+            "english": "He told me that he is coming."
+        },
+        {
+            "german": "Kannst du mir sagen, wie spät es ist?",
+            "english": "Can you tell me what time it is?"
+        },
+        {
+            "german": "Sie sagte, dass sie es nicht wusste.",
+            "english": "She said that she didn't know."
+        }
+    ]
 }

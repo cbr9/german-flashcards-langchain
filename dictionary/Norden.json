@@ -1,28 +1,26 @@
 {
     "word": "der Norden, die Norden",
     "definition": "The term \"Norden\" refers to the cardinal direction that is opposite to the south. It commonly denotes the northern region or area of a specific place, country, or continent. It is frequently used to describe geographical locations, navigation, and orientation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Norden Deutschlands ist bekannt für seine Küstenlandschaften.",
-                "english": "The north of Germany is known for its coastal landscapes."
-            },
-            {
-                "german": "Im Norden des Landes gibt es viele Seen.",
-                "english": "There are many lakes in the north of the country."
-            },
-            {
-                "german": "Der Norden ist geprägt von einer kühleren Klimazone.",
-                "english": "The north is characterized by a cooler climate zone."
-            },
-            {
-                "german": "Die Hauptstadt des Nordens ist Hamburg.",
-                "english": "The capital of the north is Hamburg."
-            },
-            {
-                "german": "Im Norden gibt es viele historische Städte zu besichtigen.",
-                "english": "There are many historical cities to visit in the north."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Norden Deutschlands ist bekannt für seine Küstenlandschaften.",
+            "english": "The north of Germany is known for its coastal landscapes."
+        },
+        {
+            "german": "Im Norden des Landes gibt es viele Seen.",
+            "english": "There are many lakes in the north of the country."
+        },
+        {
+            "german": "Der Norden ist geprägt von einer kühleren Klimazone.",
+            "english": "The north is characterized by a cooler climate zone."
+        },
+        {
+            "german": "Die Hauptstadt des Nordens ist Hamburg.",
+            "english": "The capital of the north is Hamburg."
+        },
+        {
+            "german": "Im Norden gibt es viele historische Städte zu besichtigen.",
+            "english": "There are many historical cities to visit in the north."
+        }
+    ]
 }

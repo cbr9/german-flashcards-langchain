@@ -1,28 +1,26 @@
 {
     "word": "das Bedürfnis, die Bedürfnisse",
     "definition": "A strong desire or necessity for something, often referring to a basic human need or requirement. It is commonly used to describe an innate longing or craving that individuals experience, typically related to physical, emotional, or psychological needs.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe ein Bedürfnis nach Ruhe.",
-                "english": "I have a need for peace and quiet."
-            },
-            {
-                "german": "Das Bedürfnis nach Essen und Trinken ist grundlegend.",
-                "english": "The need for food and drink is fundamental."
-            },
-            {
-                "german": "Sie hat ein Bedürfnis nach Anerkennung.",
-                "english": "She has a need for recognition."
-            },
-            {
-                "german": "Das Bedürfnis nach Sicherheit ist menschlich.",
-                "english": "The need for security is human."
-            },
-            {
-                "german": "Bedürfnisse können sich im Laufe der Zeit ändern.",
-                "english": "Needs can change over time."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe ein Bedürfnis nach Ruhe.",
+            "english": "I have a need for peace and quiet."
+        },
+        {
+            "german": "Das Bedürfnis nach Essen und Trinken ist grundlegend.",
+            "english": "The need for food and drink is fundamental."
+        },
+        {
+            "german": "Sie hat ein Bedürfnis nach Anerkennung.",
+            "english": "She has a need for recognition."
+        },
+        {
+            "german": "Das Bedürfnis nach Sicherheit ist menschlich.",
+            "english": "The need for security is human."
+        },
+        {
+            "german": "Bedürfnisse können sich im Laufe der Zeit ändern.",
+            "english": "Needs can change over time."
+        }
+    ]
 }

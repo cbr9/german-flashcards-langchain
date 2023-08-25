@@ -1,28 +1,26 @@
 {
     "word": "die Entschuldigung, die Entschuldigungen",
     "definition": "A polite expression used to acknowledge one's own wrongdoing or to apologize for an action, typically used in situations where one seeks forgiveness or wants to show remorse. It is commonly employed in interpersonal interactions to express regret or to ask for pardon.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Entschuldigung, ich habe den Zug verpasst.",
-                "english": "Sorry, I missed the train."
-            },
-            {
-                "german": "Können Sie mir bitte sagen, wo der Bahnhof ist? Entschuldigung, ich bin neu hier.",
-                "english": "Can you please tell me where the train station is? Sorry, I'm new here."
-            },
-            {
-                "german": "Entschuldigung, ich habe Ihren Namen vergessen.",
-                "english": "Sorry, I forgot your name."
-            },
-            {
-                "german": "Entschuldigung, ich habe mich verspätet.",
-                "english": "Sorry, I'm running late."
-            },
-            {
-                "german": "Entschuldigung, ich habe nicht verstanden, was Sie gesagt haben.",
-                "english": "Sorry, I didn't understand what you said."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Entschuldigung, ich habe den Zug verpasst.",
+            "english": "Sorry, I missed the train."
+        },
+        {
+            "german": "Können Sie mir bitte sagen, wo der Bahnhof ist? Entschuldigung, ich bin neu hier.",
+            "english": "Can you please tell me where the train station is? Sorry, I'm new here."
+        },
+        {
+            "german": "Entschuldigung, ich habe Ihren Namen vergessen.",
+            "english": "Sorry, I forgot your name."
+        },
+        {
+            "german": "Entschuldigung, ich habe mich verspätet.",
+            "english": "Sorry, I'm running late."
+        },
+        {
+            "german": "Entschuldigung, ich habe nicht verstanden, was Sie gesagt haben.",
+            "english": "Sorry, I didn't understand what you said."
+        }
+    ]
 }

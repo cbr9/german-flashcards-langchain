@@ -1,28 +1,26 @@
 {
     "word": "die Ankündigung, die Ankündigungen",
     "definition": "A statement or notice made in advance to inform others about an upcoming event, action, or announcement. It is commonly used in various contexts, such as official announcements, public notifications, event promotions, or personal notifications.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Ankündigung des Konzerts war sehr aufregend.",
-                "english": "The announcement of the concert was very exciting."
-            },
-            {
-                "german": "Die Ankündigung der neuen Regelungen sorgte für Aufregung.",
-                "english": "The announcement of the new regulations caused excitement."
-            },
-            {
-                "german": "Die Ankündigung des Gewinners erfolgt in Kürze.",
-                "english": "The announcement of the winner will be made shortly."
-            },
-            {
-                "german": "Die Ankündigung des Sturms führte zur Evakuierung.",
-                "english": "The announcement of the storm led to evacuation."
-            },
-            {
-                "german": "Die Ankündigung der Veranstaltung wurde im Radio übertragen.",
-                "english": "The announcement of the event was broadcasted on the radio."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Ankündigung des Konzerts war sehr aufregend.",
+            "english": "The announcement of the concert was very exciting."
+        },
+        {
+            "german": "Die Ankündigung der neuen Regelungen sorgte für Aufregung.",
+            "english": "The announcement of the new regulations caused excitement."
+        },
+        {
+            "german": "Die Ankündigung des Gewinners erfolgt in Kürze.",
+            "english": "The announcement of the winner will be made shortly."
+        },
+        {
+            "german": "Die Ankündigung des Sturms führte zur Evakuierung.",
+            "english": "The announcement of the storm led to evacuation."
+        },
+        {
+            "german": "Die Ankündigung der Veranstaltung wurde im Radio übertragen.",
+            "english": "The announcement of the event was broadcasted on the radio."
+        }
+    ]
 }

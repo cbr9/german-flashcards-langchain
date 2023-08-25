@@ -1,28 +1,26 @@
 {
     "word": "interessant",
     "definition": "A word used to describe something that captures one's attention, piques curiosity, or generates fascination. It is commonly employed to express the appeal or engaging nature of a subject, event, or idea.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Buch ist sehr interessant.",
-                "english": "The book is very interesting."
-            },
-            {
-                "german": "Ich finde den Film interessant.",
-                "english": "I find the movie interesting."
-            },
-            {
-                "german": "Die Vorlesung war sehr interessant.",
-                "english": "The lecture was very interesting."
-            },
-            {
-                "german": "Das Thema ist wirklich interessant.",
-                "english": "The topic is really interesting."
-            },
-            {
-                "german": "Es war interessant, neue Leute kennenzulernen.",
-                "english": "It was interesting to meet new people."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Buch ist sehr interessant.",
+            "english": "The book is very interesting."
+        },
+        {
+            "german": "Ich finde den Film interessant.",
+            "english": "I find the movie interesting."
+        },
+        {
+            "german": "Die Vorlesung war sehr interessant.",
+            "english": "The lecture was very interesting."
+        },
+        {
+            "german": "Das Thema ist wirklich interessant.",
+            "english": "The topic is really interesting."
+        },
+        {
+            "german": "Es war interessant, neue Leute kennenzulernen.",
+            "english": "It was interesting to meet new people."
+        }
+    ]
 }

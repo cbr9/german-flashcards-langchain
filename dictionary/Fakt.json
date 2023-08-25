@@ -1,28 +1,26 @@
 {
     "word": "der Fakt, die Fakten",
     "definition": "A piece of information or knowledge that is considered to be true, often supported by evidence or data. It is commonly used in discussions, debates, or presentations to refer to a verifiable fact or a proven statement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist ein Fakt.",
-                "english": "This is a fact."
-            },
-            {
-                "german": "Es gibt viele Fakten über das Thema.",
-                "english": "There are many facts about the topic."
-            },
-            {
-                "german": "Das ist ein wissenschaftlicher Fakt.",
-                "english": "This is a scientific fact."
-            },
-            {
-                "german": "Es ist ein bekannter Fakt, dass Rauchen schädlich ist.",
-                "english": "It is a well-known fact that smoking is harmful."
-            },
-            {
-                "german": "Die Fakten sprechen für sich.",
-                "english": "The facts speak for themselves."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist ein Fakt.",
+            "english": "This is a fact."
+        },
+        {
+            "german": "Es gibt viele Fakten über das Thema.",
+            "english": "There are many facts about the topic."
+        },
+        {
+            "german": "Das ist ein wissenschaftlicher Fakt.",
+            "english": "This is a scientific fact."
+        },
+        {
+            "german": "Es ist ein bekannter Fakt, dass Rauchen schädlich ist.",
+            "english": "It is a well-known fact that smoking is harmful."
+        },
+        {
+            "german": "Die Fakten sprechen für sich.",
+            "english": "The facts speak for themselves."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "verbien, verbierte, verbiert",
     "definition": "To \"verbien\" refers to the action of transforming a noun or adjective into a verb. This process typically involves adding a specific suffix or modifying the word's structure to create a new verb form. It is commonly used in linguistic discussions or when analyzing language patterns.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich verbiege den Draht.",
-                "english": "I bend the wire."
-            },
-            {
-                "german": "Die Hitze verbiegt das Metall.",
-                "english": "The heat distorts the metal."
-            },
-            {
-                "german": "Er verbiegt die Wahrheit.",
-                "english": "He distorts the truth."
-            },
-            {
-                "german": "Das Gewicht verbiegt den Ast.",
-                "english": "The weight bends the branch."
-            },
-            {
-                "german": "Sie verbiegen ihre Prinzipien.",
-                "english": "They compromise their principles."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich verbiege den Draht.",
+            "english": "I bend the wire."
+        },
+        {
+            "german": "Die Hitze verbiegt das Metall.",
+            "english": "The heat distorts the metal."
+        },
+        {
+            "german": "Er verbiegt die Wahrheit.",
+            "english": "He distorts the truth."
+        },
+        {
+            "german": "Das Gewicht verbiegt den Ast.",
+            "english": "The weight bends the branch."
+        },
+        {
+            "german": "Sie verbiegen ihre Prinzipien.",
+            "english": "They compromise their principles."
+        }
+    ]
 }

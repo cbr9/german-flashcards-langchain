@@ -1,28 +1,26 @@
 {
     "word": "gewinnen, gewann, gewonnen",
     "definition": "To achieve a favorable outcome or victory in a competition, contest, or game, often resulting in gaining a prize, reward, or recognition. This term is commonly employed in various contexts, including sports, elections, lotteries, and personal achievements.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe das Spiel gewonnen.",
-                "english": "I won the game."
-            },
-            {
-                "german": "Sie hat den Wettbewerb gewonnen.",
-                "english": "She won the competition."
-            },
-            {
-                "german": "Er hat den Jackpot gewonnen.",
-                "english": "He won the jackpot."
-            },
-            {
-                "german": "Wir können nur gemeinsam gewinnen.",
-                "english": "We can only win together."
-            },
-            {
-                "german": "Sie haben den ersten Preis gewonnen.",
-                "english": "They won the first prize."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe das Spiel gewonnen.",
+            "english": "I won the game."
+        },
+        {
+            "german": "Sie hat den Wettbewerb gewonnen.",
+            "english": "She won the competition."
+        },
+        {
+            "german": "Er hat den Jackpot gewonnen.",
+            "english": "He won the jackpot."
+        },
+        {
+            "german": "Wir können nur gemeinsam gewinnen.",
+            "english": "We can only win together."
+        },
+        {
+            "german": "Sie haben den ersten Preis gewonnen.",
+            "english": "They won the first prize."
+        }
+    ]
 }

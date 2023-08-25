@@ -1,28 +1,26 @@
 {
     "word": "die Polizei, die Polizeien",
     "definition": "A governmental organization responsible for maintaining law and order, ensuring public safety, and enforcing regulations within a specific jurisdiction. It is commonly referred to when discussing emergency services, crime prevention, traffic control, and investigations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Polizei hat den Dieb gefasst.",
-                "english": "The police caught the thief."
-            },
-            {
-                "german": "Rufen Sie die Polizei!",
-                "english": "Call the police!"
-            },
-            {
-                "german": "Die Polizei untersucht den Vorfall.",
-                "english": "The police are investigating the incident."
-            },
-            {
-                "german": "Die Polizei ist für die Sicherheit zuständig.",
-                "english": "The police are responsible for security."
-            },
-            {
-                "german": "Die Polizei hat den Verkehr umgeleitet.",
-                "english": "The police redirected the traffic."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Polizei hat den Dieb gefasst.",
+            "english": "The police caught the thief."
+        },
+        {
+            "german": "Rufen Sie die Polizei!",
+            "english": "Call the police!"
+        },
+        {
+            "german": "Die Polizei untersucht den Vorfall.",
+            "english": "The police are investigating the incident."
+        },
+        {
+            "german": "Die Polizei ist für die Sicherheit zuständig.",
+            "english": "The police are responsible for security."
+        },
+        {
+            "german": "Die Polizei hat den Verkehr umgeleitet.",
+            "english": "The police redirected the traffic."
+        }
+    ]
 }

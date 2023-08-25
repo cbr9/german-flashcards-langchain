@@ -1,28 +1,26 @@
 {
     "word": "der Großelternteil, die Großeltern",
     "definition": "The term refers to a familial relationship denoting a specific generation within a family. It commonly refers to the parents of one's parents, or the older generation of relatives who are directly related to an individual. This word is typically used to describe a set of family members who hold a significant role in a person's life, providing guidance, support, and love.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Großeltern leben in Deutschland.",
-                "english": "My grandparents live in Germany."
-            },
-            {
-                "german": "Wir besuchen unsere Großeltern jedes Jahr.",
-                "english": "We visit our grandparents every year."
-            },
-            {
-                "german": "Meine Großeltern sind schon sehr alt.",
-                "english": "My grandparents are very old."
-            },
-            {
-                "german": "Die Großeltern passen oft auf die Enkelkinder auf.",
-                "english": "The grandparents often take care of the grandchildren."
-            },
-            {
-                "german": "Meine Großeltern haben mir viele Geschichten erzählt.",
-                "english": "My grandparents told me many stories."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Großeltern leben in Deutschland.",
+            "english": "My grandparents live in Germany."
+        },
+        {
+            "german": "Wir besuchen unsere Großeltern jedes Jahr.",
+            "english": "We visit our grandparents every year."
+        },
+        {
+            "german": "Meine Großeltern sind schon sehr alt.",
+            "english": "My grandparents are very old."
+        },
+        {
+            "german": "Die Großeltern passen oft auf die Enkelkinder auf.",
+            "english": "The grandparents often take care of the grandchildren."
+        },
+        {
+            "german": "Meine Großeltern haben mir viele Geschichten erzählt.",
+            "english": "My grandparents told me many stories."
+        }
+    ]
 }

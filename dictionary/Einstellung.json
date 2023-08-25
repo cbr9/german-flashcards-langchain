@@ -1,28 +1,26 @@
 {
     "word": "die Einstellung, die Einstellungen",
     "definition": "A mental state or attitude characterized by one's beliefs, opinions, or predispositions towards a particular subject or situation. It is often used to describe a person's overall outlook, mindset, or approach towards something, such as work, relationships, or life in general.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Einstellung des Thermostats beeinflusst die Raumtemperatur.",
-                "english": "The adjustment of the thermostat affects the room temperature."
-            },
-            {
-                "german": "Seine Einstellung zur Arbeit ist sehr positiv.",
-                "english": "His attitude towards work is very positive."
-            },
-            {
-                "german": "Die Einstellung des Fernsehers ist zu hell.",
-                "english": "The setting of the television is too bright."
-            },
-            {
-                "german": "Ich habe eine positive Einstellung zum Leben.",
-                "english": "I have a positive outlook on life."
-            },
-            {
-                "german": "Die Einstellung der Kamera muss angepasst werden.",
-                "english": "The adjustment of the camera needs to be made."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Einstellung des Thermostats beeinflusst die Raumtemperatur.",
+            "english": "The adjustment of the thermostat affects the room temperature."
+        },
+        {
+            "german": "Seine Einstellung zur Arbeit ist sehr positiv.",
+            "english": "His attitude towards work is very positive."
+        },
+        {
+            "german": "Die Einstellung des Fernsehers ist zu hell.",
+            "english": "The setting of the television is too bright."
+        },
+        {
+            "german": "Ich habe eine positive Einstellung zum Leben.",
+            "english": "I have a positive outlook on life."
+        },
+        {
+            "german": "Die Einstellung der Kamera muss angepasst werden.",
+            "english": "The adjustment of the camera needs to be made."
+        }
+    ]
 }

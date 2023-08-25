@@ -1,28 +1,26 @@
 {
     "word": "das Ferngesehen, die Ferngesehen",
     "definition": "A device that allows individuals to view visual content from a distance, typically used for entertainment or informational purposes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe gestern ferngesehen.",
-                "english": "I watched TV yesterday."
-            },
-            {
-                "german": "Fernsehen ist eine beliebte Freizeitbeschäftigung.",
-                "english": "Watching TV is a popular pastime."
-            },
-            {
-                "german": "Meine Lieblingssendung läuft heute Abend im Fernsehen.",
-                "english": "My favorite show is on TV tonight."
-            },
-            {
-                "german": "Wir haben einen neuen Fernseher gekauft.",
-                "english": "We bought a new television."
-            },
-            {
-                "german": "Fernsehen kann süchtig machen.",
-                "english": "Watching TV can be addictive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe gestern ferngesehen.",
+            "english": "I watched TV yesterday."
+        },
+        {
+            "german": "Fernsehen ist eine beliebte Freizeitbeschäftigung.",
+            "english": "Watching TV is a popular pastime."
+        },
+        {
+            "german": "Meine Lieblingssendung läuft heute Abend im Fernsehen.",
+            "english": "My favorite show is on TV tonight."
+        },
+        {
+            "german": "Wir haben einen neuen Fernseher gekauft.",
+            "english": "We bought a new television."
+        },
+        {
+            "german": "Fernsehen kann süchtig machen.",
+            "english": "Watching TV can be addictive."
+        }
+    ]
 }

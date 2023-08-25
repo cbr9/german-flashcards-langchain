@@ -1,28 +1,26 @@
 {
     "word": "der Geburtstag, die Geburtstage",
     "definition": "A celebration that occurs annually to commemorate the day a person was born, typically involving gathering with friends and family, exchanging gifts, and enjoying food and drinks.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe heute Geburtstag.",
-                "english": "It's my birthday today."
-            },
-            {
-                "german": "Alles Gute zum Geburtstag!",
-                "english": "Happy birthday!"
-            },
-            {
-                "german": "Mein Geburtstag ist im Juni.",
-                "english": "My birthday is in June."
-            },
-            {
-                "german": "Wir feiern heute meinen Geburtstag.",
-                "english": "We are celebrating my birthday today."
-            },
-            {
-                "german": "Wie alt wirst du an deinem Geburtstag?",
-                "english": "How old will you be on your birthday?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe heute Geburtstag.",
+            "english": "It's my birthday today."
+        },
+        {
+            "german": "Alles Gute zum Geburtstag!",
+            "english": "Happy birthday!"
+        },
+        {
+            "german": "Mein Geburtstag ist im Juni.",
+            "english": "My birthday is in June."
+        },
+        {
+            "german": "Wir feiern heute meinen Geburtstag.",
+            "english": "We are celebrating my birthday today."
+        },
+        {
+            "german": "Wie alt wirst du an deinem Geburtstag?",
+            "english": "How old will you be on your birthday?"
+        }
+    ]
 }

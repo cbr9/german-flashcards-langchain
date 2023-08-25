@@ -1,28 +1,26 @@
 {
     "word": "die Prüfung, die Prüfungen",
     "definition": "A formal evaluation or assessment of knowledge, skills, or abilities, typically conducted to determine one's proficiency or competence in a particular subject or field. It is commonly used in educational contexts, such as exams or tests, to measure a person's understanding and performance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Prüfung war sehr schwer.",
-                "english": "The exam was very difficult."
-            },
-            {
-                "german": "Ich habe die Prüfung bestanden.",
-                "english": "I passed the exam."
-            },
-            {
-                "german": "Die Prüfungsergebnisse werden nächste Woche bekannt gegeben.",
-                "english": "The exam results will be announced next week."
-            },
-            {
-                "german": "Er hat die Prüfung nicht bestanden.",
-                "english": "He did not pass the exam."
-            },
-            {
-                "german": "Die Prüfungsvorbereitung war sehr zeitaufwendig.",
-                "english": "The exam preparation was very time-consuming."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Prüfung war sehr schwer.",
+            "english": "The exam was very difficult."
+        },
+        {
+            "german": "Ich habe die Prüfung bestanden.",
+            "english": "I passed the exam."
+        },
+        {
+            "german": "Die Prüfungsergebnisse werden nächste Woche bekannt gegeben.",
+            "english": "The exam results will be announced next week."
+        },
+        {
+            "german": "Er hat die Prüfung nicht bestanden.",
+            "english": "He did not pass the exam."
+        },
+        {
+            "german": "Die Prüfungsvorbereitung war sehr zeitaufwendig.",
+            "english": "The exam preparation was very time-consuming."
+        }
+    ]
 }

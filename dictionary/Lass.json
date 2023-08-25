@@ -1,28 +1,26 @@
 {
     "word": "lassen, ließ, gelassen",
     "definition": "A term used to address or refer to a female individual, typically in an informal or familiar context. It is commonly employed to get someone's attention, call them over, or request their presence.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Lass mich in Ruhe!",
-                "english": "Leave me alone!"
-            },
-            {
-                "german": "Lass uns ins Kino gehen.",
-                "english": "Let's go to the cinema."
-            },
-            {
-                "german": "Lass es uns versuchen.",
-                "english": "Let's give it a try."
-            },
-            {
-                "german": "Lass mich darüber nachdenken.",
-                "english": "Let me think about it."
-            },
-            {
-                "german": "Lass uns morgen früh aufstehen.",
-                "english": "Let's wake up early tomorrow."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Lass mich in Ruhe!",
+            "english": "Leave me alone!"
+        },
+        {
+            "german": "Lass uns ins Kino gehen.",
+            "english": "Let's go to the cinema."
+        },
+        {
+            "german": "Lass es uns versuchen.",
+            "english": "Let's give it a try."
+        },
+        {
+            "german": "Lass mich darüber nachdenken.",
+            "english": "Let me think about it."
+        },
+        {
+            "german": "Lass uns morgen früh aufstehen.",
+            "english": "Let's wake up early tomorrow."
+        }
+    ]
 }

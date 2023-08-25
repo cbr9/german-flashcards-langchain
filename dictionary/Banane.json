@@ -1,28 +1,26 @@
 {
     "word": "die Banane, die Banane",
     "definition": "A tropical fruit with a yellow peel that is typically consumed as a snack or used in various culinary preparations. It is commonly found in desserts, smoothies, and breakfast dishes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Banane ist gelb.",
-                "english": "The banana is yellow."
-            },
-            {
-                "german": "Ich esse gerne Bananen.",
-                "english": "I like to eat bananas."
-            },
-            {
-                "german": "Die Banane ist eine Frucht.",
-                "english": "The banana is a fruit."
-            },
-            {
-                "german": "Die Banane schmeckt süß.",
-                "english": "The banana tastes sweet."
-            },
-            {
-                "german": "Die Banane wächst an einer Bananenstaude.",
-                "english": "The banana grows on a banana plant."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Banane ist gelb.",
+            "english": "The banana is yellow."
+        },
+        {
+            "german": "Ich esse gerne Bananen.",
+            "english": "I like to eat bananas."
+        },
+        {
+            "german": "Die Banane ist eine Frucht.",
+            "english": "The banana is a fruit."
+        },
+        {
+            "german": "Die Banane schmeckt süß.",
+            "english": "The banana tastes sweet."
+        },
+        {
+            "german": "Die Banane wächst an einer Bananenstaude.",
+            "english": "The banana grows on a banana plant."
+        }
+    ]
 }

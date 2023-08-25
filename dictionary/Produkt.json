@@ -1,28 +1,26 @@
 {
     "word": "das Produkt, die Produkte",
     "definition": "A tangible or intangible item resulting from a process, typically created for commercial purposes. It is commonly used to refer to goods or commodities that are manufactured, produced, or developed for sale or consumption.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Produkt ist von hoher Qualität.",
-                "english": "The product is of high quality."
-            },
-            {
-                "german": "Ich habe ein neues Produkt entwickelt.",
-                "english": "I have developed a new product."
-            },
-            {
-                "german": "Das Produkt wird in China hergestellt.",
-                "english": "The product is manufactured in China."
-            },
-            {
-                "german": "Kannst du mir ein Produkt empfehlen?",
-                "english": "Can you recommend a product to me?"
-            },
-            {
-                "german": "Das Produkt ist momentan ausverkauft.",
-                "english": "The product is currently sold out."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Produkt ist von hoher Qualität.",
+            "english": "The product is of high quality."
+        },
+        {
+            "german": "Ich habe ein neues Produkt entwickelt.",
+            "english": "I have developed a new product."
+        },
+        {
+            "german": "Das Produkt wird in China hergestellt.",
+            "english": "The product is manufactured in China."
+        },
+        {
+            "german": "Kannst du mir ein Produkt empfehlen?",
+            "english": "Can you recommend a product to me?"
+        },
+        {
+            "german": "Das Produkt ist momentan ausverkauft.",
+            "english": "The product is currently sold out."
+        }
+    ]
 }

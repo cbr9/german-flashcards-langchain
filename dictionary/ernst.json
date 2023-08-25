@@ -1,28 +1,26 @@
 {
     "word": "ernst",
     "definition": "The word \"ernst\" refers to a quality or state of being characterized by seriousness, gravity, or sincerity. It is often used to describe a person's demeanor, attitude, or approach towards a particular situation. This term is commonly employed to convey a lack of humor or playfulness, indicating a sincere and earnest disposition.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ernst sein",
-                "english": "To be serious"
-            },
-            {
-                "german": "Das ist kein Spaß, das ist ernst",
-                "english": "This is not a joke, this is serious"
-            },
-            {
-                "german": "Er meint es ernst",
-                "english": "He is serious about it"
-            },
-            {
-                "german": "Sie hat einen ernsten Blick",
-                "english": "She has a serious look"
-            },
-            {
-                "german": "Er hat eine ernsthafte Einstellung zur Arbeit",
-                "english": "He has a serious attitude towards work"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ernst sein",
+            "english": "To be serious"
+        },
+        {
+            "german": "Das ist kein Spaß, das ist ernst",
+            "english": "This is not a joke, this is serious"
+        },
+        {
+            "german": "Er meint es ernst",
+            "english": "He is serious about it"
+        },
+        {
+            "german": "Sie hat einen ernsten Blick",
+            "english": "She has a serious look"
+        },
+        {
+            "german": "Er hat eine ernsthafte Einstellung zur Arbeit",
+            "english": "He has a serious attitude towards work"
+        }
+    ]
 }

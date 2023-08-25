@@ -1,28 +1,26 @@
 {
     "word": "auszeichnen, zeichnete aus, ausgezeichnet",
     "definition": "To recognize or honor someone for their exceptional qualities, achievements, or contributions, often through an official award or distinction. This term is commonly employed in contexts related to acknowledging outstanding performance, distinguishing oneself, or highlighting notable accomplishments.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er wurde für seine Leistungen ausgezeichnet.",
-                "english": "He was honored for his achievements."
-            },
-            {
-                "german": "Sie wurde mit dem Nobelpreis ausgezeichnet.",
-                "english": "She was awarded the Nobel Prize."
-            },
-            {
-                "german": "Seine Arbeit wurde als bahnbrechend ausgezeichnet.",
-                "english": "His work was recognized as groundbreaking."
-            },
-            {
-                "german": "Der Film wurde mit mehreren Preisen ausgezeichnet.",
-                "english": "The film received several awards."
-            },
-            {
-                "german": "Sie wurde für ihre Tapferkeit ausgezeichnet.",
-                "english": "She was decorated for her bravery."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er wurde für seine Leistungen ausgezeichnet.",
+            "english": "He was honored for his achievements."
+        },
+        {
+            "german": "Sie wurde mit dem Nobelpreis ausgezeichnet.",
+            "english": "She was awarded the Nobel Prize."
+        },
+        {
+            "german": "Seine Arbeit wurde als bahnbrechend ausgezeichnet.",
+            "english": "His work was recognized as groundbreaking."
+        },
+        {
+            "german": "Der Film wurde mit mehreren Preisen ausgezeichnet.",
+            "english": "The film received several awards."
+        },
+        {
+            "german": "Sie wurde für ihre Tapferkeit ausgezeichnet.",
+            "english": "She was decorated for her bravery."
+        }
+    ]
 }

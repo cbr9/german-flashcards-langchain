@@ -1,28 +1,26 @@
 {
     "word": "braun",
     "definition": "The color that is often associated with earth, wood, and certain animals, commonly used to describe hair, fur, or objects.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Haare des Hundes sind braun.",
-                "english": "The dog's hair is brown."
-            },
-            {
-                "german": "Sie trägt eine braune Jacke.",
-                "english": "She is wearing a brown jacket."
-            },
-            {
-                "german": "Der Baum hat braune Blätter.",
-                "english": "The tree has brown leaves."
-            },
-            {
-                "german": "Seine Augen sind braun.",
-                "english": "His eyes are brown."
-            },
-            {
-                "german": "Die Schokolade ist braun.",
-                "english": "The chocolate is brown."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Haare des Hundes sind braun.",
+            "english": "The dog's hair is brown."
+        },
+        {
+            "german": "Sie trägt eine braune Jacke.",
+            "english": "She is wearing a brown jacket."
+        },
+        {
+            "german": "Der Baum hat braune Blätter.",
+            "english": "The tree has brown leaves."
+        },
+        {
+            "german": "Seine Augen sind braun.",
+            "english": "His eyes are brown."
+        },
+        {
+            "german": "Die Schokolade ist braun.",
+            "english": "The chocolate is brown."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Garage, die Garagen",
     "definition": "A structure typically attached to a house or building, used for storing and protecting vehicles, typically cars, from the elements and theft. It is commonly used for parking vehicles and often includes space for storage or a workshop area.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Garage ist voll mit Werkzeugen.",
-                "english": "The garage is full of tools."
-            },
-            {
-                "german": "Mein Auto steht in der Garage.",
-                "english": "My car is parked in the garage."
-            },
-            {
-                "german": "Wir haben eine große Garage für zwei Autos.",
-                "english": "We have a big garage for two cars."
-            },
-            {
-                "german": "Die Garage ist aus Beton gebaut.",
-                "english": "The garage is made of concrete."
-            },
-            {
-                "german": "Die Garage ist neben dem Haus.",
-                "english": "The garage is next to the house."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Garage ist voll mit Werkzeugen.",
+            "english": "The garage is full of tools."
+        },
+        {
+            "german": "Mein Auto steht in der Garage.",
+            "english": "My car is parked in the garage."
+        },
+        {
+            "german": "Wir haben eine große Garage für zwei Autos.",
+            "english": "We have a big garage for two cars."
+        },
+        {
+            "german": "Die Garage ist aus Beton gebaut.",
+            "english": "The garage is made of concrete."
+        },
+        {
+            "german": "Die Garage ist neben dem Haus.",
+            "english": "The garage is next to the house."
+        }
+    ]
 }

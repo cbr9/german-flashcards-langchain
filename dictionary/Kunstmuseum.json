@@ -1,28 +1,26 @@
 {
     "word": "das Kunstmuseum, die Article kunstmuseum\nplural: die kunstmuseen",
     "definition": "A place that houses and exhibits various forms of artistic creations, including paintings, sculptures, and other visual artworks, typically created by renowned artists. It serves as a cultural institution for the public to appreciate and learn about art history, aesthetics, and artistic movements.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Kunstmuseum hat eine beeindruckende Sammlung moderner Kunst.",
-                "english": "The art museum has an impressive collection of modern art."
-            },
-            {
-                "german": "Das Kunstmuseum bietet regelmäßig Sonderausstellungen an.",
-                "english": "The art museum regularly offers special exhibitions."
-            },
-            {
-                "german": "Im Kunstmuseum können Besucher Werke berühmter Künstler bewundern.",
-                "english": "At the art museum, visitors can admire works by famous artists."
-            },
-            {
-                "german": "Das Kunstmuseum ist an Feiertagen geschlossen.",
-                "english": "The art museum is closed on holidays."
-            },
-            {
-                "german": "Das Kunstmuseum veranstaltet Führungen für Schulklassen.",
-                "english": "The art museum organizes guided tours for school classes."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Kunstmuseum hat eine beeindruckende Sammlung moderner Kunst.",
+            "english": "The art museum has an impressive collection of modern art."
+        },
+        {
+            "german": "Das Kunstmuseum bietet regelmäßig Sonderausstellungen an.",
+            "english": "The art museum regularly offers special exhibitions."
+        },
+        {
+            "german": "Im Kunstmuseum können Besucher Werke berühmter Künstler bewundern.",
+            "english": "At the art museum, visitors can admire works by famous artists."
+        },
+        {
+            "german": "Das Kunstmuseum ist an Feiertagen geschlossen.",
+            "english": "The art museum is closed on holidays."
+        },
+        {
+            "german": "Das Kunstmuseum veranstaltet Führungen für Schulklassen.",
+            "english": "The art museum organizes guided tours for school classes."
+        }
+    ]
 }

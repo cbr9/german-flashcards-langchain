@@ -1,28 +1,26 @@
 {
     "word": "die Strategie, die Strategien",
     "definition": "A systematic plan or approach designed to achieve a specific goal, often involving careful consideration of various factors, resources, and actions. It is commonly employed in the context of business, military operations, or competitive activities to outline a long-term course of action aimed at achieving a desired outcome.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Firma hat eine neue Strategie entwickelt.",
-                "english": "The company has developed a new strategy."
-            },
-            {
-                "german": "Eine gute Strategie ist entscheidend für den Erfolg.",
-                "english": "A good strategy is crucial for success."
-            },
-            {
-                "german": "Die Regierung verfolgt eine umweltfreundliche Strategie.",
-                "english": "The government is pursuing an environmentally friendly strategy."
-            },
-            {
-                "german": "Die Strategie des Unternehmens basiert auf Innovation.",
-                "english": "The company's strategy is based on innovation."
-            },
-            {
-                "german": "Die Strategie hat sich als effektiv erwiesen.",
-                "english": "The strategy has proven to be effective."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Firma hat eine neue Strategie entwickelt.",
+            "english": "The company has developed a new strategy."
+        },
+        {
+            "german": "Eine gute Strategie ist entscheidend für den Erfolg.",
+            "english": "A good strategy is crucial for success."
+        },
+        {
+            "german": "Die Regierung verfolgt eine umweltfreundliche Strategie.",
+            "english": "The government is pursuing an environmentally friendly strategy."
+        },
+        {
+            "german": "Die Strategie des Unternehmens basiert auf Innovation.",
+            "english": "The company's strategy is based on innovation."
+        },
+        {
+            "german": "Die Strategie hat sich als effektiv erwiesen.",
+            "english": "The strategy has proven to be effective."
+        }
+    ]
 }

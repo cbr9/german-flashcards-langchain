@@ -1,28 +1,26 @@
 {
     "word": "einreichen, reichte ein, eingereicht",
     "definition": "To submit or hand in a document, application, or request to an authority or institution, typically for official purposes or to initiate a process. This term is commonly used in administrative, legal, or academic contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde meinen Antrag morgen einreichen.",
-                "english": "I will submit my application tomorrow."
-            },
-            {
-                "german": "Bitte reichen Sie Ihre Unterlagen bis zum 31. Januar ein.",
-                "english": "Please submit your documents by January 31st."
-            },
-            {
-                "german": "Er hat seinen Vorschlag beim Vorstand eingereicht.",
-                "english": "He submitted his proposal to the board."
-            },
-            {
-                "german": "Die Bewerbungsfrist endet nächste Woche. Du musst deine Bewerbung rechtzeitig einreichen.",
-                "english": "The application deadline is next week. You must submit your application on time."
-            },
-            {
-                "german": "Sie müssen das Formular persönlich im Büro einreichen.",
-                "english": "You have to submit the form in person at the office."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde meinen Antrag morgen einreichen.",
+            "english": "I will submit my application tomorrow."
+        },
+        {
+            "german": "Bitte reichen Sie Ihre Unterlagen bis zum 31. Januar ein.",
+            "english": "Please submit your documents by January 31st."
+        },
+        {
+            "german": "Er hat seinen Vorschlag beim Vorstand eingereicht.",
+            "english": "He submitted his proposal to the board."
+        },
+        {
+            "german": "Die Bewerbungsfrist endet nächste Woche. Du musst deine Bewerbung rechtzeitig einreichen.",
+            "english": "The application deadline is next week. You must submit your application on time."
+        },
+        {
+            "german": "Sie müssen das Formular persönlich im Büro einreichen.",
+            "english": "You have to submit the form in person at the office."
+        }
+    ]
 }

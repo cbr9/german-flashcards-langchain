@@ -1,28 +1,26 @@
 {
     "word": "bestellen, bestellte, bestellt",
     "definition": "To place a request for a product or service, typically through a formal or informal means, such as by phone, online, or in person. This word is commonly used when referring to ordering items from a menu, making purchases, or requesting goods or services from a business or individual.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte eine Pizza bestellen.",
-                "english": "I would like to order a pizza."
-            },
-            {
-                "german": "Kannst du bitte ein Taxi bestellen?",
-                "english": "Can you please order a taxi?"
-            },
-            {
-                "german": "Wir haben gestern Essen beim Lieferdienst bestellt.",
-                "english": "We ordered food from the delivery service yesterday."
-            },
-            {
-                "german": "Er hat ein Buch im Internet bestellt.",
-                "english": "He ordered a book online."
-            },
-            {
-                "german": "Sie möchten zwei Karten für das Konzert bestellen.",
-                "english": "They would like to order two tickets for the concert."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte eine Pizza bestellen.",
+            "english": "I would like to order a pizza."
+        },
+        {
+            "german": "Kannst du bitte ein Taxi bestellen?",
+            "english": "Can you please order a taxi?"
+        },
+        {
+            "german": "Wir haben gestern Essen beim Lieferdienst bestellt.",
+            "english": "We ordered food from the delivery service yesterday."
+        },
+        {
+            "german": "Er hat ein Buch im Internet bestellt.",
+            "english": "He ordered a book online."
+        },
+        {
+            "german": "Sie möchten zwei Karten für das Konzert bestellen.",
+            "english": "They would like to order two tickets for the concert."
+        }
+    ]
 }

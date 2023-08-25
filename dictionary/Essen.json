@@ -1,28 +1,26 @@
 {
     "word": "das Essen, die Essen",
     "definition": "A term commonly employed to refer to the act of consuming food, typically used to describe the action of ingesting nourishment for sustenance and energy. It is often utilized to denote the general concept of eating, encompassing the process of taking in food through the mouth and digesting it in order to nourish the body.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse gerne Pizza.",
-                "english": "I like to eat pizza."
-            },
-            {
-                "german": "Was möchtest du zum Essen?",
-                "english": "What would you like to eat?"
-            },
-            {
-                "german": "Er hat gestern Abend zu viel gegessen.",
-                "english": "He ate too much last night."
-            },
-            {
-                "german": "Wir gehen heute Abend essen.",
-                "english": "We are going out to eat tonight."
-            },
-            {
-                "german": "Das Essen in diesem Restaurant ist sehr gut.",
-                "english": "The food in this restaurant is very good."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse gerne Pizza.",
+            "english": "I like to eat pizza."
+        },
+        {
+            "german": "Was möchtest du zum Essen?",
+            "english": "What would you like to eat?"
+        },
+        {
+            "german": "Er hat gestern Abend zu viel gegessen.",
+            "english": "He ate too much last night."
+        },
+        {
+            "german": "Wir gehen heute Abend essen.",
+            "english": "We are going out to eat tonight."
+        },
+        {
+            "german": "Das Essen in diesem Restaurant ist sehr gut.",
+            "english": "The food in this restaurant is very good."
+        }
+    ]
 }

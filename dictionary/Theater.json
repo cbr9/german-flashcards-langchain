@@ -1,28 +1,26 @@
 {
     "word": "das Theater, die The plural form of \"das theater\" is \"die theater\".",
     "definition": "A place where live performances, such as plays, musicals, and dance shows, are presented to an audience. It typically includes a stage, seating for spectators, and various technical equipment for lighting and sound effects. This term is commonly used to refer to both the building itself and the art form performed within it.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe heute Abend ins Theater.",
-                "english": "I am going to the theater tonight."
-            },
-            {
-                "german": "Das Theaterstück war sehr beeindruckend.",
-                "english": "The play was very impressive."
-            },
-            {
-                "german": "Sie spielt eine Hauptrolle im Theater.",
-                "english": "She plays a leading role in the theater."
-            },
-            {
-                "german": "Das Theater hat eine lange Tradition in dieser Stadt.",
-                "english": "The theater has a long tradition in this city."
-            },
-            {
-                "german": "Wir haben Karten für das Theater gekauft.",
-                "english": "We bought tickets for the theater."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe heute Abend ins Theater.",
+            "english": "I am going to the theater tonight."
+        },
+        {
+            "german": "Das Theaterstück war sehr beeindruckend.",
+            "english": "The play was very impressive."
+        },
+        {
+            "german": "Sie spielt eine Hauptrolle im Theater.",
+            "english": "She plays a leading role in the theater."
+        },
+        {
+            "german": "Das Theater hat eine lange Tradition in dieser Stadt.",
+            "english": "The theater has a long tradition in this city."
+        },
+        {
+            "german": "Wir haben Karten für das Theater gekauft.",
+            "english": "We bought tickets for the theater."
+        }
+    ]
 }

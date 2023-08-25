@@ -1,28 +1,26 @@
 {
     "word": "die Nachricht, die Nachrichten",
     "definition": "A communication or piece of information that is typically transmitted or exchanged between individuals, often through electronic means. It commonly refers to a message, news, or report that is shared to convey important or relevant information.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine Nachricht für dich.",
-                "english": "I have a message for you."
-            },
-            {
-                "german": "Hast du meine Nachricht erhalten?",
-                "english": "Did you receive my message?"
-            },
-            {
-                "german": "Kannst du mir bitte eine Nachricht schicken?",
-                "english": "Can you please send me a message?"
-            },
-            {
-                "german": "Ich habe eine wichtige Nachricht zu übermitteln.",
-                "english": "I have an important message to deliver."
-            },
-            {
-                "german": "Die Nachricht wurde erfolgreich übertragen.",
-                "english": "The message was successfully transmitted."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine Nachricht für dich.",
+            "english": "I have a message for you."
+        },
+        {
+            "german": "Hast du meine Nachricht erhalten?",
+            "english": "Did you receive my message?"
+        },
+        {
+            "german": "Kannst du mir bitte eine Nachricht schicken?",
+            "english": "Can you please send me a message?"
+        },
+        {
+            "german": "Ich habe eine wichtige Nachricht zu übermitteln.",
+            "english": "I have an important message to deliver."
+        },
+        {
+            "german": "Die Nachricht wurde erfolgreich übertragen.",
+            "english": "The message was successfully transmitted."
+        }
+    ]
 }

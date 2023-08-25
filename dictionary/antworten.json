@@ -1,28 +1,26 @@
 {
     "word": "antworten, antwortete, geantwortet",
     "definition": "To provide a response or reply to a question, statement, or request, typically in a conversation or communication. It is commonly used in various contexts, such as in personal interactions, professional settings, or written correspondence.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir bitte antworten?",
-                "english": "Can you please answer me?"
-            },
-            {
-                "german": "Er antwortete nicht auf meine Frage.",
-                "english": "He didn't answer my question."
-            },
-            {
-                "german": "Sie antwortete schnell auf die E-Mail.",
-                "english": "She responded quickly to the email."
-            },
-            {
-                "german": "Ich habe auf seine Nachricht geantwortet.",
-                "english": "I replied to his message."
-            },
-            {
-                "german": "Antwortest du immer so spät?",
-                "english": "Do you always answer so late?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir bitte antworten?",
+            "english": "Can you please answer me?"
+        },
+        {
+            "german": "Er antwortete nicht auf meine Frage.",
+            "english": "He didn't answer my question."
+        },
+        {
+            "german": "Sie antwortete schnell auf die E-Mail.",
+            "english": "She responded quickly to the email."
+        },
+        {
+            "german": "Ich habe auf seine Nachricht geantwortet.",
+            "english": "I replied to his message."
+        },
+        {
+            "german": "Antwortest du immer so spät?",
+            "english": "Do you always answer so late?"
+        }
+    ]
 }

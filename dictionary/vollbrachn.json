@@ -1,28 +1,26 @@
 {
     "word": "vollbrachn, , ",
     "definition": "The term \"vollbrachn\" refers to the act of successfully completing a challenging task or achieving a significant goal. It is commonly used to describe a remarkable accomplishment or a notable achievement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das vollbrachte Werk",
-                "english": "The accomplished work"
-            },
-            {
-                "german": "Sie vollbrachten Großes",
-                "english": "They accomplished great things"
-            },
-            {
-                "german": "Er vollbrachte eine Heldentat",
-                "english": "He accomplished a heroic deed"
-            },
-            {
-                "german": "Die Mannschaft vollbrachte eine außergewöhnliche Leistung",
-                "english": "The team accomplished an extraordinary performance"
-            },
-            {
-                "german": "Sie vollbrachte das Unmögliche",
-                "english": "She accomplished the impossible"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das vollbrachte Werk",
+            "english": "The accomplished work"
+        },
+        {
+            "german": "Sie vollbrachten Großes",
+            "english": "They accomplished great things"
+        },
+        {
+            "german": "Er vollbrachte eine Heldentat",
+            "english": "He accomplished a heroic deed"
+        },
+        {
+            "german": "Die Mannschaft vollbrachte eine außergewöhnliche Leistung",
+            "english": "The team accomplished an extraordinary performance"
+        },
+        {
+            "german": "Sie vollbrachte das Unmögliche",
+            "english": "She accomplished the impossible"
+        }
+    ]
 }

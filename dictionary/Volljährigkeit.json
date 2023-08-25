@@ -1,28 +1,26 @@
 {
     "word": "die Volljährigkeit, die Volljährigkeiten",
     "definition": "The state or condition of being legally recognized as an adult, typically reached at a certain age, granting rights and responsibilities associated with adulthood. It is commonly used in legal contexts and discussions related to age restrictions, rights, and obligations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Volljährigkeit tritt mit dem 18. Geburtstag ein.",
-                "english": "Legal adulthood begins at the age of 18."
-            },
-            {
-                "german": "Die Volljährigkeit bringt viele neue Rechte und Pflichten mit sich.",
-                "english": "Legal adulthood comes with many new rights and responsibilities."
-            },
-            {
-                "german": "Die Volljährigkeit ermöglicht den Erwerb eines Führerscheins.",
-                "english": "Legal adulthood allows for obtaining a driver's license."
-            },
-            {
-                "german": "Die Volljährigkeit ist ein wichtiger Meilenstein im Leben eines Menschen.",
-                "english": "Legal adulthood is an important milestone in a person's life."
-            },
-            {
-                "german": "Die Volljährigkeit markiert den Übergang von der Jugend zur Erwachsenenzeit.",
-                "english": "Legal adulthood marks the transition from youth to adulthood."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Volljährigkeit tritt mit dem 18. Geburtstag ein.",
+            "english": "Legal adulthood begins at the age of 18."
+        },
+        {
+            "german": "Die Volljährigkeit bringt viele neue Rechte und Pflichten mit sich.",
+            "english": "Legal adulthood comes with many new rights and responsibilities."
+        },
+        {
+            "german": "Die Volljährigkeit ermöglicht den Erwerb eines Führerscheins.",
+            "english": "Legal adulthood allows for obtaining a driver's license."
+        },
+        {
+            "german": "Die Volljährigkeit ist ein wichtiger Meilenstein im Leben eines Menschen.",
+            "english": "Legal adulthood is an important milestone in a person's life."
+        },
+        {
+            "german": "Die Volljährigkeit markiert den Übergang von der Jugend zur Erwachsenenzeit.",
+            "english": "Legal adulthood marks the transition from youth to adulthood."
+        }
+    ]
 }

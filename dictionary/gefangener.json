@@ -1,28 +1,26 @@
 {
     "word": "der Gefangene, die gefangener",
     "definition": "A person who is held against their will, typically in a confined space, as a result of being captured or imprisoned. This term is commonly used to refer to individuals who are deprived of their freedom due to legal or military circumstances.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Gefangene wurde freigelassen.",
-                "english": "The prisoner was released."
-            },
-            {
-                "german": "Die Gefangenen wurden inhaftiert.",
-                "english": "The prisoners were incarcerated."
-            },
-            {
-                "german": "Der Gefangene flüchtete aus dem Gefängnis.",
-                "english": "The prisoner escaped from the prison."
-            },
-            {
-                "german": "Die Gefangenen wurden brutal behandelt.",
-                "english": "The prisoners were treated brutally."
-            },
-            {
-                "german": "Der Gefangene wurde zum Tode verurteilt.",
-                "english": "The prisoner was sentenced to death."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Gefangene wurde freigelassen.",
+            "english": "The prisoner was released."
+        },
+        {
+            "german": "Die Gefangenen wurden inhaftiert.",
+            "english": "The prisoners were incarcerated."
+        },
+        {
+            "german": "Der Gefangene flüchtete aus dem Gefängnis.",
+            "english": "The prisoner escaped from the prison."
+        },
+        {
+            "german": "Die Gefangenen wurden brutal behandelt.",
+            "english": "The prisoners were treated brutally."
+        },
+        {
+            "german": "Der Gefangene wurde zum Tode verurteilt.",
+            "english": "The prisoner was sentenced to death."
+        }
+    ]
 }

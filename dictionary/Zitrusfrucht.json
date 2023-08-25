@@ -1,28 +1,26 @@
 {
     "word": "die Zitrusfrucht, die Zitrusfrüchte",
     "definition": "A type of fruit that is typically round and has a thick outer layer, which can be peeled to reveal juicy segments. It is commonly used in cooking, baking, and as a refreshing snack.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Zitrusfrucht schmeckt sauer.",
-                "english": "The citrus fruit tastes sour."
-            },
-            {
-                "german": "Orangen sind eine beliebte Zitrusfrucht.",
-                "english": "Oranges are a popular citrus fruit."
-            },
-            {
-                "german": "Zitronen sind gelbe Zitrusfrüchte.",
-                "english": "Lemons are yellow citrus fruits."
-            },
-            {
-                "german": "Grapefruits sind große Zitrusfrüchte.",
-                "english": "Grapefruits are large citrus fruits."
-            },
-            {
-                "german": "Zitrusfrüchte enthalten viel Vitamin C.",
-                "english": "Citrus fruits contain a lot of vitamin C."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Zitrusfrucht schmeckt sauer.",
+            "english": "The citrus fruit tastes sour."
+        },
+        {
+            "german": "Orangen sind eine beliebte Zitrusfrucht.",
+            "english": "Oranges are a popular citrus fruit."
+        },
+        {
+            "german": "Zitronen sind gelbe Zitrusfrüchte.",
+            "english": "Lemons are yellow citrus fruits."
+        },
+        {
+            "german": "Grapefruits sind große Zitrusfrüchte.",
+            "english": "Grapefruits are large citrus fruits."
+        },
+        {
+            "german": "Zitrusfrüchte enthalten viel Vitamin C.",
+            "english": "Citrus fruits contain a lot of vitamin C."
+        }
+    ]
 }

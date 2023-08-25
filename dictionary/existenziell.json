@@ -1,28 +1,26 @@
 {
     "word": "existenziell",
     "definition": "Relating to fundamental aspects of human existence and essential matters of life, often used to describe experiences, questions, or crises that pertain to the very core of one's being.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Frage nach dem Sinn des Lebens ist existenziell.",
-                "english": "The question of the meaning of life is existential."
-            },
-            {
-                "german": "Die existenzielle Bedrohung durch den Klimawandel ist real.",
-                "english": "The existential threat of climate change is real."
-            },
-            {
-                "german": "Der Verlust eines geliebten Menschen kann existenzielle Ängste auslösen.",
-                "english": "The loss of a loved one can trigger existential fears."
-            },
-            {
-                "german": "Die Suche nach dem eigenen Lebenszweck ist eine existenzielle Herausforderung.",
-                "english": "The search for one's own life purpose is an existential challenge."
-            },
-            {
-                "german": "Die existenzielle Notlage der Flüchtlinge erfordert dringende Hilfe.",
-                "english": "The existential plight of refugees requires urgent assistance."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Frage nach dem Sinn des Lebens ist existenziell.",
+            "english": "The question of the meaning of life is existential."
+        },
+        {
+            "german": "Die existenzielle Bedrohung durch den Klimawandel ist real.",
+            "english": "The existential threat of climate change is real."
+        },
+        {
+            "german": "Der Verlust eines geliebten Menschen kann existenzielle Ängste auslösen.",
+            "english": "The loss of a loved one can trigger existential fears."
+        },
+        {
+            "german": "Die Suche nach dem eigenen Lebenszweck ist eine existenzielle Herausforderung.",
+            "english": "The search for one's own life purpose is an existential challenge."
+        },
+        {
+            "german": "Die existenzielle Notlage der Flüchtlinge erfordert dringende Hilfe.",
+            "english": "The existential plight of refugees requires urgent assistance."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "Wagst",
     "definition": "A term commonly used to describe a daring or audacious action, often involving taking risks or venturing into the unknown. It is typically employed to emphasize bravery, courage, or a willingness to challenge conventional boundaries.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wagst du es?",
-                "english": "Do you dare?"
-            },
-            {
-                "german": "Ich wagte es, den Sprung zu machen.",
-                "english": "I dared to take the leap."
-            },
-            {
-                "german": "Wagst du es, mir zu widersprechen?",
-                "english": "Do you dare to contradict me?"
-            },
-            {
-                "german": "Sie wagte es, ihm die Wahrheit zu sagen.",
-                "english": "She dared to tell him the truth."
-            },
-            {
-                "german": "Wagst du es, das Risiko einzugehen?",
-                "english": "Do you dare to take the risk?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wagst du es?",
+            "english": "Do you dare?"
+        },
+        {
+            "german": "Ich wagte es, den Sprung zu machen.",
+            "english": "I dared to take the leap."
+        },
+        {
+            "german": "Wagst du es, mir zu widersprechen?",
+            "english": "Do you dare to contradict me?"
+        },
+        {
+            "german": "Sie wagte es, ihm die Wahrheit zu sagen.",
+            "english": "She dared to tell him the truth."
+        },
+        {
+            "german": "Wagst du es, das Risiko einzugehen?",
+            "english": "Do you dare to take the risk?"
+        }
+    ]
 }

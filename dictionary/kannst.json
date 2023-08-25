@@ -1,28 +1,26 @@
 {
     "word": "können, konnte, gekonnt",
     "definition": "The word \"kannst\" refers to the second person singular form of a verb, typically used in informal conversations. It is commonly employed to express the ability or capability of performing an action.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir helfen?",
-                "english": "Can you help me?"
-            },
-            {
-                "german": "Kannst du das bitte wiederholen?",
-                "english": "Can you please repeat that?"
-            },
-            {
-                "german": "Kannst du mir sagen, wo der Bahnhof ist?",
-                "english": "Can you tell me where the train station is?"
-            },
-            {
-                "german": "Kannst du heute Abend kommen?",
-                "english": "Can you come tonight?"
-            },
-            {
-                "german": "Kannst du mir ein Glas Wasser geben?",
-                "english": "Can you give me a glass of water?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir helfen?",
+            "english": "Can you help me?"
+        },
+        {
+            "german": "Kannst du das bitte wiederholen?",
+            "english": "Can you please repeat that?"
+        },
+        {
+            "german": "Kannst du mir sagen, wo der Bahnhof ist?",
+            "english": "Can you tell me where the train station is?"
+        },
+        {
+            "german": "Kannst du heute Abend kommen?",
+            "english": "Can you come tonight?"
+        },
+        {
+            "german": "Kannst du mir ein Glas Wasser geben?",
+            "english": "Can you give me a glass of water?"
+        }
+    ]
 }

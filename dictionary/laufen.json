@@ -1,28 +1,26 @@
 {
     "word": "laufen, lief, gelaufen",
     "definition": "To move forward by alternating steps of the feet, typically at a faster pace than walking, often involving a rhythmic motion of the legs. It is commonly used to describe the action of humans or animals when they are in motion, particularly when they are running or jogging.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich laufe jeden Morgen im Park.",
-                "english": "I run in the park every morning."
-            },
-            {
-                "german": "Er läuft schnell.",
-                "english": "He runs fast."
-            },
-            {
-                "german": "Wir sind gestern 10 Kilometer gelaufen.",
-                "english": "We ran 10 kilometers yesterday."
-            },
-            {
-                "german": "Lauf nicht so schnell!",
-                "english": "Don't run so fast!"
-            },
-            {
-                "german": "Sie laufen gerne Marathon.",
-                "english": "They enjoy running marathons."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich laufe jeden Morgen im Park.",
+            "english": "I run in the park every morning."
+        },
+        {
+            "german": "Er läuft schnell.",
+            "english": "He runs fast."
+        },
+        {
+            "german": "Wir sind gestern 10 Kilometer gelaufen.",
+            "english": "We ran 10 kilometers yesterday."
+        },
+        {
+            "german": "Lauf nicht so schnell!",
+            "english": "Don't run so fast!"
+        },
+        {
+            "german": "Sie laufen gerne Marathon.",
+            "english": "They enjoy running marathons."
+        }
+    ]
 }

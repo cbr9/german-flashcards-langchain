@@ -1,28 +1,26 @@
 {
     "word": "willkommen",
     "definition": "A common greeting used to express warm reception and hospitality towards someone who has arrived or joined a particular place or group. It is typically used to welcome individuals to a specific location, event, or community.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Willkommen zu Hause!",
-                "english": "Welcome home!"
-            },
-            {
-                "german": "Herzlich willkommen in unserer Stadt!",
-                "english": "Warm welcome to our city!"
-            },
-            {
-                "german": "Willkommen im Team!",
-                "english": "Welcome to the team!"
-            },
-            {
-                "german": "Willkommen auf unserer Website!",
-                "english": "Welcome to our website!"
-            },
-            {
-                "german": "Willkommen bei uns!",
-                "english": "Welcome to our place!"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Willkommen zu Hause!",
+            "english": "Welcome home!"
+        },
+        {
+            "german": "Herzlich willkommen in unserer Stadt!",
+            "english": "Warm welcome to our city!"
+        },
+        {
+            "german": "Willkommen im Team!",
+            "english": "Welcome to the team!"
+        },
+        {
+            "german": "Willkommen auf unserer Website!",
+            "english": "Welcome to our website!"
+        },
+        {
+            "german": "Willkommen bei uns!",
+            "english": "Welcome to our place!"
+        }
+    ]
 }

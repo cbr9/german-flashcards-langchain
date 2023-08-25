@@ -1,28 +1,26 @@
 {
     "word": "effizient",
     "definition": "The term \"effizient\" refers to the quality of being highly productive or achieving desired results with minimal waste or effort. It is commonly used to describe processes, systems, or actions that are efficient in terms of time, resources, or energy consumption.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Effiziente Maschinen",
-                "english": "Efficient machines"
-            },
-            {
-                "german": "Ein effizientes Energiesystem",
-                "english": "An efficient energy system"
-            },
-            {
-                "german": "Effiziente Arbeitsabläufe",
-                "english": "Efficient work processes"
-            },
-            {
-                "german": "Die effiziente Nutzung von Ressourcen",
-                "english": "The efficient use of resources"
-            },
-            {
-                "german": "Ein effizientes Zeitmanagement",
-                "english": "Efficient time management"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Effiziente Maschinen",
+            "english": "Efficient machines"
+        },
+        {
+            "german": "Ein effizientes Energiesystem",
+            "english": "An efficient energy system"
+        },
+        {
+            "german": "Effiziente Arbeitsabläufe",
+            "english": "Efficient work processes"
+        },
+        {
+            "german": "Die effiziente Nutzung von Ressourcen",
+            "english": "The efficient use of resources"
+        },
+        {
+            "german": "Ein effizientes Zeitmanagement",
+            "english": "Efficient time management"
+        }
+    ]
 }

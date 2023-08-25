@@ -1,28 +1,26 @@
 {
     "word": "die Genehmigung, die Genehmigungen",
     "definition": "A formal authorization or approval granted by an authority, typically required for carrying out a specific action or obtaining permission to do something. It is commonly used in bureaucratic contexts, such as obtaining permits, licenses, or official consent for various activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Genehmigung wurde erteilt.",
-                "english": "The permission has been granted."
-            },
-            {
-                "german": "Die Genehmigung ist erforderlich.",
-                "english": "The permission is required."
-            },
-            {
-                "german": "Die Genehmigung wurde abgelehnt.",
-                "english": "The permission has been denied."
-            },
-            {
-                "german": "Die Genehmigung ist gültig bis zum 31. Dezember.",
-                "english": "The permission is valid until December 31st."
-            },
-            {
-                "german": "Die Genehmigung kann online beantragt werden.",
-                "english": "The permission can be applied for online."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Genehmigung wurde erteilt.",
+            "english": "The permission has been granted."
+        },
+        {
+            "german": "Die Genehmigung ist erforderlich.",
+            "english": "The permission is required."
+        },
+        {
+            "german": "Die Genehmigung wurde abgelehnt.",
+            "english": "The permission has been denied."
+        },
+        {
+            "german": "Die Genehmigung ist gültig bis zum 31. Dezember.",
+            "english": "The permission is valid until December 31st."
+        },
+        {
+            "german": "Die Genehmigung kann online beantragt werden.",
+            "english": "The permission can be applied for online."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "akzeptieren, akzeptierte, akzeptiert",
     "definition": "To acknowledge and embrace something or someone, often involving a personal decision or agreement. It is commonly used in the context of accepting or approving of a proposal, idea, or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich akzeptiere deine Entscheidung.",
-                "english": "I accept your decision."
-            },
-            {
-                "german": "Wir akzeptieren nur Bargeld.",
-                "english": "We only accept cash."
-            },
-            {
-                "german": "Er akzeptierte die Niederlage.",
-                "english": "He accepted the defeat."
-            },
-            {
-                "german": "Kannst du akzeptieren, dass du Unrecht hattest?",
-                "english": "Can you accept that you were wrong?"
-            },
-            {
-                "german": "Die Firma akzeptiert keine Rückgaben nach 30 Tagen.",
-                "english": "The company does not accept returns after 30 days."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich akzeptiere deine Entscheidung.",
+            "english": "I accept your decision."
+        },
+        {
+            "german": "Wir akzeptieren nur Bargeld.",
+            "english": "We only accept cash."
+        },
+        {
+            "german": "Er akzeptierte die Niederlage.",
+            "english": "He accepted the defeat."
+        },
+        {
+            "german": "Kannst du akzeptieren, dass du Unrecht hattest?",
+            "english": "Can you accept that you were wrong?"
+        },
+        {
+            "german": "Die Firma akzeptiert keine Rückgaben nach 30 Tagen.",
+            "english": "The company does not accept returns after 30 days."
+        }
+    ]
 }

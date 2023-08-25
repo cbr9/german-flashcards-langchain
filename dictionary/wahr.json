@@ -1,28 +1,26 @@
 {
     "word": "wahr",
     "definition": "The term \"wahr\" refers to something that accurately reflects reality or truth. It is commonly used to describe statements, facts, or beliefs that are considered genuine, valid, or correct.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist wahr.",
-                "english": "That is true."
-            },
-            {
-                "german": "Er spricht die Wahrheit.",
-                "english": "He is speaking the truth."
-            },
-            {
-                "german": "Die Wahrheit tut weh.",
-                "english": "The truth hurts."
-            },
-            {
-                "german": "Das ist nicht wahr.",
-                "english": "That is not true."
-            },
-            {
-                "german": "Die Wahrheit ans Licht bringen.",
-                "english": "To bring the truth to light."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist wahr.",
+            "english": "That is true."
+        },
+        {
+            "german": "Er spricht die Wahrheit.",
+            "english": "He is speaking the truth."
+        },
+        {
+            "german": "Die Wahrheit tut weh.",
+            "english": "The truth hurts."
+        },
+        {
+            "german": "Das ist nicht wahr.",
+            "english": "That is not true."
+        },
+        {
+            "german": "Die Wahrheit ans Licht bringen.",
+            "english": "To bring the truth to light."
+        }
+    ]
 }

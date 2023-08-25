@@ -1,28 +1,26 @@
 {
     "word": "aufhören, hörte auf, aufgehört",
     "definition": "To cease an action, activity, or process, often used to indicate the end or termination of something. It is commonly employed to express the act of stopping or quitting an ongoing task, behavior, or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich höre auf zu rauchen.",
-                "english": "I quit smoking."
-            },
-            {
-                "german": "Kannst du bitte aufhören, so laut zu sein?",
-                "english": "Can you please stop being so loud?"
-            },
-            {
-                "german": "Er hört nie auf zu reden.",
-                "english": "He never stops talking."
-            },
-            {
-                "german": "Wir müssen aufhören, uns Sorgen zu machen.",
-                "english": "We need to stop worrying."
-            },
-            {
-                "german": "Sie hört auf, Klavier zu spielen.",
-                "english": "She stops playing the piano."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich höre auf zu rauchen.",
+            "english": "I quit smoking."
+        },
+        {
+            "german": "Kannst du bitte aufhören, so laut zu sein?",
+            "english": "Can you please stop being so loud?"
+        },
+        {
+            "german": "Er hört nie auf zu reden.",
+            "english": "He never stops talking."
+        },
+        {
+            "german": "Wir müssen aufhören, uns Sorgen zu machen.",
+            "english": "We need to stop worrying."
+        },
+        {
+            "german": "Sie hört auf, Klavier zu spielen.",
+            "english": "She stops playing the piano."
+        }
+    ]
 }

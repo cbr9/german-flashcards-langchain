@@ -1,28 +1,26 @@
 {
     "word": "die Lieblingsmusikrichtung, die Lieblingsmusikrichtungen",
     "definition": "A term commonly employed to describe an individual's preferred genre or style of music, often indicating the type of music that brings them the most enjoyment or that they frequently listen to.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Lieblingsmusikrichtung ist Pop.",
-                "english": "My favorite music genre is pop."
-            },
-            {
-                "german": "Welche Lieblingsmusikrichtung hast du?",
-                "english": "What is your favorite music genre?"
-            },
-            {
-                "german": "Rock ist meine Lieblingsmusikrichtung.",
-                "english": "Rock is my favorite music genre."
-            },
-            {
-                "german": "Sie hört gerne verschiedene Lieblingsmusikrichtungen.",
-                "english": "She enjoys different favorite music genres."
-            },
-            {
-                "german": "Meine Lieblingsmusikrichtung ändert sich ständig.",
-                "english": "My favorite music genre changes constantly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Lieblingsmusikrichtung ist Pop.",
+            "english": "My favorite music genre is pop."
+        },
+        {
+            "german": "Welche Lieblingsmusikrichtung hast du?",
+            "english": "What is your favorite music genre?"
+        },
+        {
+            "german": "Rock ist meine Lieblingsmusikrichtung.",
+            "english": "Rock is my favorite music genre."
+        },
+        {
+            "german": "Sie hört gerne verschiedene Lieblingsmusikrichtungen.",
+            "english": "She enjoys different favorite music genres."
+        },
+        {
+            "german": "Meine Lieblingsmusikrichtung ändert sich ständig.",
+            "english": "My favorite music genre changes constantly."
+        }
+    ]
 }

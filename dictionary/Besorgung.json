@@ -1,28 +1,26 @@
 {
     "word": "die Besorgung, die Besorgungen",
     "definition": "A task or errand typically involving the acquisition or procurement of something, often related to daily necessities or personal items. It is commonly used to refer to the act of running errands or making necessary purchases.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss noch eine Besorgung machen.",
-                "english": "I still have to run an errand."
-            },
-            {
-                "german": "Kannst du diese Besorgung für mich erledigen?",
-                "english": "Can you do this errand for me?"
-            },
-            {
-                "german": "Ich habe alle Besorgungen erledigt.",
-                "english": "I have completed all the errands."
-            },
-            {
-                "german": "Welche Besorgungen musst du noch machen?",
-                "english": "What errands do you still have to do?"
-            },
-            {
-                "german": "Ich habe eine wichtige Besorgung vergessen.",
-                "english": "I forgot an important errand."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss noch eine Besorgung machen.",
+            "english": "I still have to run an errand."
+        },
+        {
+            "german": "Kannst du diese Besorgung für mich erledigen?",
+            "english": "Can you do this errand for me?"
+        },
+        {
+            "german": "Ich habe alle Besorgungen erledigt.",
+            "english": "I have completed all the errands."
+        },
+        {
+            "german": "Welche Besorgungen musst du noch machen?",
+            "english": "What errands do you still have to do?"
+        },
+        {
+            "german": "Ich habe eine wichtige Besorgung vergessen.",
+            "english": "I forgot an important errand."
+        }
+    ]
 }

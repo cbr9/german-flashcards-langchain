@@ -1,28 +1,26 @@
 {
     "word": "köstlich",
     "definition": "The word \"köstlich\" refers to something that is extremely enjoyable and pleasing to the senses, particularly in terms of taste. It is commonly used to describe food or drinks that are delicious, savory, or mouthwatering. Additionally, it can also be used more broadly to describe anything that is delightful, delightful, or highly enjoyable in a non-literal sense.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Essen war köstlich.",
-                "english": "The food was delicious."
-            },
-            {
-                "german": "Sie hat einen köstlichen Kuchen gebacken.",
-                "english": "She baked a delicious cake."
-            },
-            {
-                "german": "Der Wein schmeckt köstlich.",
-                "english": "The wine tastes delicious."
-            },
-            {
-                "german": "Das ist ein köstliches Dessert.",
-                "english": "This is a delicious dessert."
-            },
-            {
-                "german": "Die Schokolade ist köstlich.",
-                "english": "The chocolate is delicious."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Essen war köstlich.",
+            "english": "The food was delicious."
+        },
+        {
+            "german": "Sie hat einen köstlichen Kuchen gebacken.",
+            "english": "She baked a delicious cake."
+        },
+        {
+            "german": "Der Wein schmeckt köstlich.",
+            "english": "The wine tastes delicious."
+        },
+        {
+            "german": "Das ist ein köstliches Dessert.",
+            "english": "This is a delicious dessert."
+        },
+        {
+            "german": "Die Schokolade ist köstlich.",
+            "english": "The chocolate is delicious."
+        }
+    ]
 }

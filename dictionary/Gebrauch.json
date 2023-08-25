@@ -1,28 +1,26 @@
 {
     "word": "der Gebrauch, die Gebrauche",
     "definition": "A term commonly employed to describe the act of utilizing or making use of something, often referring to the practical application or employment of an object, concept, or skill. It is frequently used in the context of everyday activities, routines, or customary practices.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Gebrauch von Mobiltelefonen ist in der Schule verboten.",
-                "english": "The use of mobile phones is prohibited in school."
-            },
-            {
-                "german": "Bitte beachten Sie den Gebrauchsanweisungen vor der Verwendung des Geräts.",
-                "english": "Please read the instructions before using the device."
-            },
-            {
-                "german": "Der Gebrauch von Schimpfwörtern ist unhöflich.",
-                "english": "The use of swear words is impolite."
-            },
-            {
-                "german": "Der Gebrauch von Antibiotika sollte mit Vorsicht erfolgen.",
-                "english": "The use of antibiotics should be done with caution."
-            },
-            {
-                "german": "Der Gebrauch von Alkohol kann zu gesundheitlichen Problemen führen.",
-                "english": "The consumption of alcohol can lead to health problems."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Gebrauch von Mobiltelefonen ist in der Schule verboten.",
+            "english": "The use of mobile phones is prohibited in school."
+        },
+        {
+            "german": "Bitte beachten Sie den Gebrauchsanweisungen vor der Verwendung des Geräts.",
+            "english": "Please read the instructions before using the device."
+        },
+        {
+            "german": "Der Gebrauch von Schimpfwörtern ist unhöflich.",
+            "english": "The use of swear words is impolite."
+        },
+        {
+            "german": "Der Gebrauch von Antibiotika sollte mit Vorsicht erfolgen.",
+            "english": "The use of antibiotics should be done with caution."
+        },
+        {
+            "german": "Der Gebrauch von Alkohol kann zu gesundheitlichen Problemen führen.",
+            "english": "The consumption of alcohol can lead to health problems."
+        }
+    ]
 }

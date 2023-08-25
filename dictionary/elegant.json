@@ -1,28 +1,26 @@
 {
     "word": "elegant",
     "definition": "A descriptor often used to characterize something that possesses a refined and tasteful quality, displaying a graceful and sophisticated appearance or manner. It is commonly employed to describe objects, clothing, or actions that exude a sense of style, grace, and class.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie trägt ein elegantes Kleid.",
-                "english": "She is wearing an elegant dress."
-            },
-            {
-                "german": "Das Hotel hat eine elegante Einrichtung.",
-                "english": "The hotel has an elegant decor."
-            },
-            {
-                "german": "Er ist ein eleganter Tänzer.",
-                "english": "He is an elegant dancer."
-            },
-            {
-                "german": "Die Veranstaltung war sehr elegant.",
-                "english": "The event was very elegant."
-            },
-            {
-                "german": "Sie hat einen eleganten Schreibstil.",
-                "english": "She has an elegant writing style."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie trägt ein elegantes Kleid.",
+            "english": "She is wearing an elegant dress."
+        },
+        {
+            "german": "Das Hotel hat eine elegante Einrichtung.",
+            "english": "The hotel has an elegant decor."
+        },
+        {
+            "german": "Er ist ein eleganter Tänzer.",
+            "english": "He is an elegant dancer."
+        },
+        {
+            "german": "Die Veranstaltung war sehr elegant.",
+            "english": "The event was very elegant."
+        },
+        {
+            "german": "Sie hat einen eleganten Schreibstil.",
+            "english": "She has an elegant writing style."
+        }
+    ]
 }

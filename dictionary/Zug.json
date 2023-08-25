@@ -1,28 +1,26 @@
 {
     "word": "der Zug, die Züge",
     "definition": "A mode of transportation that typically consists of a series of connected vehicles, used for carrying passengers or goods along a fixed route. It is commonly used for daily commuting, long-distance travel, and transporting freight.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Zug fährt um 10 Uhr ab.",
-                "english": "The train departs at 10 o'clock."
-            },
-            {
-                "german": "Ich nehme den Zug nach Berlin.",
-                "english": "I'm taking the train to Berlin."
-            },
-            {
-                "german": "Der Zug ist pünktlich angekommen.",
-                "english": "The train arrived on time."
-            },
-            {
-                "german": "Wir müssen den Zug erwischen.",
-                "english": "We have to catch the train."
-            },
-            {
-                "german": "Der Zug hat Verspätung.",
-                "english": "The train is delayed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Zug fährt um 10 Uhr ab.",
+            "english": "The train departs at 10 o'clock."
+        },
+        {
+            "german": "Ich nehme den Zug nach Berlin.",
+            "english": "I'm taking the train to Berlin."
+        },
+        {
+            "german": "Der Zug ist pünktlich angekommen.",
+            "english": "The train arrived on time."
+        },
+        {
+            "german": "Wir müssen den Zug erwischen.",
+            "english": "We have to catch the train."
+        },
+        {
+            "german": "Der Zug hat Verspätung.",
+            "english": "The train is delayed."
+        }
+    ]
 }

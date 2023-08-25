@@ -1,28 +1,26 @@
 {
     "word": "die Atmosphäre, die Atmosphären",
     "definition": "A term used to describe the overall mood, feeling, or ambiance of a particular place or environment. It refers to the combination of various elements that create a specific atmosphere, often associated with a particular setting, such as a room, event, or natural surroundings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Atmosphäre in dem Raum war sehr angenehm.",
-                "english": "The atmosphere in the room was very pleasant."
-            },
-            {
-                "german": "Die Atmosphäre im Restaurant war romantisch.",
-                "english": "The atmosphere in the restaurant was romantic."
-            },
-            {
-                "german": "Die Atmosphäre während des Konzerts war elektrisierend.",
-                "english": "The atmosphere during the concert was electrifying."
-            },
-            {
-                "german": "Die Atmosphäre in der Stadt war gespannt.",
-                "english": "The atmosphere in the city was tense."
-            },
-            {
-                "german": "Die Atmosphäre in dem Buch war düster.",
-                "english": "The atmosphere in the book was gloomy."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Atmosphäre in dem Raum war sehr angenehm.",
+            "english": "The atmosphere in the room was very pleasant."
+        },
+        {
+            "german": "Die Atmosphäre im Restaurant war romantisch.",
+            "english": "The atmosphere in the restaurant was romantic."
+        },
+        {
+            "german": "Die Atmosphäre während des Konzerts war elektrisierend.",
+            "english": "The atmosphere during the concert was electrifying."
+        },
+        {
+            "german": "Die Atmosphäre in der Stadt war gespannt.",
+            "english": "The atmosphere in the city was tense."
+        },
+        {
+            "german": "Die Atmosphäre in dem Buch war düster.",
+            "english": "The atmosphere in the book was gloomy."
+        }
+    ]
 }

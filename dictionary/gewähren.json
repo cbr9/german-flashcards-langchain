@@ -1,28 +1,26 @@
 {
     "word": "gewähren, gewährte, gewährt",
     "definition": "To provide or grant something, typically used when referring to giving permission, allowing, or offering assistance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Regierung gewährt finanzielle Unterstützung.",
-                "english": "The government grants financial support."
-            },
-            {
-                "german": "Der Vermieter gewährt einen Rabatt auf die Miete.",
-                "english": "The landlord grants a discount on the rent."
-            },
-            {
-                "german": "Das Unternehmen gewährt seinen Mitarbeitern flexible Arbeitszeiten.",
-                "english": "The company grants its employees flexible working hours."
-            },
-            {
-                "german": "Der Arzt gewährt dem Patienten eine Ausnahmegenehmigung.",
-                "english": "The doctor grants the patient an exemption."
-            },
-            {
-                "german": "Die Bank gewährt einen Kredit für den Hauskauf.",
-                "english": "The bank grants a loan for the purchase of a house."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Regierung gewährt finanzielle Unterstützung.",
+            "english": "The government grants financial support."
+        },
+        {
+            "german": "Der Vermieter gewährt einen Rabatt auf die Miete.",
+            "english": "The landlord grants a discount on the rent."
+        },
+        {
+            "german": "Das Unternehmen gewährt seinen Mitarbeitern flexible Arbeitszeiten.",
+            "english": "The company grants its employees flexible working hours."
+        },
+        {
+            "german": "Der Arzt gewährt dem Patienten eine Ausnahmegenehmigung.",
+            "english": "The doctor grants the patient an exemption."
+        },
+        {
+            "german": "Die Bank gewährt einen Kredit für den Hauskauf.",
+            "english": "The bank grants a loan for the purchase of a house."
+        }
+    ]
 }

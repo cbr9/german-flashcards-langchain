@@ -1,28 +1,26 @@
 {
     "word": "der Prozeß, die Prozesse",
     "definition": "A legal procedure or series of actions carried out in a court of law to resolve a dispute or determine guilt or innocence. It typically involves presenting evidence, examining witnesses, and making arguments.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Prozeß dauerte mehrere Wochen.",
-                "english": "The trial lasted several weeks."
-            },
-            {
-                "german": "Der Prozeß wurde eingestellt.",
-                "english": "The case was dismissed."
-            },
-            {
-                "german": "Der Prozeß endete mit einem Freispruch.",
-                "english": "The trial ended in an acquittal."
-            },
-            {
-                "german": "Der Prozeß wurde vertagt.",
-                "english": "The trial was adjourned."
-            },
-            {
-                "german": "Der Prozeß wurde öffentlich geführt.",
-                "english": "The trial was conducted publicly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Prozeß dauerte mehrere Wochen.",
+            "english": "The trial lasted several weeks."
+        },
+        {
+            "german": "Der Prozeß wurde eingestellt.",
+            "english": "The case was dismissed."
+        },
+        {
+            "german": "Der Prozeß endete mit einem Freispruch.",
+            "english": "The trial ended in an acquittal."
+        },
+        {
+            "german": "Der Prozeß wurde vertagt.",
+            "english": "The trial was adjourned."
+        },
+        {
+            "german": "Der Prozeß wurde öffentlich geführt.",
+            "english": "The trial was conducted publicly."
+        }
+    ]
 }

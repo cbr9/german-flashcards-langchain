@@ -1,28 +1,26 @@
 {
     "word": "austauschen, tauschte aus, ausgetauscht",
     "definition": "To replace or swap something with another, typically referring to the exchange of goods, services, or information between individuals or entities. This term is commonly used in various contexts, including commerce, technology, and interpersonal interactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir bitte dein Buch leihen? Ich möchte es gerne mit meinem Freund austauschen.",
-                "english": "Can you please lend me your book? I would like to exchange it with my friend."
-            },
-            {
-                "german": "Wir sollten unsere Erfahrungen und Ideen regelmäßig austauschen, um voneinander zu lernen.",
-                "english": "We should regularly exchange our experiences and ideas to learn from each other."
-            },
-            {
-                "german": "Die beiden Länder haben beschlossen, Diplomaten auszutauschen, um ihre Beziehungen zu verbessern.",
-                "english": "The two countries have decided to exchange diplomats to improve their relations."
-            },
-            {
-                "german": "Ich möchte gerne mein altes Handy gegen ein neues austauschen.",
-                "english": "I would like to exchange my old phone for a new one."
-            },
-            {
-                "german": "Die Schüler haben ihre Bücher untereinander ausgetauscht, um verschiedene Perspektiven kennenzulernen.",
-                "english": "The students exchanged their books with each other to learn about different perspectives."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir bitte dein Buch leihen? Ich möchte es gerne mit meinem Freund austauschen.",
+            "english": "Can you please lend me your book? I would like to exchange it with my friend."
+        },
+        {
+            "german": "Wir sollten unsere Erfahrungen und Ideen regelmäßig austauschen, um voneinander zu lernen.",
+            "english": "We should regularly exchange our experiences and ideas to learn from each other."
+        },
+        {
+            "german": "Die beiden Länder haben beschlossen, Diplomaten auszutauschen, um ihre Beziehungen zu verbessern.",
+            "english": "The two countries have decided to exchange diplomats to improve their relations."
+        },
+        {
+            "german": "Ich möchte gerne mein altes Handy gegen ein neues austauschen.",
+            "english": "I would like to exchange my old phone for a new one."
+        },
+        {
+            "german": "Die Schüler haben ihre Bücher untereinander ausgetauscht, um verschiedene Perspektiven kennenzulernen.",
+            "english": "The students exchanged their books with each other to learn about different perspectives."
+        }
+    ]
 }

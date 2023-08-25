@@ -1,28 +1,26 @@
 {
     "word": "der Bereich, die Bereiche",
     "definition": "A specific domain or area of knowledge, expertise, or activity, often associated with a particular field or subject matter. It is commonly used to refer to a distinct realm or scope within which certain actions, discussions, or responsibilities take place.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Bereich der Wissenschaft",
-                "english": "The field of science"
-            },
-            {
-                "german": "Ich arbeite im Bereich Marketing",
-                "english": "I work in the marketing department"
-            },
-            {
-                "german": "Dieser Bereich ist für Besucher gesperrt",
-                "english": "This area is off-limits to visitors"
-            },
-            {
-                "german": "Der Bereich umfasst verschiedene Themen",
-                "english": "The domain covers various topics"
-            },
-            {
-                "german": "Bitte halten Sie sich im Bereich der Markierung auf",
-                "english": "Please stay within the designated area"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Bereich der Wissenschaft",
+            "english": "The field of science"
+        },
+        {
+            "german": "Ich arbeite im Bereich Marketing",
+            "english": "I work in the marketing department"
+        },
+        {
+            "german": "Dieser Bereich ist für Besucher gesperrt",
+            "english": "This area is off-limits to visitors"
+        },
+        {
+            "german": "Der Bereich umfasst verschiedene Themen",
+            "english": "The domain covers various topics"
+        },
+        {
+            "german": "Bitte halten Sie sich im Bereich der Markierung auf",
+            "english": "Please stay within the designated area"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Entwicklung, die Entwicklungen",
     "definition": "The process of growth, progress, or advancement, typically referring to the development or evolution of something over time. It is commonly used in various contexts, including technology, science, economics, and personal growth.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Entwicklung der Technologie hat unser Leben verändert.",
-                "english": "The development of technology has changed our lives."
-            },
-            {
-                "german": "Die Entwicklung des Projekts ist gut vorangeschritten.",
-                "english": "The development of the project is progressing well."
-            },
-            {
-                "german": "Die Entwicklung neuer Produkte ist ein wichtiger Teil unserer Strategie.",
-                "english": "The development of new products is an important part of our strategy."
-            },
-            {
-                "german": "Die Entwicklung der Wirtschaft ist eng mit der Politik verbunden.",
-                "english": "The development of the economy is closely linked to politics."
-            },
-            {
-                "german": "Die Entwicklung der Kinder sollte gefördert werden.",
-                "english": "The development of children should be encouraged."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Entwicklung der Technologie hat unser Leben verändert.",
+            "english": "The development of technology has changed our lives."
+        },
+        {
+            "german": "Die Entwicklung des Projekts ist gut vorangeschritten.",
+            "english": "The development of the project is progressing well."
+        },
+        {
+            "german": "Die Entwicklung neuer Produkte ist ein wichtiger Teil unserer Strategie.",
+            "english": "The development of new products is an important part of our strategy."
+        },
+        {
+            "german": "Die Entwicklung der Wirtschaft ist eng mit der Politik verbunden.",
+            "english": "The development of the economy is closely linked to politics."
+        },
+        {
+            "german": "Die Entwicklung der Kinder sollte gefördert werden.",
+            "english": "The development of children should be encouraged."
+        }
+    ]
 }

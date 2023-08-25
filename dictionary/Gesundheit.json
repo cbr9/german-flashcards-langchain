@@ -1,28 +1,26 @@
 {
     "word": "die Gesundheit, die Gesundheiten",
     "definition": "A common interjection used to express a polite response to someone sneezing, typically used in informal settings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Gesundheit!",
-                "english": "Bless you!"
-            },
-            {
-                "german": "Ich wünsche dir Gesundheit.",
-                "english": "I wish you good health."
-            },
-            {
-                "german": "Danke für die Gesundheitswünsche.",
-                "english": "Thank you for the well wishes."
-            },
-            {
-                "german": "Gesundheit ist das höchste Gut.",
-                "english": "Health is the greatest asset."
-            },
-            {
-                "german": "Gesundheit fängt im Kopf an.",
-                "english": "Health starts in the mind."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Gesundheit!",
+            "english": "Bless you!"
+        },
+        {
+            "german": "Ich wünsche dir Gesundheit.",
+            "english": "I wish you good health."
+        },
+        {
+            "german": "Danke für die Gesundheitswünsche.",
+            "english": "Thank you for the well wishes."
+        },
+        {
+            "german": "Gesundheit ist das höchste Gut.",
+            "english": "Health is the greatest asset."
+        },
+        {
+            "german": "Gesundheit fängt im Kopf an.",
+            "english": "Health starts in the mind."
+        }
+    ]
 }

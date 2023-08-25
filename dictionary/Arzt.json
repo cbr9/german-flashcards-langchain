@@ -1,28 +1,26 @@
 {
     "word": "der Arzt, die Ärzte",
     "definition": "A professional who provides medical care, diagnoses illnesses, and treats patients, typically in a clinical setting. This term is commonly used to refer to a person who has completed the necessary education and training to practice medicine.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Arzt untersucht den Patienten.",
-                "english": "The doctor examines the patient."
-            },
-            {
-                "german": "Mein Bruder ist Arzt.",
-                "english": "My brother is a doctor."
-            },
-            {
-                "german": "Der Arzt verschreibt Medikamente.",
-                "english": "The doctor prescribes medication."
-            },
-            {
-                "german": "Ich habe einen Termin beim Arzt.",
-                "english": "I have an appointment with the doctor."
-            },
-            {
-                "german": "Der Arzt hat mir eine Diagnose gestellt.",
-                "english": "The doctor has given me a diagnosis."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Arzt untersucht den Patienten.",
+            "english": "The doctor examines the patient."
+        },
+        {
+            "german": "Mein Bruder ist Arzt.",
+            "english": "My brother is a doctor."
+        },
+        {
+            "german": "Der Arzt verschreibt Medikamente.",
+            "english": "The doctor prescribes medication."
+        },
+        {
+            "german": "Ich habe einen Termin beim Arzt.",
+            "english": "I have an appointment with the doctor."
+        },
+        {
+            "german": "Der Arzt hat mir eine Diagnose gestellt.",
+            "english": "The doctor has given me a diagnosis."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "zusammenarbeiten, arbeitete zusammen, zusammengearbeitet",
     "definition": "To collaborate or work jointly with others towards a common goal, often involving cooperation, coordination, and mutual effort. This term is commonly used in professional or team settings, where individuals combine their skills, knowledge, and resources to achieve a shared objective.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir müssen zusammenarbeiten, um das Projekt abzuschließen.",
-                "english": "We need to collaborate to complete the project."
-            },
-            {
-                "german": "Die beiden Unternehmen arbeiten eng zusammen.",
-                "english": "The two companies work closely together."
-            },
-            {
-                "german": "Ich habe gerne mit ihm zusammengearbeitet.",
-                "english": "I enjoyed working with him."
-            },
-            {
-                "german": "Wir sollten besser zusammenarbeiten, um unsere Ziele zu erreichen.",
-                "english": "We should collaborate better to achieve our goals."
-            },
-            {
-                "german": "Die Teams müssen effektiv zusammenarbeiten, um erfolgreich zu sein.",
-                "english": "The teams need to collaborate effectively to be successful."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir müssen zusammenarbeiten, um das Projekt abzuschließen.",
+            "english": "We need to collaborate to complete the project."
+        },
+        {
+            "german": "Die beiden Unternehmen arbeiten eng zusammen.",
+            "english": "The two companies work closely together."
+        },
+        {
+            "german": "Ich habe gerne mit ihm zusammengearbeitet.",
+            "english": "I enjoyed working with him."
+        },
+        {
+            "german": "Wir sollten besser zusammenarbeiten, um unsere Ziele zu erreichen.",
+            "english": "We should collaborate better to achieve our goals."
+        },
+        {
+            "german": "Die Teams müssen effektiv zusammenarbeiten, um erfolgreich zu sein.",
+            "english": "The teams need to collaborate effectively to be successful."
+        }
+    ]
 }

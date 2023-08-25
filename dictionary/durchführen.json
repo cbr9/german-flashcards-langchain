@@ -1,28 +1,26 @@
 {
     "word": "durchführen, führte durch, durchgeführt",
     "definition": "To carry out or conduct a specific action or task, often involving the implementation or execution of a plan, project, or procedure. It is commonly used in the context of organizing and performing activities, experiments, studies, or events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich führe eine Umfrage durch.",
-                "english": "I am conducting a survey."
-            },
-            {
-                "german": "Wir müssen eine Sicherheitskontrolle durchführen.",
-                "english": "We need to carry out a security check."
-            },
-            {
-                "german": "Die Polizei wird eine Untersuchung durchführen.",
-                "english": "The police will conduct an investigation."
-            },
-            {
-                "german": "Das Unternehmen plant, eine Schulung durchzuführen.",
-                "english": "The company plans to hold a training session."
-            },
-            {
-                "german": "Wir müssen eine gründliche Analyse durchführen.",
-                "english": "We need to perform a thorough analysis."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich führe eine Umfrage durch.",
+            "english": "I am conducting a survey."
+        },
+        {
+            "german": "Wir müssen eine Sicherheitskontrolle durchführen.",
+            "english": "We need to carry out a security check."
+        },
+        {
+            "german": "Die Polizei wird eine Untersuchung durchführen.",
+            "english": "The police will conduct an investigation."
+        },
+        {
+            "german": "Das Unternehmen plant, eine Schulung durchzuführen.",
+            "english": "The company plans to hold a training session."
+        },
+        {
+            "german": "Wir müssen eine gründliche Analyse durchführen.",
+            "english": "We need to perform a thorough analysis."
+        }
+    ]
 }

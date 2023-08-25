@@ -1,28 +1,26 @@
 {
     "word": "der Flecken, die Flecken",
     "definition": "A small area or spot on a surface, typically referring to a stain, mark, or blemish caused by a substance or object. It is commonly used to describe imperfections or discolorations on fabrics, materials, or surfaces.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Flecken auf meinem Hemd ist hartnäckig.",
-                "english": "The stain on my shirt is stubborn."
-            },
-            {
-                "german": "In dem kleinen Flecken gibt es nur wenige Einwohner.",
-                "english": "There are only a few inhabitants in the small village."
-            },
-            {
-                "german": "Der Flecken auf der Wand muss dringend übermalt werden.",
-                "english": "The spot on the wall needs to be painted over urgently."
-            },
-            {
-                "german": "Der Flecken auf dem Teppich ist kaum sichtbar.",
-                "english": "The mark on the carpet is hardly visible."
-            },
-            {
-                "german": "Der Flecken auf der Haut könnte ein Ausschlag sein.",
-                "english": "The spot on the skin could be a rash."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Flecken auf meinem Hemd ist hartnäckig.",
+            "english": "The stain on my shirt is stubborn."
+        },
+        {
+            "german": "In dem kleinen Flecken gibt es nur wenige Einwohner.",
+            "english": "There are only a few inhabitants in the small village."
+        },
+        {
+            "german": "Der Flecken auf der Wand muss dringend übermalt werden.",
+            "english": "The spot on the wall needs to be painted over urgently."
+        },
+        {
+            "german": "Der Flecken auf dem Teppich ist kaum sichtbar.",
+            "english": "The mark on the carpet is hardly visible."
+        },
+        {
+            "german": "Der Flecken auf der Haut könnte ein Ausschlag sein.",
+            "english": "The spot on the skin could be a rash."
+        }
+    ]
 }

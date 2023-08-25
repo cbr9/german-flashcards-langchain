@@ -1,28 +1,26 @@
 {
     "word": "entlassen, entließ, entlassen",
     "definition": "To release someone from their duties or employment, often referring to the termination of a contract or dismissal.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er wurde aus dem Gefängnis entlassen.",
-                "english": "He was released from prison."
-            },
-            {
-                "german": "Der Mitarbeiter wurde entlassen.",
-                "english": "The employee was dismissed."
-            },
-            {
-                "german": "Sie wurde aus dem Krankenhaus entlassen.",
-                "english": "She was discharged from the hospital."
-            },
-            {
-                "german": "Der Fußballtrainer wurde entlassen.",
-                "english": "The football coach was sacked."
-            },
-            {
-                "german": "Die Schüler wurden nach Hause entlassen.",
-                "english": "The students were dismissed to go home."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er wurde aus dem Gefängnis entlassen.",
+            "english": "He was released from prison."
+        },
+        {
+            "german": "Der Mitarbeiter wurde entlassen.",
+            "english": "The employee was dismissed."
+        },
+        {
+            "german": "Sie wurde aus dem Krankenhaus entlassen.",
+            "english": "She was discharged from the hospital."
+        },
+        {
+            "german": "Der Fußballtrainer wurde entlassen.",
+            "english": "The football coach was sacked."
+        },
+        {
+            "german": "Die Schüler wurden nach Hause entlassen.",
+            "english": "The students were dismissed to go home."
+        }
+    ]
 }

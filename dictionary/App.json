@@ -1,28 +1,26 @@
 {
     "word": "die App, die Articles apps",
     "definition": "A software program designed to be used on a mobile device, typically providing specific functionality or services, often downloaded from an online store. It is commonly used to enhance the user experience, provide entertainment, or assist with various tasks.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die App ist sehr benutzerfreundlich.",
-                "english": "The app is very user-friendly."
-            },
-            {
-                "german": "Ich habe eine neue App auf meinem Smartphone installiert.",
-                "english": "I installed a new app on my smartphone."
-            },
-            {
-                "german": "Diese App hilft dir beim Lernen von Vokabeln.",
-                "english": "This app helps you learn vocabulary."
-            },
-            {
-                "german": "Die App bietet viele nützliche Funktionen.",
-                "english": "The app offers many useful features."
-            },
-            {
-                "german": "Mit dieser App kannst du deine Finanzen verwalten.",
-                "english": "With this app, you can manage your finances."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die App ist sehr benutzerfreundlich.",
+            "english": "The app is very user-friendly."
+        },
+        {
+            "german": "Ich habe eine neue App auf meinem Smartphone installiert.",
+            "english": "I installed a new app on my smartphone."
+        },
+        {
+            "german": "Diese App hilft dir beim Lernen von Vokabeln.",
+            "english": "This app helps you learn vocabulary."
+        },
+        {
+            "german": "Die App bietet viele nützliche Funktionen.",
+            "english": "The app offers many useful features."
+        },
+        {
+            "german": "Mit dieser App kannst du deine Finanzen verwalten.",
+            "english": "With this app, you can manage your finances."
+        }
+    ]
 }

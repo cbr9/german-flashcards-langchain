@@ -1,28 +1,26 @@
 {
     "word": "der Beleidiger, die beleidiger",
     "definition": "A person who intentionally says or does something offensive, disrespectful, or hurtful towards others, often with the intention of provoking anger or upset. This term is commonly used to describe individuals who engage in insulting or derogatory behavior towards others.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein beleidiger Mensch.",
-                "english": "He is an offensive person."
-            },
-            {
-                "german": "Sie wurde von einem beleidiger Kommentar verletzt.",
-                "english": "She was hurt by an offensive comment."
-            },
-            {
-                "german": "Der beleidiger Schüler wurde bestraft.",
-                "english": "The offensive student was punished."
-            },
-            {
-                "german": "Er hat mich als beleidiger bezeichnet.",
-                "english": "He called me an offender."
-            },
-            {
-                "german": "Sie hat sich über den beleidiger Witz beschwert.",
-                "english": "She complained about the offensive joke."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein beleidiger Mensch.",
+            "english": "He is an offensive person."
+        },
+        {
+            "german": "Sie wurde von einem beleidiger Kommentar verletzt.",
+            "english": "She was hurt by an offensive comment."
+        },
+        {
+            "german": "Der beleidiger Schüler wurde bestraft.",
+            "english": "The offensive student was punished."
+        },
+        {
+            "german": "Er hat mich als beleidiger bezeichnet.",
+            "english": "He called me an offender."
+        },
+        {
+            "german": "Sie hat sich über den beleidiger Witz beschwert.",
+            "english": "She complained about the offensive joke."
+        }
+    ]
 }

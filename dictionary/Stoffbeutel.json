@@ -1,28 +1,26 @@
 {
     "word": "der Stoffbeutel, die Stoffbeutel",
     "definition": "A reusable container made of fabric, typically used for carrying groceries, personal items, or other lightweight objects. It is commonly used as an eco-friendly alternative to plastic bags.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe meinen Einkauf in einem Stoffbeutel transportiert.",
-                "english": "I carried my groceries in a cloth bag."
-            },
-            {
-                "german": "Stoffbeutel sind umweltfreundlicher als Plastiktüten.",
-                "english": "Cloth bags are more environmentally friendly than plastic bags."
-            },
-            {
-                "german": "Meine Mutter hat mir einen Stoffbeutel genäht.",
-                "english": "My mother sewed a cloth bag for me."
-            },
-            {
-                "german": "In dem Stoffbeutel sind meine Sportsachen.",
-                "english": "My sports equipment is in the cloth bag."
-            },
-            {
-                "german": "Der Stoffbeutel hat einen praktischen Reißverschluss.",
-                "english": "The cloth bag has a convenient zipper."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe meinen Einkauf in einem Stoffbeutel transportiert.",
+            "english": "I carried my groceries in a cloth bag."
+        },
+        {
+            "german": "Stoffbeutel sind umweltfreundlicher als Plastiktüten.",
+            "english": "Cloth bags are more environmentally friendly than plastic bags."
+        },
+        {
+            "german": "Meine Mutter hat mir einen Stoffbeutel genäht.",
+            "english": "My mother sewed a cloth bag for me."
+        },
+        {
+            "german": "In dem Stoffbeutel sind meine Sportsachen.",
+            "english": "My sports equipment is in the cloth bag."
+        },
+        {
+            "german": "Der Stoffbeutel hat einen praktischen Reißverschluss.",
+            "english": "The cloth bag has a convenient zipper."
+        }
+    ]
 }

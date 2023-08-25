@@ -1,28 +1,26 @@
 {
     "word": "die Ärztin, die Ärztinnen",
     "definition": "A professional who provides medical care and treatment, typically specializing in the diagnosis and management of illnesses and diseases. This term is commonly used to refer to a female individual in this profession.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Ärztin untersucht den Patienten.",
-                "english": "The doctor examines the patient."
-            },
-            {
-                "german": "Die Ärztin arbeitet in einem Krankenhaus.",
-                "english": "The doctor works in a hospital."
-            },
-            {
-                "german": "Die Ärztin verschreibt Medikamente.",
-                "english": "The doctor prescribes medication."
-            },
-            {
-                "german": "Die Ärztin hat viele Patienten.",
-                "english": "The doctor has many patients."
-            },
-            {
-                "german": "Die Ärztin ist sehr kompetent.",
-                "english": "The doctor is very competent."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Ärztin untersucht den Patienten.",
+            "english": "The doctor examines the patient."
+        },
+        {
+            "german": "Die Ärztin arbeitet in einem Krankenhaus.",
+            "english": "The doctor works in a hospital."
+        },
+        {
+            "german": "Die Ärztin verschreibt Medikamente.",
+            "english": "The doctor prescribes medication."
+        },
+        {
+            "german": "Die Ärztin hat viele Patienten.",
+            "english": "The doctor has many patients."
+        },
+        {
+            "german": "Die Ärztin ist sehr kompetent.",
+            "english": "The doctor is very competent."
+        }
+    ]
 }

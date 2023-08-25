@@ -1,28 +1,26 @@
 {
     "word": "der Fußballspieler, die Fußballspieler",
     "definition": "A person who participates in a sport involving a spherical object and their feet, typically played on a field, and commonly referred to as a professional or amateur player.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Fußballspieler schießt ein Tor.",
-                "english": "The football player scores a goal."
-            },
-            {
-                "german": "Der junge Fußballspieler trainiert hart.",
-                "english": "The young football player trains hard."
-            },
-            {
-                "german": "Der berühmte Fußballspieler spielt für Bayern München.",
-                "english": "The famous football player plays for Bayern Munich."
-            },
-            {
-                "german": "Der talentierte Fußballspieler hat eine große Zukunft vor sich.",
-                "english": "The talented football player has a bright future ahead."
-            },
-            {
-                "german": "Der erfahrene Fußballspieler gewinnt viele Spiele.",
-                "english": "The experienced football player wins many games."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Fußballspieler schießt ein Tor.",
+            "english": "The football player scores a goal."
+        },
+        {
+            "german": "Der junge Fußballspieler trainiert hart.",
+            "english": "The young football player trains hard."
+        },
+        {
+            "german": "Der berühmte Fußballspieler spielt für Bayern München.",
+            "english": "The famous football player plays for Bayern Munich."
+        },
+        {
+            "german": "Der talentierte Fußballspieler hat eine große Zukunft vor sich.",
+            "english": "The talented football player has a bright future ahead."
+        },
+        {
+            "german": "Der erfahrene Fußballspieler gewinnt viele Spiele.",
+            "english": "The experienced football player wins many games."
+        }
+    ]
 }

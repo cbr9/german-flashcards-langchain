@@ -1,28 +1,26 @@
 {
     "word": "beschleunigt",
     "definition": "The term \"beschleunigt\" refers to the state of being increased or heightened in speed, pace, or rate. It is commonly used to describe a process or action that is accelerated or made faster.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Maschine beschleunigt schnell.",
-                "english": "The machine accelerates quickly."
-            },
-            {
-                "german": "Der Fahrer beschleunigt das Auto auf der Autobahn.",
-                "english": "The driver accelerates the car on the highway."
-            },
-            {
-                "german": "Die Entwicklung der Technologie hat sich beschleunigt.",
-                "english": "The development of technology has accelerated."
-            },
-            {
-                "german": "Der Zug beschleunigt langsam nach dem Halt.",
-                "english": "The train accelerates slowly after the stop."
-            },
-            {
-                "german": "Die Wirtschaft wird durch Investitionen beschleunigt.",
-                "english": "The economy is accelerated by investments."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Maschine beschleunigt schnell.",
+            "english": "The machine accelerates quickly."
+        },
+        {
+            "german": "Der Fahrer beschleunigt das Auto auf der Autobahn.",
+            "english": "The driver accelerates the car on the highway."
+        },
+        {
+            "german": "Die Entwicklung der Technologie hat sich beschleunigt.",
+            "english": "The development of technology has accelerated."
+        },
+        {
+            "german": "Der Zug beschleunigt langsam nach dem Halt.",
+            "english": "The train accelerates slowly after the stop."
+        },
+        {
+            "german": "Die Wirtschaft wird durch Investitionen beschleunigt.",
+            "english": "The economy is accelerated by investments."
+        }
+    ]
 }

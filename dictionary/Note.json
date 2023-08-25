@@ -1,28 +1,26 @@
 {
     "word": "die Note, die Notes",
     "definition": "A written record or symbol used to represent a musical sound or pitch, typically found in sheet music or musical compositions. It is commonly used to indicate the duration, pitch, and timing of a specific musical tone.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Note auf dem Test war sehr gut.",
-                "english": "The grade on the test was very good."
-            },
-            {
-                "german": "Kannst du mir bitte eine Notiz machen?",
-                "english": "Can you please make a note for me?"
-            },
-            {
-                "german": "Die Musiknote war zu hoch für mich.",
-                "english": "The musical note was too high for me."
-            },
-            {
-                "german": "Ich habe eine Note in meinem Portemonnaie gefunden.",
-                "english": "I found a banknote in my wallet."
-            },
-            {
-                "german": "Die Lehrerin gab mir eine gute Note für meine Arbeit.",
-                "english": "The teacher gave me a good grade for my work."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Note auf dem Test war sehr gut.",
+            "english": "The grade on the test was very good."
+        },
+        {
+            "german": "Kannst du mir bitte eine Notiz machen?",
+            "english": "Can you please make a note for me?"
+        },
+        {
+            "german": "Die Musiknote war zu hoch für mich.",
+            "english": "The musical note was too high for me."
+        },
+        {
+            "german": "Ich habe eine Note in meinem Portemonnaie gefunden.",
+            "english": "I found a banknote in my wallet."
+        },
+        {
+            "german": "Die Lehrerin gab mir eine gute Note für meine Arbeit.",
+            "english": "The teacher gave me a good grade for my work."
+        }
+    ]
 }

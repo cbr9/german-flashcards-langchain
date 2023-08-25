@@ -1,28 +1,26 @@
 {
     "word": "das Studium, die Studien",
     "definition": "A period of focused academic pursuit, typically at a higher education institution, involving the acquisition of knowledge and skills in a specific field of study. It often refers to the formal education undertaken after completing secondary school, leading to a degree or qualification in a particular discipline.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich studiere Medizin.",
-                "english": "I study medicine."
-            },
-            {
-                "german": "Das Studium dauert fünf Jahre.",
-                "english": "The study takes five years."
-            },
-            {
-                "german": "Sie hat ihr Studium abgeschlossen.",
-                "english": "She has completed her studies."
-            },
-            {
-                "german": "Er hat ein Studium der Informatik begonnen.",
-                "english": "He has started a computer science degree."
-            },
-            {
-                "german": "Das Studium ist sehr anspruchsvoll.",
-                "english": "The study is very demanding."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich studiere Medizin.",
+            "english": "I study medicine."
+        },
+        {
+            "german": "Das Studium dauert fünf Jahre.",
+            "english": "The study takes five years."
+        },
+        {
+            "german": "Sie hat ihr Studium abgeschlossen.",
+            "english": "She has completed her studies."
+        },
+        {
+            "german": "Er hat ein Studium der Informatik begonnen.",
+            "english": "He has started a computer science degree."
+        },
+        {
+            "german": "Das Studium ist sehr anspruchsvoll.",
+            "english": "The study is very demanding."
+        }
+    ]
 }

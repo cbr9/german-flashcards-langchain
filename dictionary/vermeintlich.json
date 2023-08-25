@@ -1,28 +1,26 @@
 {
     "word": "vermeintlich",
     "definition": "The term \"vermeintlich\" refers to something that is commonly believed or assumed to be true, but may not necessarily be the case. It is often used to describe a perception or belief that is based on appearances or initial impressions, rather than on concrete evidence or facts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die vermeintliche Lösung des Problems",
-                "english": "The supposed solution to the problem"
-            },
-            {
-                "german": "Seine vermeintliche Freundlichkeit",
-                "english": "His alleged friendliness"
-            },
-            {
-                "german": "Die vermeintliche Gefahr",
-                "english": "The presumed danger"
-            },
-            {
-                "german": "Die vermeintliche Wahrheit",
-                "english": "The supposed truth"
-            },
-            {
-                "german": "Die vermeintliche Sicherheit",
-                "english": "The perceived security"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die vermeintliche Lösung des Problems",
+            "english": "The supposed solution to the problem"
+        },
+        {
+            "german": "Seine vermeintliche Freundlichkeit",
+            "english": "His alleged friendliness"
+        },
+        {
+            "german": "Die vermeintliche Gefahr",
+            "english": "The presumed danger"
+        },
+        {
+            "german": "Die vermeintliche Wahrheit",
+            "english": "The supposed truth"
+        },
+        {
+            "german": "Die vermeintliche Sicherheit",
+            "english": "The perceived security"
+        }
+    ]
 }

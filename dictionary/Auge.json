@@ -1,28 +1,26 @@
 {
     "word": "das Auge, die Augen",
     "definition": "A sensory organ located in the head, typically used for visual perception and often associated with expressions of emotions or intentions. It is commonly used in various idiomatic expressions and metaphors.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Auge ist ein Sinnesorgan.",
-                "english": "The eye is a sensory organ."
-            },
-            {
-                "german": "Sie hat blaue Augen.",
-                "english": "She has blue eyes."
-            },
-            {
-                "german": "Ich habe ein Auge auf dich geworfen.",
-                "english": "I have my eye on you."
-            },
-            {
-                "german": "Er hat ein Auge für Details.",
-                "english": "He has an eye for details."
-            },
-            {
-                "german": "Das Auge des Sturms ist ruhig.",
-                "english": "The eye of the storm is calm."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Auge ist ein Sinnesorgan.",
+            "english": "The eye is a sensory organ."
+        },
+        {
+            "german": "Sie hat blaue Augen.",
+            "english": "She has blue eyes."
+        },
+        {
+            "german": "Ich habe ein Auge auf dich geworfen.",
+            "english": "I have my eye on you."
+        },
+        {
+            "german": "Er hat ein Auge für Details.",
+            "english": "He has an eye for details."
+        },
+        {
+            "german": "Das Auge des Sturms ist ruhig.",
+            "english": "The eye of the storm is calm."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "zueinander",
     "definition": "A term used to describe the reciprocal relationship between two or more entities, indicating a close connection or interaction between them. It is commonly employed to express the concept of mutual understanding, support, or cooperation among individuals or groups.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie sind zueinander gekommen.",
-                "english": "They have come together."
-            },
-            {
-                "german": "Sie stehen zueinander in Beziehung.",
-                "english": "They are related to each other."
-            },
-            {
-                "german": "Sie passen zueinander.",
-                "english": "They fit together."
-            },
-            {
-                "german": "Sie helfen einander zueinander.",
-                "english": "They help each other."
-            },
-            {
-                "german": "Sie vertrauen zueinander.",
-                "english": "They trust each other."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie sind zueinander gekommen.",
+            "english": "They have come together."
+        },
+        {
+            "german": "Sie stehen zueinander in Beziehung.",
+            "english": "They are related to each other."
+        },
+        {
+            "german": "Sie passen zueinander.",
+            "english": "They fit together."
+        },
+        {
+            "german": "Sie helfen einander zueinander.",
+            "english": "They help each other."
+        },
+        {
+            "german": "Sie vertrauen zueinander.",
+            "english": "They trust each other."
+        }
+    ]
 }

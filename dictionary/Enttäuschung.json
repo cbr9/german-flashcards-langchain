@@ -1,28 +1,26 @@
 {
     "word": "die Enttäuschung, die Enttäuschungen",
     "definition": "A feeling experienced when one's expectations or hopes are not met, often resulting in a sense of dissatisfaction or letdown. It is commonly used to describe the emotional response to unfulfilled expectations or disappointments in various aspects of life, such as relationships, achievements, or events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Enttäuschung war groß.",
-                "english": "The disappointment was great."
-            },
-            {
-                "german": "Er konnte seine Enttäuschung nicht verbergen.",
-                "english": "He couldn't hide his disappointment."
-            },
-            {
-                "german": "Die Enttäuschung war unvermeidlich.",
-                "english": "The disappointment was inevitable."
-            },
-            {
-                "german": "Sie fühlte eine tiefe Enttäuschung.",
-                "english": "She felt a deep disappointment."
-            },
-            {
-                "german": "Die Enttäuschung war kaum zu ertragen.",
-                "english": "The disappointment was almost unbearable."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Enttäuschung war groß.",
+            "english": "The disappointment was great."
+        },
+        {
+            "german": "Er konnte seine Enttäuschung nicht verbergen.",
+            "english": "He couldn't hide his disappointment."
+        },
+        {
+            "german": "Die Enttäuschung war unvermeidlich.",
+            "english": "The disappointment was inevitable."
+        },
+        {
+            "german": "Sie fühlte eine tiefe Enttäuschung.",
+            "english": "She felt a deep disappointment."
+        },
+        {
+            "german": "Die Enttäuschung war kaum zu ertragen.",
+            "english": "The disappointment was almost unbearable."
+        }
+    ]
 }

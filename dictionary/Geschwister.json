@@ -1,28 +1,26 @@
 {
     "word": "der Geschwister, die Geschwister",
     "definition": "A term commonly used to refer to a group of individuals who share at least one biological or adoptive parent, typically siblings. It is often used in familial contexts to describe the relationship between brothers and sisters.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Geschwister sind älter als ich.",
-                "english": "My siblings are older than me."
-            },
-            {
-                "german": "Sie hat zwei Geschwister, einen Bruder und eine Schwester.",
-                "english": "She has two siblings, a brother and a sister."
-            },
-            {
-                "german": "Unsere Geschwister sind Zwillinge.",
-                "english": "Our siblings are twins."
-            },
-            {
-                "german": "Meine Geschwister und ich haben denselben Nachnamen.",
-                "english": "My siblings and I have the same last name."
-            },
-            {
-                "german": "Er hat keine Geschwister.",
-                "english": "He doesn't have any siblings."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Geschwister sind älter als ich.",
+            "english": "My siblings are older than me."
+        },
+        {
+            "german": "Sie hat zwei Geschwister, einen Bruder und eine Schwester.",
+            "english": "She has two siblings, a brother and a sister."
+        },
+        {
+            "german": "Unsere Geschwister sind Zwillinge.",
+            "english": "Our siblings are twins."
+        },
+        {
+            "german": "Meine Geschwister und ich haben denselben Nachnamen.",
+            "english": "My siblings and I have the same last name."
+        },
+        {
+            "german": "Er hat keine Geschwister.",
+            "english": "He doesn't have any siblings."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "herbei",
     "definition": "\"Herbei\" is an adverb that is commonly used to indicate the direction or movement towards a specific location or person. It is often employed to express the idea of bringing or summoning someone or something closer, typically in a context where the speaker wants someone or something to come nearer or approach a particular place.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Komm herbei!",
-                "english": "Come here!"
-            },
-            {
-                "german": "Er rief die Polizei herbei.",
-                "english": "He called the police over."
-            },
-            {
-                "german": "Sie rief den Hund herbei.",
-                "english": "She called the dog over."
-            },
-            {
-                "german": "Er winkte herbei.",
-                "english": "He waved over."
-            },
-            {
-                "german": "Sie lockte die Vögel herbei.",
-                "english": "She lured the birds over."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Komm herbei!",
+            "english": "Come here!"
+        },
+        {
+            "german": "Er rief die Polizei herbei.",
+            "english": "He called the police over."
+        },
+        {
+            "german": "Sie rief den Hund herbei.",
+            "english": "She called the dog over."
+        },
+        {
+            "german": "Er winkte herbei.",
+            "english": "He waved over."
+        },
+        {
+            "german": "Sie lockte die Vögel herbei.",
+            "english": "She lured the birds over."
+        }
+    ]
 }

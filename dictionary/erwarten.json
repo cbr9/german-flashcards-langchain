@@ -1,28 +1,26 @@
 {
     "word": "erwarten, erwartete, erwartet",
     "definition": "To anticipate or await something with a sense of expectation, often used in the context of looking forward to an event, outcome, or someone's arrival.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich erwarte dich um 18 Uhr.",
-                "english": "I expect you at 6 o'clock."
-            },
-            {
-                "german": "Wir erwarten ein Baby.",
-                "english": "We are expecting a baby."
-            },
-            {
-                "german": "Erwartest du eine Antwort?",
-                "english": "Are you expecting a response?"
-            },
-            {
-                "german": "Ich erwarte eine Lieferung morgen.",
-                "english": "I am expecting a delivery tomorrow."
-            },
-            {
-                "german": "Die Gäste werden mit Spannung erwartet.",
-                "english": "The guests are eagerly awaited."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich erwarte dich um 18 Uhr.",
+            "english": "I expect you at 6 o'clock."
+        },
+        {
+            "german": "Wir erwarten ein Baby.",
+            "english": "We are expecting a baby."
+        },
+        {
+            "german": "Erwartest du eine Antwort?",
+            "english": "Are you expecting a response?"
+        },
+        {
+            "german": "Ich erwarte eine Lieferung morgen.",
+            "english": "I am expecting a delivery tomorrow."
+        },
+        {
+            "german": "Die Gäste werden mit Spannung erwartet.",
+            "english": "The guests are eagerly awaited."
+        }
+    ]
 }

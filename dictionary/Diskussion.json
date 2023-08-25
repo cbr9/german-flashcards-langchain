@@ -1,28 +1,26 @@
 {
     "word": "die Diskussion, die Diskussionen",
     "definition": "A verbal or written exchange of ideas, opinions, or arguments among individuals or groups, typically with the aim of reaching a consensus, resolving a problem, or exploring a topic in depth. It is commonly used in academic, professional, and social contexts to facilitate dialogue and promote critical thinking.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir hatten eine Diskussion über Politik.",
-                "english": "We had a discussion about politics."
-            },
-            {
-                "german": "Die Diskussion dauerte mehrere Stunden.",
-                "english": "The discussion lasted for several hours."
-            },
-            {
-                "german": "In der Diskussion wurden verschiedene Standpunkte vorgestellt.",
-                "english": "Various viewpoints were presented in the discussion."
-            },
-            {
-                "german": "Die Diskussion führte zu keinem eindeutigen Ergebnis.",
-                "english": "The discussion did not lead to a clear result."
-            },
-            {
-                "german": "Die Diskussion war sehr kontrovers.",
-                "english": "The discussion was very controversial."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir hatten eine Diskussion über Politik.",
+            "english": "We had a discussion about politics."
+        },
+        {
+            "german": "Die Diskussion dauerte mehrere Stunden.",
+            "english": "The discussion lasted for several hours."
+        },
+        {
+            "german": "In der Diskussion wurden verschiedene Standpunkte vorgestellt.",
+            "english": "Various viewpoints were presented in the discussion."
+        },
+        {
+            "german": "Die Diskussion führte zu keinem eindeutigen Ergebnis.",
+            "english": "The discussion did not lead to a clear result."
+        },
+        {
+            "german": "Die Diskussion war sehr kontrovers.",
+            "english": "The discussion was very controversial."
+        }
+    ]
 }

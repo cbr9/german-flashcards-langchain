@@ -1,28 +1,26 @@
 {
     "word": "das Möbel, die Möbel",
     "definition": "A term commonly used to refer to objects or items that are typically found in a residential or commercial space, serving functional or decorative purposes. These objects are often designed for sitting, sleeping, storage, or other domestic activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Möbelstück ist sehr groß.",
-                "english": "The piece of furniture is very large."
-            },
-            {
-                "german": "Wir haben neue Möbel für das Wohnzimmer gekauft.",
-                "english": "We bought new furniture for the living room."
-            },
-            {
-                "german": "Die Möbel in diesem Geschäft sind sehr teuer.",
-                "english": "The furniture in this store is very expensive."
-            },
-            {
-                "german": "Ich habe die Möbel selbst zusammengebaut.",
-                "english": "I assembled the furniture myself."
-            },
-            {
-                "german": "Die Möbel sind aus Holz gemacht.",
-                "english": "The furniture is made of wood."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Möbelstück ist sehr groß.",
+            "english": "The piece of furniture is very large."
+        },
+        {
+            "german": "Wir haben neue Möbel für das Wohnzimmer gekauft.",
+            "english": "We bought new furniture for the living room."
+        },
+        {
+            "german": "Die Möbel in diesem Geschäft sind sehr teuer.",
+            "english": "The furniture in this store is very expensive."
+        },
+        {
+            "german": "Ich habe die Möbel selbst zusammengebaut.",
+            "english": "I assembled the furniture myself."
+        },
+        {
+            "german": "Die Möbel sind aus Holz gemacht.",
+            "english": "The furniture is made of wood."
+        }
+    ]
 }

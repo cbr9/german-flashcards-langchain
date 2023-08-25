@@ -1,28 +1,26 @@
 {
     "word": "Kleine",
     "definition": "A term used to describe something or someone that is small in size or stature, often used to refer to a specific category or group within a larger context. It is commonly used to indicate a diminutive or young version of a person, object, or concept.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kleine Kinder spielen im Park.",
-                "english": "Little children play in the park."
-            },
-            {
-                "german": "Ich habe eine kleine Wohnung.",
-                "english": "I have a small apartment."
-            },
-            {
-                "german": "Sie hat eine kleine Schwester.",
-                "english": "She has a little sister."
-            },
-            {
-                "german": "Der kleine Hund bellt laut.",
-                "english": "The small dog barks loudly."
-            },
-            {
-                "german": "Die kleine Tasche passt gut zu meinem Outfit.",
-                "english": "The small bag goes well with my outfit."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kleine Kinder spielen im Park.",
+            "english": "Little children play in the park."
+        },
+        {
+            "german": "Ich habe eine kleine Wohnung.",
+            "english": "I have a small apartment."
+        },
+        {
+            "german": "Sie hat eine kleine Schwester.",
+            "english": "She has a little sister."
+        },
+        {
+            "german": "Der kleine Hund bellt laut.",
+            "english": "The small dog barks loudly."
+        },
+        {
+            "german": "Die kleine Tasche passt gut zu meinem Outfit.",
+            "english": "The small bag goes well with my outfit."
+        }
+    ]
 }

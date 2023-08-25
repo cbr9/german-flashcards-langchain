@@ -1,28 +1,26 @@
 {
     "word": "kompliziert",
     "definition": "Difficult to understand or explain; involving many complex details or factors. It is commonly used to describe situations, tasks, or concepts that are intricate, convoluted, or hard to grasp.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist eine komplizierte Aufgabe.",
-                "english": "This is a complicated task."
-            },
-            {
-                "german": "Die Mathematik kann manchmal kompliziert sein.",
-                "english": "Mathematics can sometimes be complicated."
-            },
-            {
-                "german": "Es ist kompliziert, das Problem zu lösen.",
-                "english": "It is complicated to solve the problem."
-            },
-            {
-                "german": "Die Anleitung ist sehr kompliziert geschrieben.",
-                "english": "The manual is written in a very complicated way."
-            },
-            {
-                "german": "Die Beziehung zwischen ihnen ist kompliziert.",
-                "english": "The relationship between them is complicated."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist eine komplizierte Aufgabe.",
+            "english": "This is a complicated task."
+        },
+        {
+            "german": "Die Mathematik kann manchmal kompliziert sein.",
+            "english": "Mathematics can sometimes be complicated."
+        },
+        {
+            "german": "Es ist kompliziert, das Problem zu lösen.",
+            "english": "It is complicated to solve the problem."
+        },
+        {
+            "german": "Die Anleitung ist sehr kompliziert geschrieben.",
+            "english": "The manual is written in a very complicated way."
+        },
+        {
+            "german": "Die Beziehung zwischen ihnen ist kompliziert.",
+            "english": "The relationship between them is complicated."
+        }
+    ]
 }

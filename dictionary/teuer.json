@@ -1,28 +1,26 @@
 {
     "word": "teuer",
     "definition": "The word \"teuer\" refers to something that requires a significant amount of financial resources to obtain or maintain. It is commonly used to describe the high cost or expensive nature of goods, services, or experiences.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Auto ist teuer.",
-                "english": "The car is expensive."
-            },
-            {
-                "german": "Die Wohnung ist zu teuer.",
-                "english": "The apartment is too expensive."
-            },
-            {
-                "german": "Die Preise sind sehr teuer.",
-                "english": "The prices are very expensive."
-            },
-            {
-                "german": "Dieses Restaurant ist teuer, aber gut.",
-                "english": "This restaurant is expensive, but good."
-            },
-            {
-                "german": "Der Schmuck ist wunderschön, aber teuer.",
-                "english": "The jewelry is beautiful, but expensive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Auto ist teuer.",
+            "english": "The car is expensive."
+        },
+        {
+            "german": "Die Wohnung ist zu teuer.",
+            "english": "The apartment is too expensive."
+        },
+        {
+            "german": "Die Preise sind sehr teuer.",
+            "english": "The prices are very expensive."
+        },
+        {
+            "german": "Dieses Restaurant ist teuer, aber gut.",
+            "english": "This restaurant is expensive, but good."
+        },
+        {
+            "german": "Der Schmuck ist wunderschön, aber teuer.",
+            "english": "The jewelry is beautiful, but expensive."
+        }
+    ]
 }

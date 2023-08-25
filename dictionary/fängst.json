@@ -1,28 +1,26 @@
 {
     "word": "fangen, fing, gefangen",
     "definition": "The word \"fängst\" is a verb form that typically refers to the action of capturing or catching something or someone. It is commonly used in the second person singular form, addressing someone directly.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Du fängst an.",
-                "english": "You start."
-            },
-            {
-                "german": "Wann fängst du an?",
-                "english": "When do you start?"
-            },
-            {
-                "german": "Er fängt den Ball.",
-                "english": "He catches the ball."
-            },
-            {
-                "german": "Sie fängt an zu weinen.",
-                "english": "She starts to cry."
-            },
-            {
-                "german": "Wir fangen morgen an.",
-                "english": "We start tomorrow."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Du fängst an.",
+            "english": "You start."
+        },
+        {
+            "german": "Wann fängst du an?",
+            "english": "When do you start?"
+        },
+        {
+            "german": "Er fängt den Ball.",
+            "english": "He catches the ball."
+        },
+        {
+            "german": "Sie fängt an zu weinen.",
+            "english": "She starts to cry."
+        },
+        {
+            "german": "Wir fangen morgen an.",
+            "english": "We start tomorrow."
+        }
+    ]
 }

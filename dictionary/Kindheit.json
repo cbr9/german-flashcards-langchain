@@ -1,28 +1,26 @@
 {
     "word": "die Kindheit, die Kindheiten",
     "definition": "The period of a person's life when they are young, typically referring to the time from birth to adolescence. It is commonly used to describe the early stages of human development and is often associated with memories, experiences, and the formative years of an individual.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Kindheit war sehr glücklich.",
-                "english": "My childhood was very happy."
-            },
-            {
-                "german": "In meiner Kindheit habe ich viel Zeit draußen verbracht.",
-                "english": "I spent a lot of time outside during my childhood."
-            },
-            {
-                "german": "Meine Kindheitserinnerungen sind voller Freude.",
-                "english": "My childhood memories are full of joy."
-            },
-            {
-                "german": "Die Kindheit ist eine wichtige Phase im Leben eines Menschen.",
-                "english": "Childhood is an important phase in a person's life."
-            },
-            {
-                "german": "Ich vermisse die Unbeschwertheit meiner Kindheit.",
-                "english": "I miss the carefreeness of my childhood."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Kindheit war sehr glücklich.",
+            "english": "My childhood was very happy."
+        },
+        {
+            "german": "In meiner Kindheit habe ich viel Zeit draußen verbracht.",
+            "english": "I spent a lot of time outside during my childhood."
+        },
+        {
+            "german": "Meine Kindheitserinnerungen sind voller Freude.",
+            "english": "My childhood memories are full of joy."
+        },
+        {
+            "german": "Die Kindheit ist eine wichtige Phase im Leben eines Menschen.",
+            "english": "Childhood is an important phase in a person's life."
+        },
+        {
+            "german": "Ich vermisse die Unbeschwertheit meiner Kindheit.",
+            "english": "I miss the carefreeness of my childhood."
+        }
+    ]
 }

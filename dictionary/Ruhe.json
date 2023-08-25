@@ -1,28 +1,26 @@
 {
     "word": "die Ruhe, die Ruhes",
     "definition": "A state of calmness, tranquility, or peacefulness, often associated with a lack of disturbance, noise, or agitation. It is commonly used to describe a desired or sought-after condition of stillness and serenity, often in the context of finding inner peace or creating a peaceful environment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ruhe",
-                "english": "peace"
-            },
-            {
-                "german": "Bitte um Ruhe!",
-                "english": "Please be quiet!"
-            },
-            {
-                "german": "Ich brauche Ruhe.",
-                "english": "I need peace."
-            },
-            {
-                "german": "Die Ruhe vor dem Sturm.",
-                "english": "The calm before the storm."
-            },
-            {
-                "german": "Sie strahlte Ruhe aus.",
-                "english": "She radiated tranquility."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ruhe",
+            "english": "peace"
+        },
+        {
+            "german": "Bitte um Ruhe!",
+            "english": "Please be quiet!"
+        },
+        {
+            "german": "Ich brauche Ruhe.",
+            "english": "I need peace."
+        },
+        {
+            "german": "Die Ruhe vor dem Sturm.",
+            "english": "The calm before the storm."
+        },
+        {
+            "german": "Sie strahlte Ruhe aus.",
+            "english": "She radiated tranquility."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "hier",
     "definition": "\"Hier\" refers to a term used to indicate a specific location or position in relation to the speaker. It is commonly employed to express the concept of \"this place\" or \"here\" in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Hier ist mein Haus.",
-                "english": "Here is my house."
-            },
-            {
-                "german": "Komm hierher!",
-                "english": "Come here!"
-            },
-            {
-                "german": "Hier gibt es viele Restaurants.",
-                "english": "There are many restaurants here."
-            },
-            {
-                "german": "Ich habe hier gewohnt.",
-                "english": "I lived here."
-            },
-            {
-                "german": "Hier ist es sehr schön.",
-                "english": "It is very beautiful here."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Hier ist mein Haus.",
+            "english": "Here is my house."
+        },
+        {
+            "german": "Komm hierher!",
+            "english": "Come here!"
+        },
+        {
+            "german": "Hier gibt es viele Restaurants.",
+            "english": "There are many restaurants here."
+        },
+        {
+            "german": "Ich habe hier gewohnt.",
+            "english": "I lived here."
+        },
+        {
+            "german": "Hier ist es sehr schön.",
+            "english": "It is very beautiful here."
+        }
+    ]
 }

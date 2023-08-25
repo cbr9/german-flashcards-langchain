@@ -1,28 +1,26 @@
 {
     "word": "der Schädlinge, die Schädlinge",
     "definition": "\"Schädlinge\" refers to organisms that cause harm or damage, typically to plants, crops, or other living organisms. This term is commonly used in the context of agriculture, gardening, or pest control to describe pests, insects, or other harmful creatures that negatively impact the health or productivity of plants or animals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Schädlinge können Pflanzen zerstören.",
-                "english": "Pests can destroy plants."
-            },
-            {
-                "german": "Es gibt verschiedene Methoden zur Bekämpfung von Schädlingen.",
-                "english": "There are different methods to control pests."
-            },
-            {
-                "german": "Schädlinge können Krankheiten auf Menschen übertragen.",
-                "english": "Pests can transmit diseases to humans."
-            },
-            {
-                "german": "Einige Schädlinge können Holzstrukturen beschädigen.",
-                "english": "Some pests can damage wooden structures."
-            },
-            {
-                "german": "Es ist wichtig, Schädlinge frühzeitig zu erkennen und zu bekämpfen.",
-                "english": "It is important to detect and control pests early."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Schädlinge können Pflanzen zerstören.",
+            "english": "Pests can destroy plants."
+        },
+        {
+            "german": "Es gibt verschiedene Methoden zur Bekämpfung von Schädlingen.",
+            "english": "There are different methods to control pests."
+        },
+        {
+            "german": "Schädlinge können Krankheiten auf Menschen übertragen.",
+            "english": "Pests can transmit diseases to humans."
+        },
+        {
+            "german": "Einige Schädlinge können Holzstrukturen beschädigen.",
+            "english": "Some pests can damage wooden structures."
+        },
+        {
+            "german": "Es ist wichtig, Schädlinge frühzeitig zu erkennen und zu bekämpfen.",
+            "english": "It is important to detect and control pests early."
+        }
+    ]
 }

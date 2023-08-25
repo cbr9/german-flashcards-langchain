@@ -1,28 +1,26 @@
 {
     "word": "wollen, wollte, gewollt",
     "definition": "To have a strong desire or intention to do something, often expressing a personal preference or expressing a future action. It is commonly used to indicate a person's will, wish, or want for a specific outcome or goal.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich will ein Eis essen.",
-                "english": "I want to eat an ice cream."
-            },
-            {
-                "german": "Er will ins Kino gehen.",
-                "english": "He wants to go to the cinema."
-            },
-            {
-                "german": "Wir wollen nächstes Jahr nach Deutschland reisen.",
-                "english": "We want to travel to Germany next year."
-            },
-            {
-                "german": "Sie will ein Buch lesen.",
-                "english": "She wants to read a book."
-            },
-            {
-                "german": "Ich will nicht arbeiten.",
-                "english": "I don't want to work."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich will ein Eis essen.",
+            "english": "I want to eat an ice cream."
+        },
+        {
+            "german": "Er will ins Kino gehen.",
+            "english": "He wants to go to the cinema."
+        },
+        {
+            "german": "Wir wollen nächstes Jahr nach Deutschland reisen.",
+            "english": "We want to travel to Germany next year."
+        },
+        {
+            "german": "Sie will ein Buch lesen.",
+            "english": "She wants to read a book."
+        },
+        {
+            "german": "Ich will nicht arbeiten.",
+            "english": "I don't want to work."
+        }
+    ]
 }

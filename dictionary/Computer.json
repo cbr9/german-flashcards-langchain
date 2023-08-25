@@ -1,28 +1,26 @@
 {
     "word": "der Computer, die Computers",
     "definition": "A device that performs various tasks by executing a set of instructions, typically used for processing and storing information, performing calculations, and facilitating communication and data manipulation. It is commonly utilized for tasks such as word processing, internet browsing, gaming, and data analysis.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Computer ist kaputt.",
-                "english": "The computer is broken."
-            },
-            {
-                "german": "Ich benutze meinen Computer für die Arbeit.",
-                "english": "I use my computer for work."
-            },
-            {
-                "german": "Der Computer hat einen Virus.",
-                "english": "The computer has a virus."
-            },
-            {
-                "german": "Mein Computer ist sehr schnell.",
-                "english": "My computer is very fast."
-            },
-            {
-                "german": "Der Computerbildschirm ist zu hell.",
-                "english": "The computer screen is too bright."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Computer ist kaputt.",
+            "english": "The computer is broken."
+        },
+        {
+            "german": "Ich benutze meinen Computer für die Arbeit.",
+            "english": "I use my computer for work."
+        },
+        {
+            "german": "Der Computer hat einen Virus.",
+            "english": "The computer has a virus."
+        },
+        {
+            "german": "Mein Computer ist sehr schnell.",
+            "english": "My computer is very fast."
+        },
+        {
+            "german": "Der Computerbildschirm ist zu hell.",
+            "english": "The computer screen is too bright."
+        }
+    ]
 }

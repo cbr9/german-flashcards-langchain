@@ -1,28 +1,26 @@
 {
     "word": "glatt",
     "definition": "Smooth or even, typically used to describe a surface, texture, or object that lacks roughness or irregularities. It can also refer to something being sleek, polished, or slippery. This word is commonly used to describe hair, skin, roads, or any other physical surface.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Straße ist glatt.",
-                "english": "The road is slippery."
-            },
-            {
-                "german": "Seine Haare sind glatt.",
-                "english": "His hair is smooth."
-            },
-            {
-                "german": "Sie hat glatte Haut.",
-                "english": "She has smooth skin."
-            },
-            {
-                "german": "Der See ist glatt wie ein Spiegel.",
-                "english": "The lake is smooth as a mirror."
-            },
-            {
-                "german": "Die Oberfläche ist glatt und glänzend.",
-                "english": "The surface is smooth and shiny."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Straße ist glatt.",
+            "english": "The road is slippery."
+        },
+        {
+            "german": "Seine Haare sind glatt.",
+            "english": "His hair is smooth."
+        },
+        {
+            "german": "Sie hat glatte Haut.",
+            "english": "She has smooth skin."
+        },
+        {
+            "german": "Der See ist glatt wie ein Spiegel.",
+            "english": "The lake is smooth as a mirror."
+        },
+        {
+            "german": "Die Oberfläche ist glatt und glänzend.",
+            "english": "The surface is smooth and shiny."
+        }
+    ]
 }

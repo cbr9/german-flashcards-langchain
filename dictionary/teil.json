@@ -1,28 +1,26 @@
 {
     "word": "teil",
     "definition": "A word that refers to a portion or part of something, often used to describe a fraction or a segment of a whole. It is commonly employed in various contexts, such as when discussing divisions, sharing, or dividing objects or concepts into smaller units.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich nehme an dem Wettbewerb teil.",
-                "english": "I am participating in the competition."
-            },
-            {
-                "german": "Er ist ein Teil meines Lebens.",
-                "english": "He is a part of my life."
-            },
-            {
-                "german": "Kannst du mir einen Teil deines Kuchens abgeben?",
-                "english": "Can you give me a piece of your cake?"
-            },
-            {
-                "german": "Der erste Teil des Buches war spannend.",
-                "english": "The first part of the book was exciting."
-            },
-            {
-                "german": "Sie hat einen großen Teil ihrer Zeit damit verbracht, zu lernen.",
-                "english": "She spent a large part of her time studying."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich nehme an dem Wettbewerb teil.",
+            "english": "I am participating in the competition."
+        },
+        {
+            "german": "Er ist ein Teil meines Lebens.",
+            "english": "He is a part of my life."
+        },
+        {
+            "german": "Kannst du mir einen Teil deines Kuchens abgeben?",
+            "english": "Can you give me a piece of your cake?"
+        },
+        {
+            "german": "Der erste Teil des Buches war spannend.",
+            "english": "The first part of the book was exciting."
+        },
+        {
+            "german": "Sie hat einen großen Teil ihrer Zeit damit verbracht, zu lernen.",
+            "english": "She spent a large part of her time studying."
+        }
+    ]
 }

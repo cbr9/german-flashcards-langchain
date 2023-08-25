@@ -1,28 +1,26 @@
 {
     "word": "die Autobahn, die Autobahnen",
     "definition": "A high-speed road system that is typically used for long-distance travel and connects various cities and regions within a country.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Autobahn ist frei.",
-                "english": "The highway is clear."
-            },
-            {
-                "german": "Auf der Autobahn gibt es oft Staus.",
-                "english": "There are often traffic jams on the highway."
-            },
-            {
-                "german": "Die Autobahn ist gut ausgebaut.",
-                "english": "The highway is well-developed."
-            },
-            {
-                "german": "Die Autobahn hat keine Geschwindigkeitsbegrenzung.",
-                "english": "The highway has no speed limit."
-            },
-            {
-                "german": "Die Autobahn führt direkt in die Stadt.",
-                "english": "The highway leads directly into the city."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Autobahn ist frei.",
+            "english": "The highway is clear."
+        },
+        {
+            "german": "Auf der Autobahn gibt es oft Staus.",
+            "english": "There are often traffic jams on the highway."
+        },
+        {
+            "german": "Die Autobahn ist gut ausgebaut.",
+            "english": "The highway is well-developed."
+        },
+        {
+            "german": "Die Autobahn hat keine Geschwindigkeitsbegrenzung.",
+            "english": "The highway has no speed limit."
+        },
+        {
+            "german": "Die Autobahn führt direkt in die Stadt.",
+            "english": "The highway leads directly into the city."
+        }
+    ]
 }

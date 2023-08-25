@@ -1,28 +1,26 @@
 {
     "word": "heilen, heilte, geheilt",
     "definition": "To restore someone's physical or mental well-being, often through medical treatment or therapy. It is commonly used to describe the process of curing illnesses, injuries, or ailments.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich hoffe, dass du bald heilst.",
-                "english": "I hope you heal soon."
-            },
-            {
-                "german": "Die Medizin kann Wunden heilen.",
-                "english": "Medicine can heal wounds."
-            },
-            {
-                "german": "Er hat sich von seiner Krankheit geheilt.",
-                "english": "He has recovered from his illness."
-            },
-            {
-                "german": "Die Zeit heilt alle Wunden.",
-                "english": "Time heals all wounds."
-            },
-            {
-                "german": "Die Therapie hat ihm geholfen, seine Schmerzen zu heilen.",
-                "english": "The therapy helped him heal his pain."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich hoffe, dass du bald heilst.",
+            "english": "I hope you heal soon."
+        },
+        {
+            "german": "Die Medizin kann Wunden heilen.",
+            "english": "Medicine can heal wounds."
+        },
+        {
+            "german": "Er hat sich von seiner Krankheit geheilt.",
+            "english": "He has recovered from his illness."
+        },
+        {
+            "german": "Die Zeit heilt alle Wunden.",
+            "english": "Time heals all wounds."
+        },
+        {
+            "german": "Die Therapie hat ihm geholfen, seine Schmerzen zu heilen.",
+            "english": "The therapy helped him heal his pain."
+        }
+    ]
 }

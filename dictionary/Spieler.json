@@ -1,28 +1,26 @@
 {
     "word": "der Spieler, die Spieler",
     "definition": "A person who actively participates in a game, sport, or any form of competitive activity, typically involving physical or mental skills. This term is commonly used to refer to individuals engaged in activities that involve strategy, tactics, or teamwork, and can be applied to various contexts such as sports, board games, video games, or any other recreational or professional activities involving competition.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Spieler gewann das Spiel.",
-                "english": "The player won the game."
-            },
-            {
-                "german": "Der Fußballspieler erzielte ein Tor.",
-                "english": "The soccer player scored a goal."
-            },
-            {
-                "german": "Die Spielerin ist sehr talentiert.",
-                "english": "The female player is very talented."
-            },
-            {
-                "german": "Der Kartenspieler bluffte und gewann die Runde.",
-                "english": "The card player bluffed and won the round."
-            },
-            {
-                "german": "Die Mannschaft hat viele gute Spieler.",
-                "english": "The team has many good players."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Spieler gewann das Spiel.",
+            "english": "The player won the game."
+        },
+        {
+            "german": "Der Fußballspieler erzielte ein Tor.",
+            "english": "The soccer player scored a goal."
+        },
+        {
+            "german": "Die Spielerin ist sehr talentiert.",
+            "english": "The female player is very talented."
+        },
+        {
+            "german": "Der Kartenspieler bluffte und gewann die Runde.",
+            "english": "The card player bluffed and won the round."
+        },
+        {
+            "german": "Die Mannschaft hat viele gute Spieler.",
+            "english": "The team has many good players."
+        }
+    ]
 }

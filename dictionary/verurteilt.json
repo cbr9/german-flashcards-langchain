@@ -1,28 +1,26 @@
 {
     "word": "verurteilt",
     "definition": "The word \"verurteilt\" refers to the state of being legally declared guilty and sentenced for committing a crime. It is commonly used in legal contexts to describe the outcome of a criminal trial, indicating that someone has been convicted and sentenced by a court of law.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er wurde zu lebenslanger Haft verurteilt.",
-                "english": "He was sentenced to life imprisonment."
-            },
-            {
-                "german": "Der Täter wurde zu einer Geldstrafe verurteilt.",
-                "english": "The perpetrator was fined."
-            },
-            {
-                "german": "Sie wurde wegen Mordes verurteilt.",
-                "english": "She was convicted of murder."
-            },
-            {
-                "german": "Der Angeklagte wurde zu fünf Jahren Gefängnis verurteilt.",
-                "english": "The defendant was sentenced to five years in prison."
-            },
-            {
-                "german": "Das Gericht verurteilte ihn zu einer Bewährungsstrafe.",
-                "english": "The court sentenced him to probation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er wurde zu lebenslanger Haft verurteilt.",
+            "english": "He was sentenced to life imprisonment."
+        },
+        {
+            "german": "Der Täter wurde zu einer Geldstrafe verurteilt.",
+            "english": "The perpetrator was fined."
+        },
+        {
+            "german": "Sie wurde wegen Mordes verurteilt.",
+            "english": "She was convicted of murder."
+        },
+        {
+            "german": "Der Angeklagte wurde zu fünf Jahren Gefängnis verurteilt.",
+            "english": "The defendant was sentenced to five years in prison."
+        },
+        {
+            "german": "Das Gericht verurteilte ihn zu einer Bewährungsstrafe.",
+            "english": "The court sentenced him to probation."
+        }
+    ]
 }

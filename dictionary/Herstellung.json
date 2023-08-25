@@ -1,28 +1,26 @@
 {
     "word": "die Herstellung, die Herstellungen",
     "definition": "The process of creating or producing something, often referring to the manufacturing or fabrication of goods or products. It is commonly used in the context of industrial or commercial activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Herstellung von Schokolade ist ein komplexer Prozess.",
-                "english": "The production of chocolate is a complex process."
-            },
-            {
-                "german": "Die Herstellung von Autos erfolgt in großen Fabriken.",
-                "english": "The manufacturing of cars takes place in large factories."
-            },
-            {
-                "german": "Die Herstellung von Medikamenten erfordert strenge Qualitätskontrollen.",
-                "english": "The production of medications requires strict quality controls."
-            },
-            {
-                "german": "Die Herstellung von Möbeln aus Holz ist eine traditionelle Handwerkskunst.",
-                "english": "The crafting of wooden furniture is a traditional craftsmanship."
-            },
-            {
-                "german": "Die Herstellung von Papier erfolgt aus recyceltem Altpapier.",
-                "english": "The manufacturing of paper is done from recycled waste paper."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Herstellung von Schokolade ist ein komplexer Prozess.",
+            "english": "The production of chocolate is a complex process."
+        },
+        {
+            "german": "Die Herstellung von Autos erfolgt in großen Fabriken.",
+            "english": "The manufacturing of cars takes place in large factories."
+        },
+        {
+            "german": "Die Herstellung von Medikamenten erfordert strenge Qualitätskontrollen.",
+            "english": "The production of medications requires strict quality controls."
+        },
+        {
+            "german": "Die Herstellung von Möbeln aus Holz ist eine traditionelle Handwerkskunst.",
+            "english": "The crafting of wooden furniture is a traditional craftsmanship."
+        },
+        {
+            "german": "Die Herstellung von Papier erfolgt aus recyceltem Altpapier.",
+            "english": "The manufacturing of paper is done from recycled waste paper."
+        }
+    ]
 }

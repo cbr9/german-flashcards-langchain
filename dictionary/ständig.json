@@ -1,28 +1,26 @@
 {
     "word": "ständig",
     "definition": "The word \"ständig\" refers to something that occurs or exists continuously or persistently, without interruption. It is commonly used to describe a state or condition that remains unchanged over time, or to express the idea of constant or ongoing actions, behaviors, or occurrences.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin ständig müde.",
-                "english": "I am constantly tired."
-            },
-            {
-                "german": "Sie beschwert sich ständig über ihre Arbeit.",
-                "english": "She constantly complains about her work."
-            },
-            {
-                "german": "Er ist ständig auf Reisen.",
-                "english": "He is constantly traveling."
-            },
-            {
-                "german": "Die Kinder sind ständig laut.",
-                "english": "The children are constantly loud."
-            },
-            {
-                "german": "Wir müssen ständig aufpassen.",
-                "english": "We have to constantly be careful."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin ständig müde.",
+            "english": "I am constantly tired."
+        },
+        {
+            "german": "Sie beschwert sich ständig über ihre Arbeit.",
+            "english": "She constantly complains about her work."
+        },
+        {
+            "german": "Er ist ständig auf Reisen.",
+            "english": "He is constantly traveling."
+        },
+        {
+            "german": "Die Kinder sind ständig laut.",
+            "english": "The children are constantly loud."
+        },
+        {
+            "german": "Wir müssen ständig aufpassen.",
+            "english": "We have to constantly be careful."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "hin",
     "definition": "Hin is typically used to indicate movement or direction away from the speaker or the current location. It is commonly employed in phrases related to physical or metaphorical movement, conveying the idea of going or moving towards a specific destination.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Hin und her",
-                "english": "Back and forth"
-            },
-            {
-                "german": "Geh hin",
-                "english": "Go there"
-            },
-            {
-                "german": "Komm her",
-                "english": "Come here"
-            },
-            {
-                "german": "Schau hin",
-                "english": "Look there"
-            },
-            {
-                "german": "Wirf es hin",
-                "english": "Throw it away"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Hin und her",
+            "english": "Back and forth"
+        },
+        {
+            "german": "Geh hin",
+            "english": "Go there"
+        },
+        {
+            "german": "Komm her",
+            "english": "Come here"
+        },
+        {
+            "german": "Schau hin",
+            "english": "Look there"
+        },
+        {
+            "german": "Wirf es hin",
+            "english": "Throw it away"
+        }
+    ]
 }

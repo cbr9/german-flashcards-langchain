@@ -1,28 +1,26 @@
 {
     "word": "frissen, fraß, gefressen",
     "definition": "To consume food in a manner that is typically associated with animals, often used to describe the eating habits of certain creatures.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Katze frisst eine Maus.",
-                "english": "The cat is eating a mouse."
-            },
-            {
-                "german": "Der Hund frisst sein Futter.",
-                "english": "The dog is eating his food."
-            },
-            {
-                "german": "Die Vögel fressen die Samen.",
-                "english": "The birds are eating the seeds."
-            },
-            {
-                "german": "Die Löwen frissen das Fleisch.",
-                "english": "The lions are devouring the meat."
-            },
-            {
-                "german": "Die Schlangen fressen kleine Tiere.",
-                "english": "The snakes are eating small animals."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Katze frisst eine Maus.",
+            "english": "The cat is eating a mouse."
+        },
+        {
+            "german": "Der Hund frisst sein Futter.",
+            "english": "The dog is eating his food."
+        },
+        {
+            "german": "Die Vögel fressen die Samen.",
+            "english": "The birds are eating the seeds."
+        },
+        {
+            "german": "Die Löwen frissen das Fleisch.",
+            "english": "The lions are devouring the meat."
+        },
+        {
+            "german": "Die Schlangen fressen kleine Tiere.",
+            "english": "The snakes are eating small animals."
+        }
+    ]
 }

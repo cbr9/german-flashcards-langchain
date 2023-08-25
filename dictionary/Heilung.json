@@ -1,28 +1,26 @@
 {
     "word": "die Heilung, die Heilungen",
     "definition": "A process or state of restoring physical, mental, or emotional well-being, typically resulting from medical treatment, therapy, or natural recovery. It is commonly used to describe the restoration of health after an illness, injury, or disease.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Heilung des Patienten dauerte mehrere Wochen.",
-                "english": "The patient's recovery took several weeks."
-            },
-            {
-                "german": "Die Heilung von Krankheiten ist ein wichtiger Bereich der Medizin.",
-                "english": "The healing of diseases is an important area of medicine."
-            },
-            {
-                "german": "Die Heilung von Wunden erfolgt normalerweise durch die Bildung von Narbengewebe.",
-                "english": "The healing of wounds usually occurs through the formation of scar tissue."
-            },
-            {
-                "german": "Die Heilungschancen bei dieser Krankheit sind sehr gering.",
-                "english": "The chances of recovery for this disease are very low."
-            },
-            {
-                "german": "Die Heilung von psychischen Traumata erfordert oft professionelle Hilfe.",
-                "english": "The healing of psychological traumas often requires professional help."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Heilung des Patienten dauerte mehrere Wochen.",
+            "english": "The patient's recovery took several weeks."
+        },
+        {
+            "german": "Die Heilung von Krankheiten ist ein wichtiger Bereich der Medizin.",
+            "english": "The healing of diseases is an important area of medicine."
+        },
+        {
+            "german": "Die Heilung von Wunden erfolgt normalerweise durch die Bildung von Narbengewebe.",
+            "english": "The healing of wounds usually occurs through the formation of scar tissue."
+        },
+        {
+            "german": "Die Heilungschancen bei dieser Krankheit sind sehr gering.",
+            "english": "The chances of recovery for this disease are very low."
+        },
+        {
+            "german": "Die Heilung von psychischen Traumata erfordert oft professionelle Hilfe.",
+            "english": "The healing of psychological traumas often requires professional help."
+        }
+    ]
 }

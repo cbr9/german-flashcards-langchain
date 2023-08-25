@@ -1,28 +1,26 @@
 {
     "word": "der Verband, die Verbände",
     "definition": "A \"Verband\" is an organized group or association of individuals with a common purpose or interest. It is typically used to refer to a formal organization that brings people together for a specific cause, such as a professional association, trade union, or club.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Verband unterstützt die Opfer des Erdbebens.",
-                "english": "The association supports the victims of the earthquake."
-            },
-            {
-                "german": "Sie trug einen Verband um ihren verletzten Arm.",
-                "english": "She had a bandage around her injured arm."
-            },
-            {
-                "german": "Der Verband der deutschen Industrie veröffentlichte einen Bericht über die Wirtschaftslage.",
-                "english": "The Federation of German Industries published a report on the economic situation."
-            },
-            {
-                "german": "Der Verband der Fußballvereine organisiert die Meisterschaft.",
-                "english": "The association of football clubs organizes the championship."
-            },
-            {
-                "german": "Der Verband zwischen den beiden Ländern wurde gestärkt.",
-                "english": "The alliance between the two countries was strengthened."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Verband unterstützt die Opfer des Erdbebens.",
+            "english": "The association supports the victims of the earthquake."
+        },
+        {
+            "german": "Sie trug einen Verband um ihren verletzten Arm.",
+            "english": "She had a bandage around her injured arm."
+        },
+        {
+            "german": "Der Verband der deutschen Industrie veröffentlichte einen Bericht über die Wirtschaftslage.",
+            "english": "The Federation of German Industries published a report on the economic situation."
+        },
+        {
+            "german": "Der Verband der Fußballvereine organisiert die Meisterschaft.",
+            "english": "The association of football clubs organizes the championship."
+        },
+        {
+            "german": "Der Verband zwischen den beiden Ländern wurde gestärkt.",
+            "english": "The alliance between the two countries was strengthened."
+        }
+    ]
 }

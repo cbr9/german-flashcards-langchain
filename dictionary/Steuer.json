@@ -1,28 +1,26 @@
 {
     "word": "die Steuer, die Steuern",
     "definition": "A financial obligation imposed by the government on individuals or entities, typically based on income, property, or goods, to fund public services and infrastructure. It is commonly used in discussions related to taxation, fiscal policies, and government revenue.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Steuererklärung muss bis zum 31. Mai abgegeben werden.",
-                "english": "The tax return must be submitted by May 31st."
-            },
-            {
-                "german": "Die Einkommensteuer wird vom Finanzamt berechnet.",
-                "english": "Income tax is calculated by the tax office."
-            },
-            {
-                "german": "Die Mehrwertsteuer beträgt in Deutschland 19%.",
-                "english": "The value added tax in Germany is 19%."
-            },
-            {
-                "german": "Die Steuerlast kann durch bestimmte Ausgaben reduziert werden.",
-                "english": "The tax burden can be reduced through certain expenses."
-            },
-            {
-                "german": "Die Kfz-Steuer ist abhängig von Hubraum und CO2-Emissionen.",
-                "english": "The vehicle tax depends on engine capacity and CO2 emissions."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Steuererklärung muss bis zum 31. Mai abgegeben werden.",
+            "english": "The tax return must be submitted by May 31st."
+        },
+        {
+            "german": "Die Einkommensteuer wird vom Finanzamt berechnet.",
+            "english": "Income tax is calculated by the tax office."
+        },
+        {
+            "german": "Die Mehrwertsteuer beträgt in Deutschland 19%.",
+            "english": "The value added tax in Germany is 19%."
+        },
+        {
+            "german": "Die Steuerlast kann durch bestimmte Ausgaben reduziert werden.",
+            "english": "The tax burden can be reduced through certain expenses."
+        },
+        {
+            "german": "Die Kfz-Steuer ist abhängig von Hubraum und CO2-Emissionen.",
+            "english": "The vehicle tax depends on engine capacity and CO2 emissions."
+        }
+    ]
 }

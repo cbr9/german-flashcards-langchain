@@ -1,28 +1,26 @@
 {
     "word": "heilsen, heilste, geheilst",
     "definition": "\"Heilsen\" is a term commonly used to express greetings or salutations in various contexts. It is typically employed when initiating communication or showing politeness towards others.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Heilsen ist ein deutsches Wort.",
-                "english": "Heilsen is a German word."
-            },
-            {
-                "german": "Ich habe das Wort Heilsen noch nie gehört.",
-                "english": "I have never heard the word Heilsen before."
-            },
-            {
-                "german": "Kannst du mir die Bedeutung von Heilsen erklären?",
-                "english": "Can you explain the meaning of Heilsen to me?"
-            },
-            {
-                "german": "Heilsen wird oft in norddeutschen Dialekten verwendet.",
-                "english": "Heilsen is often used in North German dialects."
-            },
-            {
-                "german": "Ich habe eine heilsende Wirkung von Heilsen bemerkt.",
-                "english": "I have noticed a healing effect of Heilsen."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Heilsen ist ein deutsches Wort.",
+            "english": "Heilsen is a German word."
+        },
+        {
+            "german": "Ich habe das Wort Heilsen noch nie gehört.",
+            "english": "I have never heard the word Heilsen before."
+        },
+        {
+            "german": "Kannst du mir die Bedeutung von Heilsen erklären?",
+            "english": "Can you explain the meaning of Heilsen to me?"
+        },
+        {
+            "german": "Heilsen wird oft in norddeutschen Dialekten verwendet.",
+            "english": "Heilsen is often used in North German dialects."
+        },
+        {
+            "german": "Ich habe eine heilsende Wirkung von Heilsen bemerkt.",
+            "english": "I have noticed a healing effect of Heilsen."
+        }
+    ]
 }

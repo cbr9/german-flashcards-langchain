@@ -1,28 +1,26 @@
 {
     "word": "intensiv",
     "definition": "A word that describes something done with great focus, concentration, or thoroughness, often used to refer to a type of care or treatment that is highly specialized and requires close attention. It is commonly used in medical contexts to describe intensive care or intensive therapy.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie arbeitet intensiv an ihrem Projekt.",
-                "english": "She is working intensively on her project."
-            },
-            {
-                "german": "Die Schülerin lernt intensiv für die Prüfung.",
-                "english": "The student is studying intensively for the exam."
-            },
-            {
-                "german": "Der Patient wird intensiv medizinisch betreut.",
-                "english": "The patient is receiving intensive medical care."
-            },
-            {
-                "german": "Das Training war sehr intensiv.",
-                "english": "The training was very intense."
-            },
-            {
-                "german": "Die Diskussion wurde intensiv geführt.",
-                "english": "The discussion was conducted intensively."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie arbeitet intensiv an ihrem Projekt.",
+            "english": "She is working intensively on her project."
+        },
+        {
+            "german": "Die Schülerin lernt intensiv für die Prüfung.",
+            "english": "The student is studying intensively for the exam."
+        },
+        {
+            "german": "Der Patient wird intensiv medizinisch betreut.",
+            "english": "The patient is receiving intensive medical care."
+        },
+        {
+            "german": "Das Training war sehr intensiv.",
+            "english": "The training was very intense."
+        },
+        {
+            "german": "Die Diskussion wurde intensiv geführt.",
+            "english": "The discussion was conducted intensively."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "stornieren, stornierte, storniert",
     "definition": "To cancel a reservation, booking, or order, typically used in the context of travel, accommodation, or purchases.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte meine Bestellung stornieren.",
-                "english": "I want to cancel my order."
-            },
-            {
-                "german": "Kann ich meinen Flug stornieren und mein Geld zurückbekommen?",
-                "english": "Can I cancel my flight and get a refund?"
-            },
-            {
-                "german": "Leider müssen wir den Termin stornieren.",
-                "english": "Unfortunately, we have to cancel the appointment."
-            },
-            {
-                "german": "Bitte stornieren Sie meine Hotelreservierung.",
-                "english": "Please cancel my hotel reservation."
-            },
-            {
-                "german": "Die Veranstaltung wurde aufgrund des Wetters storniert.",
-                "english": "The event was canceled due to the weather."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte meine Bestellung stornieren.",
+            "english": "I want to cancel my order."
+        },
+        {
+            "german": "Kann ich meinen Flug stornieren und mein Geld zurückbekommen?",
+            "english": "Can I cancel my flight and get a refund?"
+        },
+        {
+            "german": "Leider müssen wir den Termin stornieren.",
+            "english": "Unfortunately, we have to cancel the appointment."
+        },
+        {
+            "german": "Bitte stornieren Sie meine Hotelreservierung.",
+            "english": "Please cancel my hotel reservation."
+        },
+        {
+            "german": "Die Veranstaltung wurde aufgrund des Wetters storniert.",
+            "english": "The event was canceled due to the weather."
+        }
+    ]
 }

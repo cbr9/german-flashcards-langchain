@@ -1,28 +1,26 @@
 {
     "word": "die Arbeitslosenquote, die Arbeitslosenquoten",
     "definition": "The term refers to a statistical measure that quantifies the percentage of individuals within a specific population who are currently not employed and actively seeking work. It is commonly utilized in economic and labor market analyses to assess the level of unemployment within a particular region or country.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Arbeitslosenquote ist im letzten Jahr gesunken.",
-                "english": "The unemployment rate has decreased in the last year."
-            },
-            {
-                "german": "Die Arbeitslosenquote steigt aufgrund der Wirtschaftskrise.",
-                "english": "The unemployment rate is rising due to the economic crisis."
-            },
-            {
-                "german": "Die Arbeitslosenquote in Deutschland liegt derzeit bei 5%.",
-                "english": "The unemployment rate in Germany is currently at 5%."
-            },
-            {
-                "german": "Die hohe Arbeitslosenquote ist ein gesellschaftliches Problem.",
-                "english": "The high unemployment rate is a social problem."
-            },
-            {
-                "german": "Die Arbeitslosenquote ist ein wichtiger Indikator für die Wirtschaftslage.",
-                "english": "The unemployment rate is an important indicator of the economic situation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Arbeitslosenquote ist im letzten Jahr gesunken.",
+            "english": "The unemployment rate has decreased in the last year."
+        },
+        {
+            "german": "Die Arbeitslosenquote steigt aufgrund der Wirtschaftskrise.",
+            "english": "The unemployment rate is rising due to the economic crisis."
+        },
+        {
+            "german": "Die Arbeitslosenquote in Deutschland liegt derzeit bei 5%.",
+            "english": "The unemployment rate in Germany is currently at 5%."
+        },
+        {
+            "german": "Die hohe Arbeitslosenquote ist ein gesellschaftliches Problem.",
+            "english": "The high unemployment rate is a social problem."
+        },
+        {
+            "german": "Die Arbeitslosenquote ist ein wichtiger Indikator für die Wirtschaftslage.",
+            "english": "The unemployment rate is an important indicator of the economic situation."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "aufregen, regte auf, aufgeregt",
     "definition": "To cause agitation, annoyance, or irritation in someone, often due to a specific event, situation, or behavior. It is commonly used to describe the act of provoking or getting someone worked up emotionally.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das regt mich auf!",
-                "english": "That annoys me!"
-            },
-            {
-                "german": "Du regst mich auf!",
-                "english": "You're getting on my nerves!"
-            },
-            {
-                "german": "Es regt mich auf, wenn du so laut sprichst.",
-                "english": "It annoys me when you speak so loudly."
-            },
-            {
-                "german": "Ich lasse mich nicht so leicht aufregen.",
-                "english": "I don't get upset easily."
-            },
-            {
-                "german": "Reg dich nicht auf, es ist nicht so schlimm.",
-                "english": "Don't get worked up, it's not that bad."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das regt mich auf!",
+            "english": "That annoys me!"
+        },
+        {
+            "german": "Du regst mich auf!",
+            "english": "You're getting on my nerves!"
+        },
+        {
+            "german": "Es regt mich auf, wenn du so laut sprichst.",
+            "english": "It annoys me when you speak so loudly."
+        },
+        {
+            "german": "Ich lasse mich nicht so leicht aufregen.",
+            "english": "I don't get upset easily."
+        },
+        {
+            "german": "Reg dich nicht auf, es ist nicht so schlimm.",
+            "english": "Don't get worked up, it's not that bad."
+        }
+    ]
 }

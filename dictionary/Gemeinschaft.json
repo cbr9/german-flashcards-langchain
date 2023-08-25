@@ -1,28 +1,26 @@
 {
     "word": "die Gemeinschaft, die Gemeinschaften",
     "definition": "A term often used to describe a close-knit social group or community, characterized by strong interpersonal relationships, shared values, and a sense of belonging. It typically refers to a collective or communal bond that fosters cooperation, mutual support, and a sense of unity among its members.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Gemeinschaft ist wichtig für das soziale Wohlbefinden.",
-                "english": "Community is important for social well-being."
-            },
-            {
-                "german": "In unserer Gemeinschaft helfen wir uns gegenseitig.",
-                "english": "In our community, we help each other."
-            },
-            {
-                "german": "Die Gemeinschaft feierte ein großes Fest.",
-                "english": "The community celebrated a big festival."
-            },
-            {
-                "german": "Die Gemeinschaft unterstützt lokale Projekte.",
-                "english": "The community supports local projects."
-            },
-            {
-                "german": "Die Gemeinschaftsarbeit stärkt den Zusammenhalt.",
-                "english": "Community work strengthens solidarity."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Gemeinschaft ist wichtig für das soziale Wohlbefinden.",
+            "english": "Community is important for social well-being."
+        },
+        {
+            "german": "In unserer Gemeinschaft helfen wir uns gegenseitig.",
+            "english": "In our community, we help each other."
+        },
+        {
+            "german": "Die Gemeinschaft feierte ein großes Fest.",
+            "english": "The community celebrated a big festival."
+        },
+        {
+            "german": "Die Gemeinschaft unterstützt lokale Projekte.",
+            "english": "The community supports local projects."
+        },
+        {
+            "german": "Die Gemeinschaftsarbeit stärkt den Zusammenhalt.",
+            "english": "Community work strengthens solidarity."
+        }
+    ]
 }

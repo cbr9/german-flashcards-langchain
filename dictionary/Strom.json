@@ -1,28 +1,26 @@
 {
     "word": "der Strom, die Strom",
     "definition": "A flow of electrically charged particles, typically electrons, through a conductor, often used to power electrical devices and provide lighting.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Strom ist ausgefallen.",
-                "english": "The power is out."
-            },
-            {
-                "german": "Wir haben keinen Strom mehr.",
-                "english": "We don't have electricity anymore."
-            },
-            {
-                "german": "Der Stromverbrauch ist gestiegen.",
-                "english": "The power consumption has increased."
-            },
-            {
-                "german": "Die Stromrechnung ist hoch.",
-                "english": "The electricity bill is high."
-            },
-            {
-                "german": "Der Strom fließt durch die Leitungen.",
-                "english": "The electricity flows through the wires."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Strom ist ausgefallen.",
+            "english": "The power is out."
+        },
+        {
+            "german": "Wir haben keinen Strom mehr.",
+            "english": "We don't have electricity anymore."
+        },
+        {
+            "german": "Der Stromverbrauch ist gestiegen.",
+            "english": "The power consumption has increased."
+        },
+        {
+            "german": "Die Stromrechnung ist hoch.",
+            "english": "The electricity bill is high."
+        },
+        {
+            "german": "Der Strom fließt durch die Leitungen.",
+            "english": "The electricity flows through the wires."
+        }
+    ]
 }

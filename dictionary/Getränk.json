@@ -1,28 +1,26 @@
 {
     "word": "das Getränk, die Getränke",
     "definition": "A substance that is consumed by humans for the purpose of quenching thirst or providing refreshment, typically in liquid form. It encompasses a wide range of beverages, including both alcoholic and non-alcoholic options. This term is commonly used to refer to drinks that are consumed in various social settings, such as during meals, gatherings, or leisure activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trinke gerne ein kaltes Getränk.",
-                "english": "I like to drink a cold beverage."
-            },
-            {
-                "german": "Kannst du mir ein Getränk empfehlen?",
-                "english": "Can you recommend a drink to me?"
-            },
-            {
-                "german": "Ich habe Durst. Ich brauche ein Getränk.",
-                "english": "I'm thirsty. I need a drink."
-            },
-            {
-                "german": "Welches Getränk möchtest du bestellen?",
-                "english": "Which drink would you like to order?"
-            },
-            {
-                "german": "Das Getränk ist sehr erfrischend.",
-                "english": "The drink is very refreshing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trinke gerne ein kaltes Getränk.",
+            "english": "I like to drink a cold beverage."
+        },
+        {
+            "german": "Kannst du mir ein Getränk empfehlen?",
+            "english": "Can you recommend a drink to me?"
+        },
+        {
+            "german": "Ich habe Durst. Ich brauche ein Getränk.",
+            "english": "I'm thirsty. I need a drink."
+        },
+        {
+            "german": "Welches Getränk möchtest du bestellen?",
+            "english": "Which drink would you like to order?"
+        },
+        {
+            "german": "Das Getränk ist sehr erfrischend.",
+            "english": "The drink is very refreshing."
+        }
+    ]
 }

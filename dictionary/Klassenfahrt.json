@@ -1,28 +1,26 @@
 {
     "word": "die Klassenfahrt, die Klassenfahrten",
     "definition": "A trip or excursion organized by a school or educational institution, typically involving students and teachers, with the purpose of combining learning and recreational activities outside of the classroom environment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Klassenfahrt war sehr lustig.",
-                "english": "The class trip was very fun."
-            },
-            {
-                "german": "Wir haben eine Klassenfahrt nach Berlin gemacht.",
-                "english": "We went on a class trip to Berlin."
-            },
-            {
-                "german": "Die Klassenfahrt dauerte eine Woche.",
-                "english": "The class trip lasted one week."
-            },
-            {
-                "german": "Auf der Klassenfahrt haben wir viele Sehenswürdigkeiten besucht.",
-                "english": "During the class trip, we visited many sights."
-            },
-            {
-                "german": "Die Klassenfahrt war eine tolle Erfahrung.",
-                "english": "The class trip was a great experience."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Klassenfahrt war sehr lustig.",
+            "english": "The class trip was very fun."
+        },
+        {
+            "german": "Wir haben eine Klassenfahrt nach Berlin gemacht.",
+            "english": "We went on a class trip to Berlin."
+        },
+        {
+            "german": "Die Klassenfahrt dauerte eine Woche.",
+            "english": "The class trip lasted one week."
+        },
+        {
+            "german": "Auf der Klassenfahrt haben wir viele Sehenswürdigkeiten besucht.",
+            "english": "During the class trip, we visited many sights."
+        },
+        {
+            "german": "Die Klassenfahrt war eine tolle Erfahrung.",
+            "english": "The class trip was a great experience."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Nacht, die Nächte",
     "definition": "A period of time that typically begins after sunset and ends before sunrise, characterized by darkness and the absence of daylight. It is commonly used to refer to the time of day when people sleep or rest, and when nocturnal activities take place.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Gute Nacht!",
-                "english": "Good night!"
-            },
-            {
-                "german": "Die Nacht ist dunkel.",
-                "english": "The night is dark."
-            },
-            {
-                "german": "In der Nacht kann man die Sterne sehen.",
-                "english": "In the night, you can see the stars."
-            },
-            {
-                "german": "Ich habe letzte Nacht schlecht geschlafen.",
-                "english": "I slept poorly last night."
-            },
-            {
-                "german": "Die Party dauerte die ganze Nacht.",
-                "english": "The party lasted all night."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Gute Nacht!",
+            "english": "Good night!"
+        },
+        {
+            "german": "Die Nacht ist dunkel.",
+            "english": "The night is dark."
+        },
+        {
+            "german": "In der Nacht kann man die Sterne sehen.",
+            "english": "In the night, you can see the stars."
+        },
+        {
+            "german": "Ich habe letzte Nacht schlecht geschlafen.",
+            "english": "I slept poorly last night."
+        },
+        {
+            "german": "Die Party dauerte die ganze Nacht.",
+            "english": "The party lasted all night."
+        }
+    ]
 }

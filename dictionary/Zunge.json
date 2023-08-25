@@ -1,28 +1,26 @@
 {
     "word": "die Zunge, die Zungen",
     "definition": "A muscular organ located in the mouth that plays a crucial role in the process of tasting, chewing, swallowing, and speaking. It is typically used to manipulate food and aid in the formation of speech sounds.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Zunge ist ein Muskelorgan im Mund.",
-                "english": "The tongue is a muscular organ in the mouth."
-            },
-            {
-                "german": "Sie hat eine empfindliche Zunge.",
-                "english": "She has a sensitive tongue."
-            },
-            {
-                "german": "Der Geschmackssinn wird hauptsächlich von der Zunge wahrgenommen.",
-                "english": "The sense of taste is mainly perceived by the tongue."
-            },
-            {
-                "german": "Die Zunge ist mit Geschmacksknospen bedeckt.",
-                "english": "The tongue is covered with taste buds."
-            },
-            {
-                "german": "Er hat sich auf die Zunge gebissen.",
-                "english": "He bit his tongue."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Zunge ist ein Muskelorgan im Mund.",
+            "english": "The tongue is a muscular organ in the mouth."
+        },
+        {
+            "german": "Sie hat eine empfindliche Zunge.",
+            "english": "She has a sensitive tongue."
+        },
+        {
+            "german": "Der Geschmackssinn wird hauptsächlich von der Zunge wahrgenommen.",
+            "english": "The sense of taste is mainly perceived by the tongue."
+        },
+        {
+            "german": "Die Zunge ist mit Geschmacksknospen bedeckt.",
+            "english": "The tongue is covered with taste buds."
+        },
+        {
+            "german": "Er hat sich auf die Zunge gebissen.",
+            "english": "He bit his tongue."
+        }
+    ]
 }

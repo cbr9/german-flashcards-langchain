@@ -1,28 +1,26 @@
 {
     "word": "reif",
     "definition": "The word \"reif\" refers to a state of maturity or readiness, typically used to describe a certain stage of development or ripeness. It is commonly used in various contexts, including describing the readiness of fruit, the maturity of a person, or the development of an idea or concept.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Apfel ist reif.",
-                "english": "The apple is ripe."
-            },
-            {
-                "german": "Die Banane ist noch nicht reif.",
-                "english": "The banana is not yet ripe."
-            },
-            {
-                "german": "Die Tomaten sind reif und können geerntet werden.",
-                "english": "The tomatoes are ripe and can be harvested."
-            },
-            {
-                "german": "Der Wein muss noch reifen, bevor er getrunken werden kann.",
-                "english": "The wine needs to mature before it can be consumed."
-            },
-            {
-                "german": "Die Kinder sind reif genug, um alleine zur Schule zu gehen.",
-                "english": "The children are old enough to go to school alone."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Apfel ist reif.",
+            "english": "The apple is ripe."
+        },
+        {
+            "german": "Die Banane ist noch nicht reif.",
+            "english": "The banana is not yet ripe."
+        },
+        {
+            "german": "Die Tomaten sind reif und können geerntet werden.",
+            "english": "The tomatoes are ripe and can be harvested."
+        },
+        {
+            "german": "Der Wein muss noch reifen, bevor er getrunken werden kann.",
+            "english": "The wine needs to mature before it can be consumed."
+        },
+        {
+            "german": "Die Kinder sind reif genug, um alleine zur Schule zu gehen.",
+            "english": "The children are old enough to go to school alone."
+        }
+    ]
 }

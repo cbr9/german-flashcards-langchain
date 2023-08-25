@@ -1,28 +1,26 @@
 {
     "word": "erwerben, erwarb, erworben",
     "definition": "To obtain or acquire something, typically through a deliberate effort or action. It is commonly used to describe the act of gaining possession or obtaining something through purchase, trade, or personal effort.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte ein neues Auto erwerben.",
-                "english": "I want to purchase a new car."
-            },
-            {
-                "german": "Er hat viel Wissen über Kunst erworben.",
-                "english": "He has acquired a lot of knowledge about art."
-            },
-            {
-                "german": "Sie müssen eine Lizenz erwerben, um das Programm zu nutzen.",
-                "english": "You need to obtain a license to use the software."
-            },
-            {
-                "german": "Die Firma hat ein neues Grundstück erworben.",
-                "english": "The company has acquired a new property."
-            },
-            {
-                "german": "Er hat sich viele Fähigkeiten im Laufe der Jahre erworben.",
-                "english": "He has gained many skills over the years."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte ein neues Auto erwerben.",
+            "english": "I want to purchase a new car."
+        },
+        {
+            "german": "Er hat viel Wissen über Kunst erworben.",
+            "english": "He has acquired a lot of knowledge about art."
+        },
+        {
+            "german": "Sie müssen eine Lizenz erwerben, um das Programm zu nutzen.",
+            "english": "You need to obtain a license to use the software."
+        },
+        {
+            "german": "Die Firma hat ein neues Grundstück erworben.",
+            "english": "The company has acquired a new property."
+        },
+        {
+            "german": "Er hat sich viele Fähigkeiten im Laufe der Jahre erworben.",
+            "english": "He has gained many skills over the years."
+        }
+    ]
 }

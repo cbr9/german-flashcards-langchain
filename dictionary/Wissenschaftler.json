@@ -1,28 +1,26 @@
 {
     "word": "der Wissenschaftler, die Wissenschaftler",
     "definition": "A person who conducts systematic and methodical research, often in an academic or professional setting, with the aim of advancing knowledge and understanding in a specific field. This term is commonly used to refer to individuals engaged in scientific or scholarly pursuits, and it typically encompasses various disciplines such as natural sciences, social sciences, and humanities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Wissenschaftler hat eine wichtige Entdeckung gemacht.",
-                "english": "The scientist made an important discovery."
-            },
-            {
-                "german": "Viele Wissenschaftler arbeiten an der Erforschung des Klimawandels.",
-                "english": "Many scientists are working on researching climate change."
-            },
-            {
-                "german": "Der Wissenschaftler erhielt den Nobelpreis für seine bahnbrechende Arbeit.",
-                "english": "The scientist received the Nobel Prize for his groundbreaking work."
-            },
-            {
-                "german": "Die Wissenschaftler arbeiten eng zusammen, um das Rätsel zu lösen.",
-                "english": "The scientists are working closely together to solve the puzzle."
-            },
-            {
-                "german": "Der Wissenschaftler veröffentlichte seine Forschungsergebnisse in einer renommierten Fachzeitschrift.",
-                "english": "The scientist published his research findings in a prestigious scientific journal."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Wissenschaftler hat eine wichtige Entdeckung gemacht.",
+            "english": "The scientist made an important discovery."
+        },
+        {
+            "german": "Viele Wissenschaftler arbeiten an der Erforschung des Klimawandels.",
+            "english": "Many scientists are working on researching climate change."
+        },
+        {
+            "german": "Der Wissenschaftler erhielt den Nobelpreis für seine bahnbrechende Arbeit.",
+            "english": "The scientist received the Nobel Prize for his groundbreaking work."
+        },
+        {
+            "german": "Die Wissenschaftler arbeiten eng zusammen, um das Rätsel zu lösen.",
+            "english": "The scientists are working closely together to solve the puzzle."
+        },
+        {
+            "german": "Der Wissenschaftler veröffentlichte seine Forschungsergebnisse in einer renommierten Fachzeitschrift.",
+            "english": "The scientist published his research findings in a prestigious scientific journal."
+        }
+    ]
 }

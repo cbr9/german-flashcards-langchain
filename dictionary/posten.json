@@ -1,28 +1,26 @@
 {
     "word": "posten, postete, gepostet",
     "definition": "To place oneself in a specific location or position for an extended period of time, often with the purpose of observing or monitoring a particular area or situation. This term is commonly used in the context of surveillance, security, or military operations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde morgen einen Brief posten.",
-                "english": "I will post a letter tomorrow."
-            },
-            {
-                "german": "Er hat das Foto auf Instagram gepostet.",
-                "english": "He posted the photo on Instagram."
-            },
-            {
-                "german": "Sie postet regelmäßig Updates auf ihrem Blog.",
-                "english": "She regularly posts updates on her blog."
-            },
-            {
-                "german": "Wir sollten die Informationen im Forum posten.",
-                "english": "We should post the information in the forum."
-            },
-            {
-                "german": "Kannst du den Artikel bitte auf Facebook posten?",
-                "english": "Can you please post the article on Facebook?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde morgen einen Brief posten.",
+            "english": "I will post a letter tomorrow."
+        },
+        {
+            "german": "Er hat das Foto auf Instagram gepostet.",
+            "english": "He posted the photo on Instagram."
+        },
+        {
+            "german": "Sie postet regelmäßig Updates auf ihrem Blog.",
+            "english": "She regularly posts updates on her blog."
+        },
+        {
+            "german": "Wir sollten die Informationen im Forum posten.",
+            "english": "We should post the information in the forum."
+        },
+        {
+            "german": "Kannst du den Artikel bitte auf Facebook posten?",
+            "english": "Can you please post the article on Facebook?"
+        }
+    ]
 }

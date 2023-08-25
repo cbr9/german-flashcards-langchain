@@ -1,28 +1,26 @@
 {
     "word": "das Portemonnaie, die Portemonnaies",
     "definition": "A small object typically made of leather or fabric, used for carrying and organizing various forms of currency, such as coins and banknotes, as well as cards and identification documents. It is commonly kept in a pocket or a bag for easy access and is often used for everyday transactions and financial organization.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe mein Portemonnaie verloren.",
-                "english": "I lost my wallet."
-            },
-            {
-                "german": "Kannst du mir dein Portemonnaie leihen?",
-                "english": "Can you lend me your wallet?"
-            },
-            {
-                "german": "Ich habe mein Portemonnaie zu Hause vergessen.",
-                "english": "I forgot my wallet at home."
-            },
-            {
-                "german": "Sie hat ein neues Portemonnaie gekauft.",
-                "english": "She bought a new wallet."
-            },
-            {
-                "german": "Mein Portemonnaie ist ziemlich groß.",
-                "english": "My wallet is quite big."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe mein Portemonnaie verloren.",
+            "english": "I lost my wallet."
+        },
+        {
+            "german": "Kannst du mir dein Portemonnaie leihen?",
+            "english": "Can you lend me your wallet?"
+        },
+        {
+            "german": "Ich habe mein Portemonnaie zu Hause vergessen.",
+            "english": "I forgot my wallet at home."
+        },
+        {
+            "german": "Sie hat ein neues Portemonnaie gekauft.",
+            "english": "She bought a new wallet."
+        },
+        {
+            "german": "Mein Portemonnaie ist ziemlich groß.",
+            "english": "My wallet is quite big."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Gast, die Gäste",
     "definition": "A person who is welcomed into a place, typically for a temporary period, often for the purpose of socializing, dining, or staying overnight.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Gast bestellte ein Bier.",
-                "english": "The guest ordered a beer."
-            },
-            {
-                "german": "Der Gast war sehr zufrieden mit dem Service.",
-                "english": "The guest was very satisfied with the service."
-            },
-            {
-                "german": "Der Gast bezahlte die Rechnung.",
-                "english": "The guest paid the bill."
-            },
-            {
-                "german": "Der Gast blieb eine Woche im Hotel.",
-                "english": "The guest stayed at the hotel for a week."
-            },
-            {
-                "german": "Der Gast hinterließ ein Trinkgeld.",
-                "english": "The guest left a tip."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Gast bestellte ein Bier.",
+            "english": "The guest ordered a beer."
+        },
+        {
+            "german": "Der Gast war sehr zufrieden mit dem Service.",
+            "english": "The guest was very satisfied with the service."
+        },
+        {
+            "german": "Der Gast bezahlte die Rechnung.",
+            "english": "The guest paid the bill."
+        },
+        {
+            "german": "Der Gast blieb eine Woche im Hotel.",
+            "english": "The guest stayed at the hotel for a week."
+        },
+        {
+            "german": "Der Gast hinterließ ein Trinkgeld.",
+            "english": "The guest left a tip."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Ziffer, die Ziffer",
     "definition": "A numerical symbol used for counting, representing a specific quantity or value. It is commonly employed in various mathematical operations, calculations, and numerical representations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Ziffer 1 steht für den ersten Platz.",
-                "english": "The digit 1 stands for the first place."
-            },
-            {
-                "german": "Bitte geben Sie Ihre Telefonnummer als Ziffernfolge ein.",
-                "english": "Please enter your phone number as a sequence of digits."
-            },
-            {
-                "german": "Die Ziffern 0 bis 9 werden als arabische Ziffern bezeichnet.",
-                "english": "The digits 0 to 9 are referred to as Arabic numerals."
-            },
-            {
-                "german": "Die Ziffern auf dem Display zeigen die aktuelle Uhrzeit an.",
-                "english": "The digits on the display indicate the current time."
-            },
-            {
-                "german": "Die Ziffer 7 ist eine Primzahl.",
-                "english": "The digit 7 is a prime number."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Ziffer 1 steht für den ersten Platz.",
+            "english": "The digit 1 stands for the first place."
+        },
+        {
+            "german": "Bitte geben Sie Ihre Telefonnummer als Ziffernfolge ein.",
+            "english": "Please enter your phone number as a sequence of digits."
+        },
+        {
+            "german": "Die Ziffern 0 bis 9 werden als arabische Ziffern bezeichnet.",
+            "english": "The digits 0 to 9 are referred to as Arabic numerals."
+        },
+        {
+            "german": "Die Ziffern auf dem Display zeigen die aktuelle Uhrzeit an.",
+            "english": "The digits on the display indicate the current time."
+        },
+        {
+            "german": "Die Ziffer 7 ist eine Primzahl.",
+            "english": "The digit 7 is a prime number."
+        }
+    ]
 }

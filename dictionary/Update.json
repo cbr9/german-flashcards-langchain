@@ -1,28 +1,26 @@
 {
     "word": "das Update, die Articles update",
     "definition": "A term commonly employed to describe the process of enhancing or modifying a particular entity, typically involving the incorporation of new information, features, or improvements. It is frequently used in the context of technology, software, or systems to denote the installation or application of the latest version, fixes, or enhancements.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Update ist verfügbar.",
-                "english": "The update is available."
-            },
-            {
-                "german": "Ich muss mein Betriebssystem updaten.",
-                "english": "I need to update my operating system."
-            },
-            {
-                "german": "Hast du das neueste Update installiert?",
-                "english": "Have you installed the latest update?"
-            },
-            {
-                "german": "Das Update hat viele Fehler behoben.",
-                "english": "The update fixed many bugs."
-            },
-            {
-                "german": "Bitte führen Sie ein Update Ihrer Software durch.",
-                "english": "Please perform a software update."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Update ist verfügbar.",
+            "english": "The update is available."
+        },
+        {
+            "german": "Ich muss mein Betriebssystem updaten.",
+            "english": "I need to update my operating system."
+        },
+        {
+            "german": "Hast du das neueste Update installiert?",
+            "english": "Have you installed the latest update?"
+        },
+        {
+            "german": "Das Update hat viele Fehler behoben.",
+            "english": "The update fixed many bugs."
+        },
+        {
+            "german": "Bitte führen Sie ein Update Ihrer Software durch.",
+            "english": "Please perform a software update."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "trinken, trank, getrunken",
     "definition": "To consume a liquid substance by swallowing it, typically referring to the act of ingesting beverages for nourishment or pleasure. This word is commonly used to describe the action of drinking, whether it be water, juice, alcohol, or any other liquid.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trinke gerne Kaffee.",
-                "english": "I like to drink coffee."
-            },
-            {
-                "german": "Er trinkt jeden Tag ein Glas Wasser.",
-                "english": "He drinks a glass of water every day."
-            },
-            {
-                "german": "Wir sollten weniger Alkohol trinken.",
-                "english": "We should drink less alcohol."
-            },
-            {
-                "german": "Sie trinkt Tee mit Honig.",
-                "english": "She drinks tea with honey."
-            },
-            {
-                "german": "Trinkst du lieber Bier oder Wein?",
-                "english": "Do you prefer to drink beer or wine?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trinke gerne Kaffee.",
+            "english": "I like to drink coffee."
+        },
+        {
+            "german": "Er trinkt jeden Tag ein Glas Wasser.",
+            "english": "He drinks a glass of water every day."
+        },
+        {
+            "german": "Wir sollten weniger Alkohol trinken.",
+            "english": "We should drink less alcohol."
+        },
+        {
+            "german": "Sie trinkt Tee mit Honig.",
+            "english": "She drinks tea with honey."
+        },
+        {
+            "german": "Trinkst du lieber Bier oder Wein?",
+            "english": "Do you prefer to drink beer or wine?"
+        }
+    ]
 }

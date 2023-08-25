@@ -1,28 +1,26 @@
 {
     "word": "feierlich",
     "definition": "\"Feierlich\" is an adjective that describes a solemn and ceremonial atmosphere or occasion. It is commonly used to describe formal events, religious ceremonies, or important celebrations that are marked by a sense of dignity, reverence, and seriousness.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Hochzeit war sehr feierlich.",
-                "english": "The wedding was very solemn."
-            },
-            {
-                "german": "Der Abschied war feierlich und traurig zugleich.",
-                "english": "The farewell was solemn and sad at the same time."
-            },
-            {
-                "german": "Die Zeremonie wurde in feierlichem Rahmen abgehalten.",
-                "english": "The ceremony was held in a solemn setting."
-            },
-            {
-                "german": "Der Papst hielt eine feierliche Messe im Dom ab.",
-                "english": "The Pope celebrated a solemn mass in the cathedral."
-            },
-            {
-                "german": "An Weihnachten herrscht eine feierliche Atmosphäre.",
-                "english": "There is a solemn atmosphere at Christmas."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Hochzeit war sehr feierlich.",
+            "english": "The wedding was very solemn."
+        },
+        {
+            "german": "Der Abschied war feierlich und traurig zugleich.",
+            "english": "The farewell was solemn and sad at the same time."
+        },
+        {
+            "german": "Die Zeremonie wurde in feierlichem Rahmen abgehalten.",
+            "english": "The ceremony was held in a solemn setting."
+        },
+        {
+            "german": "Der Papst hielt eine feierliche Messe im Dom ab.",
+            "english": "The Pope celebrated a solemn mass in the cathedral."
+        },
+        {
+            "german": "An Weihnachten herrscht eine feierliche Atmosphäre.",
+            "english": "There is a solemn atmosphere at Christmas."
+        }
+    ]
 }

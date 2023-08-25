@@ -1,28 +1,26 @@
 {
     "word": "die Außenseiterin, die Außenseiterinnen",
     "definition": "A person who is often referred to as an \"Außenseiterin\" is someone who is perceived as being on the fringes or outside of a particular group, community, or society. This term is commonly used to describe an individual who is seen as an outsider, not fitting into the mainstream or conventional norms.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist eine Außenseiterin in der Schule.",
-                "english": "She is an outsider at school."
-            },
-            {
-                "german": "Er fühlt sich wie ein Außenseiter in der Gruppe.",
-                "english": "He feels like an outsider in the group."
-            },
-            {
-                "german": "Die Außenseiterin gewann überraschend das Rennen.",
-                "english": "The outsider won the race unexpectedly."
-            },
-            {
-                "german": "Als Außenseiterin hat sie es schwer, Freunde zu finden.",
-                "english": "As an outsider, she finds it difficult to make friends."
-            },
-            {
-                "german": "Er wurde als Außenseiterin von der Gesellschaft ausgegrenzt.",
-                "english": "He was marginalized as an outsider by society."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist eine Außenseiterin in der Schule.",
+            "english": "She is an outsider at school."
+        },
+        {
+            "german": "Er fühlt sich wie ein Außenseiter in der Gruppe.",
+            "english": "He feels like an outsider in the group."
+        },
+        {
+            "german": "Die Außenseiterin gewann überraschend das Rennen.",
+            "english": "The outsider won the race unexpectedly."
+        },
+        {
+            "german": "Als Außenseiterin hat sie es schwer, Freunde zu finden.",
+            "english": "As an outsider, she finds it difficult to make friends."
+        },
+        {
+            "german": "Er wurde als Außenseiterin von der Gesellschaft ausgegrenzt.",
+            "english": "He was marginalized as an outsider by society."
+        }
+    ]
 }

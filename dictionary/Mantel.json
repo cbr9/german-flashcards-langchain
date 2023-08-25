@@ -1,28 +1,26 @@
 {
     "word": "der Mantel, die Mäntel",
     "definition": "A garment typically worn over other clothing to provide warmth or protection, often extending below the waist. It is commonly used during colder seasons or in formal occasions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trage einen Mantel.",
-                "english": "I am wearing a coat."
-            },
-            {
-                "german": "Der Mantel ist blau.",
-                "english": "The coat is blue."
-            },
-            {
-                "german": "Sie hängt ihren Mantel an die Garderobe.",
-                "english": "She hangs her coat on the coat rack."
-            },
-            {
-                "german": "Der Mantel ist aus Wolle.",
-                "english": "The coat is made of wool."
-            },
-            {
-                "german": "Er hat seinen Mantel vergessen.",
-                "english": "He forgot his coat."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trage einen Mantel.",
+            "english": "I am wearing a coat."
+        },
+        {
+            "german": "Der Mantel ist blau.",
+            "english": "The coat is blue."
+        },
+        {
+            "german": "Sie hängt ihren Mantel an die Garderobe.",
+            "english": "She hangs her coat on the coat rack."
+        },
+        {
+            "german": "Der Mantel ist aus Wolle.",
+            "english": "The coat is made of wool."
+        },
+        {
+            "german": "Er hat seinen Mantel vergessen.",
+            "english": "He forgot his coat."
+        }
+    ]
 }

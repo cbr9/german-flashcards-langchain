@@ -1,28 +1,26 @@
 {
     "word": "erfolgreich",
     "definition": "The term \"erfolgreich\" describes the state of achieving desired outcomes or being accomplished in a particular endeavor. It commonly refers to the attainment of positive results, accomplishments, or goals in various domains such as professional, academic, or personal pursuits.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er war sehr erfolgreich in seinem Beruf.",
-                "english": "He was very successful in his career."
-            },
-            {
-                "german": "Sie hat erfolgreich ihren Abschluss gemacht.",
-                "english": "She successfully completed her degree."
-            },
-            {
-                "german": "Das Unternehmen war in diesem Jahr besonders erfolgreich.",
-                "english": "The company was particularly successful this year."
-            },
-            {
-                "german": "Er hat erfolgreich den Marathonlauf beendet.",
-                "english": "He successfully completed the marathon."
-            },
-            {
-                "german": "Sie war eine erfolgreiche Geschäftsfrau.",
-                "english": "She was a successful businesswoman."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er war sehr erfolgreich in seinem Beruf.",
+            "english": "He was very successful in his career."
+        },
+        {
+            "german": "Sie hat erfolgreich ihren Abschluss gemacht.",
+            "english": "She successfully completed her degree."
+        },
+        {
+            "german": "Das Unternehmen war in diesem Jahr besonders erfolgreich.",
+            "english": "The company was particularly successful this year."
+        },
+        {
+            "german": "Er hat erfolgreich den Marathonlauf beendet.",
+            "english": "He successfully completed the marathon."
+        },
+        {
+            "german": "Sie war eine erfolgreiche Geschäftsfrau.",
+            "english": "She was a successful businesswoman."
+        }
+    ]
 }

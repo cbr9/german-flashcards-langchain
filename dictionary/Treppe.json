@@ -1,28 +1,26 @@
 {
     "word": "die Treppe, die Treppen",
     "definition": "A structure consisting of a series of steps or stairs, typically used for ascending or descending between different levels within a building or outdoor area. It is commonly found in residential, commercial, and public spaces, serving as a means of vertical transportation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Treppe führt zum Dachboden.",
-                "english": "The staircase leads to the attic."
-            },
-            {
-                "german": "Vorsicht, die Treppe ist rutschig!",
-                "english": "Caution, the stairs are slippery!"
-            },
-            {
-                "german": "Meine Wohnung ist im dritten Stockwerk, aber es gibt keinen Aufzug, nur eine Treppe.",
-                "english": "My apartment is on the third floor, but there is no elevator, only stairs."
-            },
-            {
-                "german": "Sie können die Treppe benutzen, um in den Keller zu gelangen.",
-                "english": "You can use the staircase to access the basement."
-            },
-            {
-                "german": "Die Treppe ist steil und schmal.",
-                "english": "The stairs are steep and narrow."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Treppe führt zum Dachboden.",
+            "english": "The staircase leads to the attic."
+        },
+        {
+            "german": "Vorsicht, die Treppe ist rutschig!",
+            "english": "Caution, the stairs are slippery!"
+        },
+        {
+            "german": "Meine Wohnung ist im dritten Stockwerk, aber es gibt keinen Aufzug, nur eine Treppe.",
+            "english": "My apartment is on the third floor, but there is no elevator, only stairs."
+        },
+        {
+            "german": "Sie können die Treppe benutzen, um in den Keller zu gelangen.",
+            "english": "You can use the staircase to access the basement."
+        },
+        {
+            "german": "Die Treppe ist steil und schmal.",
+            "english": "The stairs are steep and narrow."
+        }
+    ]
 }

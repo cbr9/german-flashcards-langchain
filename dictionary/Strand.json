@@ -1,28 +1,26 @@
 {
     "word": "der Strand, die Strände",
     "definition": "A sandy area along the edge of a body of water, typically a sea or ocean, where people often go to relax, swim, sunbathe, or engage in recreational activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Strand ist voller Touristen.",
-                "english": "The beach is full of tourists."
-            },
-            {
-                "german": "Wir haben den ganzen Tag am Strand verbracht.",
-                "english": "We spent the whole day at the beach."
-            },
-            {
-                "german": "Der Sand am Strand ist sehr fein.",
-                "english": "The sand at the beach is very fine."
-            },
-            {
-                "german": "Der Strand ist ein beliebtes Urlaubsziel.",
-                "english": "The beach is a popular vacation destination."
-            },
-            {
-                "german": "Am Strand kann man sich gut entspannen.",
-                "english": "You can relax well at the beach."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Strand ist voller Touristen.",
+            "english": "The beach is full of tourists."
+        },
+        {
+            "german": "Wir haben den ganzen Tag am Strand verbracht.",
+            "english": "We spent the whole day at the beach."
+        },
+        {
+            "german": "Der Sand am Strand ist sehr fein.",
+            "english": "The sand at the beach is very fine."
+        },
+        {
+            "german": "Der Strand ist ein beliebtes Urlaubsziel.",
+            "english": "The beach is a popular vacation destination."
+        },
+        {
+            "german": "Am Strand kann man sich gut entspannen.",
+            "english": "You can relax well at the beach."
+        }
+    ]
 }

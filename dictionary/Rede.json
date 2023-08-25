@@ -1,28 +1,26 @@
 {
     "word": "die Rede, die Reden",
     "definition": "A form of communication where an individual expresses thoughts, ideas, or opinions in a structured manner, typically in front of an audience. It often involves persuasive or informative elements and is commonly used in formal settings, such as political speeches, presentations, or public addresses.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Rede war sehr inspirierend.",
-                "english": "The speech was very inspiring."
-            },
-            {
-                "german": "Er hielt eine lange Rede über das Thema.",
-                "english": "He gave a long speech about the topic."
-            },
-            {
-                "german": "Die Redezeit wurde auf fünf Minuten begrenzt.",
-                "english": "The speaking time was limited to five minutes."
-            },
-            {
-                "german": "Die Rede des Präsidenten wurde live im Fernsehen übertragen.",
-                "english": "The president's speech was broadcast live on television."
-            },
-            {
-                "german": "Sie hielt eine emotionale Rede bei der Preisverleihung.",
-                "english": "She gave an emotional speech at the award ceremony."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Rede war sehr inspirierend.",
+            "english": "The speech was very inspiring."
+        },
+        {
+            "german": "Er hielt eine lange Rede über das Thema.",
+            "english": "He gave a long speech about the topic."
+        },
+        {
+            "german": "Die Redezeit wurde auf fünf Minuten begrenzt.",
+            "english": "The speaking time was limited to five minutes."
+        },
+        {
+            "german": "Die Rede des Präsidenten wurde live im Fernsehen übertragen.",
+            "english": "The president's speech was broadcast live on television."
+        },
+        {
+            "german": "Sie hielt eine emotionale Rede bei der Preisverleihung.",
+            "english": "She gave an emotional speech at the award ceremony."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "friedlich",
     "definition": "The word \"friedlich\" describes a state or condition characterized by tranquility, harmony, and absence of conflict. It is often used to describe peaceful situations, environments, or individuals who exhibit a calm and non-violent demeanor.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie leben in einem friedlichen Dorf.",
-                "english": "They live in a peaceful village."
-            },
-            {
-                "german": "Die Demonstranten forderten friedliche Veränderungen.",
-                "english": "The protesters demanded peaceful changes."
-            },
-            {
-                "german": "Der friedliche Protest verlief ohne Zwischenfälle.",
-                "english": "The peaceful protest proceeded without incidents."
-            },
-            {
-                "german": "Die beiden Länder haben einen friedlichen Handelsvertrag unterzeichnet.",
-                "english": "The two countries have signed a peaceful trade agreement."
-            },
-            {
-                "german": "Die friedliche Lösung des Konflikts war für alle Beteiligten von Vorteil.",
-                "english": "The peaceful resolution of the conflict was beneficial for all parties involved."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie leben in einem friedlichen Dorf.",
+            "english": "They live in a peaceful village."
+        },
+        {
+            "german": "Die Demonstranten forderten friedliche Veränderungen.",
+            "english": "The protesters demanded peaceful changes."
+        },
+        {
+            "german": "Der friedliche Protest verlief ohne Zwischenfälle.",
+            "english": "The peaceful protest proceeded without incidents."
+        },
+        {
+            "german": "Die beiden Länder haben einen friedlichen Handelsvertrag unterzeichnet.",
+            "english": "The two countries have signed a peaceful trade agreement."
+        },
+        {
+            "german": "Die friedliche Lösung des Konflikts war für alle Beteiligten von Vorteil.",
+            "english": "The peaceful resolution of the conflict was beneficial for all parties involved."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Dokument, die Dokumente",
     "definition": "A written or printed piece of information, often in the form of a record, report, or evidence, that serves as a reliable source of reference or proof. It is commonly used to store and convey important information, such as legal documents, official records, research papers, or personal files.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Dokument enthält wichtige Informationen.",
-                "english": "The document contains important information."
-            },
-            {
-                "german": "Bitte senden Sie uns das Dokument per E-Mail.",
-                "english": "Please send us the document by email."
-            },
-            {
-                "german": "Das Dokument muss unterschrieben werden.",
-                "english": "The document needs to be signed."
-            },
-            {
-                "german": "Können Sie mir das Dokument bitte zeigen?",
-                "english": "Can you please show me the document?"
-            },
-            {
-                "german": "Das Dokument ist vertraulich und darf nicht weitergegeben werden.",
-                "english": "The document is confidential and must not be disclosed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Dokument enthält wichtige Informationen.",
+            "english": "The document contains important information."
+        },
+        {
+            "german": "Bitte senden Sie uns das Dokument per E-Mail.",
+            "english": "Please send us the document by email."
+        },
+        {
+            "german": "Das Dokument muss unterschrieben werden.",
+            "english": "The document needs to be signed."
+        },
+        {
+            "german": "Können Sie mir das Dokument bitte zeigen?",
+            "english": "Can you please show me the document?"
+        },
+        {
+            "german": "Das Dokument ist vertraulich und darf nicht weitergegeben werden.",
+            "english": "The document is confidential and must not be disclosed."
+        }
+    ]
 }

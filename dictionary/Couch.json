@@ -1,28 +1,26 @@
 {
     "word": "die Couch, die Couches",
     "definition": "A piece of furniture typically found in living rooms, often used for seating or reclining. It is designed to comfortably accommodate multiple people and is commonly used for relaxation, socializing, or watching television.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Couch ist sehr bequem.",
-                "english": "The couch is very comfortable."
-            },
-            {
-                "german": "Ich habe eine neue Couch gekauft.",
-                "english": "I bought a new couch."
-            },
-            {
-                "german": "Die Katze liegt auf der Couch.",
-                "english": "The cat is lying on the couch."
-            },
-            {
-                "german": "Komm, setz dich auf die Couch.",
-                "english": "Come, sit on the couch."
-            },
-            {
-                "german": "Die Couch passt perfekt in mein Wohnzimmer.",
-                "english": "The couch fits perfectly in my living room."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Couch ist sehr bequem.",
+            "english": "The couch is very comfortable."
+        },
+        {
+            "german": "Ich habe eine neue Couch gekauft.",
+            "english": "I bought a new couch."
+        },
+        {
+            "german": "Die Katze liegt auf der Couch.",
+            "english": "The cat is lying on the couch."
+        },
+        {
+            "german": "Komm, setz dich auf die Couch.",
+            "english": "Come, sit on the couch."
+        },
+        {
+            "german": "Die Couch passt perfekt in mein Wohnzimmer.",
+            "english": "The couch fits perfectly in my living room."
+        }
+    ]
 }

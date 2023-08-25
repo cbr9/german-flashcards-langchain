@@ -1,28 +1,26 @@
 {
     "word": "das Ei, die Eier",
     "definition": "A commonly used term to refer to a small, oval-shaped object that is typically produced by a female organism and contains a developing offspring. It is often consumed as a food item and serves as a key ingredient in various culinary preparations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Ei ist hartgekocht.",
-                "english": "The egg is hard-boiled."
-            },
-            {
-                "german": "Sie hat ein Ei zum Frühstück gegessen.",
-                "english": "She ate an egg for breakfast."
-            },
-            {
-                "german": "Das Omelett besteht aus Eiern und Gemüse.",
-                "english": "The omelette consists of eggs and vegetables."
-            },
-            {
-                "german": "Er hat ein Ei auf den Boden fallen lassen.",
-                "english": "He dropped an egg on the floor."
-            },
-            {
-                "german": "Das Eigelb ist gelb und das Eiweiß ist weiß.",
-                "english": "The egg yolk is yellow and the egg white is white."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Ei ist hartgekocht.",
+            "english": "The egg is hard-boiled."
+        },
+        {
+            "german": "Sie hat ein Ei zum Frühstück gegessen.",
+            "english": "She ate an egg for breakfast."
+        },
+        {
+            "german": "Das Omelett besteht aus Eiern und Gemüse.",
+            "english": "The omelette consists of eggs and vegetables."
+        },
+        {
+            "german": "Er hat ein Ei auf den Boden fallen lassen.",
+            "english": "He dropped an egg on the floor."
+        },
+        {
+            "german": "Das Eigelb ist gelb und das Eiweiß ist weiß.",
+            "english": "The egg yolk is yellow and the egg white is white."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "beleben, belebte, belebt",
     "definition": "To give vitality, energy, or liveliness to something or someone, often used in the context of revitalizing or animating an object, place, or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Musik belebt die Party.",
-                "english": "The music enlivens the party."
-            },
-            {
-                "german": "Die neue Farbe belebt den Raum.",
-                "english": "The new color livens up the room."
-            },
-            {
-                "german": "Die frische Brise belebt die Sinne.",
-                "english": "The fresh breeze invigorates the senses."
-            },
-            {
-                "german": "Die Begegnung mit alten Freunden belebt die Erinnerungen.",
-                "english": "Meeting old friends revives memories."
-            },
-            {
-                "german": "Die Diskussion belebt den Geist.",
-                "english": "The discussion stimulates the mind."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Musik belebt die Party.",
+            "english": "The music enlivens the party."
+        },
+        {
+            "german": "Die neue Farbe belebt den Raum.",
+            "english": "The new color livens up the room."
+        },
+        {
+            "german": "Die frische Brise belebt die Sinne.",
+            "english": "The fresh breeze invigorates the senses."
+        },
+        {
+            "german": "Die Begegnung mit alten Freunden belebt die Erinnerungen.",
+            "english": "Meeting old friends revives memories."
+        },
+        {
+            "german": "Die Diskussion belebt den Geist.",
+            "english": "The discussion stimulates the mind."
+        }
+    ]
 }

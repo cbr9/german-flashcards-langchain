@@ -1,28 +1,26 @@
 {
     "word": "schmelzen, schmolz, geschmolzen",
     "definition": "To undergo a process of changing from a solid state to a liquid state due to the application of heat. This term is commonly used when referring to the transformation of a substance, typically a metal or wax, into a liquid form.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Eis schmilzt in der Sonne.",
-                "english": "The ice is melting in the sun."
-            },
-            {
-                "german": "Die Schokolade schmilzt langsam im Wasserbad.",
-                "english": "The chocolate is slowly melting in a water bath."
-            },
-            {
-                "german": "Der Schnee schmilzt bei steigenden Temperaturen.",
-                "english": "The snow melts with rising temperatures."
-            },
-            {
-                "german": "Das Wachs schmilzt, wenn man es erhitzt.",
-                "english": "The wax melts when heated."
-            },
-            {
-                "german": "Die Butter schmilzt auf dem warmen Toast.",
-                "english": "The butter melts on the warm toast."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Eis schmilzt in der Sonne.",
+            "english": "The ice is melting in the sun."
+        },
+        {
+            "german": "Die Schokolade schmilzt langsam im Wasserbad.",
+            "english": "The chocolate is slowly melting in a water bath."
+        },
+        {
+            "german": "Der Schnee schmilzt bei steigenden Temperaturen.",
+            "english": "The snow melts with rising temperatures."
+        },
+        {
+            "german": "Das Wachs schmilzt, wenn man es erhitzt.",
+            "english": "The wax melts when heated."
+        },
+        {
+            "german": "Die Butter schmilzt auf dem warmen Toast.",
+            "english": "The butter melts on the warm toast."
+        }
+    ]
 }

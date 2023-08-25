@@ -1,28 +1,26 @@
 {
     "word": "brennen, brannte, gebrannt",
     "definition": "To undergo a process where a substance transforms due to the application of heat or fire, often resulting in combustion or the release of light and heat energy. This term is commonly employed to describe the action of a specific activity related to cooking, heating, or producing light.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Holz brennt schnell.",
-                "english": "The wood burns quickly."
-            },
-            {
-                "german": "Die Kerze brennt noch.",
-                "english": "The candle is still burning."
-            },
-            {
-                "german": "Das Feuer brennt hell.",
-                "english": "The fire burns brightly."
-            },
-            {
-                "german": "Die Wunde brennt.",
-                "english": "The wound is burning."
-            },
-            {
-                "german": "Die Sonne brennt heiß.",
-                "english": "The sun burns hot."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Holz brennt schnell.",
+            "english": "The wood burns quickly."
+        },
+        {
+            "german": "Die Kerze brennt noch.",
+            "english": "The candle is still burning."
+        },
+        {
+            "german": "Das Feuer brennt hell.",
+            "english": "The fire burns brightly."
+        },
+        {
+            "german": "Die Wunde brennt.",
+            "english": "The wound is burning."
+        },
+        {
+            "german": "Die Sonne brennt heiß.",
+            "english": "The sun burns hot."
+        }
+    ]
 }

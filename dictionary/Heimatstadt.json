@@ -1,28 +1,26 @@
 {
     "word": "die Heimatstadt, die Heimatstädte",
     "definition": "A term commonly used to refer to the place of one's birth or upbringing, typically a city or town, evoking a strong sense of personal connection, nostalgia, and belonging. It often carries emotional connotations and is frequently used in discussions about personal identity, cultural heritage, and a sense of rootedness.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Heimatstadt ist Berlin.",
-                "english": "My hometown is Berlin."
-            },
-            {
-                "german": "Sie ist in ihrer Heimatstadt aufgewachsen.",
-                "english": "She grew up in her hometown."
-            },
-            {
-                "german": "Er kehrte in seine Heimatstadt zurück.",
-                "english": "He returned to his hometown."
-            },
-            {
-                "german": "Meine Heimatstadt liegt in Bayern.",
-                "english": "My hometown is located in Bavaria."
-            },
-            {
-                "german": "Die Einwohnerzahl meiner Heimatstadt ist gestiegen.",
-                "english": "The population of my hometown has increased."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Heimatstadt ist Berlin.",
+            "english": "My hometown is Berlin."
+        },
+        {
+            "german": "Sie ist in ihrer Heimatstadt aufgewachsen.",
+            "english": "She grew up in her hometown."
+        },
+        {
+            "german": "Er kehrte in seine Heimatstadt zurück.",
+            "english": "He returned to his hometown."
+        },
+        {
+            "german": "Meine Heimatstadt liegt in Bayern.",
+            "english": "My hometown is located in Bavaria."
+        },
+        {
+            "german": "Die Einwohnerzahl meiner Heimatstadt ist gestiegen.",
+            "english": "The population of my hometown has increased."
+        }
+    ]
 }

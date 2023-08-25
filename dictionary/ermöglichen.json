@@ -1,28 +1,26 @@
 {
     "word": "ermöglichen, ermöglichte, ermöglicht",
     "definition": "To facilitate or make something feasible, typically used to describe the act of enabling or making something possible.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Diese Technologie ermöglicht es uns, effizienter zu arbeiten.",
-                "english": "This technology enables us to work more efficiently."
-            },
-            {
-                "german": "Die neue Software ermöglicht eine bessere Datenanalyse.",
-                "english": "The new software enables better data analysis."
-            },
-            {
-                "german": "Das Internet ermöglicht den Zugriff auf Informationen aus der ganzen Welt.",
-                "english": "The internet enables access to information from around the world."
-            },
-            {
-                "german": "Die finanzielle Unterstützung ermöglicht es uns, das Projekt umzusetzen.",
-                "english": "The financial support enables us to implement the project."
-            },
-            {
-                "german": "Die neue Regelung ermöglicht es den Kunden, flexiblere Zahlungsoptionen zu wählen.",
-                "english": "The new regulation enables customers to choose more flexible payment options."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Diese Technologie ermöglicht es uns, effizienter zu arbeiten.",
+            "english": "This technology enables us to work more efficiently."
+        },
+        {
+            "german": "Die neue Software ermöglicht eine bessere Datenanalyse.",
+            "english": "The new software enables better data analysis."
+        },
+        {
+            "german": "Das Internet ermöglicht den Zugriff auf Informationen aus der ganzen Welt.",
+            "english": "The internet enables access to information from around the world."
+        },
+        {
+            "german": "Die finanzielle Unterstützung ermöglicht es uns, das Projekt umzusetzen.",
+            "english": "The financial support enables us to implement the project."
+        },
+        {
+            "german": "Die neue Regelung ermöglicht es den Kunden, flexiblere Zahlungsoptionen zu wählen.",
+            "english": "The new regulation enables customers to choose more flexible payment options."
+        }
+    ]
 }

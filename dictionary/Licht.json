@@ -1,28 +1,26 @@
 {
     "word": "das Licht, die Lichter",
     "definition": "A term commonly employed to refer to the natural or artificial source of illumination, allowing visibility in the absence of darkness. It is often utilized to describe the physical phenomenon of light, as well as the concept of brightness or radiance. This word is frequently used in various contexts, including discussions about lighting, optics, photography, and the perception of visual stimuli.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Licht ist sehr hell.",
-                "english": "The light is very bright."
-            },
-            {
-                "german": "Ich habe das Licht ausgeschaltet.",
-                "english": "I turned off the light."
-            },
-            {
-                "german": "Das Licht der Sonne scheint durch das Fenster.",
-                "english": "The light of the sun shines through the window."
-            },
-            {
-                "german": "Er hat eine Taschenlampe, um im Dunkeln Licht zu haben.",
-                "english": "He has a flashlight to have light in the dark."
-            },
-            {
-                "german": "Die Straßenlaterne spendet Licht in der Nacht.",
-                "english": "The street lamp provides light at night."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Licht ist sehr hell.",
+            "english": "The light is very bright."
+        },
+        {
+            "german": "Ich habe das Licht ausgeschaltet.",
+            "english": "I turned off the light."
+        },
+        {
+            "german": "Das Licht der Sonne scheint durch das Fenster.",
+            "english": "The light of the sun shines through the window."
+        },
+        {
+            "german": "Er hat eine Taschenlampe, um im Dunkeln Licht zu haben.",
+            "english": "He has a flashlight to have light in the dark."
+        },
+        {
+            "german": "Die Straßenlaterne spendet Licht in der Nacht.",
+            "english": "The street lamp provides light at night."
+        }
+    ]
 }

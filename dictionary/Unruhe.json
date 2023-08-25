@@ -1,28 +1,26 @@
 {
     "word": "die Unruhe, die Unruhen",
     "definition": "A state of restlessness or agitation, often characterized by a lack of calm or tranquility. It is commonly used to describe a feeling of unease, anxiety, or disturbance in one's emotions or surroundings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Unruhe in der Stadt war spürbar.",
-                "english": "The unrest in the city was palpable."
-            },
-            {
-                "german": "Er konnte seine Unruhe nicht verbergen.",
-                "english": "He couldn't hide his restlessness."
-            },
-            {
-                "german": "Die Unruhe breitete sich im Raum aus.",
-                "english": "The unease spread in the room."
-            },
-            {
-                "german": "Die politische Unruhe führte zu Protesten.",
-                "english": "The political unrest led to protests."
-            },
-            {
-                "german": "Die Unruhe in der Bevölkerung nahm zu.",
-                "english": "The unrest among the population increased."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Unruhe in der Stadt war spürbar.",
+            "english": "The unrest in the city was palpable."
+        },
+        {
+            "german": "Er konnte seine Unruhe nicht verbergen.",
+            "english": "He couldn't hide his restlessness."
+        },
+        {
+            "german": "Die Unruhe breitete sich im Raum aus.",
+            "english": "The unease spread in the room."
+        },
+        {
+            "german": "Die politische Unruhe führte zu Protesten.",
+            "english": "The political unrest led to protests."
+        },
+        {
+            "german": "Die Unruhe in der Bevölkerung nahm zu.",
+            "english": "The unrest among the population increased."
+        }
+    ]
 }

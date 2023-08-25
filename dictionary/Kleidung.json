@@ -1,28 +1,26 @@
 {
     "word": "die Kleidung, die Kleidungen",
     "definition": "Kleidung refers to the items that people wear on their bodies, typically consisting of garments such as shirts, pants, dresses, and accessories. It encompasses the various articles of clothing that individuals use to cover and adorn themselves. This term is commonly used in everyday conversations, fashion discussions, and when referring to attire in general.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe gestern neue Kleidung gekauft.",
-                "english": "I bought new clothes yesterday."
-            },
-            {
-                "german": "Sie trägt immer elegante Kleidung.",
-                "english": "She always wears elegant clothing."
-            },
-            {
-                "german": "Kleidung sollte bequem sein.",
-                "english": "Clothing should be comfortable."
-            },
-            {
-                "german": "Ich habe meine Kleidung im Schrank aufgehängt.",
-                "english": "I hung my clothes in the closet."
-            },
-            {
-                "german": "Er hat seine Kleidung selbst entworfen.",
-                "english": "He designed his own clothing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe gestern neue Kleidung gekauft.",
+            "english": "I bought new clothes yesterday."
+        },
+        {
+            "german": "Sie trägt immer elegante Kleidung.",
+            "english": "She always wears elegant clothing."
+        },
+        {
+            "german": "Kleidung sollte bequem sein.",
+            "english": "Clothing should be comfortable."
+        },
+        {
+            "german": "Ich habe meine Kleidung im Schrank aufgehängt.",
+            "english": "I hung my clothes in the closet."
+        },
+        {
+            "german": "Er hat seine Kleidung selbst entworfen.",
+            "english": "He designed his own clothing."
+        }
+    ]
 }

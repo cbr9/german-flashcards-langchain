@@ -1,28 +1,26 @@
 {
     "word": "hoffen, hoffte, gehofft",
     "definition": "To anticipate a positive outcome or desire for something, often accompanied by a feeling of optimism and expectation. It is commonly used when referring to the act of having hope or expressing hopefulness in various situations, such as personal aspirations, future events, or desired outcomes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich hoffe, dass es morgen schönes Wetter gibt.",
-                "english": "I hope that the weather will be nice tomorrow."
-            },
-            {
-                "german": "Wir hoffen auf eine positive Antwort.",
-                "english": "We hope for a positive response."
-            },
-            {
-                "german": "Er hofft, dass er die Prüfung besteht.",
-                "english": "He hopes to pass the exam."
-            },
-            {
-                "german": "Sie hofft, dass sie den Job bekommt.",
-                "english": "She hopes to get the job."
-            },
-            {
-                "german": "Hoffentlich geht alles gut.",
-                "english": "Hopefully everything goes well."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich hoffe, dass es morgen schönes Wetter gibt.",
+            "english": "I hope that the weather will be nice tomorrow."
+        },
+        {
+            "german": "Wir hoffen auf eine positive Antwort.",
+            "english": "We hope for a positive response."
+        },
+        {
+            "german": "Er hofft, dass er die Prüfung besteht.",
+            "english": "He hopes to pass the exam."
+        },
+        {
+            "german": "Sie hofft, dass sie den Job bekommt.",
+            "english": "She hopes to get the job."
+        },
+        {
+            "german": "Hoffentlich geht alles gut.",
+            "english": "Hopefully everything goes well."
+        }
+    ]
 }

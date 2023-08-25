@@ -1,28 +1,26 @@
 {
     "word": "das Erwissen, die There seems to be a mistake in the example provided. \"erwissen\" is not a singular noun with a corresponding plural form. it is possible that the correct word is \"das wissen\" (knowledge), which would have the plural form \"wissen\".",
     "definition": "To acquire knowledge or information about something through personal experience, observation, or learning from others. This term is commonly used to describe the act of gaining knowledge or becoming aware of a fact or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe gestern erfahren, dass sie schwanger ist.",
-                "english": "I found out yesterday that she is pregnant."
-            },
-            {
-                "german": "Hast du schon von dem neuen Film gehört?",
-                "english": "Have you already heard about the new movie?"
-            },
-            {
-                "german": "Er hat nichts von dem Diebstahl gewusst.",
-                "english": "He didn't know anything about the theft."
-            },
-            {
-                "german": "Ich wusste nicht, dass du so gut kochen kannst.",
-                "english": "I didn't know that you can cook so well."
-            },
-            {
-                "german": "Wir haben erst später von dem Unfall erfahren.",
-                "english": "We only found out about the accident later."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe gestern erfahren, dass sie schwanger ist.",
+            "english": "I found out yesterday that she is pregnant."
+        },
+        {
+            "german": "Hast du schon von dem neuen Film gehört?",
+            "english": "Have you already heard about the new movie?"
+        },
+        {
+            "german": "Er hat nichts von dem Diebstahl gewusst.",
+            "english": "He didn't know anything about the theft."
+        },
+        {
+            "german": "Ich wusste nicht, dass du so gut kochen kannst.",
+            "english": "I didn't know that you can cook so well."
+        },
+        {
+            "german": "Wir haben erst später von dem Unfall erfahren.",
+            "english": "We only found out about the accident later."
+        }
+    ]
 }

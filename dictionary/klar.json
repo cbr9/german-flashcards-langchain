@@ -1,28 +1,26 @@
 {
     "word": "klar",
     "definition": "The word \"klar\" refers to a state or quality of being easily understandable, transparent, or evident. It is commonly used to describe something that is clear, obvious, or unambiguous. This term is often employed to express agreement or affirmation, similar to saying \"alright\" or \"okay.\" Additionally, it can be used to indicate that someone comprehends or has a clear understanding of a situation or concept.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Klar, ich komme.",
-                "english": "Sure, I'll come."
-            },
-            {
-                "german": "Das ist mir nicht klar.",
-                "english": "That is not clear to me."
-            },
-            {
-                "german": "Klar, ich verstehe.",
-                "english": "Of course, I understand."
-            },
-            {
-                "german": "Es ist klar, dass er lügt.",
-                "english": "It is clear that he is lying."
-            },
-            {
-                "german": "Klar, ich kann dir helfen.",
-                "english": "Sure, I can help you."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Klar, ich komme.",
+            "english": "Sure, I'll come."
+        },
+        {
+            "german": "Das ist mir nicht klar.",
+            "english": "That is not clear to me."
+        },
+        {
+            "german": "Klar, ich verstehe.",
+            "english": "Of course, I understand."
+        },
+        {
+            "german": "Es ist klar, dass er lügt.",
+            "english": "It is clear that he is lying."
+        },
+        {
+            "german": "Klar, ich kann dir helfen.",
+            "english": "Sure, I can help you."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Arbeiter, die Arbeiter",
     "definition": "A person who is employed to perform physical or manual labor, often in industries or construction sites. This term typically refers to individuals engaged in various forms of work, such as factory workers, laborers, or workers in skilled trades.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Arbeiter arbeitet hart.",
-                "english": "The worker works hard."
-            },
-            {
-                "german": "Die Arbeiter streiken für bessere Arbeitsbedingungen.",
-                "english": "The workers are striking for better working conditions."
-            },
-            {
-                "german": "Der Arbeiter ist in einer Gewerkschaft.",
-                "english": "The worker is in a labor union."
-            },
-            {
-                "german": "Die Arbeiter haben eine Lohnerhöhung gefordert.",
-                "english": "The workers have demanded a pay raise."
-            },
-            {
-                "german": "Die Arbeiter haben ihre Arbeitsplätze verloren.",
-                "english": "The workers have lost their jobs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Arbeiter arbeitet hart.",
+            "english": "The worker works hard."
+        },
+        {
+            "german": "Die Arbeiter streiken für bessere Arbeitsbedingungen.",
+            "english": "The workers are striking for better working conditions."
+        },
+        {
+            "german": "Der Arbeiter ist in einer Gewerkschaft.",
+            "english": "The worker is in a labor union."
+        },
+        {
+            "german": "Die Arbeiter haben eine Lohnerhöhung gefordert.",
+            "english": "The workers have demanded a pay raise."
+        },
+        {
+            "german": "Die Arbeiter haben ihre Arbeitsplätze verloren.",
+            "english": "The workers have lost their jobs."
+        }
+    ]
 }

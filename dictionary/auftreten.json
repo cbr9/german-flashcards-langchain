@@ -1,28 +1,26 @@
 {
     "word": "auftreten, trat auf, aufgetreten",
     "definition": "To make an appearance or to occur in a certain situation, often referring to someone's public presence or performance in a specific context.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trete heute Abend im Theater auf.",
-                "english": "I am performing at the theater tonight."
-            },
-            {
-                "german": "Er tritt selbstbewusst und souverän auf.",
-                "english": "He presents himself confidently and confidently."
-            },
-            {
-                "german": "Die Symptome treten plötzlich auf.",
-                "english": "The symptoms appear suddenly."
-            },
-            {
-                "german": "Sie tritt als Sängerin in der Band auf.",
-                "english": "She performs as a singer in the band."
-            },
-            {
-                "german": "Das Problem tritt häufig bei älteren Menschen auf.",
-                "english": "The problem often occurs in older people."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trete heute Abend im Theater auf.",
+            "english": "I am performing at the theater tonight."
+        },
+        {
+            "german": "Er tritt selbstbewusst und souverän auf.",
+            "english": "He presents himself confidently and confidently."
+        },
+        {
+            "german": "Die Symptome treten plötzlich auf.",
+            "english": "The symptoms appear suddenly."
+        },
+        {
+            "german": "Sie tritt als Sängerin in der Band auf.",
+            "english": "She performs as a singer in the band."
+        },
+        {
+            "german": "Das Problem tritt häufig bei älteren Menschen auf.",
+            "english": "The problem often occurs in older people."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Plan, die Pläne",
     "definition": "A systematic arrangement or strategy outlining steps to achieve a specific goal or objective, often involving detailed organization and scheduling. It is commonly used in various contexts, such as project management, event planning, or personal goal setting.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen Plan.",
-                "english": "I have a plan."
-            },
-            {
-                "german": "Der Plan ist fehlgeschlagen.",
-                "english": "The plan failed."
-            },
-            {
-                "german": "Wir müssen einen Plan machen.",
-                "english": "We need to make a plan."
-            },
-            {
-                "german": "Hast du einen Plan?",
-                "english": "Do you have a plan?"
-            },
-            {
-                "german": "Der Plan wurde genehmigt.",
-                "english": "The plan was approved."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen Plan.",
+            "english": "I have a plan."
+        },
+        {
+            "german": "Der Plan ist fehlgeschlagen.",
+            "english": "The plan failed."
+        },
+        {
+            "german": "Wir müssen einen Plan machen.",
+            "english": "We need to make a plan."
+        },
+        {
+            "german": "Hast du einen Plan?",
+            "english": "Do you have a plan?"
+        },
+        {
+            "german": "Der Plan wurde genehmigt.",
+            "english": "The plan was approved."
+        }
+    ]
 }

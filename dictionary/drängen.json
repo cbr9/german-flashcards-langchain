@@ -1,28 +1,26 @@
 {
     "word": "drängen, drängte, gedrängt",
     "definition": "To exert pressure or urge someone to take action or make a decision, often in a persistent or insistent manner. It is commonly used to describe the act of pushing or pressing someone to do something, typically in a forceful or compelling way.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie drängte ihn, schneller zu gehen.",
-                "english": "She urged him to walk faster."
-            },
-            {
-                "german": "Die Menschen drängten sich vor dem Eingang.",
-                "english": "The people crowded in front of the entrance."
-            },
-            {
-                "german": "Er drängte sich durch die Menge.",
-                "english": "He pushed his way through the crowd."
-            },
-            {
-                "german": "Die Zeit drängt, wir müssen uns beeilen.",
-                "english": "Time is pressing, we need to hurry."
-            },
-            {
-                "german": "Die Eltern drängten auf eine schnelle Lösung.",
-                "english": "The parents insisted on a quick solution."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie drängte ihn, schneller zu gehen.",
+            "english": "She urged him to walk faster."
+        },
+        {
+            "german": "Die Menschen drängten sich vor dem Eingang.",
+            "english": "The people crowded in front of the entrance."
+        },
+        {
+            "german": "Er drängte sich durch die Menge.",
+            "english": "He pushed his way through the crowd."
+        },
+        {
+            "german": "Die Zeit drängt, wir müssen uns beeilen.",
+            "english": "Time is pressing, we need to hurry."
+        },
+        {
+            "german": "Die Eltern drängten auf eine schnelle Lösung.",
+            "english": "The parents insisted on a quick solution."
+        }
+    ]
 }

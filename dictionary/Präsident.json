@@ -1,28 +1,26 @@
 {
     "word": "der Präsident, die Präsidenten",
     "definition": "The head of a country or organization, typically elected or appointed, who holds a position of authority and is responsible for making important decisions and representing the entity in various contexts. This term is commonly used to refer to the highest-ranking official in a country or the leader of a specific organization.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Präsident ist das Staatsoberhaupt.",
-                "english": "The president is the head of state."
-            },
-            {
-                "german": "Der Präsident wird alle vier Jahre gewählt.",
-                "english": "The president is elected every four years."
-            },
-            {
-                "german": "Der Präsident hat große politische Macht.",
-                "english": "The president has significant political power."
-            },
-            {
-                "german": "Der Präsident vertritt das Land auf internationaler Ebene.",
-                "english": "The president represents the country on an international level."
-            },
-            {
-                "german": "Der Präsident hält eine Rede vor dem Parlament.",
-                "english": "The president delivers a speech in front of the parliament."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Präsident ist das Staatsoberhaupt.",
+            "english": "The president is the head of state."
+        },
+        {
+            "german": "Der Präsident wird alle vier Jahre gewählt.",
+            "english": "The president is elected every four years."
+        },
+        {
+            "german": "Der Präsident hat große politische Macht.",
+            "english": "The president has significant political power."
+        },
+        {
+            "german": "Der Präsident vertritt das Land auf internationaler Ebene.",
+            "english": "The president represents the country on an international level."
+        },
+        {
+            "german": "Der Präsident hält eine Rede vor dem Parlament.",
+            "english": "The president delivers a speech in front of the parliament."
+        }
+    ]
 }

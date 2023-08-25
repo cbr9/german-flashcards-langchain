@@ -1,28 +1,26 @@
 {
     "word": "die Länge, die Längen",
     "definition": "The measurement of the distance between two points in space, typically used to describe the extent or size of an object or distance traveled. It is commonly employed in various fields such as engineering, construction, and sports.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Länge des Tisches beträgt 2 Meter.",
-                "english": "The length of the table is 2 meters."
-            },
-            {
-                "german": "Die Länge des Flusses beträgt 500 Kilometer.",
-                "english": "The length of the river is 500 kilometers."
-            },
-            {
-                "german": "Die Länge des Films beträgt 2 Stunden.",
-                "english": "The length of the movie is 2 hours."
-            },
-            {
-                "german": "Die Länge des Seils reicht nicht aus.",
-                "english": "The length of the rope is not enough."
-            },
-            {
-                "german": "Die Länge des Kleides ist perfekt.",
-                "english": "The length of the dress is perfect."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Länge des Tisches beträgt 2 Meter.",
+            "english": "The length of the table is 2 meters."
+        },
+        {
+            "german": "Die Länge des Flusses beträgt 500 Kilometer.",
+            "english": "The length of the river is 500 kilometers."
+        },
+        {
+            "german": "Die Länge des Films beträgt 2 Stunden.",
+            "english": "The length of the movie is 2 hours."
+        },
+        {
+            "german": "Die Länge des Seils reicht nicht aus.",
+            "english": "The length of the rope is not enough."
+        },
+        {
+            "german": "Die Länge des Kleides ist perfekt.",
+            "english": "The length of the dress is perfect."
+        }
+    ]
 }

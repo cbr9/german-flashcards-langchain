@@ -1,28 +1,26 @@
 {
     "word": "auftauchen, tauchte auf, aufgetaucht",
     "definition": "To emerge suddenly or unexpectedly, often referring to a person or object appearing in a particular place or situation. It is commonly used to describe the act of someone or something appearing or showing up unexpectedly, as if coming up to the surface or coming into view.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er tauchte plötzlich aus dem Wasser auf.",
-                "english": "He suddenly emerged from the water."
-            },
-            {
-                "german": "Das Problem taucht immer wieder auf.",
-                "english": "The problem keeps cropping up."
-            },
-            {
-                "german": "Sie tauchte nach Muscheln am Meeresgrund auf.",
-                "english": "She surfaced to search for shells on the ocean floor."
-            },
-            {
-                "german": "Plötzlich tauchte ein unbekanntes Schiff auf.",
-                "english": "Suddenly, an unknown ship appeared."
-            },
-            {
-                "german": "Die Erinnerungen tauchen in meinem Kopf auf.",
-                "english": "The memories come up in my mind."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er tauchte plötzlich aus dem Wasser auf.",
+            "english": "He suddenly emerged from the water."
+        },
+        {
+            "german": "Das Problem taucht immer wieder auf.",
+            "english": "The problem keeps cropping up."
+        },
+        {
+            "german": "Sie tauchte nach Muscheln am Meeresgrund auf.",
+            "english": "She surfaced to search for shells on the ocean floor."
+        },
+        {
+            "german": "Plötzlich tauchte ein unbekanntes Schiff auf.",
+            "english": "Suddenly, an unknown ship appeared."
+        },
+        {
+            "german": "Die Erinnerungen tauchen in meinem Kopf auf.",
+            "english": "The memories come up in my mind."
+        }
+    ]
 }

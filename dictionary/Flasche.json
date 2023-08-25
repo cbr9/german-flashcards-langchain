@@ -1,28 +1,26 @@
 {
     "word": "die Flasche, die Flaschen",
     "definition": "A container typically made of glass or plastic, often cylindrical in shape, used for storing and dispensing liquids, especially beverages. It is commonly found in households, grocery stores, and restaurants.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Flasche ist leer.",
-                "english": "The bottle is empty."
-            },
-            {
-                "german": "Ich habe eine Flasche Wasser gekauft.",
-                "english": "I bought a bottle of water."
-            },
-            {
-                "german": "Die Flasche ist aus Glas.",
-                "english": "The bottle is made of glass."
-            },
-            {
-                "german": "Er hat die Flasche fallen lassen.",
-                "english": "He dropped the bottle."
-            },
-            {
-                "german": "Die Flasche ist verschlossen.",
-                "english": "The bottle is sealed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Flasche ist leer.",
+            "english": "The bottle is empty."
+        },
+        {
+            "german": "Ich habe eine Flasche Wasser gekauft.",
+            "english": "I bought a bottle of water."
+        },
+        {
+            "german": "Die Flasche ist aus Glas.",
+            "english": "The bottle is made of glass."
+        },
+        {
+            "german": "Er hat die Flasche fallen lassen.",
+            "english": "He dropped the bottle."
+        },
+        {
+            "german": "Die Flasche ist verschlossen.",
+            "english": "The bottle is sealed."
+        }
+    ]
 }

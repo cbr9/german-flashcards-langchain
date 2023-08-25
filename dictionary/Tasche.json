@@ -1,28 +1,26 @@
 {
     "word": "die Tasche, die Taschen",
     "definition": "A small, portable container typically made of fabric or leather, used for carrying personal belongings or small items. It is commonly used to store items such as keys, wallets, phones, and other small objects while on the go.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe mein Portemonnaie in der Tasche.",
-                "english": "I have my wallet in my pocket."
-            },
-            {
-                "german": "Sie steckte ihre Hand in die Tasche.",
-                "english": "She put her hand in her pocket."
-            },
-            {
-                "german": "Er kaufte eine neue Tasche für seine Bücher.",
-                "english": "He bought a new bag for his books."
-            },
-            {
-                "german": "Die Tasche ist aus Leder.",
-                "english": "The bag is made of leather."
-            },
-            {
-                "german": "Kannst du mir bitte meine Tasche geben?",
-                "english": "Can you please give me my bag?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe mein Portemonnaie in der Tasche.",
+            "english": "I have my wallet in my pocket."
+        },
+        {
+            "german": "Sie steckte ihre Hand in die Tasche.",
+            "english": "She put her hand in her pocket."
+        },
+        {
+            "german": "Er kaufte eine neue Tasche für seine Bücher.",
+            "english": "He bought a new bag for his books."
+        },
+        {
+            "german": "Die Tasche ist aus Leder.",
+            "english": "The bag is made of leather."
+        },
+        {
+            "german": "Kannst du mir bitte meine Tasche geben?",
+            "english": "Can you please give me my bag?"
+        }
+    ]
 }

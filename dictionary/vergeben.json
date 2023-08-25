@@ -1,28 +1,26 @@
 {
     "word": "vergeben, vergab, vergeben",
     "definition": "To grant or assign something, typically used to describe the act of giving or awarding a particular opportunity, privilege, or responsibility to someone. It can also refer to forgiving or pardoning someone for their actions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe ihm vergeben.",
-                "english": "I have forgiven him."
-            },
-            {
-                "german": "Sie vergibt ihm seine Fehler.",
-                "english": "She forgives him his mistakes."
-            },
-            {
-                "german": "Gott vergibt uns unsere Sünden.",
-                "english": "God forgives us our sins."
-            },
-            {
-                "german": "Er vergibt ihr nicht.",
-                "english": "He does not forgive her."
-            },
-            {
-                "german": "Kannst du mir vergeben?",
-                "english": "Can you forgive me?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe ihm vergeben.",
+            "english": "I have forgiven him."
+        },
+        {
+            "german": "Sie vergibt ihm seine Fehler.",
+            "english": "She forgives him his mistakes."
+        },
+        {
+            "german": "Gott vergibt uns unsere Sünden.",
+            "english": "God forgives us our sins."
+        },
+        {
+            "german": "Er vergibt ihr nicht.",
+            "english": "He does not forgive her."
+        },
+        {
+            "german": "Kannst du mir vergeben?",
+            "english": "Can you forgive me?"
+        }
+    ]
 }

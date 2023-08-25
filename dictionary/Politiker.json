@@ -1,28 +1,26 @@
 {
     "word": "der Politiker, die Politiker",
     "definition": "A person who is actively involved in the decision-making and implementation of policies and laws within a governmental or political context. This term typically refers to individuals who hold positions of authority or influence in the field of politics, and are responsible for representing the interests of a particular group or constituency.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein bekannter Politiker.",
-                "english": "He is a well-known politician."
-            },
-            {
-                "german": "Die Politiker diskutieren über das neue Gesetz.",
-                "english": "The politicians are discussing the new law."
-            },
-            {
-                "german": "Der Politiker wurde wegen Korruption verurteilt.",
-                "english": "The politician was convicted of corruption."
-            },
-            {
-                "german": "Die Politikerin setzt sich für Frauenrechte ein.",
-                "english": "The female politician advocates for women's rights."
-            },
-            {
-                "german": "Die Politiker haben eine wichtige Entscheidung getroffen.",
-                "english": "The politicians have made an important decision."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein bekannter Politiker.",
+            "english": "He is a well-known politician."
+        },
+        {
+            "german": "Die Politiker diskutieren über das neue Gesetz.",
+            "english": "The politicians are discussing the new law."
+        },
+        {
+            "german": "Der Politiker wurde wegen Korruption verurteilt.",
+            "english": "The politician was convicted of corruption."
+        },
+        {
+            "german": "Die Politikerin setzt sich für Frauenrechte ein.",
+            "english": "The female politician advocates for women's rights."
+        },
+        {
+            "german": "Die Politiker haben eine wichtige Entscheidung getroffen.",
+            "english": "The politicians have made an important decision."
+        }
+    ]
 }

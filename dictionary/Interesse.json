@@ -1,28 +1,26 @@
 {
     "word": "das Interesse, die Interessen",
     "definition": "A state of curiosity, attraction, or concern towards a particular subject, activity, or event. It is commonly used to describe one's inclination or desire to engage with or learn more about something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe Interesse an diesem Projekt.",
-                "english": "I am interested in this project."
-            },
-            {
-                "german": "Sie hat großes Interesse an Kunst.",
-                "english": "She has a great interest in art."
-            },
-            {
-                "german": "Das Thema weckt mein Interesse.",
-                "english": "The topic arouses my interest."
-            },
-            {
-                "german": "Er zeigt wenig Interesse an Politik.",
-                "english": "He shows little interest in politics."
-            },
-            {
-                "german": "Ich habe kein Interesse daran, mit ihm zu sprechen.",
-                "english": "I have no interest in talking to him."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe Interesse an diesem Projekt.",
+            "english": "I am interested in this project."
+        },
+        {
+            "german": "Sie hat großes Interesse an Kunst.",
+            "english": "She has a great interest in art."
+        },
+        {
+            "german": "Das Thema weckt mein Interesse.",
+            "english": "The topic arouses my interest."
+        },
+        {
+            "german": "Er zeigt wenig Interesse an Politik.",
+            "english": "He shows little interest in politics."
+        },
+        {
+            "german": "Ich habe kein Interesse daran, mit ihm zu sprechen.",
+            "english": "I have no interest in talking to him."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Sprache, die Sprachen",
     "definition": "A system of communication that involves the use of sounds, symbols, or gestures to convey meaning, typically used by humans for expressing thoughts, ideas, and emotions. It is commonly employed for interpersonal communication, written expression, and understanding of written or spoken information.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Deutsch ist meine Muttersprache.",
-                "english": "German is my mother tongue."
-            },
-            {
-                "german": "Ich lerne gerne neue Sprachen.",
-                "english": "I enjoy learning new languages."
-            },
-            {
-                "german": "Sprache ist ein wichtiges Kommunikationsmittel.",
-                "english": "Language is an important means of communication."
-            },
-            {
-                "german": "Welche Sprachen sprichst du?",
-                "english": "Which languages do you speak?"
-            },
-            {
-                "german": "Die deutsche Sprache hat viele Dialekte.",
-                "english": "The German language has many dialects."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Deutsch ist meine Muttersprache.",
+            "english": "German is my mother tongue."
+        },
+        {
+            "german": "Ich lerne gerne neue Sprachen.",
+            "english": "I enjoy learning new languages."
+        },
+        {
+            "german": "Sprache ist ein wichtiges Kommunikationsmittel.",
+            "english": "Language is an important means of communication."
+        },
+        {
+            "german": "Welche Sprachen sprichst du?",
+            "english": "Which languages do you speak?"
+        },
+        {
+            "german": "Die deutsche Sprache hat viele Dialekte.",
+            "english": "The German language has many dialects."
+        }
+    ]
 }

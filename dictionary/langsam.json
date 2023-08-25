@@ -1,28 +1,26 @@
 {
     "word": "langsam",
     "definition": "A term used to describe the opposite of fast or quick, typically referring to the speed or pace of an action or movement. It is commonly used to describe the rate at which something happens, or the speed at which someone performs a task.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe langsam.",
-                "english": "I am walking slowly."
-            },
-            {
-                "german": "Die Uhr tickt langsam.",
-                "english": "The clock is ticking slowly."
-            },
-            {
-                "german": "Er spricht langsam und deutlich.",
-                "english": "He speaks slowly and clearly."
-            },
-            {
-                "german": "Das Auto fährt langsam.",
-                "english": "The car is driving slowly."
-            },
-            {
-                "german": "Die Musik wird langsam lauter.",
-                "english": "The music is getting louder slowly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe langsam.",
+            "english": "I am walking slowly."
+        },
+        {
+            "german": "Die Uhr tickt langsam.",
+            "english": "The clock is ticking slowly."
+        },
+        {
+            "german": "Er spricht langsam und deutlich.",
+            "english": "He speaks slowly and clearly."
+        },
+        {
+            "german": "Das Auto fährt langsam.",
+            "english": "The car is driving slowly."
+        },
+        {
+            "german": "Die Musik wird langsam lauter.",
+            "english": "The music is getting louder slowly."
+        }
+    ]
 }

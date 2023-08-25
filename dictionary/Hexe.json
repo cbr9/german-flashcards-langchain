@@ -1,28 +1,26 @@
 {
     "word": "die Hexe, die Hexen",
     "definition": "A female being often associated with magical abilities, typically depicted in folklore and fairy tales. This term is commonly used to refer to a specific type of character known for casting spells, brewing potions, and flying on broomsticks.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Hexe fliegt auf ihrem Besen.",
-                "english": "The witch flies on her broom."
-            },
-            {
-                "german": "Die böse Hexe verwandelt den Prinzen in einen Frosch.",
-                "english": "The evil witch turns the prince into a frog."
-            },
-            {
-                "german": "Die Hexe braut einen Zaubertrank.",
-                "english": "The witch brews a magic potion."
-            },
-            {
-                "german": "Die Hexe lacht laut und gruselig.",
-                "english": "The witch laughs loudly and creepily."
-            },
-            {
-                "german": "Die Hexe wohnt in einem dunklen Wald.",
-                "english": "The witch lives in a dark forest."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Hexe fliegt auf ihrem Besen.",
+            "english": "The witch flies on her broom."
+        },
+        {
+            "german": "Die böse Hexe verwandelt den Prinzen in einen Frosch.",
+            "english": "The evil witch turns the prince into a frog."
+        },
+        {
+            "german": "Die Hexe braut einen Zaubertrank.",
+            "english": "The witch brews a magic potion."
+        },
+        {
+            "german": "Die Hexe lacht laut und gruselig.",
+            "english": "The witch laughs loudly and creepily."
+        },
+        {
+            "german": "Die Hexe wohnt in einem dunklen Wald.",
+            "english": "The witch lives in a dark forest."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "vereinigt",
     "definition": "The word \"vereinigt\" refers to the state of being brought together or united. It is commonly used to describe the act of combining or merging different entities, such as organizations, groups, or individuals, into a single unified entity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die beiden Unternehmen wurden vereinigt.",
-                "english": "The two companies were merged."
-            },
-            {
-                "german": "Die Länder wurden zu einem vereinigten Königreich.",
-                "english": "The countries became a united kingdom."
-            },
-            {
-                "german": "Die Vereinigten Staaten von Amerika haben viele Bundesstaaten.",
-                "english": "The United States of America has many states."
-            },
-            {
-                "german": "Die Vereinigten Nationen setzen sich für den Weltfrieden ein.",
-                "english": "The United Nations advocates for world peace."
-            },
-            {
-                "german": "Die beiden Teams haben sich zu einer vereinigten Mannschaft zusammengeschlossen.",
-                "english": "The two teams have joined together to form a united team."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die beiden Unternehmen wurden vereinigt.",
+            "english": "The two companies were merged."
+        },
+        {
+            "german": "Die Länder wurden zu einem vereinigten Königreich.",
+            "english": "The countries became a united kingdom."
+        },
+        {
+            "german": "Die Vereinigten Staaten von Amerika haben viele Bundesstaaten.",
+            "english": "The United States of America has many states."
+        },
+        {
+            "german": "Die Vereinigten Nationen setzen sich für den Weltfrieden ein.",
+            "english": "The United Nations advocates for world peace."
+        },
+        {
+            "german": "Die beiden Teams haben sich zu einer vereinigten Mannschaft zusammengeschlossen.",
+            "english": "The two teams have joined together to form a united team."
+        }
+    ]
 }

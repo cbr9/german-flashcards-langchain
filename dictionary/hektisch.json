@@ -1,28 +1,26 @@
 {
     "word": "hektisch",
     "definition": "The word \"hektisch\" refers to a state or behavior characterized by a rapid, frenzied, and agitated manner. It is commonly used to describe situations or individuals who are experiencing a high level of stress, urgency, or chaos.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist immer hektisch.",
-                "english": "He is always hectic."
-            },
-            {
-                "german": "Sie rennt hektisch durch die Gegend.",
-                "english": "She runs around hectically."
-            },
-            {
-                "german": "Der Verkehr war sehr hektisch.",
-                "english": "The traffic was very hectic."
-            },
-            {
-                "german": "In der Küche herrschte hektisches Treiben.",
-                "english": "There was a hectic activity in the kitchen."
-            },
-            {
-                "german": "Er reagierte hektisch auf die Situation.",
-                "english": "He reacted hectically to the situation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist immer hektisch.",
+            "english": "He is always hectic."
+        },
+        {
+            "german": "Sie rennt hektisch durch die Gegend.",
+            "english": "She runs around hectically."
+        },
+        {
+            "german": "Der Verkehr war sehr hektisch.",
+            "english": "The traffic was very hectic."
+        },
+        {
+            "german": "In der Küche herrschte hektisches Treiben.",
+            "english": "There was a hectic activity in the kitchen."
+        },
+        {
+            "german": "Er reagierte hektisch auf die Situation.",
+            "english": "He reacted hectically to the situation."
+        }
+    ]
 }

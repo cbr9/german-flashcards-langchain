@@ -1,28 +1,26 @@
 {
     "word": "außergewöhnlich",
     "definition": "This word describes something that is not ordinary or usual, standing out from the norm. It is often used to emphasize that something is exceptional, remarkable, or extraordinary.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist ein außergewöhnlicher Fall.",
-                "english": "This is an exceptional case."
-            },
-            {
-                "german": "Sie hat außergewöhnliche Fähigkeiten.",
-                "english": "She has extraordinary abilities."
-            },
-            {
-                "german": "Das Konzert war außergewöhnlich gut.",
-                "english": "The concert was exceptionally good."
-            },
-            {
-                "german": "Er hat ein außergewöhnliches Talent.",
-                "english": "He has an exceptional talent."
-            },
-            {
-                "german": "Die Landschaft ist außergewöhnlich schön.",
-                "english": "The landscape is exceptionally beautiful."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist ein außergewöhnlicher Fall.",
+            "english": "This is an exceptional case."
+        },
+        {
+            "german": "Sie hat außergewöhnliche Fähigkeiten.",
+            "english": "She has extraordinary abilities."
+        },
+        {
+            "german": "Das Konzert war außergewöhnlich gut.",
+            "english": "The concert was exceptionally good."
+        },
+        {
+            "german": "Er hat ein außergewöhnliches Talent.",
+            "english": "He has an exceptional talent."
+        },
+        {
+            "german": "Die Landschaft ist außergewöhnlich schön.",
+            "english": "The landscape is exceptionally beautiful."
+        }
+    ]
 }

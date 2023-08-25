@@ -1,28 +1,26 @@
 {
     "word": "das Programm, die Programme",
     "definition": "A set of instructions or commands that are written or coded to be executed by a computer or electronic device, typically used to perform specific tasks or operations. It can also refer to a planned series of events or activities, often related to entertainment or education.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Programm beginnt um 19 Uhr.",
-                "english": "The program starts at 7 pm."
-            },
-            {
-                "german": "Ich habe ein interessantes Fernsehprogramm gesehen.",
-                "english": "I watched an interesting TV program."
-            },
-            {
-                "german": "Kannst du mir ein gutes Fitnessprogramm empfehlen?",
-                "english": "Can you recommend a good fitness program to me?"
-            },
-            {
-                "german": "Wir haben ein abwechslungsreiches Veranstaltungsprogramm geplant.",
-                "english": "We have planned a diverse event program."
-            },
-            {
-                "german": "Das neue Computerprogramm ist sehr benutzerfreundlich.",
-                "english": "The new computer program is very user-friendly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Programm beginnt um 19 Uhr.",
+            "english": "The program starts at 7 pm."
+        },
+        {
+            "german": "Ich habe ein interessantes Fernsehprogramm gesehen.",
+            "english": "I watched an interesting TV program."
+        },
+        {
+            "german": "Kannst du mir ein gutes Fitnessprogramm empfehlen?",
+            "english": "Can you recommend a good fitness program to me?"
+        },
+        {
+            "german": "Wir haben ein abwechslungsreiches Veranstaltungsprogramm geplant.",
+            "english": "We have planned a diverse event program."
+        },
+        {
+            "german": "Das neue Computerprogramm ist sehr benutzerfreundlich.",
+            "english": "The new computer program is very user-friendly."
+        }
+    ]
 }

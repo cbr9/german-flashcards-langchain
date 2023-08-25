@@ -1,28 +1,26 @@
 {
     "word": "rauchen, rauchte, geraucht",
     "definition": "To inhale and exhale smoke produced by a burning substance, typically for recreational or addictive purposes. It is commonly associated with the act of lighting and smoking a cigarette, cigar, or pipe.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich rauche nicht.",
-                "english": "I don't smoke."
-            },
-            {
-                "german": "Rauchst du?",
-                "english": "Do you smoke?"
-            },
-            {
-                "german": "Er hat mit dem Rauchen aufgehört.",
-                "english": "He quit smoking."
-            },
-            {
-                "german": "Sie raucht eine Zigarette.",
-                "english": "She is smoking a cigarette."
-            },
-            {
-                "german": "Das Rauchen ist in diesem Bereich verboten.",
-                "english": "Smoking is prohibited in this area."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich rauche nicht.",
+            "english": "I don't smoke."
+        },
+        {
+            "german": "Rauchst du?",
+            "english": "Do you smoke?"
+        },
+        {
+            "german": "Er hat mit dem Rauchen aufgehört.",
+            "english": "He quit smoking."
+        },
+        {
+            "german": "Sie raucht eine Zigarette.",
+            "english": "She is smoking a cigarette."
+        },
+        {
+            "german": "Das Rauchen ist in diesem Bereich verboten.",
+            "english": "Smoking is prohibited in this area."
+        }
+    ]
 }

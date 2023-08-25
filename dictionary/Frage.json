@@ -1,28 +1,26 @@
 {
     "word": "die Frage, die Fragen",
     "definition": "A linguistic unit that typically consists of a sequence of words, expressing an inquiry or request for information, and is commonly employed to seek clarification, knowledge, or opinions from others. It is frequently utilized in conversations, interviews, surveys, and discussions to elicit responses or engage in dialogue.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kann ich Ihnen helfen?",
-                "english": "Can I help you?"
-            },
-            {
-                "german": "Ich habe eine Frage.",
-                "english": "I have a question."
-            },
-            {
-                "german": "Können Sie das bitte wiederholen?",
-                "english": "Can you please repeat that?"
-            },
-            {
-                "german": "Haben Sie eine Antwort?",
-                "english": "Do you have an answer?"
-            },
-            {
-                "german": "Ich verstehe die Frage nicht.",
-                "english": "I don't understand the question."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kann ich Ihnen helfen?",
+            "english": "Can I help you?"
+        },
+        {
+            "german": "Ich habe eine Frage.",
+            "english": "I have a question."
+        },
+        {
+            "german": "Können Sie das bitte wiederholen?",
+            "english": "Can you please repeat that?"
+        },
+        {
+            "german": "Haben Sie eine Antwort?",
+            "english": "Do you have an answer?"
+        },
+        {
+            "german": "Ich verstehe die Frage nicht.",
+            "english": "I don't understand the question."
+        }
+    ]
 }

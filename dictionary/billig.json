@@ -1,28 +1,26 @@
 {
     "word": "billig",
     "definition": "The term \"billig\" refers to something that is economically priced or inexpensive. It is commonly used to describe products or services that are affordable or available at a low cost.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das T-Shirt ist billig.",
-                "english": "The T-shirt is cheap."
-            },
-            {
-                "german": "Ich habe ein billiges Auto gekauft.",
-                "english": "I bought a cheap car."
-            },
-            {
-                "german": "Die Preise sind hier sehr billig.",
-                "english": "The prices are very low here."
-            },
-            {
-                "german": "Er hat billigere Alternativen gefunden.",
-                "english": "He found cheaper alternatives."
-            },
-            {
-                "german": "Das Essen in diesem Restaurant ist billig.",
-                "english": "The food in this restaurant is inexpensive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das T-Shirt ist billig.",
+            "english": "The T-shirt is cheap."
+        },
+        {
+            "german": "Ich habe ein billiges Auto gekauft.",
+            "english": "I bought a cheap car."
+        },
+        {
+            "german": "Die Preise sind hier sehr billig.",
+            "english": "The prices are very low here."
+        },
+        {
+            "german": "Er hat billigere Alternativen gefunden.",
+            "english": "He found cheaper alternatives."
+        },
+        {
+            "german": "Das Essen in diesem Restaurant ist billig.",
+            "english": "The food in this restaurant is inexpensive."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "schriftlich",
     "definition": "The term \"schriftlich\" refers to the act of expressing or conveying information, thoughts, or ideas through written means. It commonly pertains to the written form of communication, such as letters, documents, or any written correspondence. This word is frequently used in various contexts where written communication is essential, such as official or legal matters, academic settings, or professional environments.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe die Informationen schriftlich erhalten.",
-                "english": "I received the information in writing."
-            },
-            {
-                "german": "Bitte reichen Sie Ihre Bewerbung schriftlich ein.",
-                "english": "Please submit your application in writing."
-            },
-            {
-                "german": "Die Vereinbarung muss schriftlich festgehalten werden.",
-                "english": "The agreement must be recorded in writing."
-            },
-            {
-                "german": "Er hat schriftlich um eine Verlängerung gebeten.",
-                "english": "He requested an extension in writing."
-            },
-            {
-                "german": "Die schriftliche Prüfung findet am Freitag statt.",
-                "english": "The written exam will take place on Friday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe die Informationen schriftlich erhalten.",
+            "english": "I received the information in writing."
+        },
+        {
+            "german": "Bitte reichen Sie Ihre Bewerbung schriftlich ein.",
+            "english": "Please submit your application in writing."
+        },
+        {
+            "german": "Die Vereinbarung muss schriftlich festgehalten werden.",
+            "english": "The agreement must be recorded in writing."
+        },
+        {
+            "german": "Er hat schriftlich um eine Verlängerung gebeten.",
+            "english": "He requested an extension in writing."
+        },
+        {
+            "german": "Die schriftliche Prüfung findet am Freitag statt.",
+            "english": "The written exam will take place on Friday."
+        }
+    ]
 }

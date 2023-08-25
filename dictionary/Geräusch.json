@@ -1,28 +1,26 @@
 {
     "word": "das Geräusch, die Geräusche",
     "definition": "A sound or noise, typically used to describe any audible disturbance or commotion, often associated with the perception of auditory sensations. It is commonly employed to refer to various types of sounds, whether they are loud, soft, pleasant, or unpleasant.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Geräusch des Regens beruhigt mich.",
-                "english": "The sound of the rain calms me."
-            },
-            {
-                "german": "Das Geräusch des Staubsaugers ist sehr laut.",
-                "english": "The sound of the vacuum cleaner is very loud."
-            },
-            {
-                "german": "Ich konnte ein seltsames Geräusch hören.",
-                "english": "I could hear a strange noise."
-            },
-            {
-                "german": "Das Geräusch des Autos weckte mich auf.",
-                "english": "The sound of the car woke me up."
-            },
-            {
-                "german": "Das Geräusch des Windes in den Bäumen ist beruhigend.",
-                "english": "The sound of the wind in the trees is soothing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Geräusch des Regens beruhigt mich.",
+            "english": "The sound of the rain calms me."
+        },
+        {
+            "german": "Das Geräusch des Staubsaugers ist sehr laut.",
+            "english": "The sound of the vacuum cleaner is very loud."
+        },
+        {
+            "german": "Ich konnte ein seltsames Geräusch hören.",
+            "english": "I could hear a strange noise."
+        },
+        {
+            "german": "Das Geräusch des Autos weckte mich auf.",
+            "english": "The sound of the car woke me up."
+        },
+        {
+            "german": "Das Geräusch des Windes in den Bäumen ist beruhigend.",
+            "english": "The sound of the wind in the trees is soothing."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Wasser, die Wasser",
     "definition": "A clear, odorless, tasteless liquid that is essential for the survival of living organisms, used for various purposes such as drinking, cooking, cleaning, and irrigation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trinke gerne Wasser.",
-                "english": "I like to drink water."
-            },
-            {
-                "german": "Das Wasser ist kalt.",
-                "english": "The water is cold."
-            },
-            {
-                "german": "Bitte geben Sie mir ein Glas Wasser.",
-                "english": "Please give me a glass of water."
-            },
-            {
-                "german": "Das Wasser fließt schnell.",
-                "english": "The water is flowing fast."
-            },
-            {
-                "german": "Wasser ist lebensnotwendig.",
-                "english": "Water is essential for life."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trinke gerne Wasser.",
+            "english": "I like to drink water."
+        },
+        {
+            "german": "Das Wasser ist kalt.",
+            "english": "The water is cold."
+        },
+        {
+            "german": "Bitte geben Sie mir ein Glas Wasser.",
+            "english": "Please give me a glass of water."
+        },
+        {
+            "german": "Das Wasser fließt schnell.",
+            "english": "The water is flowing fast."
+        },
+        {
+            "german": "Wasser ist lebensnotwendig.",
+            "english": "Water is essential for life."
+        }
+    ]
 }

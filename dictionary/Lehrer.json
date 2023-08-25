@@ -1,28 +1,26 @@
 {
     "word": "der Lehrer, die Lehrer",
     "definition": "A person who imparts knowledge and instructs others in a formal educational setting, typically employed in schools or universities. They are responsible for teaching and guiding students in various subjects, providing them with the necessary skills and information to further their education.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Lehrer unterrichtet Mathematik.",
-                "english": "The teacher teaches mathematics."
-            },
-            {
-                "german": "Unsere Deutschlehrerin ist sehr nett.",
-                "english": "Our German teacher is very nice."
-            },
-            {
-                "german": "Der Lehrer korrigiert die Tests.",
-                "english": "The teacher corrects the tests."
-            },
-            {
-                "german": "Mein Vater ist Lehrer an einer Grundschule.",
-                "english": "My father is a teacher at an elementary school."
-            },
-            {
-                "german": "Die Lehrerin erklärt den Schülern die Aufgabe.",
-                "english": "The teacher explains the task to the students."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Lehrer unterrichtet Mathematik.",
+            "english": "The teacher teaches mathematics."
+        },
+        {
+            "german": "Unsere Deutschlehrerin ist sehr nett.",
+            "english": "Our German teacher is very nice."
+        },
+        {
+            "german": "Der Lehrer korrigiert die Tests.",
+            "english": "The teacher corrects the tests."
+        },
+        {
+            "german": "Mein Vater ist Lehrer an einer Grundschule.",
+            "english": "My father is a teacher at an elementary school."
+        },
+        {
+            "german": "Die Lehrerin erklärt den Schülern die Aufgabe.",
+            "english": "The teacher explains the task to the students."
+        }
+    ]
 }

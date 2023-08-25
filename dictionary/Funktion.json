@@ -1,28 +1,26 @@
 {
     "word": "die Funktion, die Funktionen",
     "definition": "A term used to describe the purpose or role that something or someone serves within a system or structure. It commonly refers to the intended or expected behavior, operation, or task that an object, device, or person is designed or assigned to perform. This word is frequently employed in the context of mathematics, computer science, and engineering to denote a mathematical relationship or a subroutine that carries out a specific task within a program or system. It can also be used more broadly to describe the general function or purpose of an object, concept, or individual in various domains.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Funktion des Computers ist es, Daten zu verarbeiten.",
-                "english": "The function of the computer is to process data."
-            },
-            {
-                "german": "Die Funktion dieser Maschine ist es, Kaffee zu brühen.",
-                "english": "The function of this machine is to brew coffee."
-            },
-            {
-                "german": "Die Funktion der Augen ist es, Licht zu empfangen und Bilder zu sehen.",
-                "english": "The function of the eyes is to receive light and see images."
-            },
-            {
-                "german": "Die Funktion eines Autos ist es, Menschen von einem Ort zum anderen zu transportieren.",
-                "english": "The function of a car is to transport people from one place to another."
-            },
-            {
-                "german": "Die Funktion eines Handys ist es, Anrufe zu tätigen und Nachrichten zu senden.",
-                "english": "The function of a mobile phone is to make calls and send messages."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Funktion des Computers ist es, Daten zu verarbeiten.",
+            "english": "The function of the computer is to process data."
+        },
+        {
+            "german": "Die Funktion dieser Maschine ist es, Kaffee zu brühen.",
+            "english": "The function of this machine is to brew coffee."
+        },
+        {
+            "german": "Die Funktion der Augen ist es, Licht zu empfangen und Bilder zu sehen.",
+            "english": "The function of the eyes is to receive light and see images."
+        },
+        {
+            "german": "Die Funktion eines Autos ist es, Menschen von einem Ort zum anderen zu transportieren.",
+            "english": "The function of a car is to transport people from one place to another."
+        },
+        {
+            "german": "Die Funktion eines Handys ist es, Anrufe zu tätigen und Nachrichten zu senden.",
+            "english": "The function of a mobile phone is to make calls and send messages."
+        }
+    ]
 }

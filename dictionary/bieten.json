@@ -1,28 +1,26 @@
 {
     "word": "bieten, bot, geboten",
     "definition": "To present or offer something, typically in a commercial or competitive context, giving someone the opportunity to acquire or accept it. This verb is commonly used when referring to auctions, sales, or proposals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich biete dir meine Hilfe an.",
-                "english": "I offer you my help."
-            },
-            {
-                "german": "Das Restaurant bietet eine große Auswahl an Speisen.",
-                "english": "The restaurant offers a wide selection of dishes."
-            },
-            {
-                "german": "Er bietet ihr einen Job an.",
-                "english": "He offers her a job."
-            },
-            {
-                "german": "Der Laden bietet viele Sonderangebote.",
-                "english": "The store offers many special deals."
-            },
-            {
-                "german": "Die Firma bietet flexible Arbeitszeiten.",
-                "english": "The company offers flexible working hours."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich biete dir meine Hilfe an.",
+            "english": "I offer you my help."
+        },
+        {
+            "german": "Das Restaurant bietet eine große Auswahl an Speisen.",
+            "english": "The restaurant offers a wide selection of dishes."
+        },
+        {
+            "german": "Er bietet ihr einen Job an.",
+            "english": "He offers her a job."
+        },
+        {
+            "german": "Der Laden bietet viele Sonderangebote.",
+            "english": "The store offers many special deals."
+        },
+        {
+            "german": "Die Firma bietet flexible Arbeitszeiten.",
+            "english": "The company offers flexible working hours."
+        }
+    ]
 }

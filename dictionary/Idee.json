@@ -1,28 +1,26 @@
 {
     "word": "die Idee, die Ideen",
     "definition": "A concept or notion that represents a mental image or thought, often used to describe a creative or innovative idea. It is commonly employed in various contexts, such as brainstorming, problem-solving, and artistic endeavors.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine Idee.",
-                "english": "I have an idea."
-            },
-            {
-                "german": "Hast du eine Idee, wie wir das Problem lösen können?",
-                "english": "Do you have an idea how we can solve the problem?"
-            },
-            {
-                "german": "Die Idee ist großartig!",
-                "english": "The idea is great!"
-            },
-            {
-                "german": "Er hatte eine brillante Idee.",
-                "english": "He had a brilliant idea."
-            },
-            {
-                "german": "Die Idee kam mir plötzlich.",
-                "english": "The idea came to me suddenly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine Idee.",
+            "english": "I have an idea."
+        },
+        {
+            "german": "Hast du eine Idee, wie wir das Problem lösen können?",
+            "english": "Do you have an idea how we can solve the problem?"
+        },
+        {
+            "german": "Die Idee ist großartig!",
+            "english": "The idea is great!"
+        },
+        {
+            "german": "Er hatte eine brillante Idee.",
+            "english": "He had a brilliant idea."
+        },
+        {
+            "german": "Die Idee kam mir plötzlich.",
+            "english": "The idea came to me suddenly."
+        }
+    ]
 }

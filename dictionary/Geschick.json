@@ -1,28 +1,26 @@
 {
     "word": "das Geschick, die Geschicke",
     "definition": "A term used to describe a particular ability or skill that involves a combination of dexterity, cleverness, and resourcefulness. It is often associated with tasks or activities that require finesse, agility, or adeptness in handling or manipulating objects. This term is commonly used in contexts related to craftsmanship, artistry, or any activity that demands a high level of manual or mental proficiency.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er hat ein gutes Geschick für Musik.",
-                "english": "He has a good knack for music."
-            },
-            {
-                "german": "Sie hat ein Geschick für Sprachen.",
-                "english": "She has a talent for languages."
-            },
-            {
-                "german": "Sein Geschick im Umgang mit Menschen ist bewundernswert.",
-                "english": "His skill in dealing with people is admirable."
-            },
-            {
-                "german": "Sie hat ein Geschick für das Lösen von Rätseln.",
-                "english": "She has a knack for solving puzzles."
-            },
-            {
-                "german": "Sein Geschick als Handwerker ist beeindruckend.",
-                "english": "His skill as a craftsman is impressive."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er hat ein gutes Geschick für Musik.",
+            "english": "He has a good knack for music."
+        },
+        {
+            "german": "Sie hat ein Geschick für Sprachen.",
+            "english": "She has a talent for languages."
+        },
+        {
+            "german": "Sein Geschick im Umgang mit Menschen ist bewundernswert.",
+            "english": "His skill in dealing with people is admirable."
+        },
+        {
+            "german": "Sie hat ein Geschick für das Lösen von Rätseln.",
+            "english": "She has a knack for solving puzzles."
+        },
+        {
+            "german": "Sein Geschick als Handwerker ist beeindruckend.",
+            "english": "His skill as a craftsman is impressive."
+        }
+    ]
 }

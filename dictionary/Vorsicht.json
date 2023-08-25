@@ -1,28 +1,26 @@
 {
     "word": "die Vorsicht, die Vorsichten",
     "definition": "A term used to convey a sense of caution or warning, typically employed to alert someone about potential danger or to advise them to be careful in a specific situation. It is commonly used as an exclamation or as a sign to indicate the need for attentiveness and prudence.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Vorsicht, die Straße ist glatt.",
-                "english": "Caution, the road is slippery."
-            },
-            {
-                "german": "Vorsicht, der Hund beißt.",
-                "english": "Beware, the dog bites."
-            },
-            {
-                "german": "Vorsicht, hohe Spannung!",
-                "english": "Caution, high voltage!"
-            },
-            {
-                "german": "Vorsicht, rutschige Oberfläche.",
-                "english": "Caution, slippery surface."
-            },
-            {
-                "german": "Vorsicht, Glasscherben!",
-                "english": "Watch out, broken glass!"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Vorsicht, die Straße ist glatt.",
+            "english": "Caution, the road is slippery."
+        },
+        {
+            "german": "Vorsicht, der Hund beißt.",
+            "english": "Beware, the dog bites."
+        },
+        {
+            "german": "Vorsicht, hohe Spannung!",
+            "english": "Caution, high voltage!"
+        },
+        {
+            "german": "Vorsicht, rutschige Oberfläche.",
+            "english": "Caution, slippery surface."
+        },
+        {
+            "german": "Vorsicht, Glasscherben!",
+            "english": "Watch out, broken glass!"
+        }
+    ]
 }

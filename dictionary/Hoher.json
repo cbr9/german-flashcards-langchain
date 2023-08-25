@@ -1,28 +1,26 @@
 {
     "word": "Hoher",
     "definition": "A comparative adjective used to describe something that has a greater height or elevation than other things. It is commonly used to compare the height of objects, structures, or geographical features.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Hoher Berg",
-                "english": "High mountain"
-            },
-            {
-                "german": "Hoher Preis",
-                "english": "High price"
-            },
-            {
-                "german": "Hoher Turm",
-                "english": "Tall tower"
-            },
-            {
-                "german": "Hoher IQ",
-                "english": "High IQ"
-            },
-            {
-                "german": "Hoher Standard",
-                "english": "High standard"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Hoher Berg",
+            "english": "High mountain"
+        },
+        {
+            "german": "Hoher Preis",
+            "english": "High price"
+        },
+        {
+            "german": "Hoher Turm",
+            "english": "Tall tower"
+        },
+        {
+            "german": "Hoher IQ",
+            "english": "High IQ"
+        },
+        {
+            "german": "Hoher Standard",
+            "english": "High standard"
+        }
+    ]
 }

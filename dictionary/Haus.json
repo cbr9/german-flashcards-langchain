@@ -1,28 +1,26 @@
 {
     "word": "das Haus, die Häuser",
     "definition": "A structure or building typically used as a place of residence, providing shelter and accommodation for individuals or families. It commonly serves as a private living space, offering protection from the elements and a place to sleep, eat, and engage in daily activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Haus ist groß.",
-                "english": "The house is big."
-            },
-            {
-                "german": "Mein Haus hat einen Garten.",
-                "english": "My house has a garden."
-            },
-            {
-                "german": "Das Haus steht am Fluss.",
-                "english": "The house is by the river."
-            },
-            {
-                "german": "Wir haben ein neues Haus gekauft.",
-                "english": "We bought a new house."
-            },
-            {
-                "german": "Das Haus ist aus Stein gebaut.",
-                "english": "The house is made of stone."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Haus ist groß.",
+            "english": "The house is big."
+        },
+        {
+            "german": "Mein Haus hat einen Garten.",
+            "english": "My house has a garden."
+        },
+        {
+            "german": "Das Haus steht am Fluss.",
+            "english": "The house is by the river."
+        },
+        {
+            "german": "Wir haben ein neues Haus gekauft.",
+            "english": "We bought a new house."
+        },
+        {
+            "german": "Das Haus ist aus Stein gebaut.",
+            "english": "The house is made of stone."
+        }
+    ]
 }

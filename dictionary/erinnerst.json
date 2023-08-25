@@ -1,28 +1,26 @@
 {
     "word": "erinnerst",
     "definition": "To recall or bring back to mind a past event, experience, or memory, typically used when addressing someone in the second person singular form.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Erinnerst du dich an mich?",
-                "english": "Do you remember me?"
-            },
-            {
-                "german": "Ich erinnere mich nicht an seinen Namen.",
-                "english": "I don't remember his name."
-            },
-            {
-                "german": "Erinnerst du dich an das Konzert gestern?",
-                "english": "Do you remember the concert yesterday?"
-            },
-            {
-                "german": "Ich erinnere mich gerne an unsere gemeinsame Zeit.",
-                "english": "I fondly remember our time together."
-            },
-            {
-                "german": "Erinnerst du dich noch an unseren letzten Urlaub?",
-                "english": "Do you still remember our last vacation?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Erinnerst du dich an mich?",
+            "english": "Do you remember me?"
+        },
+        {
+            "german": "Ich erinnere mich nicht an seinen Namen.",
+            "english": "I don't remember his name."
+        },
+        {
+            "german": "Erinnerst du dich an das Konzert gestern?",
+            "english": "Do you remember the concert yesterday?"
+        },
+        {
+            "german": "Ich erinnere mich gerne an unsere gemeinsame Zeit.",
+            "english": "I fondly remember our time together."
+        },
+        {
+            "german": "Erinnerst du dich noch an unseren letzten Urlaub?",
+            "english": "Do you still remember our last vacation?"
+        }
+    ]
 }

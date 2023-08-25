@@ -1,28 +1,26 @@
 {
     "word": "lösen, löste, gelöst",
     "definition": "To separate or detach something, often by undoing a connection or solving a problem. It is commonly used when referring to unfastening, untangling, or resolving a situation or puzzle.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich kann das Problem lösen.",
-                "english": "I can solve the problem."
-            },
-            {
-                "german": "Bitte lösen Sie das Rätsel.",
-                "english": "Please solve the puzzle."
-            },
-            {
-                "german": "Die Medikamente können die Schmerzen lösen.",
-                "english": "The medication can relieve the pain."
-            },
-            {
-                "german": "Er konnte den Knoten lösen.",
-                "english": "He was able to untie the knot."
-            },
-            {
-                "german": "Die Spannung wurde gelöst, als er die Wahrheit erfuhr.",
-                "english": "The tension was relieved when he learned the truth."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich kann das Problem lösen.",
+            "english": "I can solve the problem."
+        },
+        {
+            "german": "Bitte lösen Sie das Rätsel.",
+            "english": "Please solve the puzzle."
+        },
+        {
+            "german": "Die Medikamente können die Schmerzen lösen.",
+            "english": "The medication can relieve the pain."
+        },
+        {
+            "german": "Er konnte den Knoten lösen.",
+            "english": "He was able to untie the knot."
+        },
+        {
+            "german": "Die Spannung wurde gelöst, als er die Wahrheit erfuhr.",
+            "english": "The tension was relieved when he learned the truth."
+        }
+    ]
 }

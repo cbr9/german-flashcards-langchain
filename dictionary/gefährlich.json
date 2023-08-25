@@ -1,28 +1,26 @@
 {
     "word": "gefährlich",
     "definition": "This word describes something that poses a potential risk or danger to individuals or their well-being. It is commonly used to describe situations, objects, or actions that may cause harm or be hazardous.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist eine gefährliche Situation.",
-                "english": "This is a dangerous situation."
-            },
-            {
-                "german": "Der Hund kann gefährlich sein.",
-                "english": "The dog can be dangerous."
-            },
-            {
-                "german": "Es ist gefährlich, alleine im Dunkeln zu gehen.",
-                "english": "It is dangerous to walk alone in the dark."
-            },
-            {
-                "german": "Die Straße ist sehr gefährlich.",
-                "english": "The road is very dangerous."
-            },
-            {
-                "german": "Rauchen ist gefährlich für die Gesundheit.",
-                "english": "Smoking is dangerous for your health."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist eine gefährliche Situation.",
+            "english": "This is a dangerous situation."
+        },
+        {
+            "german": "Der Hund kann gefährlich sein.",
+            "english": "The dog can be dangerous."
+        },
+        {
+            "german": "Es ist gefährlich, alleine im Dunkeln zu gehen.",
+            "english": "It is dangerous to walk alone in the dark."
+        },
+        {
+            "german": "Die Straße ist sehr gefährlich.",
+            "english": "The road is very dangerous."
+        },
+        {
+            "german": "Rauchen ist gefährlich für die Gesundheit.",
+            "english": "Smoking is dangerous for your health."
+        }
+    ]
 }

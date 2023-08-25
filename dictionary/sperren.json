@@ -1,28 +1,26 @@
 {
     "word": "sperren, sperrte, gesperrt",
     "definition": "To restrict access to a certain area, object, or service, often by means of physical barriers or digital measures. It is commonly employed in the context of securing or blocking off spaces, locking doors, or implementing access controls.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Polizei hat die Straße gesperrt.",
-                "english": "The police closed off the street."
-            },
-            {
-                "german": "Bitte sperren Sie Ihr Fahrrad ab.",
-                "english": "Please lock your bicycle."
-            },
-            {
-                "german": "Der Zugverkehr wurde wegen eines Unfalls gesperrt.",
-                "english": "Train service was suspended due to an accident."
-            },
-            {
-                "german": "Die Kreditkarte wurde aus Sicherheitsgründen gesperrt.",
-                "english": "The credit card was blocked for security reasons."
-            },
-            {
-                "german": "Der Zugang zum Gebäude ist nachts gesperrt.",
-                "english": "Access to the building is restricted at night."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Polizei hat die Straße gesperrt.",
+            "english": "The police closed off the street."
+        },
+        {
+            "german": "Bitte sperren Sie Ihr Fahrrad ab.",
+            "english": "Please lock your bicycle."
+        },
+        {
+            "german": "Der Zugverkehr wurde wegen eines Unfalls gesperrt.",
+            "english": "Train service was suspended due to an accident."
+        },
+        {
+            "german": "Die Kreditkarte wurde aus Sicherheitsgründen gesperrt.",
+            "english": "The credit card was blocked for security reasons."
+        },
+        {
+            "german": "Der Zugang zum Gebäude ist nachts gesperrt.",
+            "english": "Access to the building is restricted at night."
+        }
+    ]
 }

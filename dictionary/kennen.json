@@ -1,28 +1,26 @@
 {
     "word": "kennen, kannte, gekannt",
     "definition": "To be familiar with someone or something, typically used to describe the act of knowing or recognizing a person, place, or thing through personal experience or acquaintance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich kenne ihn seit Jahren.",
-                "english": "I have known him for years."
-            },
-            {
-                "german": "Kennst du den Weg zum Bahnhof?",
-                "english": "Do you know the way to the train station?"
-            },
-            {
-                "german": "Sie kennt sich gut mit Computern aus.",
-                "english": "She is knowledgeable about computers."
-            },
-            {
-                "german": "Ich kenne diese Stadt wie meine Westentasche.",
-                "english": "I know this city like the back of my hand."
-            },
-            {
-                "german": "Er kennt den Unterschied zwischen richtig und falsch.",
-                "english": "He knows the difference between right and wrong."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich kenne ihn seit Jahren.",
+            "english": "I have known him for years."
+        },
+        {
+            "german": "Kennst du den Weg zum Bahnhof?",
+            "english": "Do you know the way to the train station?"
+        },
+        {
+            "german": "Sie kennt sich gut mit Computern aus.",
+            "english": "She is knowledgeable about computers."
+        },
+        {
+            "german": "Ich kenne diese Stadt wie meine Westentasche.",
+            "english": "I know this city like the back of my hand."
+        },
+        {
+            "german": "Er kennt den Unterschied zwischen richtig und falsch.",
+            "english": "He knows the difference between right and wrong."
+        }
+    ]
 }

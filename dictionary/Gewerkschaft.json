@@ -1,28 +1,26 @@
 {
     "word": "die Gewerkschaft, die Gewerkschaften",
     "definition": "A group or organization that represents and advocates for the rights and interests of workers in a specific industry or profession. It typically negotiates with employers on behalf of its members regarding wages, working conditions, and other employment-related matters.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Gewerkschaft verhandelt im Namen der Arbeitnehmer.",
-                "english": "The trade union negotiates on behalf of the employees."
-            },
-            {
-                "german": "Die Gewerkschaft organisiert Streiks, um bessere Arbeitsbedingungen zu erreichen.",
-                "english": "The trade union organizes strikes to achieve better working conditions."
-            },
-            {
-                "german": "Die Gewerkschaft setzt sich für gerechte Löhne ein.",
-                "english": "The trade union advocates for fair wages."
-            },
-            {
-                "german": "Die Gewerkschaft vertritt die Interessen der Arbeitnehmer gegenüber den Arbeitgebern.",
-                "english": "The trade union represents the interests of the employees towards the employers."
-            },
-            {
-                "german": "Die Gewerkschaft bietet ihren Mitgliedern rechtlichen Beistand.",
-                "english": "The trade union provides legal assistance to its members."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Gewerkschaft verhandelt im Namen der Arbeitnehmer.",
+            "english": "The trade union negotiates on behalf of the employees."
+        },
+        {
+            "german": "Die Gewerkschaft organisiert Streiks, um bessere Arbeitsbedingungen zu erreichen.",
+            "english": "The trade union organizes strikes to achieve better working conditions."
+        },
+        {
+            "german": "Die Gewerkschaft setzt sich für gerechte Löhne ein.",
+            "english": "The trade union advocates for fair wages."
+        },
+        {
+            "german": "Die Gewerkschaft vertritt die Interessen der Arbeitnehmer gegenüber den Arbeitgebern.",
+            "english": "The trade union represents the interests of the employees towards the employers."
+        },
+        {
+            "german": "Die Gewerkschaft bietet ihren Mitgliedern rechtlichen Beistand.",
+            "english": "The trade union provides legal assistance to its members."
+        }
+    ]
 }

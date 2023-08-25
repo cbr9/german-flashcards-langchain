@@ -1,28 +1,26 @@
 {
     "word": "der Gott, die Götter",
     "definition": "A supreme being or deity, often referred to in religious contexts and worshiped by believers. It is commonly used to express reverence, seek guidance, or convey a sense of divine power and authority.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Gott ist allmächtig.",
-                "english": "God is all-powerful."
-            },
-            {
-                "german": "Ich glaube an Gott.",
-                "english": "I believe in God."
-            },
-            {
-                "german": "Gott segne dich!",
-                "english": "God bless you!"
-            },
-            {
-                "german": "Gott ist die Liebe.",
-                "english": "God is love."
-            },
-            {
-                "german": "Gott existiert nicht.",
-                "english": "God does not exist."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Gott ist allmächtig.",
+            "english": "God is all-powerful."
+        },
+        {
+            "german": "Ich glaube an Gott.",
+            "english": "I believe in God."
+        },
+        {
+            "german": "Gott segne dich!",
+            "english": "God bless you!"
+        },
+        {
+            "german": "Gott ist die Liebe.",
+            "english": "God is love."
+        },
+        {
+            "german": "Gott existiert nicht.",
+            "english": "God does not exist."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "heute",
     "definition": "\"Heute\" refers to the time period that encompasses the current day, typically used to indicate the present moment or events occurring on the same day. It is commonly employed to express the concept of \"today\" or to refer to activities, appointments, or occurrences happening in the immediate timeframe.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Heute ist ein schöner Tag.",
-                "english": "Today is a beautiful day."
-            },
-            {
-                "german": "Was machst du heute Abend?",
-                "english": "What are you doing tonight?"
-            },
-            {
-                "german": "Heute habe ich viel zu tun.",
-                "english": "I have a lot to do today."
-            },
-            {
-                "german": "Heute ist der erste Tag des Monats.",
-                "english": "Today is the first day of the month."
-            },
-            {
-                "german": "Heute Abend gehe ich ins Kino.",
-                "english": "Tonight I'm going to the cinema."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Heute ist ein schöner Tag.",
+            "english": "Today is a beautiful day."
+        },
+        {
+            "german": "Was machst du heute Abend?",
+            "english": "What are you doing tonight?"
+        },
+        {
+            "german": "Heute habe ich viel zu tun.",
+            "english": "I have a lot to do today."
+        },
+        {
+            "german": "Heute ist der erste Tag des Monats.",
+            "english": "Today is the first day of the month."
+        },
+        {
+            "german": "Heute Abend gehe ich ins Kino.",
+            "english": "Tonight I'm going to the cinema."
+        }
+    ]
 }

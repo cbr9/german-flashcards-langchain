@@ -1,28 +1,26 @@
 {
     "word": "oft",
     "definition": "Frequently used to describe the frequency of an action or event, this word often indicates a high occurrence or repetition. It commonly appears in sentences to express how regularly something happens, without specifying the exact number or time frame.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe oft ins Kino.",
-                "english": "I often go to the cinema."
-            },
-            {
-                "german": "Er kommt oft zu spät.",
-                "english": "He often arrives late."
-            },
-            {
-                "german": "Wir essen oft Pizza.",
-                "english": "We often eat pizza."
-            },
-            {
-                "german": "Sie ruft oft ihre Eltern an.",
-                "english": "She often calls her parents."
-            },
-            {
-                "german": "Es regnet oft in dieser Stadt.",
-                "english": "It often rains in this city."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe oft ins Kino.",
+            "english": "I often go to the cinema."
+        },
+        {
+            "german": "Er kommt oft zu spät.",
+            "english": "He often arrives late."
+        },
+        {
+            "german": "Wir essen oft Pizza.",
+            "english": "We often eat pizza."
+        },
+        {
+            "german": "Sie ruft oft ihre Eltern an.",
+            "english": "She often calls her parents."
+        },
+        {
+            "german": "Es regnet oft in dieser Stadt.",
+            "english": "It often rains in this city."
+        }
+    ]
 }

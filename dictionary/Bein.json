@@ -1,28 +1,26 @@
 {
     "word": "das Bein, die Beine",
     "definition": "A body part that is used for standing, walking, and running, typically found in pairs. It is an essential component of the human skeletal system and is commonly used for support and locomotion.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Bein tut weh.",
-                "english": "The leg hurts."
-            },
-            {
-                "german": "Er brach sich das Bein beim Skifahren.",
-                "english": "He broke his leg while skiing."
-            },
-            {
-                "german": "Sie hat ein künstliches Bein.",
-                "english": "She has an artificial leg."
-            },
-            {
-                "german": "Das Baby hat noch keine Kontrolle über seine Beine.",
-                "english": "The baby doesn't have control over its legs yet."
-            },
-            {
-                "german": "Er hat lange Beine.",
-                "english": "He has long legs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Bein tut weh.",
+            "english": "The leg hurts."
+        },
+        {
+            "german": "Er brach sich das Bein beim Skifahren.",
+            "english": "He broke his leg while skiing."
+        },
+        {
+            "german": "Sie hat ein künstliches Bein.",
+            "english": "She has an artificial leg."
+        },
+        {
+            "german": "Das Baby hat noch keine Kontrolle über seine Beine.",
+            "english": "The baby doesn't have control over its legs yet."
+        },
+        {
+            "german": "Er hat lange Beine.",
+            "english": "He has long legs."
+        }
+    ]
 }

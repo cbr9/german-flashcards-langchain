@@ -1,28 +1,26 @@
 {
     "word": "chronisch",
     "definition": "A term used to describe a condition or state that persists over an extended period of time, typically referring to a medical or health-related context. It is commonly used to describe a condition that is long-lasting or recurring, often implying a chronic illness or disease.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie leidet an chronischen Kopfschmerzen.",
-                "english": "She suffers from chronic headaches."
-            },
-            {
-                "german": "Die Krankheit ist chronisch und nicht heilbar.",
-                "english": "The disease is chronic and incurable."
-            },
-            {
-                "german": "Er hat chronische Rückenschmerzen seit Jahren.",
-                "english": "He has had chronic back pain for years."
-            },
-            {
-                "german": "Die chronische Entzündung muss behandelt werden.",
-                "english": "The chronic inflammation needs to be treated."
-            },
-            {
-                "german": "Die chronische Müdigkeit beeinträchtigt ihr tägliches Leben.",
-                "english": "The chronic fatigue affects her daily life."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie leidet an chronischen Kopfschmerzen.",
+            "english": "She suffers from chronic headaches."
+        },
+        {
+            "german": "Die Krankheit ist chronisch und nicht heilbar.",
+            "english": "The disease is chronic and incurable."
+        },
+        {
+            "german": "Er hat chronische Rückenschmerzen seit Jahren.",
+            "english": "He has had chronic back pain for years."
+        },
+        {
+            "german": "Die chronische Entzündung muss behandelt werden.",
+            "english": "The chronic inflammation needs to be treated."
+        },
+        {
+            "german": "Die chronische Müdigkeit beeinträchtigt ihr tägliches Leben.",
+            "english": "The chronic fatigue affects her daily life."
+        }
+    ]
 }

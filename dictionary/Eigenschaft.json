@@ -1,28 +1,26 @@
 {
     "word": "die Eigenschaft, die Eigenschaften",
     "definition": "A characteristic or attribute that describes a person, object, or concept, often used to identify or differentiate them from others. It is commonly used in various contexts, such as describing someone's personality traits, physical features, or qualities of an object.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eigenschaften wie Mut und Ausdauer sind wichtig.",
-                "english": "Qualities like courage and perseverance are important."
-            },
-            {
-                "german": "Sie hat die Eigenschaft, immer pünktlich zu sein.",
-                "english": "She has the characteristic of always being punctual."
-            },
-            {
-                "german": "Die Eigenschaften des Materials machen es besonders haltbar.",
-                "english": "The properties of the material make it particularly durable."
-            },
-            {
-                "german": "Eine positive Eigenschaft von ihm ist seine Hilfsbereitschaft.",
-                "english": "One positive trait of his is his helpfulness."
-            },
-            {
-                "german": "Die Eigenschaften eines guten Führers sind Führungsstärke und Empathie.",
-                "english": "The qualities of a good leader are leadership skills and empathy."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eigenschaften wie Mut und Ausdauer sind wichtig.",
+            "english": "Qualities like courage and perseverance are important."
+        },
+        {
+            "german": "Sie hat die Eigenschaft, immer pünktlich zu sein.",
+            "english": "She has the characteristic of always being punctual."
+        },
+        {
+            "german": "Die Eigenschaften des Materials machen es besonders haltbar.",
+            "english": "The properties of the material make it particularly durable."
+        },
+        {
+            "german": "Eine positive Eigenschaft von ihm ist seine Hilfsbereitschaft.",
+            "english": "One positive trait of his is his helpfulness."
+        },
+        {
+            "german": "Die Eigenschaften eines guten Führers sind Führungsstärke und Empathie.",
+            "english": "The qualities of a good leader are leadership skills and empathy."
+        }
+    ]
 }

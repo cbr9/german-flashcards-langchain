@@ -1,28 +1,26 @@
 {
     "word": "die Verlängerung, die Verlängerungen",
     "definition": "A term used to describe the act or process of extending the duration or length of something, often referring to the prolongation of a specific event, contract, or period of time. It is commonly employed in various contexts, such as sports, business, or agreements, where the concept of lengthening or extending a particular timeframe is involved.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Verlängerung des Vertrags wurde vereinbart.",
-                "english": "The extension of the contract was agreed upon."
-            },
-            {
-                "german": "Die Verlängerung der Frist ist möglich.",
-                "english": "The extension of the deadline is possible."
-            },
-            {
-                "german": "Die Verlängerung des Urlaubs wurde genehmigt.",
-                "english": "The extension of the vacation was approved."
-            },
-            {
-                "german": "Die Verlängerung der Mitgliedschaft kostet extra.",
-                "english": "The extension of the membership costs extra."
-            },
-            {
-                "german": "Die Verlängerung der Straße ist geplant.",
-                "english": "The extension of the road is planned."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Verlängerung des Vertrags wurde vereinbart.",
+            "english": "The extension of the contract was agreed upon."
+        },
+        {
+            "german": "Die Verlängerung der Frist ist möglich.",
+            "english": "The extension of the deadline is possible."
+        },
+        {
+            "german": "Die Verlängerung des Urlaubs wurde genehmigt.",
+            "english": "The extension of the vacation was approved."
+        },
+        {
+            "german": "Die Verlängerung der Mitgliedschaft kostet extra.",
+            "english": "The extension of the membership costs extra."
+        },
+        {
+            "german": "Die Verlängerung der Straße ist geplant.",
+            "english": "The extension of the road is planned."
+        }
+    ]
 }

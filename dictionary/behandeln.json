@@ -1,28 +1,26 @@
 {
     "word": "behandeln, behandelte, behandelt",
     "definition": "To interact with a subject matter in a specific manner, often involving providing care, attention, or addressing a particular issue or concern. It is commonly used in the context of dealing with a problem, managing a situation, or offering medical or therapeutic treatment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde dich gut behandeln.",
-                "english": "I will treat you well."
-            },
-            {
-                "german": "Der Arzt wird meine Krankheit behandeln.",
-                "english": "The doctor will treat my illness."
-            },
-            {
-                "german": "Wir müssen dieses Thema ernsthaft behandeln.",
-                "english": "We need to address this issue seriously."
-            },
-            {
-                "german": "Die Lehrerin behandelt das Thema ausführlich im Unterricht.",
-                "english": "The teacher covers the topic extensively in class."
-            },
-            {
-                "german": "Der Film behandelt ein wichtiges soziales Problem.",
-                "english": "The movie deals with an important social issue."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde dich gut behandeln.",
+            "english": "I will treat you well."
+        },
+        {
+            "german": "Der Arzt wird meine Krankheit behandeln.",
+            "english": "The doctor will treat my illness."
+        },
+        {
+            "german": "Wir müssen dieses Thema ernsthaft behandeln.",
+            "english": "We need to address this issue seriously."
+        },
+        {
+            "german": "Die Lehrerin behandelt das Thema ausführlich im Unterricht.",
+            "english": "The teacher covers the topic extensively in class."
+        },
+        {
+            "german": "Der Film behandelt ein wichtiges soziales Problem.",
+            "english": "The movie deals with an important social issue."
+        }
+    ]
 }

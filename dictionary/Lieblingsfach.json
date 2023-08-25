@@ -1,28 +1,26 @@
 {
     "word": "das Lieblingsfach, die Lieblingsfächer",
     "definition": "A subject or discipline that is particularly favored or preferred by an individual, often referring to a specific academic or school-related area of interest.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Lieblingsfach ist Mathematik.",
-                "english": "My favorite subject is mathematics."
-            },
-            {
-                "german": "Deutsch ist mein Lieblingsfach.",
-                "english": "German is my favorite subject."
-            },
-            {
-                "german": "Lieblingsfach in der Schule war immer Sport.",
-                "english": "Favorite subject in school was always physical education."
-            },
-            {
-                "german": "Mein Lieblingsfach ist Geschichte.",
-                "english": "My favorite subject is history."
-            },
-            {
-                "german": "Lieblingsfach meiner Schwester ist Biologie.",
-                "english": "My sister's favorite subject is biology."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Lieblingsfach ist Mathematik.",
+            "english": "My favorite subject is mathematics."
+        },
+        {
+            "german": "Deutsch ist mein Lieblingsfach.",
+            "english": "German is my favorite subject."
+        },
+        {
+            "german": "Lieblingsfach in der Schule war immer Sport.",
+            "english": "Favorite subject in school was always physical education."
+        },
+        {
+            "german": "Mein Lieblingsfach ist Geschichte.",
+            "english": "My favorite subject is history."
+        },
+        {
+            "german": "Lieblingsfach meiner Schwester ist Biologie.",
+            "english": "My sister's favorite subject is biology."
+        }
+    ]
 }

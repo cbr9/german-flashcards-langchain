@@ -1,28 +1,26 @@
 {
     "word": "bedanken, bedankte, bedankt",
     "definition": "To express gratitude or appreciation towards someone or something, typically used in response to a favor, kindness, or assistance received.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte mich bei dir bedanken.",
-                "english": "I want to thank you."
-            },
-            {
-                "german": "Wir bedanken uns für Ihre Unterstützung.",
-                "english": "We thank you for your support."
-            },
-            {
-                "german": "Er bedankte sich herzlich bei seinen Freunden.",
-                "english": "He thanked his friends warmly."
-            },
-            {
-                "german": "Sie bedankte sich höflich für das Geschenk.",
-                "english": "She politely thanked for the gift."
-            },
-            {
-                "german": "Ich bedanke mich im Voraus für Ihre Hilfe.",
-                "english": "I thank you in advance for your help."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte mich bei dir bedanken.",
+            "english": "I want to thank you."
+        },
+        {
+            "german": "Wir bedanken uns für Ihre Unterstützung.",
+            "english": "We thank you for your support."
+        },
+        {
+            "german": "Er bedankte sich herzlich bei seinen Freunden.",
+            "english": "He thanked his friends warmly."
+        },
+        {
+            "german": "Sie bedankte sich höflich für das Geschenk.",
+            "english": "She politely thanked for the gift."
+        },
+        {
+            "german": "Ich bedanke mich im Voraus für Ihre Hilfe.",
+            "english": "I thank you in advance for your help."
+        }
+    ]
 }

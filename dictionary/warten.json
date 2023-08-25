@@ -1,28 +1,26 @@
 {
     "word": "warten, wartete, gewartet",
     "definition": "To delay or remain in a state of anticipation for a certain period of time, often with the expectation of something or someone. It is commonly used when referring to waiting for an event, appointment, or someone's arrival.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich warte auf den Bus.",
-                "english": "I am waiting for the bus."
-            },
-            {
-                "german": "Kannst du bitte einen Moment warten?",
-                "english": "Can you please wait a moment?"
-            },
-            {
-                "german": "Wir mussten lange auf unser Essen warten.",
-                "english": "We had to wait a long time for our food."
-            },
-            {
-                "german": "Er wartet geduldig auf seine Freundin.",
-                "english": "He is patiently waiting for his girlfriend."
-            },
-            {
-                "german": "Warte hier, ich komme gleich zurück.",
-                "english": "Wait here, I'll be right back."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich warte auf den Bus.",
+            "english": "I am waiting for the bus."
+        },
+        {
+            "german": "Kannst du bitte einen Moment warten?",
+            "english": "Can you please wait a moment?"
+        },
+        {
+            "german": "Wir mussten lange auf unser Essen warten.",
+            "english": "We had to wait a long time for our food."
+        },
+        {
+            "german": "Er wartet geduldig auf seine Freundin.",
+            "english": "He is patiently waiting for his girlfriend."
+        },
+        {
+            "german": "Warte hier, ich komme gleich zurück.",
+            "english": "Wait here, I'll be right back."
+        }
+    ]
 }

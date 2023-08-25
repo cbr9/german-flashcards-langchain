@@ -1,28 +1,26 @@
 {
     "word": "der Kunde, die Kunden",
     "definition": "A person who seeks information or advice from a professional or expert in a specific field, typically in a commercial context. This term is commonly used to refer to individuals who are customers or clients of a business, seeking products, services, or assistance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kunde ist immer König.",
-                "english": "The customer is always right."
-            },
-            {
-                "german": "Ich bin ein treuer Kunde.",
-                "english": "I am a loyal customer."
-            },
-            {
-                "german": "Der Kunde hat das Produkt zurückgegeben.",
-                "english": "The customer returned the product."
-            },
-            {
-                "german": "Als Kunde haben Sie Anspruch auf eine Rückerstattung.",
-                "english": "As a customer, you are entitled to a refund."
-            },
-            {
-                "german": "Der Kunde hat eine Beschwerde eingereicht.",
-                "english": "The customer filed a complaint."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kunde ist immer König.",
+            "english": "The customer is always right."
+        },
+        {
+            "german": "Ich bin ein treuer Kunde.",
+            "english": "I am a loyal customer."
+        },
+        {
+            "german": "Der Kunde hat das Produkt zurückgegeben.",
+            "english": "The customer returned the product."
+        },
+        {
+            "german": "Als Kunde haben Sie Anspruch auf eine Rückerstattung.",
+            "english": "As a customer, you are entitled to a refund."
+        },
+        {
+            "german": "Der Kunde hat eine Beschwerde eingereicht.",
+            "english": "The customer filed a complaint."
+        }
+    ]
 }

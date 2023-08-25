@@ -1,28 +1,26 @@
 {
     "word": "einrichten, richtete ein, eingerichtet",
     "definition": "To establish or arrange something in a specific manner, often referring to setting up or organizing a physical space, system, or process. It commonly involves the act of furnishing, configuring, or installing objects or equipment to create a functional environment. This term is frequently used when referring to setting up a new home, office, or any other space, as well as configuring digital devices or software.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte mein Wohnzimmer neu einrichten.",
-                "english": "I want to redecorate my living room."
-            },
-            {
-                "german": "Kannst du bitte den Tisch für das Abendessen einrichten?",
-                "english": "Can you please set up the table for dinner?"
-            },
-            {
-                "german": "Sie hat ihr Büro sehr gemütlich eingerichtet.",
-                "english": "She has decorated her office very cozy."
-            },
-            {
-                "german": "Wir müssen das Gästezimmer für den Besuch einrichten.",
-                "english": "We need to prepare the guest room for the visit."
-            },
-            {
-                "german": "Er hat sich eine Werkstatt in der Garage eingerichtet.",
-                "english": "He has set up a workshop in the garage."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte mein Wohnzimmer neu einrichten.",
+            "english": "I want to redecorate my living room."
+        },
+        {
+            "german": "Kannst du bitte den Tisch für das Abendessen einrichten?",
+            "english": "Can you please set up the table for dinner?"
+        },
+        {
+            "german": "Sie hat ihr Büro sehr gemütlich eingerichtet.",
+            "english": "She has decorated her office very cozy."
+        },
+        {
+            "german": "Wir müssen das Gästezimmer für den Besuch einrichten.",
+            "english": "We need to prepare the guest room for the visit."
+        },
+        {
+            "german": "Er hat sich eine Werkstatt in der Garage eingerichtet.",
+            "english": "He has set up a workshop in the garage."
+        }
+    ]
 }

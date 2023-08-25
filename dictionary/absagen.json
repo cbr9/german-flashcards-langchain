@@ -1,28 +1,26 @@
 {
     "word": "absagen, sagte ab, abgesagt",
     "definition": "To decline or cancel a previously arranged event or appointment, often done by notifying the other party in advance. This term is commonly employed when referring to the act of informing someone about the cancellation, particularly in the context of scheduled meetings, appointments, or social gatherings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss das Treffen absagen.",
-                "english": "I have to cancel the meeting."
-            },
-            {
-                "german": "Sie hat ihre Teilnahme am Wettbewerb abgesagt.",
-                "english": "She cancelled her participation in the competition."
-            },
-            {
-                "german": "Er hat den Termin kurzfristig abgesagt.",
-                "english": "He cancelled the appointment at short notice."
-            },
-            {
-                "german": "Wir müssen die Veranstaltung wegen des Wetters absagen.",
-                "english": "We have to cancel the event because of the weather."
-            },
-            {
-                "german": "Der Flug wurde aufgrund technischer Probleme abgesagt.",
-                "english": "The flight was cancelled due to technical issues."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss das Treffen absagen.",
+            "english": "I have to cancel the meeting."
+        },
+        {
+            "german": "Sie hat ihre Teilnahme am Wettbewerb abgesagt.",
+            "english": "She cancelled her participation in the competition."
+        },
+        {
+            "german": "Er hat den Termin kurzfristig abgesagt.",
+            "english": "He cancelled the appointment at short notice."
+        },
+        {
+            "german": "Wir müssen die Veranstaltung wegen des Wetters absagen.",
+            "english": "We have to cancel the event because of the weather."
+        },
+        {
+            "german": "Der Flug wurde aufgrund technischer Probleme abgesagt.",
+            "english": "The flight was cancelled due to technical issues."
+        }
+    ]
 }

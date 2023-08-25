@@ -1,28 +1,26 @@
 {
     "word": "der Erwachsene, die Erwachsene",
     "definition": "A term commonly employed to refer to individuals who have reached a certain stage of maturity and are no longer considered children or minors. It is often used to describe individuals who have attained a specific age or level of development, typically associated with adulthood.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Erwachsene sollten Verantwortung übernehmen.",
-                "english": "Adults should take responsibility."
-            },
-            {
-                "german": "Erwachsene können ihre eigenen Entscheidungen treffen.",
-                "english": "Adults can make their own decisions."
-            },
-            {
-                "german": "Erwachsene müssen Steuern zahlen.",
-                "english": "Adults have to pay taxes."
-            },
-            {
-                "german": "Erwachsene dürfen Auto fahren.",
-                "english": "Adults are allowed to drive a car."
-            },
-            {
-                "german": "Erwachsene sollten Vorbilder für Kinder sein.",
-                "english": "Adults should be role models for children."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Erwachsene sollten Verantwortung übernehmen.",
+            "english": "Adults should take responsibility."
+        },
+        {
+            "german": "Erwachsene können ihre eigenen Entscheidungen treffen.",
+            "english": "Adults can make their own decisions."
+        },
+        {
+            "german": "Erwachsene müssen Steuern zahlen.",
+            "english": "Adults have to pay taxes."
+        },
+        {
+            "german": "Erwachsene dürfen Auto fahren.",
+            "english": "Adults are allowed to drive a car."
+        },
+        {
+            "german": "Erwachsene sollten Vorbilder für Kinder sein.",
+            "english": "Adults should be role models for children."
+        }
+    ]
 }

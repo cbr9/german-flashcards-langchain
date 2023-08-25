@@ -1,28 +1,26 @@
 {
     "word": "der Experte, die Experten",
     "definition": "A person who possesses extensive knowledge, skills, and experience in a particular field or subject matter, often sought after for their expertise and consulted for advice, analysis, or evaluation. They are typically recognized as authorities in their domain and are frequently called upon to provide professional opinions, insights, or recommendations.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein Experte auf diesem Gebiet.",
-                "english": "He is an expert in this field."
-            },
-            {
-                "german": "Sie ist eine Expertin für Sprachen.",
-                "english": "She is an expert in languages."
-            },
-            {
-                "german": "Der Experte hat eine fundierte Meinung zu diesem Thema.",
-                "english": "The expert has an informed opinion on this topic."
-            },
-            {
-                "german": "Als Experte kann er komplexe Probleme lösen.",
-                "english": "As an expert, he can solve complex problems."
-            },
-            {
-                "german": "Der Experte wurde für seine Arbeit ausgezeichnet.",
-                "english": "The expert was awarded for his work."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein Experte auf diesem Gebiet.",
+            "english": "He is an expert in this field."
+        },
+        {
+            "german": "Sie ist eine Expertin für Sprachen.",
+            "english": "She is an expert in languages."
+        },
+        {
+            "german": "Der Experte hat eine fundierte Meinung zu diesem Thema.",
+            "english": "The expert has an informed opinion on this topic."
+        },
+        {
+            "german": "Als Experte kann er komplexe Probleme lösen.",
+            "english": "As an expert, he can solve complex problems."
+        },
+        {
+            "german": "Der Experte wurde für seine Arbeit ausgezeichnet.",
+            "english": "The expert was awarded for his work."
+        }
+    ]
 }

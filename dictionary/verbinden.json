@@ -1,28 +1,26 @@
 {
     "word": "verbinden, verband, verbunden",
     "definition": "To bring together or unite two or more entities, ideas, or people, often with the intention of establishing a connection or creating a bond. This term is commonly employed when referring to joining or linking different elements, such as connecting objects, combining concepts, or establishing relationships between individuals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte dich mit meiner Schwester verbinden.",
-                "english": "I want to connect you with my sister."
-            },
-            {
-                "german": "Kannst du bitte die Drähte verbinden?",
-                "english": "Can you please connect the wires?"
-            },
-            {
-                "german": "Die Brücke verbindet die beiden Ufer des Flusses.",
-                "english": "The bridge connects the two banks of the river."
-            },
-            {
-                "german": "Er versucht, die Punkte zu verbinden und das Rätsel zu lösen.",
-                "english": "He is trying to connect the dots and solve the puzzle."
-            },
-            {
-                "german": "Die Telefonkonferenz verbindet Teilnehmer aus verschiedenen Ländern.",
-                "english": "The teleconference connects participants from different countries."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte dich mit meiner Schwester verbinden.",
+            "english": "I want to connect you with my sister."
+        },
+        {
+            "german": "Kannst du bitte die Drähte verbinden?",
+            "english": "Can you please connect the wires?"
+        },
+        {
+            "german": "Die Brücke verbindet die beiden Ufer des Flusses.",
+            "english": "The bridge connects the two banks of the river."
+        },
+        {
+            "german": "Er versucht, die Punkte zu verbinden und das Rätsel zu lösen.",
+            "english": "He is trying to connect the dots and solve the puzzle."
+        },
+        {
+            "german": "Die Telefonkonferenz verbindet Teilnehmer aus verschiedenen Ländern.",
+            "english": "The teleconference connects participants from different countries."
+        }
+    ]
 }

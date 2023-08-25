@@ -1,28 +1,26 @@
 {
     "word": "sehen, sah, gesehen",
     "definition": "To visually perceive or observe something using the eyes, often involving the ability to recognize shapes, colors, and movements. It is commonly employed to describe the act of looking at objects, people, or scenes in order to gain information or experience visual stimuli.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich sehe dich.",
-                "english": "I see you."
-            },
-            {
-                "german": "Kannst du den Vogel sehen?",
-                "english": "Can you see the bird?"
-            },
-            {
-                "german": "Er sieht fern.",
-                "english": "He is watching TV."
-            },
-            {
-                "german": "Wir haben den Film gesehen.",
-                "english": "We watched the movie."
-            },
-            {
-                "german": "Siehst du den Unterschied?",
-                "english": "Do you see the difference?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich sehe dich.",
+            "english": "I see you."
+        },
+        {
+            "german": "Kannst du den Vogel sehen?",
+            "english": "Can you see the bird?"
+        },
+        {
+            "german": "Er sieht fern.",
+            "english": "He is watching TV."
+        },
+        {
+            "german": "Wir haben den Film gesehen.",
+            "english": "We watched the movie."
+        },
+        {
+            "german": "Siehst du den Unterschied?",
+            "english": "Do you see the difference?"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "streichen, strich, gestrichen",
     "definition": "To apply a smooth layer of color or substance onto a surface, typically using a brush or roller. This action is commonly performed on walls, furniture, or other objects to enhance their appearance or protect them.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich streiche die Wand blau.",
-                "english": "I paint the wall blue."
-            },
-            {
-                "german": "Sie streicht die Tafel sauber.",
-                "english": "She erases the board clean."
-            },
-            {
-                "german": "Wir streichen das Zimmer neu.",
-                "english": "We repaint the room."
-            },
-            {
-                "german": "Er streicht die Butter auf das Brot.",
-                "english": "He spreads the butter on the bread."
-            },
-            {
-                "german": "Die Firma streicht Stellen.",
-                "english": "The company cuts jobs."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich streiche die Wand blau.",
+            "english": "I paint the wall blue."
+        },
+        {
+            "german": "Sie streicht die Tafel sauber.",
+            "english": "She erases the board clean."
+        },
+        {
+            "german": "Wir streichen das Zimmer neu.",
+            "english": "We repaint the room."
+        },
+        {
+            "german": "Er streicht die Butter auf das Brot.",
+            "english": "He spreads the butter on the bread."
+        },
+        {
+            "german": "Die Firma streicht Stellen.",
+            "english": "The company cuts jobs."
+        }
+    ]
 }

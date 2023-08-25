@@ -1,28 +1,26 @@
 {
     "word": "gelten, galt, gegolten",
     "definition": "To be considered valid, relevant, or applicable in a specific context or situation, often with a focus on social, legal, or moral standards. It is commonly used to describe the status, acceptance, or recognition of something or someone within a particular framework or community.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Gesetz gilt für alle Bürger.",
-                "english": "The law applies to all citizens."
-            },
-            {
-                "german": "Seine Meinung gilt als kontrovers.",
-                "english": "His opinion is considered controversial."
-            },
-            {
-                "german": "Diese Regelung gilt ab sofort.",
-                "english": "This regulation is effective immediately."
-            },
-            {
-                "german": "Er gilt als Experte auf seinem Gebiet.",
-                "english": "He is regarded as an expert in his field."
-            },
-            {
-                "german": "Die Einladung gilt nur für dich.",
-                "english": "The invitation is only valid for you."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Gesetz gilt für alle Bürger.",
+            "english": "The law applies to all citizens."
+        },
+        {
+            "german": "Seine Meinung gilt als kontrovers.",
+            "english": "His opinion is considered controversial."
+        },
+        {
+            "german": "Diese Regelung gilt ab sofort.",
+            "english": "This regulation is effective immediately."
+        },
+        {
+            "german": "Er gilt als Experte auf seinem Gebiet.",
+            "english": "He is regarded as an expert in his field."
+        },
+        {
+            "german": "Die Einladung gilt nur für dich.",
+            "english": "The invitation is only valid for you."
+        }
+    ]
 }

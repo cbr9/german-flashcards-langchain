@@ -1,28 +1,26 @@
 {
     "word": "die Eintrittskarte, die Eintrittskarten",
     "definition": "A document or item that grants access or admission to a specific event, venue, or establishment. It is commonly used when referring to tickets for various forms of entertainment, such as concerts, movies, theaters, or exhibitions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kann ich bitte eine Eintrittskarte kaufen?",
-                "english": "Can I please buy a ticket?"
-            },
-            {
-                "german": "Die Eintrittskarte für das Konzert kostet 20 Euro.",
-                "english": "The ticket for the concert costs 20 euros."
-            },
-            {
-                "german": "Ich habe meine Eintrittskarte verloren.",
-                "english": "I lost my ticket."
-            },
-            {
-                "german": "Die Eintrittskarte ist nur für eine Person gültig.",
-                "english": "The ticket is only valid for one person."
-            },
-            {
-                "german": "Kinder unter 6 Jahren erhalten eine kostenlose Eintrittskarte.",
-                "english": "Children under 6 years old receive a free ticket."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kann ich bitte eine Eintrittskarte kaufen?",
+            "english": "Can I please buy a ticket?"
+        },
+        {
+            "german": "Die Eintrittskarte für das Konzert kostet 20 Euro.",
+            "english": "The ticket for the concert costs 20 euros."
+        },
+        {
+            "german": "Ich habe meine Eintrittskarte verloren.",
+            "english": "I lost my ticket."
+        },
+        {
+            "german": "Die Eintrittskarte ist nur für eine Person gültig.",
+            "english": "The ticket is only valid for one person."
+        },
+        {
+            "german": "Kinder unter 6 Jahren erhalten eine kostenlose Eintrittskarte.",
+            "english": "Children under 6 years old receive a free ticket."
+        }
+    ]
 }

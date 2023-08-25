@@ -1,28 +1,26 @@
 {
     "word": "die Überlegung, die Überlegungen",
     "definition": "A thoughtful process of considering or pondering something, often used to describe the act of carefully weighing options or contemplating decisions. It is commonly used to refer to the mental deliberation or reflection that takes place before making a choice or reaching a conclusion.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss noch einige Überlegungen anstellen.",
-                "english": "I still have to make some considerations."
-            },
-            {
-                "german": "Nach langen Überlegungen habe ich mich entschieden.",
-                "english": "After long deliberation, I have made my decision."
-            },
-            {
-                "german": "Seine Überlegungen waren sehr gut durchdacht.",
-                "english": "His considerations were very well thought out."
-            },
-            {
-                "german": "Die Überlegung, das Projekt abzubrechen, wurde verworfen.",
-                "english": "The idea of abandoning the project was discarded."
-            },
-            {
-                "german": "Er hat keine Überlegung in seine Antwort gesteckt.",
-                "english": "He didn't put any thought into his response."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss noch einige Überlegungen anstellen.",
+            "english": "I still have to make some considerations."
+        },
+        {
+            "german": "Nach langen Überlegungen habe ich mich entschieden.",
+            "english": "After long deliberation, I have made my decision."
+        },
+        {
+            "german": "Seine Überlegungen waren sehr gut durchdacht.",
+            "english": "His considerations were very well thought out."
+        },
+        {
+            "german": "Die Überlegung, das Projekt abzubrechen, wurde verworfen.",
+            "english": "The idea of abandoning the project was discarded."
+        },
+        {
+            "german": "Er hat keine Überlegung in seine Antwort gesteckt.",
+            "english": "He didn't put any thought into his response."
+        }
+    ]
 }

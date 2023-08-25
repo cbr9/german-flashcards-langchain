@@ -1,28 +1,26 @@
 {
     "word": "flüstern, flüsterte, geflüstert",
     "definition": "To produce a low-volume sound using the vocal cords, typically in a secretive or hushed manner, often conveying a message or information to someone nearby. This action is commonly employed in situations where discretion, privacy, or confidentiality is desired.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie flüsterte ihm etwas ins Ohr.",
-                "english": "She whispered something in his ear."
-            },
-            {
-                "german": "Die Kinder flüsterten miteinander, um nicht erwischt zu werden.",
-                "english": "The children whispered to each other so as not to get caught."
-            },
-            {
-                "german": "Er flüsterte ihr leise zu, dass er sie liebt.",
-                "english": "He whispered softly to her that he loves her."
-            },
-            {
-                "german": "Die Gerüchte flüsterten sich durch das Dorf.",
-                "english": "The rumors whispered through the village."
-            },
-            {
-                "german": "Sie flüsterte ein Gebet, bevor sie einschlief.",
-                "english": "She whispered a prayer before falling asleep."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie flüsterte ihm etwas ins Ohr.",
+            "english": "She whispered something in his ear."
+        },
+        {
+            "german": "Die Kinder flüsterten miteinander, um nicht erwischt zu werden.",
+            "english": "The children whispered to each other so as not to get caught."
+        },
+        {
+            "german": "Er flüsterte ihr leise zu, dass er sie liebt.",
+            "english": "He whispered softly to her that he loves her."
+        },
+        {
+            "german": "Die Gerüchte flüsterten sich durch das Dorf.",
+            "english": "The rumors whispered through the village."
+        },
+        {
+            "german": "Sie flüsterte ein Gebet, bevor sie einschlief.",
+            "english": "She whispered a prayer before falling asleep."
+        }
+    ]
 }

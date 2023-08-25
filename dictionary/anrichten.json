@@ -1,28 +1,26 @@
 {
     "word": "anrichten, richtete an, angerichtet",
     "definition": "To prepare or arrange something, typically referring to setting up or organizing a specific event, occasion, or a table for a meal. It involves carefully placing or displaying items in an aesthetically pleasing manner. This term is commonly used in the context of culinary arts, hospitality, or event planning.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich werde das Essen für die Party anrichten.",
-                "english": "I will prepare the food for the party."
-            },
-            {
-                "german": "Sie hat das Zimmer schön und gemütlich angerichtet.",
-                "english": "She arranged the room nicely and comfortably."
-            },
-            {
-                "german": "Der Koch hat das Gericht kunstvoll angerichtet.",
-                "english": "The chef artfully plated the dish."
-            },
-            {
-                "german": "Er hat großen Schaden angerichtet.",
-                "english": "He caused a lot of damage."
-            },
-            {
-                "german": "Die Nachricht hat große Aufregung angerichtet.",
-                "english": "The news caused great excitement."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich werde das Essen für die Party anrichten.",
+            "english": "I will prepare the food for the party."
+        },
+        {
+            "german": "Sie hat das Zimmer schön und gemütlich angerichtet.",
+            "english": "She arranged the room nicely and comfortably."
+        },
+        {
+            "german": "Der Koch hat das Gericht kunstvoll angerichtet.",
+            "english": "The chef artfully plated the dish."
+        },
+        {
+            "german": "Er hat großen Schaden angerichtet.",
+            "english": "He caused a lot of damage."
+        },
+        {
+            "german": "Die Nachricht hat große Aufregung angerichtet.",
+            "english": "The news caused great excitement."
+        }
+    ]
 }

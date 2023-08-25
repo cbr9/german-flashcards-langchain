@@ -1,28 +1,26 @@
 {
     "word": "schrecken, schreckte, geschreckt",
     "definition": "To cause intense fear or terror, often used to describe a sudden and overwhelming feeling of alarm or horror. It is commonly used to depict a strong emotional reaction to something frightening or shocking.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der laute Knall hat mich erschreckt.",
-                "english": "The loud bang scared me."
-            },
-            {
-                "german": "Sie schreckte vor dem großen Hund zurück.",
-                "english": "She recoiled from the big dog."
-            },
-            {
-                "german": "Der Anblick des Unfalls hat ihn zutiefst geschockt.",
-                "english": "The sight of the accident deeply shocked him."
-            },
-            {
-                "german": "Die gruselige Geschichte hat mir einen Schrecken eingejagt.",
-                "english": "The creepy story gave me a fright."
-            },
-            {
-                "german": "Er schreckte aus dem Schlaf hoch, als er den Donner hörte.",
-                "english": "He jolted awake when he heard the thunder."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der laute Knall hat mich erschreckt.",
+            "english": "The loud bang scared me."
+        },
+        {
+            "german": "Sie schreckte vor dem großen Hund zurück.",
+            "english": "She recoiled from the big dog."
+        },
+        {
+            "german": "Der Anblick des Unfalls hat ihn zutiefst geschockt.",
+            "english": "The sight of the accident deeply shocked him."
+        },
+        {
+            "german": "Die gruselige Geschichte hat mir einen Schrecken eingejagt.",
+            "english": "The creepy story gave me a fright."
+        },
+        {
+            "german": "Er schreckte aus dem Schlaf hoch, als er den Donner hörte.",
+            "english": "He jolted awake when he heard the thunder."
+        }
+    ]
 }

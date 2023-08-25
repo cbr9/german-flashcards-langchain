@@ -1,28 +1,26 @@
 {
     "word": "wiedersahen, sah wieder, wiedergesehen",
     "definition": "The word \"wiedersahen\" refers to the act of meeting someone again after a period of time apart. It is commonly used to describe the experience of reuniting with someone, often after a long absence or separation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wir wiedersahen uns nach vielen Jahren.",
-                "english": "We saw each other again after many years."
-            },
-            {
-                "german": "Sie wiedersahen sich am Bahnhof.",
-                "english": "They saw each other again at the train station."
-            },
-            {
-                "german": "Nach dem Urlaub wiedersahen sie ihre Freunde.",
-                "english": "After the vacation, they saw their friends again."
-            },
-            {
-                "german": "Er wiedersah seine alte Heimat nach langer Zeit.",
-                "english": "He saw his old hometown again after a long time."
-            },
-            {
-                "german": "Sie wiedersahen sich zum Abschied.",
-                "english": "They saw each other again to say goodbye."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wir wiedersahen uns nach vielen Jahren.",
+            "english": "We saw each other again after many years."
+        },
+        {
+            "german": "Sie wiedersahen sich am Bahnhof.",
+            "english": "They saw each other again at the train station."
+        },
+        {
+            "german": "Nach dem Urlaub wiedersahen sie ihre Freunde.",
+            "english": "After the vacation, they saw their friends again."
+        },
+        {
+            "german": "Er wiedersah seine alte Heimat nach langer Zeit.",
+            "english": "He saw his old hometown again after a long time."
+        },
+        {
+            "german": "Sie wiedersahen sich zum Abschied.",
+            "english": "They saw each other again to say goodbye."
+        }
+    ]
 }

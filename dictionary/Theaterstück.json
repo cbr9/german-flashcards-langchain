@@ -1,28 +1,26 @@
 {
     "word": "das Theaterstück, die The plural form of \"article theaterstück\" is \"theaterstücke\".",
     "definition": "A form of artistic expression that typically involves live performances by actors on a stage, often telling a story or conveying a message through dialogue, actions, and various theatrical elements. It is commonly used to refer to a specific type of creative work within this domain, which is typically scripted and performed by actors in front of an audience.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Theaterstück war sehr unterhaltsam.",
-                "english": "The play was very entertaining."
-            },
-            {
-                "german": "Sie hat das Theaterstück geschrieben.",
-                "english": "She wrote the play."
-            },
-            {
-                "german": "Das Theaterstück handelt von einer tragischen Liebesgeschichte.",
-                "english": "The play is about a tragic love story."
-            },
-            {
-                "german": "Das Theaterstück wurde von einem berühmten Regisseur inszeniert.",
-                "english": "The play was directed by a famous director."
-            },
-            {
-                "german": "Das Theaterstück wurde mit großem Applaus vom Publikum gefeiert.",
-                "english": "The play was celebrated by the audience with great applause."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Theaterstück war sehr unterhaltsam.",
+            "english": "The play was very entertaining."
+        },
+        {
+            "german": "Sie hat das Theaterstück geschrieben.",
+            "english": "She wrote the play."
+        },
+        {
+            "german": "Das Theaterstück handelt von einer tragischen Liebesgeschichte.",
+            "english": "The play is about a tragic love story."
+        },
+        {
+            "german": "Das Theaterstück wurde von einem berühmten Regisseur inszeniert.",
+            "english": "The play was directed by a famous director."
+        },
+        {
+            "german": "Das Theaterstück wurde mit großem Applaus vom Publikum gefeiert.",
+            "english": "The play was celebrated by the audience with great applause."
+        }
+    ]
 }

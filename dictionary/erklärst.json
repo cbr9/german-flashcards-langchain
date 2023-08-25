@@ -1,28 +1,26 @@
 {
     "word": "erklärst",
     "definition": "To provide a clear understanding or explanation of something, typically used when someone is giving instructions, describing a process, or clarifying a concept.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir das erklären?",
-                "english": "Can you explain that to me?"
-            },
-            {
-                "german": "Erklärst du mir bitte den Weg?",
-                "english": "Could you please explain the way to me?"
-            },
-            {
-                "german": "Ich kann es dir nicht erklären.",
-                "english": "I can't explain it to you."
-            },
-            {
-                "german": "Kannst du mir das nochmal erklären?",
-                "english": "Can you explain that to me again?"
-            },
-            {
-                "german": "Erklärst du mir, wie das funktioniert?",
-                "english": "Can you explain to me how it works?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir das erklären?",
+            "english": "Can you explain that to me?"
+        },
+        {
+            "german": "Erklärst du mir bitte den Weg?",
+            "english": "Could you please explain the way to me?"
+        },
+        {
+            "german": "Ich kann es dir nicht erklären.",
+            "english": "I can't explain it to you."
+        },
+        {
+            "german": "Kannst du mir das nochmal erklären?",
+            "english": "Can you explain that to me again?"
+        },
+        {
+            "german": "Erklärst du mir, wie das funktioniert?",
+            "english": "Can you explain to me how it works?"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Schmerz, die Schmerzen",
     "definition": "A sensation experienced by living beings that is typically associated with physical or emotional discomfort, often described as an unpleasant or distressing feeling. It is commonly used to refer to the experience of pain, whether it is caused by injury, illness, or emotional distress.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Schmerz in meinem Bein ist unerträglich.",
-                "english": "The pain in my leg is unbearable."
-            },
-            {
-                "german": "Sie hat starke Schmerzen im Rücken.",
-                "english": "She has severe pain in her back."
-            },
-            {
-                "german": "Der Schmerz ließ langsam nach.",
-                "english": "The pain slowly subsided."
-            },
-            {
-                "german": "Schmerz kann verschiedene Ursachen haben.",
-                "english": "Pain can have various causes."
-            },
-            {
-                "german": "Er verspürte einen stechenden Schmerz in der Brust.",
-                "english": "He felt a stabbing pain in his chest."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Schmerz in meinem Bein ist unerträglich.",
+            "english": "The pain in my leg is unbearable."
+        },
+        {
+            "german": "Sie hat starke Schmerzen im Rücken.",
+            "english": "She has severe pain in her back."
+        },
+        {
+            "german": "Der Schmerz ließ langsam nach.",
+            "english": "The pain slowly subsided."
+        },
+        {
+            "german": "Schmerz kann verschiedene Ursachen haben.",
+            "english": "Pain can have various causes."
+        },
+        {
+            "german": "Er verspürte einen stechenden Schmerz in der Brust.",
+            "english": "He felt a stabbing pain in his chest."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "spielen, spielte, gespielt",
     "definition": "To engage in an activity that involves physical or mental participation, often for enjoyment, entertainment, or recreation. It commonly refers to the act of participating in games, sports, or other playful activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich spiele gerne Fußball.",
-                "english": "I like playing soccer."
-            },
-            {
-                "german": "Kinder spielen oft im Park.",
-                "english": "Children often play in the park."
-            },
-            {
-                "german": "Wir spielen heute Abend Karten.",
-                "english": "We are playing cards tonight."
-            },
-            {
-                "german": "Sie spielt Klavier sehr gut.",
-                "english": "She plays the piano very well."
-            },
-            {
-                "german": "Die Katzen spielen miteinander.",
-                "english": "The cats are playing with each other."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich spiele gerne Fußball.",
+            "english": "I like playing soccer."
+        },
+        {
+            "german": "Kinder spielen oft im Park.",
+            "english": "Children often play in the park."
+        },
+        {
+            "german": "Wir spielen heute Abend Karten.",
+            "english": "We are playing cards tonight."
+        },
+        {
+            "german": "Sie spielt Klavier sehr gut.",
+            "english": "She plays the piano very well."
+        },
+        {
+            "german": "Die Katzen spielen miteinander.",
+            "english": "The cats are playing with each other."
+        }
+    ]
 }

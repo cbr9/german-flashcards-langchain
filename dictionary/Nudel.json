@@ -1,28 +1,26 @@
 {
     "word": "die Nudel, die Nudeln",
     "definition": "A type of food that is typically long, thin, and cylindrical in shape, often made from wheat or other grains. It is commonly boiled and served with various sauces, vegetables, or meats. This word is frequently used to refer to a staple ingredient in many cuisines around the world.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse gerne Nudeln.",
-                "english": "I like to eat pasta."
-            },
-            {
-                "german": "Nudeln sind eine beliebte Beilage.",
-                "english": "Pasta is a popular side dish."
-            },
-            {
-                "german": "Kannst du mir bitte Nudeln kochen?",
-                "english": "Can you please cook pasta for me?"
-            },
-            {
-                "german": "Nudeln werden aus Hartweizengrieß hergestellt.",
-                "english": "Pasta is made from durum wheat semolina."
-            },
-            {
-                "german": "Ich habe gestern Nudeln mit Tomatensauce gegessen.",
-                "english": "I ate pasta with tomato sauce yesterday."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse gerne Nudeln.",
+            "english": "I like to eat pasta."
+        },
+        {
+            "german": "Nudeln sind eine beliebte Beilage.",
+            "english": "Pasta is a popular side dish."
+        },
+        {
+            "german": "Kannst du mir bitte Nudeln kochen?",
+            "english": "Can you please cook pasta for me?"
+        },
+        {
+            "german": "Nudeln werden aus Hartweizengrieß hergestellt.",
+            "english": "Pasta is made from durum wheat semolina."
+        },
+        {
+            "german": "Ich habe gestern Nudeln mit Tomatensauce gegessen.",
+            "english": "I ate pasta with tomato sauce yesterday."
+        }
+    ]
 }

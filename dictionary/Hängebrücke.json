@@ -1,28 +1,26 @@
 {
     "word": "die Hängebrücke, die Hängebrücken",
     "definition": "A type of structure that is typically suspended between two points, allowing people or vehicles to cross over a gap or obstacle, such as a river or a valley. It is commonly used as a means of transportation or as a tourist attraction, providing a unique experience and scenic views.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Hängebrücke ist sehr lang.",
-                "english": "The suspension bridge is very long."
-            },
-            {
-                "german": "Die Hängebrücke führt über einen Fluss.",
-                "english": "The suspension bridge crosses a river."
-            },
-            {
-                "german": "Die Hängebrücke bietet einen atemberaubenden Ausblick.",
-                "english": "The suspension bridge offers a breathtaking view."
-            },
-            {
-                "german": "Die Hängebrücke wurde vor vielen Jahren gebaut.",
-                "english": "The suspension bridge was built many years ago."
-            },
-            {
-                "german": "Die Hängebrücke ist für Fußgänger und Radfahrer zugänglich.",
-                "english": "The suspension bridge is accessible for pedestrians and cyclists."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Hängebrücke ist sehr lang.",
+            "english": "The suspension bridge is very long."
+        },
+        {
+            "german": "Die Hängebrücke führt über einen Fluss.",
+            "english": "The suspension bridge crosses a river."
+        },
+        {
+            "german": "Die Hängebrücke bietet einen atemberaubenden Ausblick.",
+            "english": "The suspension bridge offers a breathtaking view."
+        },
+        {
+            "german": "Die Hängebrücke wurde vor vielen Jahren gebaut.",
+            "english": "The suspension bridge was built many years ago."
+        },
+        {
+            "german": "Die Hängebrücke ist für Fußgänger und Radfahrer zugänglich.",
+            "english": "The suspension bridge is accessible for pedestrians and cyclists."
+        }
+    ]
 }

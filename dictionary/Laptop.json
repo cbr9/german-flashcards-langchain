@@ -1,28 +1,26 @@
 {
     "word": "der Laptop, die Laptops",
     "definition": "A portable electronic device that is commonly used for various tasks such as browsing the internet, creating and editing documents, watching videos, and playing games. It typically consists of a screen, keyboard, and trackpad or mouse, and is designed to be easily transported and used on one's lap or any flat surface.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen neuen Laptop gekauft.",
-                "english": "I bought a new laptop."
-            },
-            {
-                "german": "Der Laptop ist sehr leicht und tragbar.",
-                "english": "The laptop is very lightweight and portable."
-            },
-            {
-                "german": "Mein Laptop hat einen großen Bildschirm.",
-                "english": "My laptop has a large screen."
-            },
-            {
-                "german": "Der Laptop funktioniert nicht mehr.",
-                "english": "The laptop is not working anymore."
-            },
-            {
-                "german": "Ich benutze meinen Laptop für die Arbeit.",
-                "english": "I use my laptop for work."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen neuen Laptop gekauft.",
+            "english": "I bought a new laptop."
+        },
+        {
+            "german": "Der Laptop ist sehr leicht und tragbar.",
+            "english": "The laptop is very lightweight and portable."
+        },
+        {
+            "german": "Mein Laptop hat einen großen Bildschirm.",
+            "english": "My laptop has a large screen."
+        },
+        {
+            "german": "Der Laptop funktioniert nicht mehr.",
+            "english": "The laptop is not working anymore."
+        },
+        {
+            "german": "Ich benutze meinen Laptop für die Arbeit.",
+            "english": "I use my laptop for work."
+        }
+    ]
 }

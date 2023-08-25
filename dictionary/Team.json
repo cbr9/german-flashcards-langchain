@@ -1,28 +1,26 @@
 {
     "word": "das Team, die Teams",
     "definition": "A group of individuals collaborating together towards a common goal, often involving joint efforts, coordination, and cooperation. It is commonly used in various contexts, such as sports, business, and projects, to refer to a collective unit working together as a cohesive team.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Team gewann das Spiel.",
-                "english": "The team won the game."
-            },
-            {
-                "german": "Unser Team besteht aus fünf Mitgliedern.",
-                "english": "Our team consists of five members."
-            },
-            {
-                "german": "Das Team arbeitet gut zusammen.",
-                "english": "The team works well together."
-            },
-            {
-                "german": "Unser Team ist sehr erfolgreich.",
-                "english": "Our team is very successful."
-            },
-            {
-                "german": "Das Team hat den ersten Platz erreicht.",
-                "english": "The team achieved first place."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Team gewann das Spiel.",
+            "english": "The team won the game."
+        },
+        {
+            "german": "Unser Team besteht aus fünf Mitgliedern.",
+            "english": "Our team consists of five members."
+        },
+        {
+            "german": "Das Team arbeitet gut zusammen.",
+            "english": "The team works well together."
+        },
+        {
+            "german": "Unser Team ist sehr erfolgreich.",
+            "english": "Our team is very successful."
+        },
+        {
+            "german": "Das Team hat den ersten Platz erreicht.",
+            "english": "The team achieved first place."
+        }
+    ]
 }

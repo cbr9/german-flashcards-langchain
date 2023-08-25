@@ -1,28 +1,26 @@
 {
     "word": "toll",
     "definition": "A positive adjective used to describe something or someone that is highly enjoyable, exciting, or impressive. It is commonly used to express enthusiasm or admiration for a person, event, experience, or object.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Essen war toll.",
-                "english": "The food was great."
-            },
-            {
-                "german": "Sie hat eine tolle Stimme.",
-                "english": "She has a wonderful voice."
-            },
-            {
-                "german": "Das Konzert gestern Abend war toll.",
-                "english": "The concert last night was fantastic."
-            },
-            {
-                "german": "Er hat einen tollen Job bekommen.",
-                "english": "He got a great job."
-            },
-            {
-                "german": "Die Aussicht von hier oben ist toll.",
-                "english": "The view from up here is amazing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Essen war toll.",
+            "english": "The food was great."
+        },
+        {
+            "german": "Sie hat eine tolle Stimme.",
+            "english": "She has a wonderful voice."
+        },
+        {
+            "german": "Das Konzert gestern Abend war toll.",
+            "english": "The concert last night was fantastic."
+        },
+        {
+            "german": "Er hat einen tollen Job bekommen.",
+            "english": "He got a great job."
+        },
+        {
+            "german": "Die Aussicht von hier oben ist toll.",
+            "english": "The view from up here is amazing."
+        }
+    ]
 }

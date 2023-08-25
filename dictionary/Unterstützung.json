@@ -1,28 +1,26 @@
 {
     "word": "die Unterstützung, die Unterstützungen",
     "definition": "A term referring to the act or process of providing aid, help, or assistance to someone or something in need. It commonly denotes the support given to individuals, groups, or causes, often in the form of financial, emotional, or practical assistance. This word is frequently used in contexts related to social welfare, teamwork, community involvement, or backing someone in their endeavors.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich brauche deine Unterstützung.",
-                "english": "I need your support."
-            },
-            {
-                "german": "Sie bietet finanzielle Unterstützung an.",
-                "english": "She offers financial assistance."
-            },
-            {
-                "german": "Die Regierung gewährt Unterstützung für Arbeitslose.",
-                "english": "The government provides support for the unemployed."
-            },
-            {
-                "german": "Er bedankte sich für die Unterstützung seiner Familie.",
-                "english": "He thanked his family for their support."
-            },
-            {
-                "german": "Die Organisation leistet humanitäre Unterstützung in Krisengebieten.",
-                "english": "The organization provides humanitarian aid in crisis areas."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich brauche deine Unterstützung.",
+            "english": "I need your support."
+        },
+        {
+            "german": "Sie bietet finanzielle Unterstützung an.",
+            "english": "She offers financial assistance."
+        },
+        {
+            "german": "Die Regierung gewährt Unterstützung für Arbeitslose.",
+            "english": "The government provides support for the unemployed."
+        },
+        {
+            "german": "Er bedankte sich für die Unterstützung seiner Familie.",
+            "english": "He thanked his family for their support."
+        },
+        {
+            "german": "Die Organisation leistet humanitäre Unterstützung in Krisengebieten.",
+            "english": "The organization provides humanitarian aid in crisis areas."
+        }
+    ]
 }

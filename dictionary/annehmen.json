@@ -1,28 +1,26 @@
 {
     "word": "annehmen, nahm an, angenommen",
     "definition": "To receive or accept something, typically used when someone takes on a task, responsibility, or obligation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich nehme an, dass er recht hat.",
-                "english": "I assume he is right."
-            },
-            {
-                "german": "Sie nahm das Geschenk dankend an.",
-                "english": "She graciously accepted the gift."
-            },
-            {
-                "german": "Er nahm die Herausforderung an und gewann.",
-                "english": "He accepted the challenge and won."
-            },
-            {
-                "german": "Kannst du annehmen, dass er lügt?",
-                "english": "Can you assume that he is lying?"
-            },
-            {
-                "german": "Sie nahm den Vorschlag an und stimmte zu.",
-                "english": "She accepted the proposal and agreed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich nehme an, dass er recht hat.",
+            "english": "I assume he is right."
+        },
+        {
+            "german": "Sie nahm das Geschenk dankend an.",
+            "english": "She graciously accepted the gift."
+        },
+        {
+            "german": "Er nahm die Herausforderung an und gewann.",
+            "english": "He accepted the challenge and won."
+        },
+        {
+            "german": "Kannst du annehmen, dass er lügt?",
+            "english": "Can you assume that he is lying?"
+        },
+        {
+            "german": "Sie nahm den Vorschlag an und stimmte zu.",
+            "english": "She accepted the proposal and agreed."
+        }
+    ]
 }

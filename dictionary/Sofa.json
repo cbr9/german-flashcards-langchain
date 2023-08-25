@@ -1,28 +1,26 @@
 {
     "word": "das Sofa, die Sofas",
     "definition": "A piece of furniture typically found in living spaces, designed for comfortable seating and often featuring a backrest and armrests. It is commonly used for relaxation, socializing, and as a place to sit or lie down while watching television, reading, or entertaining guests.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Sofa ist bequem.",
-                "english": "The sofa is comfortable."
-            },
-            {
-                "german": "Ich habe ein neues Sofa gekauft.",
-                "english": "I bought a new sofa."
-            },
-            {
-                "german": "Das Sofa passt nicht durch die Tür.",
-                "english": "The sofa doesn't fit through the door."
-            },
-            {
-                "german": "Wir haben ein großes Sofa im Wohnzimmer.",
-                "english": "We have a big sofa in the living room."
-            },
-            {
-                "german": "Das Sofa ist aus Leder.",
-                "english": "The sofa is made of leather."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Sofa ist bequem.",
+            "english": "The sofa is comfortable."
+        },
+        {
+            "german": "Ich habe ein neues Sofa gekauft.",
+            "english": "I bought a new sofa."
+        },
+        {
+            "german": "Das Sofa passt nicht durch die Tür.",
+            "english": "The sofa doesn't fit through the door."
+        },
+        {
+            "german": "Wir haben ein großes Sofa im Wohnzimmer.",
+            "english": "We have a big sofa in the living room."
+        },
+        {
+            "german": "Das Sofa ist aus Leder.",
+            "english": "The sofa is made of leather."
+        }
+    ]
 }

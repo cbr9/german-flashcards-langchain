@@ -1,28 +1,26 @@
 {
     "word": "drohen, drohte, gedroht",
     "definition": "To express a warning or an imminent danger, often used in contexts where one person is making a potential harm or negative consequence known to another person.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er drohte mir mit Gewalt.",
-                "english": "He threatened me with violence."
-            },
-            {
-                "german": "Sie drohten, das Gebäude in Brand zu setzen.",
-                "english": "They threatened to set the building on fire."
-            },
-            {
-                "german": "Der Sturm droht große Schäden anzurichten.",
-                "english": "The storm threatens to cause major damage."
-            },
-            {
-                "german": "Er drohte damit, die Polizei zu rufen.",
-                "english": "He threatened to call the police."
-            },
-            {
-                "german": "Die Regierung droht mit strengeren Maßnahmen.",
-                "english": "The government threatens with stricter measures."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er drohte mir mit Gewalt.",
+            "english": "He threatened me with violence."
+        },
+        {
+            "german": "Sie drohten, das Gebäude in Brand zu setzen.",
+            "english": "They threatened to set the building on fire."
+        },
+        {
+            "german": "Der Sturm droht große Schäden anzurichten.",
+            "english": "The storm threatens to cause major damage."
+        },
+        {
+            "german": "Er drohte damit, die Polizei zu rufen.",
+            "english": "He threatened to call the police."
+        },
+        {
+            "german": "Die Regierung droht mit strengeren Maßnahmen.",
+            "english": "The government threatens with stricter measures."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "gemeinnützig",
     "definition": "A term used to describe an organization or activity that is primarily focused on benefiting the general public or the common good. It is often associated with non-profit organizations, charities, or initiatives that aim to serve the community rather than seeking personal gain or profit.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Organisation ist gemeinnützig.",
-                "english": "The organization is non-profit."
-            },
-            {
-                "german": "Die Stiftung unterstützt gemeinnützige Projekte.",
-                "english": "The foundation supports charitable projects."
-            },
-            {
-                "german": "Der Verein ist als gemeinnützig anerkannt.",
-                "english": "The association is recognized as a non-profit."
-            },
-            {
-                "german": "Die gemeinnützige Einrichtung bietet kostenlose Beratung an.",
-                "english": "The non-profit institution offers free counseling."
-            },
-            {
-                "german": "Die Spende ist steuerlich absetzbar, da sie an eine gemeinnützige Organisation geht.",
-                "english": "The donation is tax deductible as it goes to a non-profit organization."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Organisation ist gemeinnützig.",
+            "english": "The organization is non-profit."
+        },
+        {
+            "german": "Die Stiftung unterstützt gemeinnützige Projekte.",
+            "english": "The foundation supports charitable projects."
+        },
+        {
+            "german": "Der Verein ist als gemeinnützig anerkannt.",
+            "english": "The association is recognized as a non-profit."
+        },
+        {
+            "german": "Die gemeinnützige Einrichtung bietet kostenlose Beratung an.",
+            "english": "The non-profit institution offers free counseling."
+        },
+        {
+            "german": "Die Spende ist steuerlich absetzbar, da sie an eine gemeinnützige Organisation geht.",
+            "english": "The donation is tax deductible as it goes to a non-profit organization."
+        }
+    ]
 }

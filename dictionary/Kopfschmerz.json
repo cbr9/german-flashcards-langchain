@@ -1,28 +1,26 @@
 {
     "word": "der Kopfschmerz, die Kopfschmerzen",
     "definition": "A common physical discomfort experienced in the head region, often characterized by throbbing or aching sensations. It is typically associated with various causes such as stress, tension, illness, or fatigue. This term is commonly used to describe a specific type of bodily discomfort that affects the head, and it is frequently used in medical and everyday contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe Kopfschmerzen.",
-                "english": "I have a headache."
-            },
-            {
-                "german": "Kopfschmerzen können durch Stress verursacht werden.",
-                "english": "Headaches can be caused by stress."
-            },
-            {
-                "german": "Sie nimmt eine Tablette gegen Kopfschmerzen.",
-                "english": "She takes a pill for headaches."
-            },
-            {
-                "german": "Kopfschmerzen können pulsierend oder dumpf sein.",
-                "english": "Headaches can be throbbing or dull."
-            },
-            {
-                "german": "Ich trinke viel Wasser, um Kopfschmerzen vorzubeugen.",
-                "english": "I drink a lot of water to prevent headaches."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe Kopfschmerzen.",
+            "english": "I have a headache."
+        },
+        {
+            "german": "Kopfschmerzen können durch Stress verursacht werden.",
+            "english": "Headaches can be caused by stress."
+        },
+        {
+            "german": "Sie nimmt eine Tablette gegen Kopfschmerzen.",
+            "english": "She takes a pill for headaches."
+        },
+        {
+            "german": "Kopfschmerzen können pulsierend oder dumpf sein.",
+            "english": "Headaches can be throbbing or dull."
+        },
+        {
+            "german": "Ich trinke viel Wasser, um Kopfschmerzen vorzubeugen.",
+            "english": "I drink a lot of water to prevent headaches."
+        }
+    ]
 }

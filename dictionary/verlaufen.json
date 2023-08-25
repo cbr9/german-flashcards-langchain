@@ -1,28 +1,26 @@
 {
     "word": "verlaufen, verlief, verlaufen",
     "definition": "To move or progress in a manner that deviates from a planned or expected course, often used to describe the unintentional or accidental wandering or straying from a path, route, or plan. It is commonly used to refer to the act of getting lost or losing one's way, both literally and metaphorically.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Weg verläuft durch den Wald.",
-                "english": "The path runs through the forest."
-            },
-            {
-                "german": "Die Veranstaltung verlief erfolgreich.",
-                "english": "The event went well."
-            },
-            {
-                "german": "Die Spuren verlaufen im Sand.",
-                "english": "The tracks disappear in the sand."
-            },
-            {
-                "german": "Die Straße verläuft parallel zum Fluss.",
-                "english": "The road runs parallel to the river."
-            },
-            {
-                "german": "Die Diskussion verlief kontrovers.",
-                "english": "The discussion was controversial."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Weg verläuft durch den Wald.",
+            "english": "The path runs through the forest."
+        },
+        {
+            "german": "Die Veranstaltung verlief erfolgreich.",
+            "english": "The event went well."
+        },
+        {
+            "german": "Die Spuren verlaufen im Sand.",
+            "english": "The tracks disappear in the sand."
+        },
+        {
+            "german": "Die Straße verläuft parallel zum Fluss.",
+            "english": "The road runs parallel to the river."
+        },
+        {
+            "german": "Die Diskussion verlief kontrovers.",
+            "english": "The discussion was controversial."
+        }
+    ]
 }

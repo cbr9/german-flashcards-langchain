@@ -1,28 +1,26 @@
 {
     "word": "der Lärm, die Lärme",
     "definition": "A loud and disruptive sound or noise, often associated with a negative connotation. It is commonly used to describe unwanted or excessive noise that causes disturbance or annoyance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Lärm in der Stadt ist unerträglich.",
-                "english": "The noise in the city is unbearable."
-            },
-            {
-                "german": "Bitte machen Sie weniger Lärm!",
-                "english": "Please make less noise!"
-            },
-            {
-                "german": "Der Lärmpegel auf der Baustelle ist zu hoch.",
-                "english": "The noise level at the construction site is too high."
-            },
-            {
-                "german": "Kinder machen oft viel Lärm beim Spielen.",
-                "english": "Children often make a lot of noise while playing."
-            },
-            {
-                "german": "Der Lärm des Verkehrs stört meinen Schlaf.",
-                "english": "The noise of the traffic disturbs my sleep."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Lärm in der Stadt ist unerträglich.",
+            "english": "The noise in the city is unbearable."
+        },
+        {
+            "german": "Bitte machen Sie weniger Lärm!",
+            "english": "Please make less noise!"
+        },
+        {
+            "german": "Der Lärmpegel auf der Baustelle ist zu hoch.",
+            "english": "The noise level at the construction site is too high."
+        },
+        {
+            "german": "Kinder machen oft viel Lärm beim Spielen.",
+            "english": "Children often make a lot of noise while playing."
+        },
+        {
+            "german": "Der Lärm des Verkehrs stört meinen Schlaf.",
+            "english": "The noise of the traffic disturbs my sleep."
+        }
+    ]
 }

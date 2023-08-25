@@ -1,28 +1,26 @@
 {
     "word": "das Handy, die Handys",
     "definition": "A portable electronic device that enables communication and access to various applications and functions, typically used for making phone calls, sending messages, browsing the internet, and other related activities. It is commonly carried in one's pocket or bag for convenience and is widely utilized for staying connected and accessing information on the go.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe mein Handy verloren.",
-                "english": "I lost my phone."
-            },
-            {
-                "german": "Kannst du mir dein Handy leihen?",
-                "english": "Can you lend me your phone?"
-            },
-            {
-                "german": "Mein neues Handy hat eine gute Kamera.",
-                "english": "My new phone has a good camera."
-            },
-            {
-                "german": "Ich habe gestern ein neues Handy gekauft.",
-                "english": "I bought a new phone yesterday."
-            },
-            {
-                "german": "Das Handy ist in meiner Tasche.",
-                "english": "The phone is in my bag."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe mein Handy verloren.",
+            "english": "I lost my phone."
+        },
+        {
+            "german": "Kannst du mir dein Handy leihen?",
+            "english": "Can you lend me your phone?"
+        },
+        {
+            "german": "Mein neues Handy hat eine gute Kamera.",
+            "english": "My new phone has a good camera."
+        },
+        {
+            "german": "Ich habe gestern ein neues Handy gekauft.",
+            "english": "I bought a new phone yesterday."
+        },
+        {
+            "german": "Das Handy ist in meiner Tasche.",
+            "english": "The phone is in my bag."
+        }
+    ]
 }

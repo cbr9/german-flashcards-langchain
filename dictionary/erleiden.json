@@ -1,28 +1,26 @@
 {
     "word": "erleiden, erlitt, erlitten",
     "definition": "To experience or undergo something negative, often used to describe enduring pain, suffering, or hardship.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er hat bei dem Unfall schwere Verletzungen erlitten.",
-                "english": "He suffered serious injuries in the accident."
-            },
-            {
-                "german": "Die Firma hat einen großen finanziellen Verlust erlitten.",
-                "english": "The company suffered a significant financial loss."
-            },
-            {
-                "german": "Sie musste eine schwere Niederlage im Turnier erleiden.",
-                "english": "She had to suffer a heavy defeat in the tournament."
-            },
-            {
-                "german": "Der Patient hat einen Schlaganfall erlitten.",
-                "english": "The patient suffered a stroke."
-            },
-            {
-                "german": "Die Stadt hat unter dem Bombenangriff große Zerstörungen erlitten.",
-                "english": "The city suffered major destruction from the bombing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er hat bei dem Unfall schwere Verletzungen erlitten.",
+            "english": "He suffered serious injuries in the accident."
+        },
+        {
+            "german": "Die Firma hat einen großen finanziellen Verlust erlitten.",
+            "english": "The company suffered a significant financial loss."
+        },
+        {
+            "german": "Sie musste eine schwere Niederlage im Turnier erleiden.",
+            "english": "She had to suffer a heavy defeat in the tournament."
+        },
+        {
+            "german": "Der Patient hat einen Schlaganfall erlitten.",
+            "english": "The patient suffered a stroke."
+        },
+        {
+            "german": "Die Stadt hat unter dem Bombenangriff große Zerstörungen erlitten.",
+            "english": "The city suffered major destruction from the bombing."
+        }
+    ]
 }

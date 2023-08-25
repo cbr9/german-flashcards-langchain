@@ -1,28 +1,26 @@
 {
     "word": "die Jacke, die Jacken",
     "definition": "A piece of clothing typically worn on the upper body, often with sleeves, that provides warmth and protection. It is commonly used as an outer layer and can be made from various materials such as fabric, leather, or synthetic fibers. This item is frequently worn during colder seasons or in inclement weather conditions to shield the wearer from cold temperatures or precipitation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich trage eine Jacke.",
-                "english": "I am wearing a jacket."
-            },
-            {
-                "german": "Die Jacke ist blau.",
-                "english": "The jacket is blue."
-            },
-            {
-                "german": "Kannst du mir deine Jacke leihen?",
-                "english": "Can you lend me your jacket?"
-            },
-            {
-                "german": "Die Jacke passt mir nicht.",
-                "english": "The jacket doesn't fit me."
-            },
-            {
-                "german": "Ich habe meine Jacke verloren.",
-                "english": "I lost my jacket."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich trage eine Jacke.",
+            "english": "I am wearing a jacket."
+        },
+        {
+            "german": "Die Jacke ist blau.",
+            "english": "The jacket is blue."
+        },
+        {
+            "german": "Kannst du mir deine Jacke leihen?",
+            "english": "Can you lend me your jacket?"
+        },
+        {
+            "german": "Die Jacke passt mir nicht.",
+            "english": "The jacket doesn't fit me."
+        },
+        {
+            "german": "Ich habe meine Jacke verloren.",
+            "english": "I lost my jacket."
+        }
+    ]
 }

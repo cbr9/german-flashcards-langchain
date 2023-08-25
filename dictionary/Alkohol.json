@@ -1,28 +1,26 @@
 {
     "word": "der Alkohol, die Alkohole",
     "definition": "A colorless liquid substance commonly consumed for its intoxicating effects, often found in beverages and used as a solvent or disinfectant.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Alkohol ist in vielen Getränken enthalten.",
-                "english": "Alcohol is present in many beverages."
-            },
-            {
-                "german": "Der Konsum von Alkohol kann gesundheitsschädlich sein.",
-                "english": "Consumption of alcohol can be harmful to health."
-            },
-            {
-                "german": "Alkohol beeinflusst die Reaktionsfähigkeit.",
-                "english": "Alcohol affects reaction time."
-            },
-            {
-                "german": "Alkohol kann zu Abhängigkeit führen.",
-                "english": "Alcohol can lead to addiction."
-            },
-            {
-                "german": "Alkohol wird oft bei gesellschaftlichen Anlässen konsumiert.",
-                "english": "Alcohol is often consumed at social events."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Alkohol ist in vielen Getränken enthalten.",
+            "english": "Alcohol is present in many beverages."
+        },
+        {
+            "german": "Der Konsum von Alkohol kann gesundheitsschädlich sein.",
+            "english": "Consumption of alcohol can be harmful to health."
+        },
+        {
+            "german": "Alkohol beeinflusst die Reaktionsfähigkeit.",
+            "english": "Alcohol affects reaction time."
+        },
+        {
+            "german": "Alkohol kann zu Abhängigkeit führen.",
+            "english": "Alcohol can lead to addiction."
+        },
+        {
+            "german": "Alkohol wird oft bei gesellschaftlichen Anlässen konsumiert.",
+            "english": "Alcohol is often consumed at social events."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Kundenservice, die Kundenservices",
     "definition": "A service provided by a company or organization to assist and support its customers, typically involving addressing inquiries, resolving issues, and providing information or guidance. It is commonly used in the context of businesses, where it refers to the support and assistance offered to customers in order to enhance their satisfaction and ensure a positive experience with the company's products or services.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Kundenservice war sehr hilfreich.",
-                "english": "The customer service was very helpful."
-            },
-            {
-                "german": "Unser Kundenservice steht Ihnen rund um die Uhr zur Verfügung.",
-                "english": "Our customer service is available 24/7."
-            },
-            {
-                "german": "Der Kundenservice hat meine Beschwerde schnell bearbeitet.",
-                "english": "The customer service handled my complaint quickly."
-            },
-            {
-                "german": "Der Kundenservice war sehr freundlich und zuvorkommend.",
-                "english": "The customer service was very friendly and accommodating."
-            },
-            {
-                "german": "Ich habe den Kundenservice kontaktiert, um mein Problem zu lösen.",
-                "english": "I contacted customer service to solve my problem."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Kundenservice war sehr hilfreich.",
+            "english": "The customer service was very helpful."
+        },
+        {
+            "german": "Unser Kundenservice steht Ihnen rund um die Uhr zur Verfügung.",
+            "english": "Our customer service is available 24/7."
+        },
+        {
+            "german": "Der Kundenservice hat meine Beschwerde schnell bearbeitet.",
+            "english": "The customer service handled my complaint quickly."
+        },
+        {
+            "german": "Der Kundenservice war sehr freundlich und zuvorkommend.",
+            "english": "The customer service was very friendly and accommodating."
+        },
+        {
+            "german": "Ich habe den Kundenservice kontaktiert, um mein Problem zu lösen.",
+            "english": "I contacted customer service to solve my problem."
+        }
+    ]
 }

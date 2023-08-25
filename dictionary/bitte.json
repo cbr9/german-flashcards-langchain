@@ -1,28 +1,26 @@
 {
     "word": "bitte",
     "definition": "A polite expression commonly used to make a request, ask for something, or to say \"please\" in a courteous manner. It is often used in various social interactions and can be employed to show politeness and gratitude.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Bitte setzen Sie sich.",
-                "english": "Please have a seat."
-            },
-            {
-                "german": "Kann ich Ihnen helfen? - Ja, bitte.",
-                "english": "Can I help you? - Yes, please."
-            },
-            {
-                "german": "Könnten Sie das bitte wiederholen?",
-                "english": "Could you please repeat that?"
-            },
-            {
-                "german": "Bitte beachten Sie die Hinweise.",
-                "english": "Please pay attention to the instructions."
-            },
-            {
-                "german": "Darf ich bitte die Rechnung haben?",
-                "english": "May I have the bill, please?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Bitte setzen Sie sich.",
+            "english": "Please have a seat."
+        },
+        {
+            "german": "Kann ich Ihnen helfen? - Ja, bitte.",
+            "english": "Can I help you? - Yes, please."
+        },
+        {
+            "german": "Könnten Sie das bitte wiederholen?",
+            "english": "Could you please repeat that?"
+        },
+        {
+            "german": "Bitte beachten Sie die Hinweise.",
+            "english": "Please pay attention to the instructions."
+        },
+        {
+            "german": "Darf ich bitte die Rechnung haben?",
+            "english": "May I have the bill, please?"
+        }
+    ]
 }

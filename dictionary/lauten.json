@@ -1,28 +1,26 @@
 {
     "word": "lauten, lautete, gelautet",
     "definition": "To produce sound or make a noise, often used to describe the action of an instrument or voice.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Was lautet deine Telefonnummer?",
-                "english": "What is your phone number?"
-            },
-            {
-                "german": "Die Antwort lautet Ja.",
-                "english": "The answer is yes."
-            },
-            {
-                "german": "Es lautet, dass er nicht kommen kann.",
-                "english": "It says that he cannot come."
-            },
-            {
-                "german": "Die Regel lautet, dass man pünktlich sein muss.",
-                "english": "The rule is that you have to be on time."
-            },
-            {
-                "german": "Der Name lautet Müller.",
-                "english": "The name is Müller."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Was lautet deine Telefonnummer?",
+            "english": "What is your phone number?"
+        },
+        {
+            "german": "Die Antwort lautet Ja.",
+            "english": "The answer is yes."
+        },
+        {
+            "german": "Es lautet, dass er nicht kommen kann.",
+            "english": "It says that he cannot come."
+        },
+        {
+            "german": "Die Regel lautet, dass man pünktlich sein muss.",
+            "english": "The rule is that you have to be on time."
+        },
+        {
+            "german": "Der Name lautet Müller.",
+            "english": "The name is Müller."
+        }
+    ]
 }

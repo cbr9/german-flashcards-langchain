@@ -1,28 +1,26 @@
 {
     "word": "die Dunkelheit, die Dunkelheiten",
     "definition": "The absence of light; the state or quality of being without illumination. It is commonly used to describe the condition of darkness or lack of brightness in various contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Dunkelheit der Nacht war beängstigend.",
-                "english": "The darkness of the night was frightening."
-            },
-            {
-                "german": "In der Dunkelheit konnte ich nichts sehen.",
-                "english": "I couldn't see anything in the darkness."
-            },
-            {
-                "german": "Die Dunkelheit breitete sich langsam aus.",
-                "english": "The darkness spread slowly."
-            },
-            {
-                "german": "Er fürchtet sich vor der Dunkelheit.",
-                "english": "He is afraid of the darkness."
-            },
-            {
-                "german": "Die Dunkelheit umhüllte die Stadt.",
-                "english": "The darkness enveloped the city."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Dunkelheit der Nacht war beängstigend.",
+            "english": "The darkness of the night was frightening."
+        },
+        {
+            "german": "In der Dunkelheit konnte ich nichts sehen.",
+            "english": "I couldn't see anything in the darkness."
+        },
+        {
+            "german": "Die Dunkelheit breitete sich langsam aus.",
+            "english": "The darkness spread slowly."
+        },
+        {
+            "german": "Er fürchtet sich vor der Dunkelheit.",
+            "english": "He is afraid of the darkness."
+        },
+        {
+            "german": "Die Dunkelheit umhüllte die Stadt.",
+            "english": "The darkness enveloped the city."
+        }
+    ]
 }

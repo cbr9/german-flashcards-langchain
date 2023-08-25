@@ -1,28 +1,26 @@
 {
     "word": "der Iq, die There is no plural form for the singular noun \"article iq\" as it is already in its plural form.",
     "definition": "A measure of a person's cognitive abilities, typically assessed through standardized tests, which is used to evaluate and compare intelligence levels. It is commonly employed to gauge intellectual potential and aptitude in various contexts, such as educational settings, employment screenings, and research studies.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sein IQ liegt über dem Durchschnitt.",
-                "english": "His IQ is above average."
-            },
-            {
-                "german": "Sie hat einen hohen IQ.",
-                "english": "She has a high IQ."
-            },
-            {
-                "german": "Sein IQ wurde durch den Test bestätigt.",
-                "english": "His IQ was confirmed by the test."
-            },
-            {
-                "german": "Ein hoher IQ ist kein Garant für Erfolg.",
-                "english": "A high IQ is not a guarantee of success."
-            },
-            {
-                "german": "Der IQ-Test besteht aus verschiedenen Aufgaben.",
-                "english": "The IQ test consists of various tasks."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sein IQ liegt über dem Durchschnitt.",
+            "english": "His IQ is above average."
+        },
+        {
+            "german": "Sie hat einen hohen IQ.",
+            "english": "She has a high IQ."
+        },
+        {
+            "german": "Sein IQ wurde durch den Test bestätigt.",
+            "english": "His IQ was confirmed by the test."
+        },
+        {
+            "german": "Ein hoher IQ ist kein Garant für Erfolg.",
+            "english": "A high IQ is not a guarantee of success."
+        },
+        {
+            "german": "Der IQ-Test besteht aus verschiedenen Aufgaben.",
+            "english": "The IQ test consists of various tasks."
+        }
+    ]
 }

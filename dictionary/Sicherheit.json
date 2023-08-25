@@ -1,28 +1,26 @@
 {
     "word": "die Sicherheit, die Sicherheiten",
     "definition": "A state or condition characterized by the absence of danger, risk, or harm, often referring to the protection or assurance of personal well-being, property, or information. It is commonly used in contexts related to the field of security, encompassing physical safety, data protection, or the prevention of potential threats.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Sicherheit der Passagiere ist unsere oberste Priorität.",
-                "english": "The safety of the passengers is our top priority."
-            },
-            {
-                "german": "Der Sicherheitsdienst kontrolliert die Zugänge zum Gebäude.",
-                "english": "The security service controls the access to the building."
-            },
-            {
-                "german": "Es ist wichtig, dass man sich in seiner eigenen Wohnung sicher fühlt.",
-                "english": "It is important to feel safe in one's own apartment."
-            },
-            {
-                "german": "Die Sicherheit der Daten ist in der heutigen digitalen Welt von großer Bedeutung.",
-                "english": "The security of data is of great importance in today's digital world."
-            },
-            {
-                "german": "Die Sicherheit der Mitarbeiter wird durch regelmäßige Schulungen gewährleistet.",
-                "english": "The safety of the employees is ensured through regular training."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Sicherheit der Passagiere ist unsere oberste Priorität.",
+            "english": "The safety of the passengers is our top priority."
+        },
+        {
+            "german": "Der Sicherheitsdienst kontrolliert die Zugänge zum Gebäude.",
+            "english": "The security service controls the access to the building."
+        },
+        {
+            "german": "Es ist wichtig, dass man sich in seiner eigenen Wohnung sicher fühlt.",
+            "english": "It is important to feel safe in one's own apartment."
+        },
+        {
+            "german": "Die Sicherheit der Daten ist in der heutigen digitalen Welt von großer Bedeutung.",
+            "english": "The security of data is of great importance in today's digital world."
+        },
+        {
+            "german": "Die Sicherheit der Mitarbeiter wird durch regelmäßige Schulungen gewährleistet.",
+            "english": "The safety of the employees is ensured through regular training."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "stolz",
     "definition": "A feeling of deep satisfaction and pride in oneself, one's achievements, or someone or something closely associated. It is often used to describe a positive emotion related to personal accomplishments, heritage, or national identity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin stolz auf dich.",
-                "english": "I am proud of you."
-            },
-            {
-                "german": "Er ist stolz auf seine Leistung.",
-                "english": "He is proud of his achievement."
-            },
-            {
-                "german": "Sie ist stolz auf ihr neues Auto.",
-                "english": "She is proud of her new car."
-            },
-            {
-                "german": "Wir sind stolz auf unsere Mannschaft.",
-                "english": "We are proud of our team."
-            },
-            {
-                "german": "Die Eltern sind stolz auf ihre Kinder.",
-                "english": "The parents are proud of their children."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin stolz auf dich.",
+            "english": "I am proud of you."
+        },
+        {
+            "german": "Er ist stolz auf seine Leistung.",
+            "english": "He is proud of his achievement."
+        },
+        {
+            "german": "Sie ist stolz auf ihr neues Auto.",
+            "english": "She is proud of her new car."
+        },
+        {
+            "german": "Wir sind stolz auf unsere Mannschaft.",
+            "english": "We are proud of our team."
+        },
+        {
+            "german": "Die Eltern sind stolz auf ihre Kinder.",
+            "english": "The parents are proud of their children."
+        }
+    ]
 }

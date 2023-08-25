@@ -1,28 +1,26 @@
 {
     "word": "wandern, wanderte, gewandert",
     "definition": "The act of moving on foot through natural landscapes, typically for recreational purposes, often involving long distances and a sense of exploration and adventure. It is commonly associated with leisure activities, outdoor enthusiasts, and the enjoyment of nature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich liebe es, in den Bergen zu wandern.",
-                "english": "I love hiking in the mountains."
-            },
-            {
-                "german": "Wir haben gestern eine lange Wanderung gemacht.",
-                "english": "We went on a long hike yesterday."
-            },
-            {
-                "german": "Im Sommer wandern viele Menschen durch den Wald.",
-                "english": "Many people go hiking through the forest in summer."
-            },
-            {
-                "german": "Er wandert gerne alleine und genießt die Natur.",
-                "english": "He enjoys hiking alone and appreciating nature."
-            },
-            {
-                "german": "Wir sollten uns eine Wanderkarte besorgen, bevor wir losgehen.",
-                "english": "We should get a hiking map before we start."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich liebe es, in den Bergen zu wandern.",
+            "english": "I love hiking in the mountains."
+        },
+        {
+            "german": "Wir haben gestern eine lange Wanderung gemacht.",
+            "english": "We went on a long hike yesterday."
+        },
+        {
+            "german": "Im Sommer wandern viele Menschen durch den Wald.",
+            "english": "Many people go hiking through the forest in summer."
+        },
+        {
+            "german": "Er wandert gerne alleine und genießt die Natur.",
+            "english": "He enjoys hiking alone and appreciating nature."
+        },
+        {
+            "german": "Wir sollten uns eine Wanderkarte besorgen, bevor wir losgehen.",
+            "english": "We should get a hiking map before we start."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Bau, die Bauten",
     "definition": "A term commonly employed to describe the process of creating or constructing something, typically referring to the physical act of building or assembling objects, structures, or edifices. It is frequently used in contexts related to architecture, engineering, and construction projects.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Bau des neuen Hauses hat begonnen.",
-                "english": "The construction of the new house has begun."
-            },
-            {
-                "german": "Die Bäume bilden einen dichten Baum.",
-                "english": "The trees form a dense forest."
-            },
-            {
-                "german": "Der Biber baut einen Damm aus Ästen.",
-                "english": "The beaver builds a dam out of branches."
-            },
-            {
-                "german": "Der Bau der Brücke dauerte mehrere Jahre.",
-                "english": "The construction of the bridge took several years."
-            },
-            {
-                "german": "Der Maulwurf gräbt einen Bau unter der Erde.",
-                "english": "The mole digs a burrow underground."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Bau des neuen Hauses hat begonnen.",
+            "english": "The construction of the new house has begun."
+        },
+        {
+            "german": "Die Bäume bilden einen dichten Baum.",
+            "english": "The trees form a dense forest."
+        },
+        {
+            "german": "Der Biber baut einen Damm aus Ästen.",
+            "english": "The beaver builds a dam out of branches."
+        },
+        {
+            "german": "Der Bau der Brücke dauerte mehrere Jahre.",
+            "english": "The construction of the bridge took several years."
+        },
+        {
+            "german": "Der Maulwurf gräbt einen Bau unter der Erde.",
+            "english": "The mole digs a burrow underground."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Planung, die Plural: planungen",
     "definition": "The act or process of creating a detailed arrangement or strategy for a specific purpose, often involving the organization and scheduling of tasks or events. It is commonly employed in various domains, such as project management, event coordination, or architectural design, to outline and structure the necessary steps or elements required to achieve a desired outcome.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Planung des Projekts hat begonnen.",
-                "english": "The planning of the project has begun."
-            },
-            {
-                "german": "Eine gute Planung ist entscheidend für den Erfolg.",
-                "english": "Good planning is crucial for success."
-            },
-            {
-                "german": "Die Planung der Veranstaltung läuft reibungslos.",
-                "english": "The planning of the event is going smoothly."
-            },
-            {
-                "german": "Die Planung des Urlaubs ist abgeschlossen.",
-                "english": "The planning of the vacation is complete."
-            },
-            {
-                "german": "Die Planung der neuen Fabrik ist in vollem Gange.",
-                "english": "The planning of the new factory is in full swing."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Planung des Projekts hat begonnen.",
+            "english": "The planning of the project has begun."
+        },
+        {
+            "german": "Eine gute Planung ist entscheidend für den Erfolg.",
+            "english": "Good planning is crucial for success."
+        },
+        {
+            "german": "Die Planung der Veranstaltung läuft reibungslos.",
+            "english": "The planning of the event is going smoothly."
+        },
+        {
+            "german": "Die Planung des Urlaubs ist abgeschlossen.",
+            "english": "The planning of the vacation is complete."
+        },
+        {
+            "german": "Die Planung der neuen Fabrik ist in vollem Gange.",
+            "english": "The planning of the new factory is in full swing."
+        }
+    ]
 }

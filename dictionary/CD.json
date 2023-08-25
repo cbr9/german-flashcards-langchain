@@ -1,28 +1,26 @@
 {
     "word": "die Cd, die Articles cds",
     "definition": "A digital storage medium commonly used for storing and playing audio recordings, often containing music or spoken content. It is typically a flat, circular disc made of plastic, with a reflective surface that stores data in a digital format. This medium is frequently utilized for music albums, audio books, and other audio recordings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine CD gekauft.",
-                "english": "I bought a CD."
-            },
-            {
-                "german": "Die CD ist zerkratzt.",
-                "english": "The CD is scratched."
-            },
-            {
-                "german": "Kannst du mir eine CD brennen?",
-                "english": "Can you burn me a CD?"
-            },
-            {
-                "german": "Die CD ist ausverkauft.",
-                "english": "The CD is sold out."
-            },
-            {
-                "german": "Ich habe meine CD-Sammlung verloren.",
-                "english": "I lost my CD collection."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine CD gekauft.",
+            "english": "I bought a CD."
+        },
+        {
+            "german": "Die CD ist zerkratzt.",
+            "english": "The CD is scratched."
+        },
+        {
+            "german": "Kannst du mir eine CD brennen?",
+            "english": "Can you burn me a CD?"
+        },
+        {
+            "german": "Die CD ist ausverkauft.",
+            "english": "The CD is sold out."
+        },
+        {
+            "german": "Ich habe meine CD-Sammlung verloren.",
+            "english": "I lost my CD collection."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "ausbreiten, breitete aus, ausgebreitet",
     "definition": "To extend or spread something out, typically referring to the action of unfolding, expanding, or unfurling an object or material. It is commonly used when describing the process of spreading out a fabric, paper, or any other flexible material to make it flat or open.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Pflanzen breiten sich im ganzen Garten aus.",
-                "english": "The plants spread throughout the garden."
-            },
-            {
-                "german": "Der Teig muss sich vor dem Backen ausbreiten.",
-                "english": "The dough needs to expand before baking."
-            },
-            {
-                "german": "Die Nachricht breitete sich schnell im Dorf aus.",
-                "english": "The news spread quickly in the village."
-            },
-            {
-                "german": "Die Krankheit kann sich leicht ausbreiten.",
-                "english": "The disease can easily spread."
-            },
-            {
-                "german": "Der Nebel breitete sich über das Tal aus.",
-                "english": "The fog spread over the valley."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Pflanzen breiten sich im ganzen Garten aus.",
+            "english": "The plants spread throughout the garden."
+        },
+        {
+            "german": "Der Teig muss sich vor dem Backen ausbreiten.",
+            "english": "The dough needs to expand before baking."
+        },
+        {
+            "german": "Die Nachricht breitete sich schnell im Dorf aus.",
+            "english": "The news spread quickly in the village."
+        },
+        {
+            "german": "Die Krankheit kann sich leicht ausbreiten.",
+            "english": "The disease can easily spread."
+        },
+        {
+            "german": "Der Nebel breitete sich über das Tal aus.",
+            "english": "The fog spread over the valley."
+        }
+    ]
 }

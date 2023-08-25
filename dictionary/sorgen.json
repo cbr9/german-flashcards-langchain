@@ -1,28 +1,26 @@
 {
     "word": "sorgen, sorgte, gesorgt",
     "definition": "To be concerned or worried about something, often used to describe the act of taking care or providing for someone or something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich sorge mich um meine Familie.",
-                "english": "I worry about my family."
-            },
-            {
-                "german": "Er sorgt für seine kranke Mutter.",
-                "english": "He takes care of his sick mother."
-            },
-            {
-                "german": "Sie sorgt dafür, dass alles rechtzeitig erledigt wird.",
-                "english": "She ensures that everything is done on time."
-            },
-            {
-                "german": "Wir müssen uns um die Umwelt sorgen.",
-                "english": "We need to care about the environment."
-            },
-            {
-                "german": "Sorg dich nicht, alles wird gut.",
-                "english": "Don't worry, everything will be fine."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich sorge mich um meine Familie.",
+            "english": "I worry about my family."
+        },
+        {
+            "german": "Er sorgt für seine kranke Mutter.",
+            "english": "He takes care of his sick mother."
+        },
+        {
+            "german": "Sie sorgt dafür, dass alles rechtzeitig erledigt wird.",
+            "english": "She ensures that everything is done on time."
+        },
+        {
+            "german": "Wir müssen uns um die Umwelt sorgen.",
+            "english": "We need to care about the environment."
+        },
+        {
+            "german": "Sorg dich nicht, alles wird gut.",
+            "english": "Don't worry, everything will be fine."
+        }
+    ]
 }

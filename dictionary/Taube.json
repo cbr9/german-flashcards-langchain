@@ -1,28 +1,26 @@
 {
     "word": "die Taube, die Tauben",
     "definition": "A creature that is often associated with peace and is commonly found in urban areas, known for its ability to fly and its gentle demeanor. It is frequently depicted in art and literature as a symbol of tranquility and harmony.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Taube fliegt hoch in den Himmel.",
-                "english": "The dove flies high in the sky."
-            },
-            {
-                "german": "Die Taube pickt Körner vom Boden auf.",
-                "english": "The pigeon pecks grains from the ground."
-            },
-            {
-                "german": "Die Taube ist ein Symbol des Friedens.",
-                "english": "The dove is a symbol of peace."
-            },
-            {
-                "german": "Die Taube baut ihr Nest auf dem Dach.",
-                "english": "The pigeon builds its nest on the roof."
-            },
-            {
-                "german": "Die Taube hat eine weiße Feder.",
-                "english": "The dove has a white feather."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Taube fliegt hoch in den Himmel.",
+            "english": "The dove flies high in the sky."
+        },
+        {
+            "german": "Die Taube pickt Körner vom Boden auf.",
+            "english": "The pigeon pecks grains from the ground."
+        },
+        {
+            "german": "Die Taube ist ein Symbol des Friedens.",
+            "english": "The dove is a symbol of peace."
+        },
+        {
+            "german": "Die Taube baut ihr Nest auf dem Dach.",
+            "english": "The pigeon builds its nest on the roof."
+        },
+        {
+            "german": "Die Taube hat eine weiße Feder.",
+            "english": "The dove has a white feather."
+        }
+    ]
 }

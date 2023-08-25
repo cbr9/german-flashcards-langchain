@@ -1,28 +1,26 @@
 {
     "word": "die Wirtschaft, die Wirtschaften",
     "definition": "The term refers to the system and activities related to the production, distribution, and consumption of goods and services within a specific region or country. It encompasses various aspects such as industries, trade, commerce, and financial transactions. It is commonly used to describe the overall economic condition, including factors such as employment, growth, and stability. Additionally, it can also refer to the field of study or academic discipline that focuses on understanding and analyzing economic systems and their components.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die deutsche Wirtschaft wächst stetig.",
-                "english": "The German economy is growing steadily."
-            },
-            {
-                "german": "Die Wirtschaftskrise hat zu vielen Arbeitsplatzverlusten geführt.",
-                "english": "The economic crisis has led to many job losses."
-            },
-            {
-                "german": "Die Wirtschaft ist stark von der Automobilindustrie abhängig.",
-                "english": "The economy is heavily dependent on the automotive industry."
-            },
-            {
-                "german": "Die Wirtschaftspolitik der Regierung hat zu einem Aufschwung geführt.",
-                "english": "The government's economic policy has led to an upturn."
-            },
-            {
-                "german": "Die Wirtschaftslage in Europa ist derzeit unsicher.",
-                "english": "The economic situation in Europe is currently uncertain."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die deutsche Wirtschaft wächst stetig.",
+            "english": "The German economy is growing steadily."
+        },
+        {
+            "german": "Die Wirtschaftskrise hat zu vielen Arbeitsplatzverlusten geführt.",
+            "english": "The economic crisis has led to many job losses."
+        },
+        {
+            "german": "Die Wirtschaft ist stark von der Automobilindustrie abhängig.",
+            "english": "The economy is heavily dependent on the automotive industry."
+        },
+        {
+            "german": "Die Wirtschaftspolitik der Regierung hat zu einem Aufschwung geführt.",
+            "english": "The government's economic policy has led to an upturn."
+        },
+        {
+            "german": "Die Wirtschaftslage in Europa ist derzeit unsicher.",
+            "english": "The economic situation in Europe is currently uncertain."
+        }
+    ]
 }

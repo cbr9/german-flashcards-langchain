@@ -1,28 +1,26 @@
 {
     "word": "fühlen, fühlte, gefühlt",
     "definition": "To perceive or experience sensations, emotions, or physical states through the sense of touch or inner awareness. It is commonly used to describe the act of sensing or feeling something, whether it be physical touch, emotions, or an intuitive understanding.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich fühle mich glücklich.",
-                "english": "I feel happy."
-            },
-            {
-                "german": "Sie fühlt die Wärme der Sonne auf ihrer Haut.",
-                "english": "She feels the warmth of the sun on her skin."
-            },
-            {
-                "german": "Er fühlt sich müde und erschöpft.",
-                "english": "He feels tired and exhausted."
-            },
-            {
-                "german": "Wir fühlen uns sicher in diesem Haus.",
-                "english": "We feel safe in this house."
-            },
-            {
-                "german": "Kannst du den Wind auf deinem Gesicht fühlen?",
-                "english": "Can you feel the wind on your face?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich fühle mich glücklich.",
+            "english": "I feel happy."
+        },
+        {
+            "german": "Sie fühlt die Wärme der Sonne auf ihrer Haut.",
+            "english": "She feels the warmth of the sun on her skin."
+        },
+        {
+            "german": "Er fühlt sich müde und erschöpft.",
+            "english": "He feels tired and exhausted."
+        },
+        {
+            "german": "Wir fühlen uns sicher in diesem Haus.",
+            "english": "We feel safe in this house."
+        },
+        {
+            "german": "Kannst du den Wind auf deinem Gesicht fühlen?",
+            "english": "Can you feel the wind on your face?"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Verletzung, die Verletzungen",
     "definition": "A condition resulting from harm or damage to the body, often caused by an accident, injury, or physical trauma. It typically refers to a bodily injury or wound, and is commonly used in medical and legal contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Verletzung heilt langsam.",
-                "english": "The injury is healing slowly."
-            },
-            {
-                "german": "Er hat sich eine schwere Verletzung zugezogen.",
-                "english": "He suffered a serious injury."
-            },
-            {
-                "german": "Die Verletzung war nicht schwerwiegend.",
-                "english": "The injury was not serious."
-            },
-            {
-                "german": "Sie hat eine Verletzung am Arm.",
-                "english": "She has an injury on her arm."
-            },
-            {
-                "german": "Die Verletzung schmerzt sehr.",
-                "english": "The injury is very painful."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Verletzung heilt langsam.",
+            "english": "The injury is healing slowly."
+        },
+        {
+            "german": "Er hat sich eine schwere Verletzung zugezogen.",
+            "english": "He suffered a serious injury."
+        },
+        {
+            "german": "Die Verletzung war nicht schwerwiegend.",
+            "english": "The injury was not serious."
+        },
+        {
+            "german": "Sie hat eine Verletzung am Arm.",
+            "english": "She has an injury on her arm."
+        },
+        {
+            "german": "Die Verletzung schmerzt sehr.",
+            "english": "The injury is very painful."
+        }
+    ]
 }

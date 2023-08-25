@@ -1,28 +1,26 @@
 {
     "word": "die Frucht, die Früchte",
     "definition": "Frucht refers to the edible reproductive body of a plant, typically containing seeds. It is commonly used to describe a wide variety of fruits found in nature, including but not limited to apples, oranges, berries, and melons.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Frucht ist süß.",
-                "english": "The fruit is sweet."
-            },
-            {
-                "german": "Ich esse gerne frische Früchte.",
-                "english": "I enjoy eating fresh fruits."
-            },
-            {
-                "german": "Diese Frucht hat eine harte Schale.",
-                "english": "This fruit has a hard shell."
-            },
-            {
-                "german": "Die Frucht ist reif und saftig.",
-                "english": "The fruit is ripe and juicy."
-            },
-            {
-                "german": "Früchte enthalten viele Vitamine.",
-                "english": "Fruits contain many vitamins."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Frucht ist süß.",
+            "english": "The fruit is sweet."
+        },
+        {
+            "german": "Ich esse gerne frische Früchte.",
+            "english": "I enjoy eating fresh fruits."
+        },
+        {
+            "german": "Diese Frucht hat eine harte Schale.",
+            "english": "This fruit has a hard shell."
+        },
+        {
+            "german": "Die Frucht ist reif und saftig.",
+            "english": "The fruit is ripe and juicy."
+        },
+        {
+            "german": "Früchte enthalten viele Vitamine.",
+            "english": "Fruits contain many vitamins."
+        }
+    ]
 }

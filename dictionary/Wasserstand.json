@@ -1,28 +1,26 @@
 {
     "word": "der Wasserstand, die Wasserstände",
     "definition": "A measurement that indicates the level or height of a liquid, typically used to determine the amount of liquid in a container or to monitor water levels in rivers, lakes, or other bodies of water.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Wasserstand im Fluss ist sehr hoch.",
-                "english": "The water level in the river is very high."
-            },
-            {
-                "german": "Bitte überprüfen Sie den Wasserstand regelmäßig.",
-                "english": "Please check the water level regularly."
-            },
-            {
-                "german": "Der Wasserstand im See ist gesunken.",
-                "english": "The water level in the lake has dropped."
-            },
-            {
-                "german": "Aufgrund des starken Regens ist der Wasserstand gestiegen.",
-                "english": "Due to heavy rain, the water level has risen."
-            },
-            {
-                "german": "Der Wasserstand wird täglich gemessen.",
-                "english": "The water level is measured daily."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Wasserstand im Fluss ist sehr hoch.",
+            "english": "The water level in the river is very high."
+        },
+        {
+            "german": "Bitte überprüfen Sie den Wasserstand regelmäßig.",
+            "english": "Please check the water level regularly."
+        },
+        {
+            "german": "Der Wasserstand im See ist gesunken.",
+            "english": "The water level in the lake has dropped."
+        },
+        {
+            "german": "Aufgrund des starken Regens ist der Wasserstand gestiegen.",
+            "english": "Due to heavy rain, the water level has risen."
+        },
+        {
+            "german": "Der Wasserstand wird täglich gemessen.",
+            "english": "The water level is measured daily."
+        }
+    ]
 }

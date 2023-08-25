@@ -1,28 +1,26 @@
 {
     "word": "fließend",
     "definition": "The term \"fließend\" refers to the ability to express oneself smoothly and effortlessly in a particular domain. It commonly describes a high level of proficiency or skill in a specific area, often related to language or communication.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich spreche fließend Deutsch.",
-                "english": "I speak fluent German."
-            },
-            {
-                "german": "Sie spricht fließend Englisch.",
-                "english": "She speaks fluent English."
-            },
-            {
-                "german": "Er ist fließend in Französisch.",
-                "english": "He is fluent in French."
-            },
-            {
-                "german": "Wir müssen fließend Wasser haben.",
-                "english": "We need running water."
-            },
-            {
-                "german": "Die Straße fließt durch die Stadt.",
-                "english": "The road flows through the city."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich spreche fließend Deutsch.",
+            "english": "I speak fluent German."
+        },
+        {
+            "german": "Sie spricht fließend Englisch.",
+            "english": "She speaks fluent English."
+        },
+        {
+            "german": "Er ist fließend in Französisch.",
+            "english": "He is fluent in French."
+        },
+        {
+            "german": "Wir müssen fließend Wasser haben.",
+            "english": "We need running water."
+        },
+        {
+            "german": "Die Straße fließt durch die Stadt.",
+            "english": "The road flows through the city."
+        }
+    ]
 }

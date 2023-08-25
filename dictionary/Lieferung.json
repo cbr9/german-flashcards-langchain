@@ -1,28 +1,26 @@
 {
     "word": "die Lieferung, die Lieferungen",
     "definition": "A process of transporting goods or items from one place to another, typically involving the delivery of products to customers or recipients. It commonly refers to the act of providing or supplying goods, often associated with commercial transactions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Lieferung kommt morgen an.",
-                "english": "The delivery will arrive tomorrow."
-            },
-            {
-                "german": "Die Lieferung wurde pünktlich geliefert.",
-                "english": "The delivery was delivered on time."
-            },
-            {
-                "german": "Die Lieferung enthält zwei Pakete.",
-                "english": "The delivery contains two packages."
-            },
-            {
-                "german": "Die Lieferung wurde beschädigt.",
-                "english": "The delivery was damaged."
-            },
-            {
-                "german": "Die Lieferung erfolgt per Expressversand.",
-                "english": "The delivery will be made by express shipping."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Lieferung kommt morgen an.",
+            "english": "The delivery will arrive tomorrow."
+        },
+        {
+            "german": "Die Lieferung wurde pünktlich geliefert.",
+            "english": "The delivery was delivered on time."
+        },
+        {
+            "german": "Die Lieferung enthält zwei Pakete.",
+            "english": "The delivery contains two packages."
+        },
+        {
+            "german": "Die Lieferung wurde beschädigt.",
+            "english": "The delivery was damaged."
+        },
+        {
+            "german": "Die Lieferung erfolgt per Expressversand.",
+            "english": "The delivery will be made by express shipping."
+        }
+    ]
 }

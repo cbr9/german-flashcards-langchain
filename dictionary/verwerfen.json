@@ -1,28 +1,26 @@
 {
     "word": "verwerfen, verwarf, verworfen",
     "definition": "To discard or reject something, typically used when referring to ideas, proposals, or plans that are deemed unsuitable, impractical, or unacceptable.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe den Vorschlag verworfen.",
-                "english": "I rejected the proposal."
-            },
-            {
-                "german": "Er hat seine Pläne verworfen.",
-                "english": "He abandoned his plans."
-            },
-            {
-                "german": "Die Idee wurde verworfen.",
-                "english": "The idea was discarded."
-            },
-            {
-                "german": "Sie sollten diese Option verworfen.",
-                "english": "You should have rejected this option."
-            },
-            {
-                "german": "Der Richter hat die Klage verworfen.",
-                "english": "The judge dismissed the lawsuit."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe den Vorschlag verworfen.",
+            "english": "I rejected the proposal."
+        },
+        {
+            "german": "Er hat seine Pläne verworfen.",
+            "english": "He abandoned his plans."
+        },
+        {
+            "german": "Die Idee wurde verworfen.",
+            "english": "The idea was discarded."
+        },
+        {
+            "german": "Sie sollten diese Option verworfen.",
+            "english": "You should have rejected this option."
+        },
+        {
+            "german": "Der Richter hat die Klage verworfen.",
+            "english": "The judge dismissed the lawsuit."
+        }
+    ]
 }

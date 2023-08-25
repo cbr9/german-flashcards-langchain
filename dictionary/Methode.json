@@ -1,28 +1,26 @@
 {
     "word": "die Methode, die Methoden",
     "definition": "A systematic and structured approach or procedure employed to achieve a specific goal or solve a problem, often involving a series of steps or techniques. It is commonly used in various fields, such as education, research, science, and business, to outline a specific way of doing something in order to achieve desired results.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die wissenschaftliche Methode ist ein systematischer Prozess zur Erkenntnisgewinnung.",
-                "english": "The scientific method is a systematic process for gaining knowledge."
-            },
-            {
-                "german": "Die Lehrerin verwendet verschiedene Methoden, um den Schülern das Lernen zu erleichtern.",
-                "english": "The teacher uses different methods to facilitate learning for the students."
-            },
-            {
-                "german": "Die Methode zur Lösung dieses Problems ist noch nicht bekannt.",
-                "english": "The method for solving this problem is not yet known."
-            },
-            {
-                "german": "Die Methode, die er angewendet hat, war äußerst effektiv.",
-                "english": "The method he used was extremely effective."
-            },
-            {
-                "german": "Die Methode zur Herstellung dieses Produkts wurde verbessert, um die Qualität zu steigern.",
-                "english": "The method for producing this product has been improved to increase the quality."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die wissenschaftliche Methode ist ein systematischer Prozess zur Erkenntnisgewinnung.",
+            "english": "The scientific method is a systematic process for gaining knowledge."
+        },
+        {
+            "german": "Die Lehrerin verwendet verschiedene Methoden, um den Schülern das Lernen zu erleichtern.",
+            "english": "The teacher uses different methods to facilitate learning for the students."
+        },
+        {
+            "german": "Die Methode zur Lösung dieses Problems ist noch nicht bekannt.",
+            "english": "The method for solving this problem is not yet known."
+        },
+        {
+            "german": "Die Methode, die er angewendet hat, war äußerst effektiv.",
+            "english": "The method he used was extremely effective."
+        },
+        {
+            "german": "Die Methode zur Herstellung dieses Produkts wurde verbessert, um die Qualität zu steigern.",
+            "english": "The method for producing this product has been improved to increase the quality."
+        }
+    ]
 }

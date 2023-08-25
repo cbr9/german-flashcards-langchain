@@ -1,28 +1,26 @@
 {
     "word": "untersuchen, untersuchte, untersucht",
     "definition": "To analyze or examine something in order to gain knowledge or understanding, often through a systematic and thorough investigation. It is commonly used in scientific, medical, or forensic contexts to refer to the process of investigating, researching, or scrutinizing a subject or object to uncover information, identify causes, or evaluate evidence.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss meinen Patienten untersuchen.",
-                "english": "I have to examine my patient."
-            },
-            {
-                "german": "Die Polizei untersucht den Fall.",
-                "english": "The police are investigating the case."
-            },
-            {
-                "german": "Der Arzt hat mich gründlich untersucht.",
-                "english": "The doctor examined me thoroughly."
-            },
-            {
-                "german": "Wir müssen den Vorfall genauer untersuchen.",
-                "english": "We need to investigate the incident more closely."
-            },
-            {
-                "german": "Die Wissenschaftler untersuchen die Auswirkungen des Klimawandels.",
-                "english": "The scientists are studying the effects of climate change."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss meinen Patienten untersuchen.",
+            "english": "I have to examine my patient."
+        },
+        {
+            "german": "Die Polizei untersucht den Fall.",
+            "english": "The police are investigating the case."
+        },
+        {
+            "german": "Der Arzt hat mich gründlich untersucht.",
+            "english": "The doctor examined me thoroughly."
+        },
+        {
+            "german": "Wir müssen den Vorfall genauer untersuchen.",
+            "english": "We need to investigate the incident more closely."
+        },
+        {
+            "german": "Die Wissenschaftler untersuchen die Auswirkungen des Klimawandels.",
+            "english": "The scientists are studying the effects of climate change."
+        }
+    ]
 }

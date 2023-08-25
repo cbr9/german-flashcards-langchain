@@ -1,28 +1,26 @@
 {
     "word": "überreichen, überreichte, überreicht",
     "definition": "To present or hand over something, typically used in formal contexts or ceremonial occasions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich überreiche Ihnen den Preis.",
-                "english": "I present you with the prize."
-            },
-            {
-                "german": "Er überreichte ihr einen Blumenstrauß.",
-                "english": "He handed her a bouquet of flowers."
-            },
-            {
-                "german": "Der Bürgermeister wird die Auszeichnung überreichen.",
-                "english": "The mayor will present the award."
-            },
-            {
-                "german": "Sie überreichte ihm ein Geschenk zum Geburtstag.",
-                "english": "She gave him a birthday present."
-            },
-            {
-                "german": "Der Chef überreichte den Mitarbeitern ihre Bonuszahlungen.",
-                "english": "The boss handed out bonus payments to the employees."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich überreiche Ihnen den Preis.",
+            "english": "I present you with the prize."
+        },
+        {
+            "german": "Er überreichte ihr einen Blumenstrauß.",
+            "english": "He handed her a bouquet of flowers."
+        },
+        {
+            "german": "Der Bürgermeister wird die Auszeichnung überreichen.",
+            "english": "The mayor will present the award."
+        },
+        {
+            "german": "Sie überreichte ihm ein Geschenk zum Geburtstag.",
+            "english": "She gave him a birthday present."
+        },
+        {
+            "german": "Der Chef überreichte den Mitarbeitern ihre Bonuszahlungen.",
+            "english": "The boss handed out bonus payments to the employees."
+        }
+    ]
 }

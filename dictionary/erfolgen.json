@@ -1,28 +1,26 @@
 {
     "word": "erfolgen, erfolgte, erfolgt",
     "definition": "To occur or happen as a result of a preceding action or event, often used to describe a sequence of events or a cause-and-effect relationship. It is commonly used in contexts related to processes, procedures, or actions that follow a specific order or are dependent on previous steps.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Lieferung erfolgt morgen.",
-                "english": "The delivery will take place tomorrow."
-            },
-            {
-                "german": "Die Entscheidung erfolgte aufgrund der neuen Informationen.",
-                "english": "The decision was made based on the new information."
-            },
-            {
-                "german": "Die Anmeldung erfolgt online.",
-                "english": "The registration is done online."
-            },
-            {
-                "german": "Die Überweisung erfolgte gestern.",
-                "english": "The transfer was made yesterday."
-            },
-            {
-                "german": "Die Reparatur erfolgt schnell und zuverlässig.",
-                "english": "The repair is done quickly and reliably."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Lieferung erfolgt morgen.",
+            "english": "The delivery will take place tomorrow."
+        },
+        {
+            "german": "Die Entscheidung erfolgte aufgrund der neuen Informationen.",
+            "english": "The decision was made based on the new information."
+        },
+        {
+            "german": "Die Anmeldung erfolgt online.",
+            "english": "The registration is done online."
+        },
+        {
+            "german": "Die Überweisung erfolgte gestern.",
+            "english": "The transfer was made yesterday."
+        },
+        {
+            "german": "Die Reparatur erfolgt schnell und zuverlässig.",
+            "english": "The repair is done quickly and reliably."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "werfen, warf, geworfen",
     "definition": "The action of propelling an object through the air with force, typically performed by using one's arm or hand. It is commonly used in sports, games, or recreational activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wirf den Ball!",
-                "english": "Throw the ball!"
-            },
-            {
-                "german": "Wirf es weg!",
-                "english": "Throw it away!"
-            },
-            {
-                "german": "Wirf mir den Schlüssel zu!",
-                "english": "Throw me the key!"
-            },
-            {
-                "german": "Wirf den Müll in den Mülleimer!",
-                "english": "Throw the trash in the trash can!"
-            },
-            {
-                "german": "Wirf einen Blick auf das Buch!",
-                "english": "Take a look at the book!"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wirf den Ball!",
+            "english": "Throw the ball!"
+        },
+        {
+            "german": "Wirf es weg!",
+            "english": "Throw it away!"
+        },
+        {
+            "german": "Wirf mir den Schlüssel zu!",
+            "english": "Throw me the key!"
+        },
+        {
+            "german": "Wirf den Müll in den Mülleimer!",
+            "english": "Throw the trash in the trash can!"
+        },
+        {
+            "german": "Wirf einen Blick auf das Buch!",
+            "english": "Take a look at the book!"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Muschel, die Muscheln",
     "definition": "A hard-shelled marine creature typically found in oceans, seas, or freshwater bodies, often used as a culinary ingredient or for decorative purposes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Muschel liegt am Strand.",
-                "english": "The shell is lying on the beach."
-            },
-            {
-                "german": "Ich sammle Muscheln als Souvenirs.",
-                "english": "I collect shells as souvenirs."
-            },
-            {
-                "german": "Die Muschel hat eine glatte Oberfläche.",
-                "english": "The shell has a smooth surface."
-            },
-            {
-                "german": "Muscheln sind Meeresfrüchte.",
-                "english": "Mussels are seafood."
-            },
-            {
-                "german": "Die Muschel schützt den weichen Körper des Tieres.",
-                "english": "The shell protects the soft body of the animal."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Muschel liegt am Strand.",
+            "english": "The shell is lying on the beach."
+        },
+        {
+            "german": "Ich sammle Muscheln als Souvenirs.",
+            "english": "I collect shells as souvenirs."
+        },
+        {
+            "german": "Die Muschel hat eine glatte Oberfläche.",
+            "english": "The shell has a smooth surface."
+        },
+        {
+            "german": "Muscheln sind Meeresfrüchte.",
+            "english": "Mussels are seafood."
+        },
+        {
+            "german": "Die Muschel schützt den weichen Körper des Tieres.",
+            "english": "The shell protects the soft body of the animal."
+        }
+    ]
 }

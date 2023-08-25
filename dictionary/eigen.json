@@ -1,28 +1,26 @@
 {
     "word": "eigen",
     "definition": "The term \"eigen\" refers to a characteristic or quality that is inherently associated with a specific entity or individual. It is commonly used to describe something that is unique, distinctive, or peculiar to a particular person, object, or concept. This word is often employed to emphasize the individuality or ownership of a certain attribute or feature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eigenes Auto",
-                "english": "Own car"
-            },
-            {
-                "german": "Das ist meine eigene Entscheidung.",
-                "english": "That is my own decision."
-            },
-            {
-                "german": "Er hat ein eigenes Unternehmen gegründet.",
-                "english": "He has started his own company."
-            },
-            {
-                "german": "Sie hat eine eigene Wohnung.",
-                "english": "She has her own apartment."
-            },
-            {
-                "german": "Jeder Mensch hat seine eigene Meinung.",
-                "english": "Every person has their own opinion."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eigenes Auto",
+            "english": "Own car"
+        },
+        {
+            "german": "Das ist meine eigene Entscheidung.",
+            "english": "That is my own decision."
+        },
+        {
+            "german": "Er hat ein eigenes Unternehmen gegründet.",
+            "english": "He has started his own company."
+        },
+        {
+            "german": "Sie hat eine eigene Wohnung.",
+            "english": "She has her own apartment."
+        },
+        {
+            "german": "Jeder Mensch hat seine eigene Meinung.",
+            "english": "Every person has their own opinion."
+        }
+    ]
 }

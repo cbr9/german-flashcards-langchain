@@ -1,28 +1,26 @@
 {
     "word": "klingen, klang, geklungen",
     "definition": "To produce a resonant sound by striking or vibrating an object, typically used to describe the sound produced by a musical instrument or a bell. It can also refer to the act of sounding or ringing, often associated with the noise made by a telephone or an alarm. Additionally, it can describe the quality or character of a voice or sound, indicating its tone or timbre.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Glocken klingen schön.",
-                "english": "The bells sound beautiful."
-            },
-            {
-                "german": "Seine Stimme klingt angenehm.",
-                "english": "His voice sounds pleasant."
-            },
-            {
-                "german": "Das Lied klingt traurig.",
-                "english": "The song sounds sad."
-            },
-            {
-                "german": "Die Nachricht klingt vielversprechend.",
-                "english": "The message sounds promising."
-            },
-            {
-                "german": "Die Idee klingt interessant.",
-                "english": "The idea sounds interesting."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Glocken klingen schön.",
+            "english": "The bells sound beautiful."
+        },
+        {
+            "german": "Seine Stimme klingt angenehm.",
+            "english": "His voice sounds pleasant."
+        },
+        {
+            "german": "Das Lied klingt traurig.",
+            "english": "The song sounds sad."
+        },
+        {
+            "german": "Die Nachricht klingt vielversprechend.",
+            "english": "The message sounds promising."
+        },
+        {
+            "german": "Die Idee klingt interessant.",
+            "english": "The idea sounds interesting."
+        }
+    ]
 }

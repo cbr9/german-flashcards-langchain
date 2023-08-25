@@ -1,28 +1,26 @@
 {
     "word": "der König, die Könige",
     "definition": "A term commonly employed to refer to a person who holds a position of power and authority, often inherited or obtained through noble lineage. This individual typically exercises control over a specific territory or country, and is recognized as the highest-ranking individual within a monarchy.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der König regiert das Land.",
-                "english": "The king rules the country."
-            },
-            {
-                "german": "Der König trägt eine Krone.",
-                "english": "The king wears a crown."
-            },
-            {
-                "german": "Der König hat viele Untertanen.",
-                "english": "The king has many subjects."
-            },
-            {
-                "german": "Der König residiert im Schloss.",
-                "english": "The king resides in the castle."
-            },
-            {
-                "german": "Der König wird von seinem Volk verehrt.",
-                "english": "The king is revered by his people."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der König regiert das Land.",
+            "english": "The king rules the country."
+        },
+        {
+            "german": "Der König trägt eine Krone.",
+            "english": "The king wears a crown."
+        },
+        {
+            "german": "Der König hat viele Untertanen.",
+            "english": "The king has many subjects."
+        },
+        {
+            "german": "Der König residiert im Schloss.",
+            "english": "The king resides in the castle."
+        },
+        {
+            "german": "Der König wird von seinem Volk verehrt.",
+            "english": "The king is revered by his people."
+        }
+    ]
 }

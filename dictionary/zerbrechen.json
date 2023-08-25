@@ -1,28 +1,26 @@
 {
     "word": "zerbrechen, zerbrach, zerbrochen",
     "definition": "To cause something to break into pieces, often implying a forceful or deliberate action. It is commonly used to describe the act of breaking or shattering objects, such as glass, ceramics, or fragile items. Additionally, it can be used metaphorically to convey the idea of mental or emotional distress, as if one's thoughts or feelings are being shattered or fragmented.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich zerbreche das Glas.",
-                "english": "I break the glass."
-            },
-            {
-                "german": "Er zerbricht den Stift.",
-                "english": "He breaks the pen."
-            },
-            {
-                "german": "Sie zerbricht das Porzellan.",
-                "english": "She breaks the porcelain."
-            },
-            {
-                "german": "Wir zerbrechen den Teller.",
-                "english": "We break the plate."
-            },
-            {
-                "german": "Das Glas zerbricht leicht.",
-                "english": "The glass breaks easily."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich zerbreche das Glas.",
+            "english": "I break the glass."
+        },
+        {
+            "german": "Er zerbricht den Stift.",
+            "english": "He breaks the pen."
+        },
+        {
+            "german": "Sie zerbricht das Porzellan.",
+            "english": "She breaks the porcelain."
+        },
+        {
+            "german": "Wir zerbrechen den Teller.",
+            "english": "We break the plate."
+        },
+        {
+            "german": "Das Glas zerbricht leicht.",
+            "english": "The glass breaks easily."
+        }
+    ]
 }

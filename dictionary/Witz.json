@@ -1,28 +1,26 @@
 {
     "word": "der Witz, die Witze",
     "definition": "A form of verbal or written expression that aims to provoke amusement, often through clever wordplay, irony, or unexpected punchlines. It is commonly used in social interactions, comedy performances, and entertainment media to entertain and evoke laughter.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Witz war wirklich lustig.",
-                "english": "The joke was really funny."
-            },
-            {
-                "german": "Er erzählte einen Witz über Hunde.",
-                "english": "He told a joke about dogs."
-            },
-            {
-                "german": "Sie konnte den Witz nicht verstehen.",
-                "english": "She couldn't understand the joke."
-            },
-            {
-                "german": "Der Witz des Tages war sehr originell.",
-                "english": "The joke of the day was very original."
-            },
-            {
-                "german": "Er erzählte einen Witz, der alle zum Lachen brachte.",
-                "english": "He told a joke that made everyone laugh."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Witz war wirklich lustig.",
+            "english": "The joke was really funny."
+        },
+        {
+            "german": "Er erzählte einen Witz über Hunde.",
+            "english": "He told a joke about dogs."
+        },
+        {
+            "german": "Sie konnte den Witz nicht verstehen.",
+            "english": "She couldn't understand the joke."
+        },
+        {
+            "german": "Der Witz des Tages war sehr originell.",
+            "english": "The joke of the day was very original."
+        },
+        {
+            "german": "Er erzählte einen Witz, der alle zum Lachen brachte.",
+            "english": "He told a joke that made everyone laugh."
+        }
+    ]
 }

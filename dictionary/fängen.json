@@ -1,28 +1,26 @@
 {
     "word": "fangen, fing, gefangen",
     "definition": "To capture or seize something or someone, typically used when referring to catching or trapping animals or individuals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich fange den Ball.",
-                "english": "I catch the ball."
-            },
-            {
-                "german": "Er fängt an zu weinen.",
-                "english": "He starts to cry."
-            },
-            {
-                "german": "Wir fangen um 8 Uhr an.",
-                "english": "We start at 8 o'clock."
-            },
-            {
-                "german": "Sie fängt die Fliege mit der Hand.",
-                "english": "She catches the fly with her hand."
-            },
-            {
-                "german": "Der Fisch fängt an zu zappeln.",
-                "english": "The fish starts to wiggle."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich fange den Ball.",
+            "english": "I catch the ball."
+        },
+        {
+            "german": "Er fängt an zu weinen.",
+            "english": "He starts to cry."
+        },
+        {
+            "german": "Wir fangen um 8 Uhr an.",
+            "english": "We start at 8 o'clock."
+        },
+        {
+            "german": "Sie fängt die Fliege mit der Hand.",
+            "english": "She catches the fly with her hand."
+        },
+        {
+            "german": "Der Fisch fängt an zu zappeln.",
+            "english": "The fish starts to wiggle."
+        }
+    ]
 }

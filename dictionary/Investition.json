@@ -1,28 +1,26 @@
 {
     "word": "die Investition, die Investitionen",
     "definition": "A financial action that involves allocating resources with the expectation of generating future income or profit, typically involving the purchase or creation of assets, such as stocks, real estate, or equipment. It is commonly used in the context of business and economics to describe the act of investing money or capital in order to achieve long-term financial growth or returns.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eine Investition in Bildung zahlt sich immer aus.",
-                "english": "An investment in education always pays off."
-            },
-            {
-                "german": "Die Firma tätigt eine große Investition in neue Technologien.",
-                "english": "The company is making a big investment in new technologies."
-            },
-            {
-                "german": "Die Investitionen in erneuerbare Energien steigen stetig an.",
-                "english": "Investments in renewable energy are steadily increasing."
-            },
-            {
-                "german": "Die Investition in Aktien kann mit hohen Risiken verbunden sein.",
-                "english": "Investing in stocks can be associated with high risks."
-            },
-            {
-                "german": "Die Regierung plant eine Investition in die Infrastruktur des Landes.",
-                "english": "The government is planning an investment in the country's infrastructure."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eine Investition in Bildung zahlt sich immer aus.",
+            "english": "An investment in education always pays off."
+        },
+        {
+            "german": "Die Firma tätigt eine große Investition in neue Technologien.",
+            "english": "The company is making a big investment in new technologies."
+        },
+        {
+            "german": "Die Investitionen in erneuerbare Energien steigen stetig an.",
+            "english": "Investments in renewable energy are steadily increasing."
+        },
+        {
+            "german": "Die Investition in Aktien kann mit hohen Risiken verbunden sein.",
+            "english": "Investing in stocks can be associated with high risks."
+        },
+        {
+            "german": "Die Regierung plant eine Investition in die Infrastruktur des Landes.",
+            "english": "The government is planning an investment in the country's infrastructure."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Nase, die Nasen",
     "definition": "A body part located on the face, typically used for smelling and breathing. It is commonly referred to in various contexts, including discussions about anatomy, personal hygiene, and facial expressions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine große Nase.",
-                "english": "I have a big nose."
-            },
-            {
-                "german": "Die Nase läuft.",
-                "english": "The nose is running."
-            },
-            {
-                "german": "Er hat eine spitze Nase.",
-                "english": "He has a pointed nose."
-            },
-            {
-                "german": "Meine Nase ist verstopft.",
-                "english": "My nose is blocked."
-            },
-            {
-                "german": "Sie hat eine kleine Stupsnase.",
-                "english": "She has a small button nose."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine große Nase.",
+            "english": "I have a big nose."
+        },
+        {
+            "german": "Die Nase läuft.",
+            "english": "The nose is running."
+        },
+        {
+            "german": "Er hat eine spitze Nase.",
+            "english": "He has a pointed nose."
+        },
+        {
+            "german": "Meine Nase ist verstopft.",
+            "english": "My nose is blocked."
+        },
+        {
+            "german": "Sie hat eine kleine Stupsnase.",
+            "english": "She has a small button nose."
+        }
+    ]
 }

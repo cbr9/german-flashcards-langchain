@@ -1,28 +1,26 @@
 {
     "word": "vermitteln, vermittelte, vermittelt",
     "definition": "To facilitate the connection or transfer of knowledge, skills, information, or services between two or more parties, often with the aim of achieving mutual understanding or agreement. This term is commonly employed in educational, professional, or interpersonal contexts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich kann Ihnen einen Job vermitteln.",
-                "english": "I can find you a job."
-            },
-            {
-                "german": "Er vermittelt zwischen den beiden Parteien.",
-                "english": "He mediates between the two parties."
-            },
-            {
-                "german": "Die Agentur vermittelt Sprachkurse im Ausland.",
-                "english": "The agency arranges language courses abroad."
-            },
-            {
-                "german": "Sie konnte mir keine Informationen vermitteln.",
-                "english": "She couldn't provide me with any information."
-            },
-            {
-                "german": "Der Lehrer vermittelt den Schülern mathematische Grundlagen.",
-                "english": "The teacher imparts mathematical basics to the students."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich kann Ihnen einen Job vermitteln.",
+            "english": "I can find you a job."
+        },
+        {
+            "german": "Er vermittelt zwischen den beiden Parteien.",
+            "english": "He mediates between the two parties."
+        },
+        {
+            "german": "Die Agentur vermittelt Sprachkurse im Ausland.",
+            "english": "The agency arranges language courses abroad."
+        },
+        {
+            "german": "Sie konnte mir keine Informationen vermitteln.",
+            "english": "She couldn't provide me with any information."
+        },
+        {
+            "german": "Der Lehrer vermittelt den Schülern mathematische Grundlagen.",
+            "english": "The teacher imparts mathematical basics to the students."
+        }
+    ]
 }

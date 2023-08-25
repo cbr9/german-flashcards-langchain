@@ -1,28 +1,26 @@
 {
     "word": "das Verfahren, die Verfahren",
     "definition": "A systematic and structured approach or method employed to accomplish a specific task or achieve a desired outcome, often involving a series of steps or procedures. It is commonly used in various fields, such as law, science, technology, and administration, to describe the process or procedure followed to reach a particular result.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Verfahren ist kompliziert.",
-                "english": "The process is complicated."
-            },
-            {
-                "german": "Das Gerichtsverfahren dauerte mehrere Monate.",
-                "english": "The court proceedings lasted several months."
-            },
-            {
-                "german": "Wir müssen ein neues Verfahren entwickeln.",
-                "english": "We need to develop a new procedure."
-            },
-            {
-                "german": "Das Verfahren zur Herstellung des Produkts ist geheim.",
-                "english": "The manufacturing process of the product is secret."
-            },
-            {
-                "german": "Das Verfahren wird in mehreren Schritten durchgeführt.",
-                "english": "The procedure is carried out in several steps."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Verfahren ist kompliziert.",
+            "english": "The process is complicated."
+        },
+        {
+            "german": "Das Gerichtsverfahren dauerte mehrere Monate.",
+            "english": "The court proceedings lasted several months."
+        },
+        {
+            "german": "Wir müssen ein neues Verfahren entwickeln.",
+            "english": "We need to develop a new procedure."
+        },
+        {
+            "german": "Das Verfahren zur Herstellung des Produkts ist geheim.",
+            "english": "The manufacturing process of the product is secret."
+        },
+        {
+            "german": "Das Verfahren wird in mehreren Schritten durchgeführt.",
+            "english": "The procedure is carried out in several steps."
+        }
+    ]
 }

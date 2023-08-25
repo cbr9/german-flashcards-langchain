@@ -1,28 +1,26 @@
 {
     "word": "der Winter, die Winters",
     "definition": "A season characterized by cold temperatures, shorter daylight hours, and often accompanied by snowfall, typically occurring between autumn and spring. It is commonly associated with holidays, outdoor activities like skiing, and the need for warm clothing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Winter ist kalt.",
-                "english": "Winter is cold."
-            },
-            {
-                "german": "Im Winter schneit es oft.",
-                "english": "It often snows in winter."
-            },
-            {
-                "german": "Wir gehen im Winter Ski fahren.",
-                "english": "We go skiing in winter."
-            },
-            {
-                "german": "Im Winter sind die Tage kurz.",
-                "english": "The days are short in winter."
-            },
-            {
-                "german": "Im Winter tragen wir warme Kleidung.",
-                "english": "We wear warm clothes in winter."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Winter ist kalt.",
+            "english": "Winter is cold."
+        },
+        {
+            "german": "Im Winter schneit es oft.",
+            "english": "It often snows in winter."
+        },
+        {
+            "german": "Wir gehen im Winter Ski fahren.",
+            "english": "We go skiing in winter."
+        },
+        {
+            "german": "Im Winter sind die Tage kurz.",
+            "english": "The days are short in winter."
+        },
+        {
+            "german": "Im Winter tragen wir warme Kleidung.",
+            "english": "We wear warm clothes in winter."
+        }
+    ]
 }

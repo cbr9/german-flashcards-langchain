@@ -1,28 +1,26 @@
 {
     "word": "verurteilen, verurteilte, verurteilt",
     "definition": "To express disapproval or condemnation towards someone or something, often as a result of a legal judgment or moral judgment. It is commonly used in the context of criminal trials, court proceedings, or moral judgments on someone's actions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich verurteile dich für deine Taten.",
-                "english": "I condemn you for your actions."
-            },
-            {
-                "german": "Der Richter wird den Angeklagten verurteilen.",
-                "english": "The judge will sentence the defendant."
-            },
-            {
-                "german": "Die Jury hat den Angeklagten schuldig verurteilt.",
-                "english": "The jury found the defendant guilty and sentenced him."
-            },
-            {
-                "german": "Er wurde zu lebenslanger Haft verurteilt.",
-                "english": "He was sentenced to life imprisonment."
-            },
-            {
-                "german": "Die Gesellschaft verurteilt solche Verbrechen zutiefst.",
-                "english": "Society deeply condemns such crimes."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich verurteile dich für deine Taten.",
+            "english": "I condemn you for your actions."
+        },
+        {
+            "german": "Der Richter wird den Angeklagten verurteilen.",
+            "english": "The judge will sentence the defendant."
+        },
+        {
+            "german": "Die Jury hat den Angeklagten schuldig verurteilt.",
+            "english": "The jury found the defendant guilty and sentenced him."
+        },
+        {
+            "german": "Er wurde zu lebenslanger Haft verurteilt.",
+            "english": "He was sentenced to life imprisonment."
+        },
+        {
+            "german": "Die Gesellschaft verurteilt solche Verbrechen zutiefst.",
+            "english": "Society deeply condemns such crimes."
+        }
+    ]
 }

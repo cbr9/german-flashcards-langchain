@@ -1,28 +1,26 @@
 {
     "word": "die Lesung, die Lesungen",
     "definition": "A public event where an individual reads aloud from a written work, often accompanied by commentary or discussion. It is commonly organized in cultural settings, such as bookstores, libraries, or literary festivals, to engage audiences and promote literature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Lesung beginnt um 19 Uhr.",
-                "english": "The reading starts at 7 pm."
-            },
-            {
-                "german": "Ich habe gestern eine interessante Lesung besucht.",
-                "english": "I attended an interesting reading yesterday."
-            },
-            {
-                "german": "Die Autorin wird aus ihrem neuen Buch lesen.",
-                "english": "The author will read from her new book."
-            },
-            {
-                "german": "Die Lesung war gut besucht.",
-                "english": "The reading was well attended."
-            },
-            {
-                "german": "Er hat eine Lesung seiner Gedichte veranstaltet.",
-                "english": "He organized a reading of his poems."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Lesung beginnt um 19 Uhr.",
+            "english": "The reading starts at 7 pm."
+        },
+        {
+            "german": "Ich habe gestern eine interessante Lesung besucht.",
+            "english": "I attended an interesting reading yesterday."
+        },
+        {
+            "german": "Die Autorin wird aus ihrem neuen Buch lesen.",
+            "english": "The author will read from her new book."
+        },
+        {
+            "german": "Die Lesung war gut besucht.",
+            "english": "The reading was well attended."
+        },
+        {
+            "german": "Er hat eine Lesung seiner Gedichte veranstaltet.",
+            "english": "He organized a reading of his poems."
+        }
+    ]
 }

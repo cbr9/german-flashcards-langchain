@@ -1,28 +1,26 @@
 {
     "word": "der Süden, die Süden",
     "definition": "The direction or region that is opposite to the north, typically associated with warmer climates and often used to refer to a cardinal direction or a specific geographical area.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Süden Deutschlands ist bekannt für seine Weinberge.",
-                "english": "The south of Germany is known for its vineyards."
-            },
-            {
-                "german": "Im Sommer fahren wir gerne in den Süden ans Meer.",
-                "english": "In summer, we like to go to the south to the sea."
-            },
-            {
-                "german": "Die Sonne scheint im Süden länger als im Norden.",
-                "english": "The sun shines longer in the south than in the north."
-            },
-            {
-                "german": "Im Süden Europas ist das Klima meistens wärmer.",
-                "english": "In the south of Europe, the climate is usually warmer."
-            },
-            {
-                "german": "Der Zug fährt in Richtung Süden.",
-                "english": "The train is heading south."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Süden Deutschlands ist bekannt für seine Weinberge.",
+            "english": "The south of Germany is known for its vineyards."
+        },
+        {
+            "german": "Im Sommer fahren wir gerne in den Süden ans Meer.",
+            "english": "In summer, we like to go to the south to the sea."
+        },
+        {
+            "german": "Die Sonne scheint im Süden länger als im Norden.",
+            "english": "The sun shines longer in the south than in the north."
+        },
+        {
+            "german": "Im Süden Europas ist das Klima meistens wärmer.",
+            "english": "In the south of Europe, the climate is usually warmer."
+        },
+        {
+            "german": "Der Zug fährt in Richtung Süden.",
+            "english": "The train is heading south."
+        }
+    ]
 }

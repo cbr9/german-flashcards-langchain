@@ -1,28 +1,26 @@
 {
     "word": "bekannt",
     "definition": "A word used to describe something that is widely recognized, familiar, or acknowledged by many people. It is often used to refer to people, places, events, or things that have gained significant public attention or are well-known in a particular context.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein bekannter Schauspieler.",
-                "english": "He is a well-known actor."
-            },
-            {
-                "german": "Das Buch ist mir bekannt.",
-                "english": "The book is known to me."
-            },
-            {
-                "german": "Sie ist in der Stadt bekannt.",
-                "english": "She is well-known in the city."
-            },
-            {
-                "german": "Er ist bekannt für seine Musik.",
-                "english": "He is known for his music."
-            },
-            {
-                "german": "Das Unternehmen ist weltweit bekannt.",
-                "english": "The company is known worldwide."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein bekannter Schauspieler.",
+            "english": "He is a well-known actor."
+        },
+        {
+            "german": "Das Buch ist mir bekannt.",
+            "english": "The book is known to me."
+        },
+        {
+            "german": "Sie ist in der Stadt bekannt.",
+            "english": "She is well-known in the city."
+        },
+        {
+            "german": "Er ist bekannt für seine Musik.",
+            "english": "He is known for his music."
+        },
+        {
+            "german": "Das Unternehmen ist weltweit bekannt.",
+            "english": "The company is known worldwide."
+        }
+    ]
 }

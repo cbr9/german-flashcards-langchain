@@ -1,28 +1,26 @@
 {
     "word": "die Qualität, die Qualitäten",
     "definition": "A term commonly employed to describe the degree of excellence or worthiness of something, often used to evaluate the overall standard, value, or characteristics of a product, service, or concept.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Qualität dieses Produkts ist ausgezeichnet.",
-                "english": "The quality of this product is excellent."
-            },
-            {
-                "german": "Wir legen großen Wert auf Qualität.",
-                "english": "We place great importance on quality."
-            },
-            {
-                "german": "Die Qualität der Arbeit ist sehr hoch.",
-                "english": "The quality of the work is very high."
-            },
-            {
-                "german": "Dieses Restaurant bietet hohe Qualität zu günstigen Preisen.",
-                "english": "This restaurant offers high quality at affordable prices."
-            },
-            {
-                "german": "Die Qualität der Luft in dieser Stadt ist schlecht.",
-                "english": "The air quality in this city is poor."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Qualität dieses Produkts ist ausgezeichnet.",
+            "english": "The quality of this product is excellent."
+        },
+        {
+            "german": "Wir legen großen Wert auf Qualität.",
+            "english": "We place great importance on quality."
+        },
+        {
+            "german": "Die Qualität der Arbeit ist sehr hoch.",
+            "english": "The quality of the work is very high."
+        },
+        {
+            "german": "Dieses Restaurant bietet hohe Qualität zu günstigen Preisen.",
+            "english": "This restaurant offers high quality at affordable prices."
+        },
+        {
+            "german": "Die Qualität der Luft in dieser Stadt ist schlecht.",
+            "english": "The air quality in this city is poor."
+        }
+    ]
 }

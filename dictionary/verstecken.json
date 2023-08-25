@@ -1,28 +1,26 @@
 {
     "word": "verstecken, versteckte, versteckt",
     "definition": "To conceal or hide something or someone, often with the intention of making them difficult to find or discover. This action is commonly associated with games, such as hide-and-seek, or when someone wants to keep something secret or out of sight.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich verstecke mich hinter dem Baum.",
-                "english": "I am hiding behind the tree."
-            },
-            {
-                "german": "Kannst du das versteckte Objekt finden?",
-                "english": "Can you find the hidden object?"
-            },
-            {
-                "german": "Die Kinder verstecken sich im Spiel.",
-                "english": "The children are hiding in the game."
-            },
-            {
-                "german": "Er versucht seine Gefühle zu verstecken.",
-                "english": "He is trying to hide his feelings."
-            },
-            {
-                "german": "Sie versteckt ihre Schlüssel immer an einem sicheren Ort.",
-                "english": "She always hides her keys in a safe place."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich verstecke mich hinter dem Baum.",
+            "english": "I am hiding behind the tree."
+        },
+        {
+            "german": "Kannst du das versteckte Objekt finden?",
+            "english": "Can you find the hidden object?"
+        },
+        {
+            "german": "Die Kinder verstecken sich im Spiel.",
+            "english": "The children are hiding in the game."
+        },
+        {
+            "german": "Er versucht seine Gefühle zu verstecken.",
+            "english": "He is trying to hide his feelings."
+        },
+        {
+            "german": "Sie versteckt ihre Schlüssel immer an einem sicheren Ort.",
+            "english": "She always hides her keys in a safe place."
+        }
+    ]
 }

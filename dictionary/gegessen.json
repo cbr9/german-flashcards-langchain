@@ -1,28 +1,26 @@
 {
     "word": "essen, aß, gegessen",
     "definition": "The past participle form of a verb that indicates the completion of an action related to consuming food. It is commonly used to describe the act of having eaten a meal or food item.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe gestern Abend Pizza gegessen.",
-                "english": "I ate pizza last night."
-            },
-            {
-                "german": "Sie hat den ganzen Kuchen gegessen.",
-                "english": "She ate the whole cake."
-            },
-            {
-                "german": "Wir haben im Restaurant gegessen.",
-                "english": "We ate at the restaurant."
-            },
-            {
-                "german": "Hast du schon gegessen?",
-                "english": "Have you eaten already?"
-            },
-            {
-                "german": "Er hat nichts gegessen, weil er krank war.",
-                "english": "He didn't eat anything because he was sick."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe gestern Abend Pizza gegessen.",
+            "english": "I ate pizza last night."
+        },
+        {
+            "german": "Sie hat den ganzen Kuchen gegessen.",
+            "english": "She ate the whole cake."
+        },
+        {
+            "german": "Wir haben im Restaurant gegessen.",
+            "english": "We ate at the restaurant."
+        },
+        {
+            "german": "Hast du schon gegessen?",
+            "english": "Have you eaten already?"
+        },
+        {
+            "german": "Er hat nichts gegessen, weil er krank war.",
+            "english": "He didn't eat anything because he was sick."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "riskieren, riskierte, riskiert",
     "definition": "To engage in an action or behavior that involves potential danger, uncertainty, or negative consequences, often with the intention of achieving a desired outcome or goal. This term is commonly used when describing the act of taking a chance or exposing oneself to risks in various situations, such as in personal decisions, business ventures, or adventurous activities.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte kein Risiko eingehen.",
-                "english": "I don't want to take any risks."
-            },
-            {
-                "german": "Er riskiert viel, um seine Ziele zu erreichen.",
-                "english": "He risks a lot to achieve his goals."
-            },
-            {
-                "german": "Es ist zu riskant, ohne Sicherheitsausrüstung zu klettern.",
-                "english": "It's too risky to climb without safety equipment."
-            },
-            {
-                "german": "Sie riskierte ihre Karriere, um die Wahrheit zu sagen.",
-                "english": "She risked her career to tell the truth."
-            },
-            {
-                "german": "Wir sollten kein unnötiges Risiko eingehen.",
-                "english": "We shouldn't take unnecessary risks."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte kein Risiko eingehen.",
+            "english": "I don't want to take any risks."
+        },
+        {
+            "german": "Er riskiert viel, um seine Ziele zu erreichen.",
+            "english": "He risks a lot to achieve his goals."
+        },
+        {
+            "german": "Es ist zu riskant, ohne Sicherheitsausrüstung zu klettern.",
+            "english": "It's too risky to climb without safety equipment."
+        },
+        {
+            "german": "Sie riskierte ihre Karriere, um die Wahrheit zu sagen.",
+            "english": "She risked her career to tell the truth."
+        },
+        {
+            "german": "Wir sollten kein unnötiges Risiko eingehen.",
+            "english": "We shouldn't take unnecessary risks."
+        }
+    ]
 }

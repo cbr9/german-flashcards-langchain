@@ -1,28 +1,26 @@
 {
     "word": "der Gedanken, die Gedanken",
     "definition": "A mental process involving the formation, organization, and contemplation of ideas, concepts, or reflections, often associated with introspection, reflection, or deep thinking. It is commonly used to refer to the inner thoughts, musings, or intellectual reflections of an individual.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe viele Gedanken.",
-                "english": "I have many thoughts."
-            },
-            {
-                "german": "Er teilt seine Gedanken mit mir.",
-                "english": "He shares his thoughts with me."
-            },
-            {
-                "german": "Sie hat ihre Gedanken in einem Tagebuch festgehalten.",
-                "english": "She recorded her thoughts in a diary."
-            },
-            {
-                "german": "Seine Gedanken sind immer bei seiner Familie.",
-                "english": "His thoughts are always with his family."
-            },
-            {
-                "german": "Ich kann seine Gedanken nicht lesen.",
-                "english": "I can't read his thoughts."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe viele Gedanken.",
+            "english": "I have many thoughts."
+        },
+        {
+            "german": "Er teilt seine Gedanken mit mir.",
+            "english": "He shares his thoughts with me."
+        },
+        {
+            "german": "Sie hat ihre Gedanken in einem Tagebuch festgehalten.",
+            "english": "She recorded her thoughts in a diary."
+        },
+        {
+            "german": "Seine Gedanken sind immer bei seiner Familie.",
+            "english": "His thoughts are always with his family."
+        },
+        {
+            "german": "Ich kann seine Gedanken nicht lesen.",
+            "english": "I can't read his thoughts."
+        }
+    ]
 }

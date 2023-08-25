@@ -1,28 +1,26 @@
 {
     "word": "der Blinde, die Blinde",
     "definition": "A term used to describe individuals who have a visual impairment, typically referring to those who are unable to see.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die blinde Frau tastete sich vorsichtig durch den Raum.",
-                "english": "The blind woman cautiously felt her way through the room."
-            },
-            {
-                "german": "Der blinde Mann benutzt einen Blindenstock zum Navigieren.",
-                "english": "The blind man uses a white cane to navigate."
-            },
-            {
-                "german": "Die blinde Katze verlässt sich auf ihre anderen Sinne.",
-                "english": "The blind cat relies on its other senses."
-            },
-            {
-                "german": "Die blinde Person erkennt Menschen an ihrer Stimme.",
-                "english": "The blind person recognizes people by their voice."
-            },
-            {
-                "german": "Der blinde Junge lernt Brailleschrift, um lesen zu können.",
-                "english": "The blind boy is learning Braille to be able to read."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die blinde Frau tastete sich vorsichtig durch den Raum.",
+            "english": "The blind woman cautiously felt her way through the room."
+        },
+        {
+            "german": "Der blinde Mann benutzt einen Blindenstock zum Navigieren.",
+            "english": "The blind man uses a white cane to navigate."
+        },
+        {
+            "german": "Die blinde Katze verlässt sich auf ihre anderen Sinne.",
+            "english": "The blind cat relies on its other senses."
+        },
+        {
+            "german": "Die blinde Person erkennt Menschen an ihrer Stimme.",
+            "english": "The blind person recognizes people by their voice."
+        },
+        {
+            "german": "Der blinde Junge lernt Brailleschrift, um lesen zu können.",
+            "english": "The blind boy is learning Braille to be able to read."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Marketing, die There is no plural form for \"article marketing\" as it is a compound noun.",
     "definition": "The practice of promoting and selling products or services, typically involving market research, advertising, and strategic planning. It is commonly used in business and commerce to reach target audiences and increase brand awareness, sales, and customer engagement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Marketing ist eine Strategie zur Förderung von Produkten oder Dienstleistungen.",
-                "english": "Marketing is a strategy to promote products or services."
-            },
-            {
-                "german": "Das Unternehmen investiert viel Geld in Marketingaktivitäten.",
-                "english": "The company invests a lot of money in marketing activities."
-            },
-            {
-                "german": "Online-Marketing wird immer wichtiger in der heutigen digitalen Welt.",
-                "english": "Online marketing is becoming increasingly important in today's digital world."
-            },
-            {
-                "german": "Marketing umfasst verschiedene Bereiche wie Werbung, Verkaufsförderung und Marktforschung.",
-                "english": "Marketing includes various areas such as advertising, sales promotion, and market research."
-            },
-            {
-                "german": "Gutes Marketing kann die Bekanntheit einer Marke steigern.",
-                "english": "Good marketing can increase brand awareness."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Marketing ist eine Strategie zur Förderung von Produkten oder Dienstleistungen.",
+            "english": "Marketing is a strategy to promote products or services."
+        },
+        {
+            "german": "Das Unternehmen investiert viel Geld in Marketingaktivitäten.",
+            "english": "The company invests a lot of money in marketing activities."
+        },
+        {
+            "german": "Online-Marketing wird immer wichtiger in der heutigen digitalen Welt.",
+            "english": "Online marketing is becoming increasingly important in today's digital world."
+        },
+        {
+            "german": "Marketing umfasst verschiedene Bereiche wie Werbung, Verkaufsförderung und Marktforschung.",
+            "english": "Marketing includes various areas such as advertising, sales promotion, and market research."
+        },
+        {
+            "german": "Gutes Marketing kann die Bekanntheit einer Marke steigern.",
+            "english": "Good marketing can increase brand awareness."
+        }
+    ]
 }

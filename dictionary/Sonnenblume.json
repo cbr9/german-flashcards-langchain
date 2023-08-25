@@ -1,28 +1,26 @@
 {
     "word": "die Sonnenblume, die Sonnenblumen",
     "definition": "A plant with a tall stem, large yellow petals, and a round center, typically used for decorative purposes or as a source of oil.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Sonnenblume blüht im Sommer.",
-                "english": "The sunflower blooms in summer."
-            },
-            {
-                "german": "Ich habe eine Sonnenblume in meinem Garten.",
-                "english": "I have a sunflower in my garden."
-            },
-            {
-                "german": "Die Sonnenblume ist eine einjährige Pflanze.",
-                "english": "The sunflower is an annual plant."
-            },
-            {
-                "german": "Sonnenblumenkerne sind sehr gesund.",
-                "english": "Sunflower seeds are very healthy."
-            },
-            {
-                "german": "Die Sonnenblume dreht sich immer zur Sonne.",
-                "english": "The sunflower always turns towards the sun."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Sonnenblume blüht im Sommer.",
+            "english": "The sunflower blooms in summer."
+        },
+        {
+            "german": "Ich habe eine Sonnenblume in meinem Garten.",
+            "english": "I have a sunflower in my garden."
+        },
+        {
+            "german": "Die Sonnenblume ist eine einjährige Pflanze.",
+            "english": "The sunflower is an annual plant."
+        },
+        {
+            "german": "Sonnenblumenkerne sind sehr gesund.",
+            "english": "Sunflower seeds are very healthy."
+        },
+        {
+            "german": "Die Sonnenblume dreht sich immer zur Sonne.",
+            "english": "The sunflower always turns towards the sun."
+        }
+    ]
 }

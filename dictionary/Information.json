@@ -1,28 +1,26 @@
 {
     "word": "die Information, die Informationen",
     "definition": "A collection of facts, details, or knowledge that is typically used to convey knowledge, communicate ideas, or provide insight on a particular subject. It is commonly utilized to exchange data, transmit knowledge, or facilitate understanding between individuals or groups.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du mir bitte Informationen geben?",
-                "english": "Can you please give me information?"
-            },
-            {
-                "german": "Ich habe keine Informationen über das Thema.",
-                "english": "I don't have any information about the topic."
-            },
-            {
-                "german": "Die Informationen waren sehr hilfreich.",
-                "english": "The information was very helpful."
-            },
-            {
-                "german": "Wo kann ich weitere Informationen finden?",
-                "english": "Where can I find more information?"
-            },
-            {
-                "german": "Die Informationen sind vertraulich.",
-                "english": "The information is confidential."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du mir bitte Informationen geben?",
+            "english": "Can you please give me information?"
+        },
+        {
+            "german": "Ich habe keine Informationen über das Thema.",
+            "english": "I don't have any information about the topic."
+        },
+        {
+            "german": "Die Informationen waren sehr hilfreich.",
+            "english": "The information was very helpful."
+        },
+        {
+            "german": "Wo kann ich weitere Informationen finden?",
+            "english": "Where can I find more information?"
+        },
+        {
+            "german": "Die Informationen sind vertraulich.",
+            "english": "The information is confidential."
+        }
+    ]
 }

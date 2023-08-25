@@ -1,28 +1,26 @@
 {
     "word": "die Firma, die Firmen",
     "definition": "A \"Firma\" is an entity that represents a legally recognized organization or company. It typically refers to a business or enterprise that is established to provide goods or services. This term is commonly used in various contexts, such as discussing commercial activities, legal matters, or official documentation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Firma hat viele Mitarbeiter.",
-                "english": "The company has many employees."
-            },
-            {
-                "german": "Mein Vater arbeitet in einer großen Firma.",
-                "english": "My father works in a large company."
-            },
-            {
-                "german": "Die Firma produziert hochwertige Produkte.",
-                "english": "The company produces high-quality products."
-            },
-            {
-                "german": "Die Firma expandiert in neue Märkte.",
-                "english": "The company is expanding into new markets."
-            },
-            {
-                "german": "Die Firma wurde vor 50 Jahren gegründet.",
-                "english": "The company was founded 50 years ago."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Firma hat viele Mitarbeiter.",
+            "english": "The company has many employees."
+        },
+        {
+            "german": "Mein Vater arbeitet in einer großen Firma.",
+            "english": "My father works in a large company."
+        },
+        {
+            "german": "Die Firma produziert hochwertige Produkte.",
+            "english": "The company produces high-quality products."
+        },
+        {
+            "german": "Die Firma expandiert in neue Märkte.",
+            "english": "The company is expanding into new markets."
+        },
+        {
+            "german": "Die Firma wurde vor 50 Jahren gegründet.",
+            "english": "The company was founded 50 years ago."
+        }
+    ]
 }

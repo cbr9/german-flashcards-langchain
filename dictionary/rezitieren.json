@@ -1,28 +1,26 @@
 {
     "word": "rezitieren, rezitierte, rezitiert",
     "definition": "To orally deliver a written work, often in a formal or performative setting, such as reciting a poem, speech, or passage from a play. This term is commonly associated with artistic or academic contexts, where individuals showcase their ability to memorize and present literature or texts with proper intonation and expression.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er rezitierte ein Gedicht.",
-                "english": "He recited a poem."
-            },
-            {
-                "german": "Sie rezitierte einen Monolog.",
-                "english": "She recited a monologue."
-            },
-            {
-                "german": "Der Schauspieler rezitierte seine Texte auswendig.",
-                "english": "The actor recited his lines from memory."
-            },
-            {
-                "german": "Die Schülerin rezitierte ein Gedicht vor der Klasse.",
-                "english": "The student recited a poem in front of the class."
-            },
-            {
-                "german": "Er rezitierte die berühmte Rede von Martin Luther King.",
-                "english": "He recited the famous speech by Martin Luther King."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er rezitierte ein Gedicht.",
+            "english": "He recited a poem."
+        },
+        {
+            "german": "Sie rezitierte einen Monolog.",
+            "english": "She recited a monologue."
+        },
+        {
+            "german": "Der Schauspieler rezitierte seine Texte auswendig.",
+            "english": "The actor recited his lines from memory."
+        },
+        {
+            "german": "Die Schülerin rezitierte ein Gedicht vor der Klasse.",
+            "english": "The student recited a poem in front of the class."
+        },
+        {
+            "german": "Er rezitierte die berühmte Rede von Martin Luther King.",
+            "english": "He recited the famous speech by Martin Luther King."
+        }
+    ]
 }

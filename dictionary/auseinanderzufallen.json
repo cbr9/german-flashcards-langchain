@@ -1,28 +1,26 @@
 {
     "word": "auseinanderzufallen, fiel auseinander, auseinandergefallen",
     "definition": "The word refers to the action of something breaking apart or disintegrating into separate pieces or elements. It is commonly used to describe the physical or metaphorical collapse or disintegration of a structure, system, or relationship.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das alte Gebäude droht auseinanderzufallen.",
-                "english": "The old building is in danger of falling apart."
-            },
-            {
-                "german": "Die Beziehung zwischen den beiden Parteien begann auseinanderzufallen.",
-                "english": "The relationship between the two parties started to fall apart."
-            },
-            {
-                "german": "Seine Pläne begannen auseinanderzufallen, als er die wichtigen Informationen verlor.",
-                "english": "His plans started to fall apart when he lost the important information."
-            },
-            {
-                "german": "Der Kuchen begann auseinanderzufallen, als ich ihn aus dem Ofen nahm.",
-                "english": "The cake started to fall apart when I took it out of the oven."
-            },
-            {
-                "german": "Die Gruppe konnte sich nicht einigen und begann auseinanderzufallen.",
-                "english": "The group couldn't agree and started to fall apart."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das alte Gebäude droht auseinanderzufallen.",
+            "english": "The old building is in danger of falling apart."
+        },
+        {
+            "german": "Die Beziehung zwischen den beiden Parteien begann auseinanderzufallen.",
+            "english": "The relationship between the two parties started to fall apart."
+        },
+        {
+            "german": "Seine Pläne begannen auseinanderzufallen, als er die wichtigen Informationen verlor.",
+            "english": "His plans started to fall apart when he lost the important information."
+        },
+        {
+            "german": "Der Kuchen begann auseinanderzufallen, als ich ihn aus dem Ofen nahm.",
+            "english": "The cake started to fall apart when I took it out of the oven."
+        },
+        {
+            "german": "Die Gruppe konnte sich nicht einigen und begann auseinanderzufallen.",
+            "english": "The group couldn't agree and started to fall apart."
+        }
+    ]
 }

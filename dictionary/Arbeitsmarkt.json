@@ -1,28 +1,26 @@
 {
     "word": "der Arbeitsmarkt, die Arbeitsmärkte",
     "definition": "A term commonly employed to describe the dynamic environment where individuals seek employment opportunities and employers search for suitable candidates to fill job vacancies. It encompasses the entire system and interactions related to employment, job availability, and workforce demand and supply.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Arbeitsmarkt in Deutschland ist derzeit sehr robust.",
-                "english": "The job market in Germany is currently very robust."
-            },
-            {
-                "german": "Die Arbeitslosenquote auf dem Arbeitsmarkt ist gesunken.",
-                "english": "The unemployment rate in the job market has decreased."
-            },
-            {
-                "german": "Der Arbeitsmarkt bietet viele Möglichkeiten für qualifizierte Fachkräfte.",
-                "english": "The job market offers many opportunities for skilled professionals."
-            },
-            {
-                "german": "Der Arbeitsmarkt ist stark von der Digitalisierung beeinflusst.",
-                "english": "The job market is heavily influenced by digitalization."
-            },
-            {
-                "german": "Die Globalisierung hat den Arbeitsmarkt verändert.",
-                "english": "Globalization has changed the job market."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Arbeitsmarkt in Deutschland ist derzeit sehr robust.",
+            "english": "The job market in Germany is currently very robust."
+        },
+        {
+            "german": "Die Arbeitslosenquote auf dem Arbeitsmarkt ist gesunken.",
+            "english": "The unemployment rate in the job market has decreased."
+        },
+        {
+            "german": "Der Arbeitsmarkt bietet viele Möglichkeiten für qualifizierte Fachkräfte.",
+            "english": "The job market offers many opportunities for skilled professionals."
+        },
+        {
+            "german": "Der Arbeitsmarkt ist stark von der Digitalisierung beeinflusst.",
+            "english": "The job market is heavily influenced by digitalization."
+        },
+        {
+            "german": "Die Globalisierung hat den Arbeitsmarkt verändert.",
+            "english": "Globalization has changed the job market."
+        }
+    ]
 }

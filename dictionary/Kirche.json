@@ -1,28 +1,26 @@
 {
     "word": "die Kirche, die Kirchen",
     "definition": "A place of worship and religious gathering, typically characterized by its architectural structure and association with a specific faith or denomination. It is commonly used to refer to a building where religious ceremonies, such as weddings, baptisms, and funerals, take place.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Kirche steht im Zentrum des Dorfes.",
-                "english": "The church is located in the center of the village."
-            },
-            {
-                "german": "Wir gehen jeden Sonntag in die Kirche.",
-                "english": "We go to church every Sunday."
-            },
-            {
-                "german": "Die Kirche wurde im 12. Jahrhundert erbaut.",
-                "english": "The church was built in the 12th century."
-            },
-            {
-                "german": "Die Glocken der Kirche läuten zur vollen Stunde.",
-                "english": "The church bells ring on the hour."
-            },
-            {
-                "german": "Die Kirche ist ein beliebtes Touristenziel.",
-                "english": "The church is a popular tourist destination."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Kirche steht im Zentrum des Dorfes.",
+            "english": "The church is located in the center of the village."
+        },
+        {
+            "german": "Wir gehen jeden Sonntag in die Kirche.",
+            "english": "We go to church every Sunday."
+        },
+        {
+            "german": "Die Kirche wurde im 12. Jahrhundert erbaut.",
+            "english": "The church was built in the 12th century."
+        },
+        {
+            "german": "Die Glocken der Kirche läuten zur vollen Stunde.",
+            "english": "The church bells ring on the hour."
+        },
+        {
+            "german": "Die Kirche ist ein beliebtes Touristenziel.",
+            "english": "The church is a popular tourist destination."
+        }
+    ]
 }

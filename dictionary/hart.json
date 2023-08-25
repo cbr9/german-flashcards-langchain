@@ -1,28 +1,26 @@
 {
     "word": "hart",
     "definition": "The word \"hart\" refers to a quality that describes something as being firm, solid, or resistant to pressure. It is often used to describe materials, objects, or surfaces that are tough, unyielding, or hard in texture. Additionally, \"hart\" can also be used to describe a person's character or behavior, indicating that they are tough, strong-willed, or unyielding in nature.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Brot ist hart.",
-                "english": "The bread is hard."
-            },
-            {
-                "german": "Er hat ein hartes Training absolviert.",
-                "english": "He completed a tough training."
-            },
-            {
-                "german": "Die Prüfung war hart.",
-                "english": "The exam was difficult."
-            },
-            {
-                "german": "Sie hat ein hartes Leben gehabt.",
-                "english": "She had a tough life."
-            },
-            {
-                "german": "Der Stein ist hart wie Stahl.",
-                "english": "The stone is hard as steel."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Brot ist hart.",
+            "english": "The bread is hard."
+        },
+        {
+            "german": "Er hat ein hartes Training absolviert.",
+            "english": "He completed a tough training."
+        },
+        {
+            "german": "Die Prüfung war hart.",
+            "english": "The exam was difficult."
+        },
+        {
+            "german": "Sie hat ein hartes Leben gehabt.",
+            "english": "She had a tough life."
+        },
+        {
+            "german": "Der Stein ist hart wie Stahl.",
+            "english": "The stone is hard as steel."
+        }
+    ]
 }

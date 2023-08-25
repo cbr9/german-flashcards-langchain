@@ -1,28 +1,26 @@
 {
     "word": "besonderer",
     "definition": "A term used to describe something or someone that possesses distinct qualities, characteristics, or attributes that set them apart from others. It is commonly employed to emphasize the uniqueness, exceptional nature, or special significance of the subject being referred to.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein besonderer Mensch.",
-                "english": "He is a special person."
-            },
-            {
-                "german": "Sie hat einen besonderen Geschmack.",
-                "english": "She has a unique taste."
-            },
-            {
-                "german": "Das ist ein besonderer Moment.",
-                "english": "This is a special moment."
-            },
-            {
-                "german": "Er hat eine besondere Begabung.",
-                "english": "He has a special talent."
-            },
-            {
-                "german": "Sie trägt ein besonderes Kleid.",
-                "english": "She is wearing a special dress."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein besonderer Mensch.",
+            "english": "He is a special person."
+        },
+        {
+            "german": "Sie hat einen besonderen Geschmack.",
+            "english": "She has a unique taste."
+        },
+        {
+            "german": "Das ist ein besonderer Moment.",
+            "english": "This is a special moment."
+        },
+        {
+            "german": "Er hat eine besondere Begabung.",
+            "english": "He has a special talent."
+        },
+        {
+            "german": "Sie trägt ein besonderes Kleid.",
+            "english": "She is wearing a special dress."
+        }
+    ]
 }

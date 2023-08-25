@@ -1,28 +1,26 @@
 {
     "word": "die Website, die Websites",
     "definition": "A digital platform that consists of interconnected webpages, typically accessed through the internet, serving as a means for individuals, organizations, or businesses to share information, provide services, or engage in online activities. It is commonly utilized for various purposes, including displaying content, conducting e-commerce, offering resources, or facilitating communication.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Website ist sehr benutzerfreundlich.",
-                "english": "The website is very user-friendly."
-            },
-            {
-                "german": "Ich habe eine neue Website erstellt.",
-                "english": "I have created a new website."
-            },
-            {
-                "german": "Die Website ist nicht erreichbar.",
-                "english": "The website is not accessible."
-            },
-            {
-                "german": "Kannst du mir die Website-Adresse geben?",
-                "english": "Can you give me the website address?"
-            },
-            {
-                "german": "Die Website hat ein modernes Design.",
-                "english": "The website has a modern design."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Website ist sehr benutzerfreundlich.",
+            "english": "The website is very user-friendly."
+        },
+        {
+            "german": "Ich habe eine neue Website erstellt.",
+            "english": "I have created a new website."
+        },
+        {
+            "german": "Die Website ist nicht erreichbar.",
+            "english": "The website is not accessible."
+        },
+        {
+            "german": "Kannst du mir die Website-Adresse geben?",
+            "english": "Can you give me the website address?"
+        },
+        {
+            "german": "Die Website hat ein modernes Design.",
+            "english": "The website has a modern design."
+        }
+    ]
 }

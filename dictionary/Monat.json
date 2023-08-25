@@ -1,28 +1,26 @@
 {
     "word": "der Monat, die Monate",
     "definition": "A unit of time that typically refers to a specific division of a year, often used to measure the duration between two events or to organize schedules and calendars.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe letzten Monat meinen Geburtstag gefeiert.",
-                "english": "I celebrated my birthday last month."
-            },
-            {
-                "german": "Der Januar ist der erste Monat des Jahres.",
-                "english": "January is the first month of the year."
-            },
-            {
-                "german": "Mein Gehalt wird am Ende des Monats überwiesen.",
-                "english": "My salary is transferred at the end of the month."
-            },
-            {
-                "german": "Wir haben im letzten Monat viel gelernt.",
-                "english": "We learned a lot last month."
-            },
-            {
-                "german": "Der Februar ist ein kurzer Monat.",
-                "english": "February is a short month."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe letzten Monat meinen Geburtstag gefeiert.",
+            "english": "I celebrated my birthday last month."
+        },
+        {
+            "german": "Der Januar ist der erste Monat des Jahres.",
+            "english": "January is the first month of the year."
+        },
+        {
+            "german": "Mein Gehalt wird am Ende des Monats überwiesen.",
+            "english": "My salary is transferred at the end of the month."
+        },
+        {
+            "german": "Wir haben im letzten Monat viel gelernt.",
+            "english": "We learned a lot last month."
+        },
+        {
+            "german": "Der Februar ist ein kurzer Monat.",
+            "english": "February is a short month."
+        }
+    ]
 }

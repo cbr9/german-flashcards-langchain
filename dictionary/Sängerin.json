@@ -1,28 +1,26 @@
 {
     "word": "die Sängerin, die Sängerinnen",
     "definition": "A female individual who performs a specific type of artistic expression, often accompanied by musical instruments, and is typically found in various settings such as concerts, operas, or recordings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist eine talentierte Sängerin.",
-                "english": "She is a talented singer."
-            },
-            {
-                "german": "Die Sängerin trat gestern Abend auf.",
-                "english": "The singer performed last night."
-            },
-            {
-                "german": "Die berühmte Sängerin gewann viele Preise.",
-                "english": "The famous singer won many awards."
-            },
-            {
-                "german": "Die Sängerin hat eine wunderschöne Stimme.",
-                "english": "The singer has a beautiful voice."
-            },
-            {
-                "german": "Die junge Sängerin startet ihre Karriere.",
-                "english": "The young singer is starting her career."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist eine talentierte Sängerin.",
+            "english": "She is a talented singer."
+        },
+        {
+            "german": "Die Sängerin trat gestern Abend auf.",
+            "english": "The singer performed last night."
+        },
+        {
+            "german": "Die berühmte Sängerin gewann viele Preise.",
+            "english": "The famous singer won many awards."
+        },
+        {
+            "german": "Die Sängerin hat eine wunderschöne Stimme.",
+            "english": "The singer has a beautiful voice."
+        },
+        {
+            "german": "Die junge Sängerin startet ihre Karriere.",
+            "english": "The young singer is starting her career."
+        }
+    ]
 }

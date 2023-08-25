@@ -1,28 +1,26 @@
 {
     "word": "scheinen, schien, geschienen",
     "definition": "To emit or reflect light, often used to describe the sun or a light source. It can also refer to the appearance or impression something gives off, such as a person's demeanor or behavior. Additionally, it can indicate the likelihood or probability of something happening, often used in the context of opinions or assumptions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Es scheint, dass es morgen regnen wird.",
-                "english": "It seems that it will rain tomorrow."
-            },
-            {
-                "german": "Die Sonne scheint heute sehr hell.",
-                "english": "The sun is shining very brightly today."
-            },
-            {
-                "german": "Er scheint ein netter Mensch zu sein.",
-                "english": "He seems to be a nice person."
-            },
-            {
-                "german": "Es scheint, dass sie die Prüfung bestanden hat.",
-                "english": "It appears that she passed the exam."
-            },
-            {
-                "german": "Die Sterne scheinen in der Nacht.",
-                "english": "The stars shine at night."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Es scheint, dass es morgen regnen wird.",
+            "english": "It seems that it will rain tomorrow."
+        },
+        {
+            "german": "Die Sonne scheint heute sehr hell.",
+            "english": "The sun is shining very brightly today."
+        },
+        {
+            "german": "Er scheint ein netter Mensch zu sein.",
+            "english": "He seems to be a nice person."
+        },
+        {
+            "german": "Es scheint, dass sie die Prüfung bestanden hat.",
+            "english": "It appears that she passed the exam."
+        },
+        {
+            "german": "Die Sterne scheinen in der Nacht.",
+            "english": "The stars shine at night."
+        }
+    ]
 }

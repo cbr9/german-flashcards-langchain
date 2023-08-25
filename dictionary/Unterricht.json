@@ -1,28 +1,26 @@
 {
     "word": "der Unterricht, die Unterrichte",
     "definition": "A structured educational activity involving a teacher or instructor imparting knowledge, skills, or information to a group of learners. It typically takes place in a formal setting, such as a classroom, and is commonly used to refer to the process of teaching and learning in various academic subjects or disciplines.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe Unterricht in Mathematik.",
-                "english": "I have a math class."
-            },
-            {
-                "german": "Der Unterricht beginnt um 8 Uhr.",
-                "english": "The class starts at 8 o'clock."
-            },
-            {
-                "german": "Sie gibt Unterricht in Deutsch.",
-                "english": "She teaches German."
-            },
-            {
-                "german": "Der Unterricht war sehr interessant.",
-                "english": "The lesson was very interesting."
-            },
-            {
-                "german": "Ich habe Unterricht bis 15 Uhr.",
-                "english": "I have class until 3 o'clock."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe Unterricht in Mathematik.",
+            "english": "I have a math class."
+        },
+        {
+            "german": "Der Unterricht beginnt um 8 Uhr.",
+            "english": "The class starts at 8 o'clock."
+        },
+        {
+            "german": "Sie gibt Unterricht in Deutsch.",
+            "english": "She teaches German."
+        },
+        {
+            "german": "Der Unterricht war sehr interessant.",
+            "english": "The lesson was very interesting."
+        },
+        {
+            "german": "Ich habe Unterricht bis 15 Uhr.",
+            "english": "I have class until 3 o'clock."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "rund",
     "definition": "The word \"rund\" refers to a shape or form that lacks sharp edges or corners. It is commonly used to describe objects, surfaces, or structures that are smooth and curved, resembling a circle or sphere. This term is often employed to describe physical attributes, such as a round table or a round object. Additionally, it can be used metaphorically to describe concepts or events that are complete, comprehensive, or all-encompassing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Haus hat einen runden Tisch.",
-                "english": "The house has a round table."
-            },
-            {
-                "german": "Der Ball rollt rund.",
-                "english": "The ball rolls round."
-            },
-            {
-                "german": "Sie hat einen runden Geburtstag gefeiert.",
-                "english": "She celebrated a round birthday."
-            },
-            {
-                "german": "Die Erde ist rund.",
-                "english": "The Earth is round."
-            },
-            {
-                "german": "Er hat einen runden Bauch.",
-                "english": "He has a round belly."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Haus hat einen runden Tisch.",
+            "english": "The house has a round table."
+        },
+        {
+            "german": "Der Ball rollt rund.",
+            "english": "The ball rolls round."
+        },
+        {
+            "german": "Sie hat einen runden Geburtstag gefeiert.",
+            "english": "She celebrated a round birthday."
+        },
+        {
+            "german": "Die Erde ist rund.",
+            "english": "The Earth is round."
+        },
+        {
+            "german": "Er hat einen runden Bauch.",
+            "english": "He has a round belly."
+        }
+    ]
 }

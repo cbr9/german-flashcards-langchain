@@ -1,28 +1,26 @@
 {
     "word": "bestätigen, bestätigte, bestätigt",
     "definition": "To affirm or validate the accuracy, truthfulness, or existence of something, often by providing evidence or confirmation. This word is commonly used when acknowledging, confirming, or verifying a statement, fact, or belief.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kannst du bitte meine Reservierung bestätigen?",
-                "english": "Can you please confirm my reservation?"
-            },
-            {
-                "german": "Der Arzt wird die Diagnose bestätigen.",
-                "english": "The doctor will confirm the diagnosis."
-            },
-            {
-                "german": "Ich kann das nicht bestätigen, da ich nicht dabei war.",
-                "english": "I cannot confirm that as I was not there."
-            },
-            {
-                "german": "Bitte bestätigen Sie den Erhalt dieser E-Mail.",
-                "english": "Please confirm receipt of this email."
-            },
-            {
-                "german": "Die Zeugen konnten den Verdacht nicht bestätigen.",
-                "english": "The witnesses could not confirm the suspicion."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kannst du bitte meine Reservierung bestätigen?",
+            "english": "Can you please confirm my reservation?"
+        },
+        {
+            "german": "Der Arzt wird die Diagnose bestätigen.",
+            "english": "The doctor will confirm the diagnosis."
+        },
+        {
+            "german": "Ich kann das nicht bestätigen, da ich nicht dabei war.",
+            "english": "I cannot confirm that as I was not there."
+        },
+        {
+            "german": "Bitte bestätigen Sie den Erhalt dieser E-Mail.",
+            "english": "Please confirm receipt of this email."
+        },
+        {
+            "german": "Die Zeugen konnten den Verdacht nicht bestätigen.",
+            "english": "The witnesses could not confirm the suspicion."
+        }
+    ]
 }

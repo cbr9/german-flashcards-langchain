@@ -1,28 +1,26 @@
 {
     "word": "die Minute, die Minuten",
     "definition": "A unit of time that is commonly used to measure short durations, typically consisting of 60 seconds. It is often used to indicate a specific point in time or to quantify the duration of an event or activity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Präsentation dauert 30 Minuten.",
-                "english": "The presentation lasts 30 minutes."
-            },
-            {
-                "german": "Ich habe noch fünf Minuten Zeit.",
-                "english": "I still have five minutes."
-            },
-            {
-                "german": "Er kam genau pünktlich um 9 Uhr 15 Minuten.",
-                "english": "He arrived exactly on time at 9:15."
-            },
-            {
-                "german": "Ich habe in der letzten Minute meine Meinung geändert.",
-                "english": "I changed my mind in the last minute."
-            },
-            {
-                "german": "Sie hat die Aufgabe in nur zwei Minuten erledigt.",
-                "english": "She completed the task in just two minutes."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Präsentation dauert 30 Minuten.",
+            "english": "The presentation lasts 30 minutes."
+        },
+        {
+            "german": "Ich habe noch fünf Minuten Zeit.",
+            "english": "I still have five minutes."
+        },
+        {
+            "german": "Er kam genau pünktlich um 9 Uhr 15 Minuten.",
+            "english": "He arrived exactly on time at 9:15."
+        },
+        {
+            "german": "Ich habe in der letzten Minute meine Meinung geändert.",
+            "english": "I changed my mind in the last minute."
+        },
+        {
+            "german": "Sie hat die Aufgabe in nur zwei Minuten erledigt.",
+            "english": "She completed the task in just two minutes."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Unternehmen, die Unternehmen",
     "definition": "A term commonly used to describe an entity or organization engaged in various activities, such as business, commerce, or industry. It typically refers to a collective effort or endeavor undertaken by individuals or groups with a specific purpose, often involving the production, distribution, or provision of goods or services.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Unternehmen hat viele Mitarbeiter.",
-                "english": "The company has many employees."
-            },
-            {
-                "german": "Unser Unternehmen expandiert international.",
-                "english": "Our company is expanding internationally."
-            },
-            {
-                "german": "Das Unternehmen ist in der Automobilindustrie tätig.",
-                "english": "The company operates in the automotive industry."
-            },
-            {
-                "german": "Das Unternehmen wurde vor 50 Jahren gegründet.",
-                "english": "The company was founded 50 years ago."
-            },
-            {
-                "german": "Das Unternehmen plant eine Fusion mit einem anderen Unternehmen.",
-                "english": "The company is planning a merger with another company."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Unternehmen hat viele Mitarbeiter.",
+            "english": "The company has many employees."
+        },
+        {
+            "german": "Unser Unternehmen expandiert international.",
+            "english": "Our company is expanding internationally."
+        },
+        {
+            "german": "Das Unternehmen ist in der Automobilindustrie tätig.",
+            "english": "The company operates in the automotive industry."
+        },
+        {
+            "german": "Das Unternehmen wurde vor 50 Jahren gegründet.",
+            "english": "The company was founded 50 years ago."
+        },
+        {
+            "german": "Das Unternehmen plant eine Fusion mit einem anderen Unternehmen.",
+            "english": "The company is planning a merger with another company."
+        }
+    ]
 }

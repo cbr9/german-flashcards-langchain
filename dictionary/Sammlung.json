@@ -1,28 +1,26 @@
 {
     "word": "die Sammlung, die Sammlungen",
     "definition": "A collection of various items or objects, typically gathered together intentionally for a specific purpose or interest. It is commonly used to refer to a curated assortment of things, such as artworks, books, or historical artifacts, which are systematically organized and displayed for public or private viewing.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine Sammlung von Briefmarken.",
-                "english": "I have a collection of stamps."
-            },
-            {
-                "german": "Die Sammlung umfasst Gemälde aus dem 18. Jahrhundert.",
-                "english": "The collection includes paintings from the 18th century."
-            },
-            {
-                "german": "Meine Schwester hat eine Sammlung von antiken Münzen.",
-                "english": "My sister has a collection of antique coins."
-            },
-            {
-                "german": "Die Sammlung von Büchern ist beeindruckend.",
-                "english": "The collection of books is impressive."
-            },
-            {
-                "german": "Er hat eine umfangreiche Sammlung von Musikinstrumenten.",
-                "english": "He has an extensive collection of musical instruments."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine Sammlung von Briefmarken.",
+            "english": "I have a collection of stamps."
+        },
+        {
+            "german": "Die Sammlung umfasst Gemälde aus dem 18. Jahrhundert.",
+            "english": "The collection includes paintings from the 18th century."
+        },
+        {
+            "german": "Meine Schwester hat eine Sammlung von antiken Münzen.",
+            "english": "My sister has a collection of antique coins."
+        },
+        {
+            "german": "Die Sammlung von Büchern ist beeindruckend.",
+            "english": "The collection of books is impressive."
+        },
+        {
+            "german": "Er hat eine umfangreiche Sammlung von Musikinstrumenten.",
+            "english": "He has an extensive collection of musical instruments."
+        }
+    ]
 }

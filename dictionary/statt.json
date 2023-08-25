@@ -1,28 +1,26 @@
 {
     "word": "statt",
     "definition": "A preposition commonly used to indicate substitution or replacement, often used to express an alternative action or choice in place of another. It is frequently employed to convey the idea of \"instead of\" or \"in lieu of\" something or someone.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich gehe ins Kino statt ins Theater.",
-                "english": "I go to the cinema instead of the theater."
-            },
-            {
-                "german": "Sie hat einen Hund statt einer Katze.",
-                "english": "She has a dog instead of a cat."
-            },
-            {
-                "german": "Er arbeitet von zu Hause aus statt im Büro.",
-                "english": "He works from home instead of in the office."
-            },
-            {
-                "german": "Statt zu laufen, fahre ich mit dem Fahrrad.",
-                "english": "Instead of walking, I ride a bike."
-            },
-            {
-                "german": "Statt zu antworten, schwieg er.",
-                "english": "Instead of answering, he remained silent."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich gehe ins Kino statt ins Theater.",
+            "english": "I go to the cinema instead of the theater."
+        },
+        {
+            "german": "Sie hat einen Hund statt einer Katze.",
+            "english": "She has a dog instead of a cat."
+        },
+        {
+            "german": "Er arbeitet von zu Hause aus statt im Büro.",
+            "english": "He works from home instead of in the office."
+        },
+        {
+            "german": "Statt zu laufen, fahre ich mit dem Fahrrad.",
+            "english": "Instead of walking, I ride a bike."
+        },
+        {
+            "german": "Statt zu antworten, schwieg er.",
+            "english": "Instead of answering, he remained silent."
+        }
+    ]
 }

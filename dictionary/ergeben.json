@@ -1,28 +1,26 @@
 {
     "word": "ergeben, ergab, ergeben",
     "definition": "To yield or surrender, often used in the context of accepting defeat or submitting to a situation. It can also refer to the act of producing a result or outcome, typically in a passive or involuntary manner.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Was ergibt 2 plus 2?",
-                "english": "What is 2 plus 2?"
-            },
-            {
-                "german": "Die Untersuchung ergab keine Auffälligkeiten.",
-                "english": "The investigation revealed no abnormalities."
-            },
-            {
-                "german": "Das ergibt keinen Sinn.",
-                "english": "That doesn't make sense."
-            },
-            {
-                "german": "Die Recherche ergab interessante Informationen.",
-                "english": "The research yielded interesting information."
-            },
-            {
-                "german": "Er ergab sich seinem Schicksal.",
-                "english": "He resigned himself to his fate."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Was ergibt 2 plus 2?",
+            "english": "What is 2 plus 2?"
+        },
+        {
+            "german": "Die Untersuchung ergab keine Auffälligkeiten.",
+            "english": "The investigation revealed no abnormalities."
+        },
+        {
+            "german": "Das ergibt keinen Sinn.",
+            "english": "That doesn't make sense."
+        },
+        {
+            "german": "Die Recherche ergab interessante Informationen.",
+            "english": "The research yielded interesting information."
+        },
+        {
+            "german": "Er ergab sich seinem Schicksal.",
+            "english": "He resigned himself to his fate."
+        }
+    ]
 }

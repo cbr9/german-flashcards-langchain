@@ -1,28 +1,26 @@
 {
     "word": "hören, hörte, gehört",
     "definition": "To perceive sound through the ears, typically involving the ability to understand and interpret spoken language, music, or other auditory stimuli. It is commonly used to describe the act of listening to various forms of audio, including conversations, lectures, songs, or any form of sound-based communication.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich höre gerne Musik.",
-                "english": "I like listening to music."
-            },
-            {
-                "german": "Kannst du mich hören?",
-                "english": "Can you hear me?"
-            },
-            {
-                "german": "Ich höre immer Podcasts auf dem Weg zur Arbeit.",
-                "english": "I always listen to podcasts on my way to work."
-            },
-            {
-                "german": "Hörst du gerne Hörbücher?",
-                "english": "Do you like listening to audiobooks?"
-            },
-            {
-                "german": "Ich höre das Geräusch von Regen.",
-                "english": "I hear the sound of rain."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich höre gerne Musik.",
+            "english": "I like listening to music."
+        },
+        {
+            "german": "Kannst du mich hören?",
+            "english": "Can you hear me?"
+        },
+        {
+            "german": "Ich höre immer Podcasts auf dem Weg zur Arbeit.",
+            "english": "I always listen to podcasts on my way to work."
+        },
+        {
+            "german": "Hörst du gerne Hörbücher?",
+            "english": "Do you like listening to audiobooks?"
+        },
+        {
+            "german": "Ich höre das Geräusch von Regen.",
+            "english": "I hear the sound of rain."
+        }
+    ]
 }

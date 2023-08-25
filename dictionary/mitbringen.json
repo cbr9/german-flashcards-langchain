@@ -1,28 +1,26 @@
 {
     "word": "mitbringen, brachte mit, mitgebracht",
     "definition": "To bring along or bring with oneself, typically used when referring to bringing something or someone to a specific location or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe meine Schlüssel vergessen, kannst du sie mitbringen?",
-                "english": "I forgot my keys, can you bring them?"
-            },
-            {
-                "german": "Kannst du bitte eine Flasche Wein mitbringen?",
-                "english": "Can you please bring a bottle of wine?"
-            },
-            {
-                "german": "Meine Schwester wird ihre Kinder mitbringen.",
-                "english": "My sister will bring her children."
-            },
-            {
-                "german": "Wir sollten etwas zu essen mitbringen.",
-                "english": "We should bring some food."
-            },
-            {
-                "german": "Kannst du mir bitte ein Handtuch mitbringen?",
-                "english": "Can you please bring me a towel?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe meine Schlüssel vergessen, kannst du sie mitbringen?",
+            "english": "I forgot my keys, can you bring them?"
+        },
+        {
+            "german": "Kannst du bitte eine Flasche Wein mitbringen?",
+            "english": "Can you please bring a bottle of wine?"
+        },
+        {
+            "german": "Meine Schwester wird ihre Kinder mitbringen.",
+            "english": "My sister will bring her children."
+        },
+        {
+            "german": "Wir sollten etwas zu essen mitbringen.",
+            "english": "We should bring some food."
+        },
+        {
+            "german": "Kannst du mir bitte ein Handtuch mitbringen?",
+            "english": "Can you please bring me a towel?"
+        }
+    ]
 }

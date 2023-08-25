@@ -1,28 +1,26 @@
 {
     "word": "die Wirkmacht, die Wirkmachten",
     "definition": "\"Wirkmacht\" refers to the ability or power to produce a desired effect or influence. It is commonly used in contexts related to the impact, effectiveness, or efficacy of something, often in relation to a specific action, force, or phenomenon.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Wirkmacht des Medikaments ist beeindruckend.",
-                "english": "The efficacy of the medication is impressive."
-            },
-            {
-                "german": "Die Wirkmacht des Zauberspruchs ist enorm.",
-                "english": "The potency of the spell is enormous."
-            },
-            {
-                "german": "Die Wirkmacht der Propaganda ist nicht zu unterschätzen.",
-                "english": "The power of propaganda should not be underestimated."
-            },
-            {
-                "german": "Die Wirkmacht der Musik berührt die Seele.",
-                "english": "The impact of music touches the soul."
-            },
-            {
-                "german": "Die Wirkmacht des Gedankens kann Berge versetzen.",
-                "english": "The force of thought can move mountains."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Wirkmacht des Medikaments ist beeindruckend.",
+            "english": "The efficacy of the medication is impressive."
+        },
+        {
+            "german": "Die Wirkmacht des Zauberspruchs ist enorm.",
+            "english": "The potency of the spell is enormous."
+        },
+        {
+            "german": "Die Wirkmacht der Propaganda ist nicht zu unterschätzen.",
+            "english": "The power of propaganda should not be underestimated."
+        },
+        {
+            "german": "Die Wirkmacht der Musik berührt die Seele.",
+            "english": "The impact of music touches the soul."
+        },
+        {
+            "german": "Die Wirkmacht des Gedankens kann Berge versetzen.",
+            "english": "The force of thought can move mountains."
+        }
+    ]
 }

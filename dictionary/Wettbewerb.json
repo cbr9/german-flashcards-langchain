@@ -1,28 +1,26 @@
 {
     "word": "der Wettbewerb, die Wettbewerbe",
     "definition": "A situation where individuals or entities compete against each other in order to achieve a specific goal or win a prize. It is commonly used to describe various types of competitions, contests, or rivalries in different fields, such as sports, business, or arts.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Wettbewerb ist hart.",
-                "english": "The competition is tough."
-            },
-            {
-                "german": "Sie hat den Wettbewerb gewonnen.",
-                "english": "She won the competition."
-            },
-            {
-                "german": "Der Wettbewerb findet nächste Woche statt.",
-                "english": "The competition takes place next week."
-            },
-            {
-                "german": "Er nimmt am Wettbewerb teil.",
-                "english": "He is participating in the competition."
-            },
-            {
-                "german": "Der Wettbewerb fördert Innovation.",
-                "english": "Competition promotes innovation."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Wettbewerb ist hart.",
+            "english": "The competition is tough."
+        },
+        {
+            "german": "Sie hat den Wettbewerb gewonnen.",
+            "english": "She won the competition."
+        },
+        {
+            "german": "Der Wettbewerb findet nächste Woche statt.",
+            "english": "The competition takes place next week."
+        },
+        {
+            "german": "Er nimmt am Wettbewerb teil.",
+            "english": "He is participating in the competition."
+        },
+        {
+            "german": "Der Wettbewerb fördert Innovation.",
+            "english": "Competition promotes innovation."
+        }
+    ]
 }

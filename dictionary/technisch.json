@@ -1,28 +1,26 @@
 {
     "word": "technisch",
     "definition": "Relating to the application of scientific knowledge and methods in practical or industrial activities, this term is commonly used to describe something that pertains to technology, engineering, or technical aspects. It often refers to matters or subjects that involve technical skills, expertise, or processes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Technisch gesehen",
-                "english": "Technically speaking"
-            },
-            {
-                "german": "Das ist technisch unmöglich",
-                "english": "That is technically impossible"
-            },
-            {
-                "german": "Die technische Ausstattung",
-                "english": "The technical equipment"
-            },
-            {
-                "german": "Technische Probleme",
-                "english": "Technical problems"
-            },
-            {
-                "german": "Die technische Entwicklung",
-                "english": "The technological development"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Technisch gesehen",
+            "english": "Technically speaking"
+        },
+        {
+            "german": "Das ist technisch unmöglich",
+            "english": "That is technically impossible"
+        },
+        {
+            "german": "Die technische Ausstattung",
+            "english": "The technical equipment"
+        },
+        {
+            "german": "Technische Probleme",
+            "english": "Technical problems"
+        },
+        {
+            "german": "Die technische Entwicklung",
+            "english": "The technological development"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "rostfrei",
     "definition": "A term commonly used to describe an object or material that is resistant to corrosion, typically made of metal. It is often associated with kitchenware, cutlery, or other items that are intended to be rust-free and maintain their quality over time.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Besteck ist rostfrei.",
-                "english": "The cutlery is rustproof."
-            },
-            {
-                "german": "Die rostfreie Pfanne ist leicht zu reinigen.",
-                "english": "The rustproof pan is easy to clean."
-            },
-            {
-                "german": "Das rostfreie Metall ist sehr langlebig.",
-                "english": "The rustproof metal is very durable."
-            },
-            {
-                "german": "Die rostfreie Kette glänzt schön.",
-                "english": "The rustproof chain shines beautifully."
-            },
-            {
-                "german": "Der rostfreie Schraubenzieher ist sehr praktisch.",
-                "english": "The rustproof screwdriver is very practical."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Besteck ist rostfrei.",
+            "english": "The cutlery is rustproof."
+        },
+        {
+            "german": "Die rostfreie Pfanne ist leicht zu reinigen.",
+            "english": "The rustproof pan is easy to clean."
+        },
+        {
+            "german": "Das rostfreie Metall ist sehr langlebig.",
+            "english": "The rustproof metal is very durable."
+        },
+        {
+            "german": "Die rostfreie Kette glänzt schön.",
+            "english": "The rustproof chain shines beautifully."
+        },
+        {
+            "german": "Der rostfreie Schraubenzieher ist sehr praktisch.",
+            "english": "The rustproof screwdriver is very practical."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Koffer, die Koffer",
     "definition": "A portable container typically used for transporting personal belongings during travel.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe meinen Koffer verloren.",
-                "english": "I lost my suitcase."
-            },
-            {
-                "german": "Der Koffer ist zu schwer.",
-                "english": "The suitcase is too heavy."
-            },
-            {
-                "german": "Kannst du meinen Koffer tragen?",
-                "english": "Can you carry my suitcase?"
-            },
-            {
-                "german": "Der Koffer ist aus Leder.",
-                "english": "The suitcase is made of leather."
-            },
-            {
-                "german": "Mein Koffer ist am Flughafen.",
-                "english": "My suitcase is at the airport."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe meinen Koffer verloren.",
+            "english": "I lost my suitcase."
+        },
+        {
+            "german": "Der Koffer ist zu schwer.",
+            "english": "The suitcase is too heavy."
+        },
+        {
+            "german": "Kannst du meinen Koffer tragen?",
+            "english": "Can you carry my suitcase?"
+        },
+        {
+            "german": "Der Koffer ist aus Leder.",
+            "english": "The suitcase is made of leather."
+        },
+        {
+            "german": "Mein Koffer ist am Flughafen.",
+            "english": "My suitcase is at the airport."
+        }
+    ]
 }

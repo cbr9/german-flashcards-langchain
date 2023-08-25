@@ -1,28 +1,26 @@
 {
     "word": "aktualisieren, aktualisierte, aktualisiert",
     "definition": "To bring something up to date or make it current, typically referring to information, data, or content. It is commonly used in the context of technology, software, websites, or any form of media that requires regular updates to ensure accuracy and relevance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Bitte aktualisieren Sie Ihre Kontaktdaten.",
-                "english": "Please update your contact information."
-            },
-            {
-                "german": "Die Webseite wird regelmäßig aktualisiert.",
-                "english": "The website is regularly updated."
-            },
-            {
-                "german": "Vergessen Sie nicht, die Seite zu aktualisieren.",
-                "english": "Don't forget to refresh the page."
-            },
-            {
-                "german": "Ich muss meine Software aktualisieren.",
-                "english": "I need to update my software."
-            },
-            {
-                "german": "Kannst du die Liste aktualisieren?",
-                "english": "Can you update the list?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Bitte aktualisieren Sie Ihre Kontaktdaten.",
+            "english": "Please update your contact information."
+        },
+        {
+            "german": "Die Webseite wird regelmäßig aktualisiert.",
+            "english": "The website is regularly updated."
+        },
+        {
+            "german": "Vergessen Sie nicht, die Seite zu aktualisieren.",
+            "english": "Don't forget to refresh the page."
+        },
+        {
+            "german": "Ich muss meine Software aktualisieren.",
+            "english": "I need to update my software."
+        },
+        {
+            "german": "Kannst du die Liste aktualisieren?",
+            "english": "Can you update the list?"
+        }
+    ]
 }

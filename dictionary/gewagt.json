@@ -1,28 +1,26 @@
 {
     "word": "gewagt, wagte, gewagt",
     "definition": "The word \"gewagt\" refers to an action or decision that involves a certain level of risk or daring. It is often used to describe something adventurous, bold, or audacious.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er hat ein gewagtes Experiment durchgeführt.",
-                "english": "He conducted a daring experiment."
-            },
-            {
-                "german": "Sie hat einen gewagten Sprung ins Wasser gemacht.",
-                "english": "She made a daring jump into the water."
-            },
-            {
-                "german": "Es war ein gewagter Schritt, aber es hat sich gelohnt.",
-                "english": "It was a risky move, but it paid off."
-            },
-            {
-                "german": "Der Film war gewagt und kontrovers.",
-                "english": "The movie was daring and controversial."
-            },
-            {
-                "german": "Er hat sich gewagt, seine Meinung zu äußern.",
-                "english": "He dared to express his opinion."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er hat ein gewagtes Experiment durchgeführt.",
+            "english": "He conducted a daring experiment."
+        },
+        {
+            "german": "Sie hat einen gewagten Sprung ins Wasser gemacht.",
+            "english": "She made a daring jump into the water."
+        },
+        {
+            "german": "Es war ein gewagter Schritt, aber es hat sich gelohnt.",
+            "english": "It was a risky move, but it paid off."
+        },
+        {
+            "german": "Der Film war gewagt und kontrovers.",
+            "english": "The movie was daring and controversial."
+        },
+        {
+            "german": "Er hat sich gewagt, seine Meinung zu äußern.",
+            "english": "He dared to express his opinion."
+        }
+    ]
 }

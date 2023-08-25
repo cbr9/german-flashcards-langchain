@@ -1,28 +1,26 @@
 {
     "word": "das Lieblingsgetränk, die Lieblingsgetränke",
     "definition": "A term commonly used to refer to a person's preferred beverage, often associated with personal taste and enjoyment. It typically denotes the drink that someone favors or enjoys the most, often consumed on a regular basis.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Mein Lieblingsgetränk ist Kaffee.",
-                "english": "My favorite drink is coffee."
-            },
-            {
-                "german": "Was ist dein Lieblingsgetränk?",
-                "english": "What is your favorite drink?"
-            },
-            {
-                "german": "Ich trinke gerne mein Lieblingsgetränk am Morgen.",
-                "english": "I like to drink my favorite drink in the morning."
-            },
-            {
-                "german": "Mein Lieblingsgetränk ist ein kaltes Bier.",
-                "english": "My favorite drink is a cold beer."
-            },
-            {
-                "german": "Sie hat ihr Lieblingsgetränk vergessen.",
-                "english": "She forgot her favorite drink."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Mein Lieblingsgetränk ist Kaffee.",
+            "english": "My favorite drink is coffee."
+        },
+        {
+            "german": "Was ist dein Lieblingsgetränk?",
+            "english": "What is your favorite drink?"
+        },
+        {
+            "german": "Ich trinke gerne mein Lieblingsgetränk am Morgen.",
+            "english": "I like to drink my favorite drink in the morning."
+        },
+        {
+            "german": "Mein Lieblingsgetränk ist ein kaltes Bier.",
+            "english": "My favorite drink is a cold beer."
+        },
+        {
+            "german": "Sie hat ihr Lieblingsgetränk vergessen.",
+            "english": "She forgot her favorite drink."
+        }
+    ]
 }

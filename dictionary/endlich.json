@@ -1,28 +1,26 @@
 {
     "word": "endlich",
     "definition": "Definition: \"Finally\" or \"at last\"; an adverb used to express relief or satisfaction when something desired or anticipated has happened or is happening. It is commonly used to convey a sense of long-awaited completion or achievement.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Endlich ist es Wochenende!",
-                "english": "Finally, it's the weekend!"
-            },
-            {
-                "german": "Ich habe endlich meinen Führerschein bestanden.",
-                "english": "I finally passed my driver's license."
-            },
-            {
-                "german": "Endlich habe ich genug Geld gespart, um mir ein neues Auto zu kaufen.",
-                "english": "Finally, I have saved enough money to buy a new car."
-            },
-            {
-                "german": "Endlich habe ich meinen Traumjob gefunden.",
-                "english": "Finally, I have found my dream job."
-            },
-            {
-                "german": "Endlich kann ich meine Familie wiedersehen.",
-                "english": "Finally, I can see my family again."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Endlich ist es Wochenende!",
+            "english": "Finally, it's the weekend!"
+        },
+        {
+            "german": "Ich habe endlich meinen Führerschein bestanden.",
+            "english": "I finally passed my driver's license."
+        },
+        {
+            "german": "Endlich habe ich genug Geld gespart, um mir ein neues Auto zu kaufen.",
+            "english": "Finally, I have saved enough money to buy a new car."
+        },
+        {
+            "german": "Endlich habe ich meinen Traumjob gefunden.",
+            "english": "Finally, I have found my dream job."
+        },
+        {
+            "german": "Endlich kann ich meine Familie wiedersehen.",
+            "english": "Finally, I can see my family again."
+        }
+    ]
 }

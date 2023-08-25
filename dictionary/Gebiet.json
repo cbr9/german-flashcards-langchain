@@ -1,28 +1,26 @@
 {
     "word": "das Gebiet, die Gebiete",
     "definition": "A defined area or region, typically used to refer to a specific geographical or administrative territory. It is commonly employed to describe a specific jurisdiction, district, or zone.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Gebiet umfasst mehrere Städte.",
-                "english": "The area includes several cities."
-            },
-            {
-                "german": "Das Gebiet ist für seine Weinproduktion bekannt.",
-                "english": "The region is known for its wine production."
-            },
-            {
-                "german": "Das Gebiet wurde von einem Erdbeben erschüttert.",
-                "english": "The area was shaken by an earthquake."
-            },
-            {
-                "german": "Das Gebiet ist ein beliebtes Touristenziel.",
-                "english": "The region is a popular tourist destination."
-            },
-            {
-                "german": "Das Gebiet ist reich an natürlicher Schönheit.",
-                "english": "The area is rich in natural beauty."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Gebiet umfasst mehrere Städte.",
+            "english": "The area includes several cities."
+        },
+        {
+            "german": "Das Gebiet ist für seine Weinproduktion bekannt.",
+            "english": "The region is known for its wine production."
+        },
+        {
+            "german": "Das Gebiet wurde von einem Erdbeben erschüttert.",
+            "english": "The area was shaken by an earthquake."
+        },
+        {
+            "german": "Das Gebiet ist ein beliebtes Touristenziel.",
+            "english": "The region is a popular tourist destination."
+        },
+        {
+            "german": "Das Gebiet ist reich an natürlicher Schönheit.",
+            "english": "The area is rich in natural beauty."
+        }
+    ]
 }

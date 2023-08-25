@@ -1,28 +1,26 @@
 {
     "word": "der Kuchen, die Kuchen",
     "definition": "A baked dessert typically made with flour, sugar, eggs, and butter, often containing fruit, nuts, or other flavorings. It is commonly enjoyed as a sweet treat during various occasions, such as birthdays, celebrations, or as a dessert after a meal.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich esse gerne Kuchen.",
-                "english": "I like to eat cake."
-            },
-            {
-                "german": "Meine Mutter backt immer leckeren Kuchen.",
-                "english": "My mother always bakes delicious cake."
-            },
-            {
-                "german": "Kuchen ist eine beliebte Nachspeise.",
-                "english": "Cake is a popular dessert."
-            },
-            {
-                "german": "Hast du ein Stück Kuchen für mich?",
-                "english": "Do you have a piece of cake for me?"
-            },
-            {
-                "german": "Kuchen wird oft zu besonderen Anlässen serviert.",
-                "english": "Cake is often served on special occasions."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich esse gerne Kuchen.",
+            "english": "I like to eat cake."
+        },
+        {
+            "german": "Meine Mutter backt immer leckeren Kuchen.",
+            "english": "My mother always bakes delicious cake."
+        },
+        {
+            "german": "Kuchen ist eine beliebte Nachspeise.",
+            "english": "Cake is a popular dessert."
+        },
+        {
+            "german": "Hast du ein Stück Kuchen für mich?",
+            "english": "Do you have a piece of cake for me?"
+        },
+        {
+            "german": "Kuchen wird oft zu besonderen Anlässen serviert.",
+            "english": "Cake is often served on special occasions."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "das Flüster, die Flüster",
     "definition": "A term used to describe a soft and hushed vocalization, typically employed in situations where one wishes to communicate discreetly or avoid being overheard. It is commonly utilized in intimate conversations, secret exchanges, or when sharing confidential information.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Flüster leise",
-                "english": "Whisper softly"
-            },
-            {
-                "german": "Sie flüsterte ihm ins Ohr",
-                "english": "She whispered in his ear"
-            },
-            {
-                "german": "Flüster mir deine Geheimnisse",
-                "english": "Whisper me your secrets"
-            },
-            {
-                "german": "Flüsternde Stimmen im Dunkeln",
-                "english": "Whispering voices in the dark"
-            },
-            {
-                "german": "Flüsternde Blätter im Wind",
-                "english": "Whispering leaves in the wind"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Flüster leise",
+            "english": "Whisper softly"
+        },
+        {
+            "german": "Sie flüsterte ihm ins Ohr",
+            "english": "She whispered in his ear"
+        },
+        {
+            "german": "Flüster mir deine Geheimnisse",
+            "english": "Whisper me your secrets"
+        },
+        {
+            "german": "Flüsternde Stimmen im Dunkeln",
+            "english": "Whispering voices in the dark"
+        },
+        {
+            "german": "Flüsternde Blätter im Wind",
+            "english": "Whispering leaves in the wind"
+        }
+    ]
 }

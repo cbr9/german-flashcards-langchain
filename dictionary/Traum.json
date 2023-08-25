@@ -1,28 +1,26 @@
 {
     "word": "der Traum, die Träume",
     "definition": "A state of consciousness characterized by a series of images, sensations, emotions, and ideas that occur involuntarily in the mind during certain stages of sleep. It is often associated with vivid and imaginative experiences, serving as a source of inspiration, creativity, and introspection.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich hatte einen schönen Traum.",
-                "english": "I had a nice dream."
-            },
-            {
-                "german": "Sie verfolgt ihren Traum, Schauspielerin zu werden.",
-                "english": "She is pursuing her dream of becoming an actress."
-            },
-            {
-                "german": "Sein größter Traum ist es, die Welt zu bereisen.",
-                "english": "His biggest dream is to travel the world."
-            },
-            {
-                "german": "Der Traum von gestern Nacht war sehr realistisch.",
-                "english": "The dream from last night was very realistic."
-            },
-            {
-                "german": "Sie hatte einen Albtraum und konnte nicht mehr einschlafen.",
-                "english": "She had a nightmare and couldn't fall asleep anymore."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich hatte einen schönen Traum.",
+            "english": "I had a nice dream."
+        },
+        {
+            "german": "Sie verfolgt ihren Traum, Schauspielerin zu werden.",
+            "english": "She is pursuing her dream of becoming an actress."
+        },
+        {
+            "german": "Sein größter Traum ist es, die Welt zu bereisen.",
+            "english": "His biggest dream is to travel the world."
+        },
+        {
+            "german": "Der Traum von gestern Nacht war sehr realistisch.",
+            "english": "The dream from last night was very realistic."
+        },
+        {
+            "german": "Sie hatte einen Albtraum und konnte nicht mehr einschlafen.",
+            "english": "She had a nightmare and couldn't fall asleep anymore."
+        }
+    ]
 }

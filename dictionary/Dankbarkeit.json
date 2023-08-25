@@ -1,28 +1,26 @@
 {
     "word": "die Dankbarkeit, die Dankbarkeiten",
     "definition": "A feeling or state of being appreciative, grateful, or thankful towards someone or something, often expressed in response to a kind gesture, help, or support received. It is commonly used to describe the sentiment of gratitude towards others, acknowledging their positive actions or contributions.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich empfinde große Dankbarkeit für deine Hilfe.",
-                "english": "I feel great gratitude for your help."
-            },
-            {
-                "german": "Sie drückte ihre Dankbarkeit mit einem Lächeln aus.",
-                "english": "She expressed her gratitude with a smile."
-            },
-            {
-                "german": "Seine Dankbarkeit kannte keine Grenzen.",
-                "english": "His gratitude knew no bounds."
-            },
-            {
-                "german": "Ich möchte dir meine Dankbarkeit ausdrücken.",
-                "english": "I want to express my gratitude to you."
-            },
-            {
-                "german": "Die Dankbarkeit der Menschen war überwältigend.",
-                "english": "The gratitude of the people was overwhelming."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich empfinde große Dankbarkeit für deine Hilfe.",
+            "english": "I feel great gratitude for your help."
+        },
+        {
+            "german": "Sie drückte ihre Dankbarkeit mit einem Lächeln aus.",
+            "english": "She expressed her gratitude with a smile."
+        },
+        {
+            "german": "Seine Dankbarkeit kannte keine Grenzen.",
+            "english": "His gratitude knew no bounds."
+        },
+        {
+            "german": "Ich möchte dir meine Dankbarkeit ausdrücken.",
+            "english": "I want to express my gratitude to you."
+        },
+        {
+            "german": "Die Dankbarkeit der Menschen war überwältigend.",
+            "english": "The gratitude of the people was overwhelming."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Ausrede, die Ausreden",
     "definition": "A justification or explanation provided to avoid taking responsibility or to excuse oneself from a situation or obligation. It is commonly used when someone wants to avoid admitting fault, making an apology, or fulfilling a commitment.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe keine Zeit.",
-                "english": "I don't have time."
-            },
-            {
-                "german": "Es tut mir leid, aber ich kann nicht kommen.",
-                "english": "I'm sorry, but I can't come."
-            },
-            {
-                "german": "Ich habe mich verlaufen.",
-                "english": "I got lost."
-            },
-            {
-                "german": "Ich habe vergessen.",
-                "english": "I forgot."
-            },
-            {
-                "german": "Mir geht es nicht gut.",
-                "english": "I'm not feeling well."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe keine Zeit.",
+            "english": "I don't have time."
+        },
+        {
+            "german": "Es tut mir leid, aber ich kann nicht kommen.",
+            "english": "I'm sorry, but I can't come."
+        },
+        {
+            "german": "Ich habe mich verlaufen.",
+            "english": "I got lost."
+        },
+        {
+            "german": "Ich habe vergessen.",
+            "english": "I forgot."
+        },
+        {
+            "german": "Mir geht es nicht gut.",
+            "english": "I'm not feeling well."
+        }
+    ]
 }

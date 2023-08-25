@@ -1,28 +1,26 @@
 {
     "word": "die Fähigkeit, die Fähigkeiten",
     "definition": "The term refers to the capacity or capability to perform a particular action, task, or skill. It commonly describes a person's aptitude or proficiency in a specific area, often related to knowledge, talent, or expertise.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Fähigkeit zu lesen",
-                "english": "The ability to read"
-            },
-            {
-                "german": "Sie hat eine ausgezeichnete Fähigkeit zum Zeichnen.",
-                "english": "She has an excellent ability to draw."
-            },
-            {
-                "german": "Die Fähigkeit, Probleme zu lösen, ist wichtig im Berufsleben.",
-                "english": "The ability to solve problems is important in professional life."
-            },
-            {
-                "german": "Er hat eine erstaunliche Fähigkeit, sich Dinge zu merken.",
-                "english": "He has an amazing ability to remember things."
-            },
-            {
-                "german": "Die Fähigkeit, sich gut auszudrücken, ist eine wichtige Fertigkeit.",
-                "english": "The ability to express oneself well is an important skill."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Fähigkeit zu lesen",
+            "english": "The ability to read"
+        },
+        {
+            "german": "Sie hat eine ausgezeichnete Fähigkeit zum Zeichnen.",
+            "english": "She has an excellent ability to draw."
+        },
+        {
+            "german": "Die Fähigkeit, Probleme zu lösen, ist wichtig im Berufsleben.",
+            "english": "The ability to solve problems is important in professional life."
+        },
+        {
+            "german": "Er hat eine erstaunliche Fähigkeit, sich Dinge zu merken.",
+            "english": "He has an amazing ability to remember things."
+        },
+        {
+            "german": "Die Fähigkeit, sich gut auszudrücken, ist eine wichtige Fertigkeit.",
+            "english": "The ability to express oneself well is an important skill."
+        }
+    ]
 }

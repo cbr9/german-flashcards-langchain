@@ -21,10 +21,6 @@ gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
 MAX_DEPTH = 3
 
 
-class Plural(BaseModel):
-    plural: str
-
-
 class Inflection(BaseModel):
     infinitive: str
     past: str
@@ -75,17 +71,14 @@ class Word(BaseModel):
     word: str
     token: Optional[Token] = Field(exclude=True, default=None)
     definition: str = Field(default="")
-    examples: Examples = Field(default_factory=lambda: Examples(examples=[]))
+    examples: list[Example] = Field(default_factory=lambda: Examples(examples=[]))
 
     class Config:
         arbitrary_types_allowed = True
 
     @property
     def formatted_examples(self) -> list[str]:
-        return [
-            f"{example.german} - {example.english}"
-            for example in self.examples.examples
-        ]
+        return [f"{example.german} - {example.english}" for example in self.examples]
 
     def define(self, llm: BaseLanguageModel) -> Self:
         assert self.token is not None
@@ -98,7 +91,7 @@ class Word(BaseModel):
         parser = PydanticOutputParser(pydantic_object=Examples)
         template = load_template("examples", parser=parser)
         prediction = llm.predict(template.format(word=self.word))
-        self.examples = parser.parse(prediction)
+        self.examples = parser.parse(prediction).examples
         return self
 
     def inflect(self, llm: BaseLanguageModel) -> Self:

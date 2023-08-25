@@ -1,28 +1,26 @@
 {
     "word": "organisieren, organisierte, organisiert",
     "definition": "To coordinate and arrange various elements or components in a systematic manner, often involving the planning and execution of tasks or events. This word is commonly used in the context of managing and structuring activities, projects, or resources to achieve a specific goal or outcome.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich organisiere eine Party.",
-                "english": "I am organizing a party."
-            },
-            {
-                "german": "Kannst du bitte die Unterlagen organisieren?",
-                "english": "Can you please organize the documents?"
-            },
-            {
-                "german": "Wir müssen die Reise gut organisieren.",
-                "english": "We need to organize the trip well."
-            },
-            {
-                "german": "Die Firma organisiert regelmäßige Schulungen für ihre Mitarbeiter.",
-                "english": "The company organizes regular trainings for its employees."
-            },
-            {
-                "german": "Er hat es geschafft, das Event erfolgreich zu organisieren.",
-                "english": "He managed to successfully organize the event."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich organisiere eine Party.",
+            "english": "I am organizing a party."
+        },
+        {
+            "german": "Kannst du bitte die Unterlagen organisieren?",
+            "english": "Can you please organize the documents?"
+        },
+        {
+            "german": "Wir müssen die Reise gut organisieren.",
+            "english": "We need to organize the trip well."
+        },
+        {
+            "german": "Die Firma organisiert regelmäßige Schulungen für ihre Mitarbeiter.",
+            "english": "The company organizes regular trainings for its employees."
+        },
+        {
+            "german": "Er hat es geschafft, das Event erfolgreich zu organisieren.",
+            "english": "He managed to successfully organize the event."
+        }
+    ]
 }

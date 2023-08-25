@@ -1,28 +1,26 @@
 {
     "word": "der Schultag, die Schultage",
     "definition": "A day during which educational activities take place, typically involving attendance at an institution where learning and teaching occur. It is commonly associated with a specific level of education and is often used to refer to a typical day of schooling.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Schultag beginnt um 8 Uhr.",
-                "english": "The school day starts at 8 o'clock."
-            },
-            {
-                "german": "Heute haben wir einen langen Schultag.",
-                "english": "Today we have a long school day."
-            },
-            {
-                "german": "Am Freitag endet der Schultag früher.",
-                "english": "On Friday, the school day ends earlier."
-            },
-            {
-                "german": "Der Schultag ist von Montag bis Freitag.",
-                "english": "The school day is from Monday to Friday."
-            },
-            {
-                "german": "Nach dem Schultag gehe ich zum Fußballtraining.",
-                "english": "After school, I go to soccer practice."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Schultag beginnt um 8 Uhr.",
+            "english": "The school day starts at 8 o'clock."
+        },
+        {
+            "german": "Heute haben wir einen langen Schultag.",
+            "english": "Today we have a long school day."
+        },
+        {
+            "german": "Am Freitag endet der Schultag früher.",
+            "english": "On Friday, the school day ends earlier."
+        },
+        {
+            "german": "Der Schultag ist von Montag bis Freitag.",
+            "english": "The school day is from Monday to Friday."
+        },
+        {
+            "german": "Nach dem Schultag gehe ich zum Fußballtraining.",
+            "english": "After school, I go to soccer practice."
+        }
+    ]
 }

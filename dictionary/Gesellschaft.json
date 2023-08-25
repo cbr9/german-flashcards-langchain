@@ -1,28 +1,26 @@
 {
     "word": "die Gesellschaft, die Gesellschaften",
     "definition": "A social construct that encompasses the interactions, relationships, and structures within a community, often referring to the organized and structured aspects of society. It typically denotes the collective body of individuals and institutions, including social, cultural, and economic systems, and is commonly used to discuss the functioning and organization of a society as a whole.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Gesellschaft hat sich verändert.",
-                "english": "Society has changed."
-            },
-            {
-                "german": "In unserer Gesellschaft gibt es viele verschiedene Kulturen.",
-                "english": "In our society, there are many different cultures."
-            },
-            {
-                "german": "Sie ist Mitglied in einer wohltätigen Gesellschaft.",
-                "english": "She is a member of a charitable society."
-            },
-            {
-                "german": "Die Gesellschaft feierte ihr 50-jähriges Bestehen.",
-                "english": "The society celebrated its 50th anniversary."
-            },
-            {
-                "german": "Er hat eine wichtige Rolle in der Gesellschaft gespielt.",
-                "english": "He played an important role in society."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Gesellschaft hat sich verändert.",
+            "english": "Society has changed."
+        },
+        {
+            "german": "In unserer Gesellschaft gibt es viele verschiedene Kulturen.",
+            "english": "In our society, there are many different cultures."
+        },
+        {
+            "german": "Sie ist Mitglied in einer wohltätigen Gesellschaft.",
+            "english": "She is a member of a charitable society."
+        },
+        {
+            "german": "Die Gesellschaft feierte ihr 50-jähriges Bestehen.",
+            "english": "The society celebrated its 50th anniversary."
+        },
+        {
+            "german": "Er hat eine wichtige Rolle in der Gesellschaft gespielt.",
+            "english": "He played an important role in society."
+        }
+    ]
 }

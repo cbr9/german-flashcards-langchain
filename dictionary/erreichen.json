@@ -1,28 +1,26 @@
 {
     "word": "erreichen, erreichte, erreicht",
     "definition": "To successfully make contact with or reach a desired destination, goal, or person, often implying a physical or metaphorical distance. It is commonly used to describe the act of achieving or attaining something, whether it be a target, objective, or a person's attention or understanding.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich erreiche dich per Telefon.",
-                "english": "I reach you by phone."
-            },
-            {
-                "german": "Wir müssen das Ziel erreichen.",
-                "english": "We need to reach the goal."
-            },
-            {
-                "german": "Kannst du den oberen Schrank erreichen?",
-                "english": "Can you reach the upper cabinet?"
-            },
-            {
-                "german": "Er hat seine Träume erreicht.",
-                "english": "He has achieved his dreams."
-            },
-            {
-                "german": "Es ist schwierig, ihn zu erreichen.",
-                "english": "It is difficult to reach him."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich erreiche dich per Telefon.",
+            "english": "I reach you by phone."
+        },
+        {
+            "german": "Wir müssen das Ziel erreichen.",
+            "english": "We need to reach the goal."
+        },
+        {
+            "german": "Kannst du den oberen Schrank erreichen?",
+            "english": "Can you reach the upper cabinet?"
+        },
+        {
+            "german": "Er hat seine Träume erreicht.",
+            "english": "He has achieved his dreams."
+        },
+        {
+            "german": "Es ist schwierig, ihn zu erreichen.",
+            "english": "It is difficult to reach him."
+        }
+    ]
 }

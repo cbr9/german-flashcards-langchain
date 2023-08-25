@@ -1,28 +1,26 @@
 {
     "word": "das Stück, die Stücke",
     "definition": "A unit or portion of something, often used to refer to a part of a whole object or a piece of a larger entity. It is commonly used to describe a segment, fragment, or component of an item or concept.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ein Stück Kuchen",
-                "english": "A piece of cake"
-            },
-            {
-                "german": "Das ist ein schönes Stück Musik",
-                "english": "That is a beautiful piece of music"
-            },
-            {
-                "german": "Ich habe ein Stück Schokolade gegessen",
-                "english": "I ate a piece of chocolate"
-            },
-            {
-                "german": "Kannst du mir bitte ein Stück Papier geben?",
-                "english": "Can you please give me a piece of paper?"
-            },
-            {
-                "german": "Er hat ein Stück Geschichte geschrieben",
-                "english": "He made a piece of history"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ein Stück Kuchen",
+            "english": "A piece of cake"
+        },
+        {
+            "german": "Das ist ein schönes Stück Musik",
+            "english": "That is a beautiful piece of music"
+        },
+        {
+            "german": "Ich habe ein Stück Schokolade gegessen",
+            "english": "I ate a piece of chocolate"
+        },
+        {
+            "german": "Kannst du mir bitte ein Stück Papier geben?",
+            "english": "Can you please give me a piece of paper?"
+        },
+        {
+            "german": "Er hat ein Stück Geschichte geschrieben",
+            "english": "He made a piece of history"
+        }
+    ]
 }

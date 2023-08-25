@@ -1,28 +1,26 @@
 {
     "word": "die Möglichkeit, die Möglichkeiten",
     "definition": "A term that refers to the state or quality of being able to do or achieve something, often used to describe a range of options or alternatives available in a given situation. It is commonly employed to discuss potential courses of action, available choices, or the feasibility of certain outcomes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Möglichkeit besteht, dass er kommt.",
-                "english": "There is a possibility that he will come."
-            },
-            {
-                "german": "Ich habe keine Möglichkeit, das zu tun.",
-                "english": "I have no way to do that."
-            },
-            {
-                "german": "Es gibt viele Möglichkeiten, dieses Problem zu lösen.",
-                "english": "There are many ways to solve this problem."
-            },
-            {
-                "german": "Er hat die Möglichkeit, sich zu verbessern.",
-                "english": "He has the opportunity to improve himself."
-            },
-            {
-                "german": "Die Möglichkeit besteht, dass es regnen wird.",
-                "english": "There is a chance of rain."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Möglichkeit besteht, dass er kommt.",
+            "english": "There is a possibility that he will come."
+        },
+        {
+            "german": "Ich habe keine Möglichkeit, das zu tun.",
+            "english": "I have no way to do that."
+        },
+        {
+            "german": "Es gibt viele Möglichkeiten, dieses Problem zu lösen.",
+            "english": "There are many ways to solve this problem."
+        },
+        {
+            "german": "Er hat die Möglichkeit, sich zu verbessern.",
+            "english": "He has the opportunity to improve himself."
+        },
+        {
+            "german": "Die Möglichkeit besteht, dass es regnen wird.",
+            "english": "There is a chance of rain."
+        }
+    ]
 }

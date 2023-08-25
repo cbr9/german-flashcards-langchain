@@ -1,28 +1,26 @@
 {
     "word": "die Stunde, die Stunden",
     "definition": "A unit of time typically used to measure the duration of an activity or event, often associated with educational or professional settings. It is commonly used to refer to a period of 60 minutes.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe eine Stunde gewartet.",
-                "english": "I waited for an hour."
-            },
-            {
-                "german": "Die Vorlesung dauert zwei Stunden.",
-                "english": "The lecture lasts two hours."
-            },
-            {
-                "german": "Er arbeitet acht Stunden pro Tag.",
-                "english": "He works eight hours a day."
-            },
-            {
-                "german": "Wir treffen uns in einer halben Stunde.",
-                "english": "We will meet in half an hour."
-            },
-            {
-                "german": "Die Schule beginnt um neun Uhr morgens und endet um vier Uhr nachmittags.",
-                "english": "School starts at nine in the morning and ends at four in the afternoon."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe eine Stunde gewartet.",
+            "english": "I waited for an hour."
+        },
+        {
+            "german": "Die Vorlesung dauert zwei Stunden.",
+            "english": "The lecture lasts two hours."
+        },
+        {
+            "german": "Er arbeitet acht Stunden pro Tag.",
+            "english": "He works eight hours a day."
+        },
+        {
+            "german": "Wir treffen uns in einer halben Stunde.",
+            "english": "We will meet in half an hour."
+        },
+        {
+            "german": "Die Schule beginnt um neun Uhr morgens und endet um vier Uhr nachmittags.",
+            "english": "School starts at nine in the morning and ends at four in the afternoon."
+        }
+    ]
 }

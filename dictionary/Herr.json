@@ -1,28 +1,26 @@
 {
     "word": "der Herr, die Herren",
     "definition": "A term used to address or refer to a person, typically a male, in a formal or respectful manner, often indicating their authority, social status, or profession. It is commonly used in professional settings, formal conversations, or when showing respect towards someone.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Herr",
-                "english": "Mr."
-            },
-            {
-                "german": "Guten Tag, Herr Müller.",
-                "english": "Good day, Mr. Müller."
-            },
-            {
-                "german": "Herr Schmidt ist mein Chef.",
-                "english": "Mr. Schmidt is my boss."
-            },
-            {
-                "german": "Herr und Frau Müller sind meine Nachbarn.",
-                "english": "Mr. and Mrs. Müller are my neighbors."
-            },
-            {
-                "german": "Kann ich Ihnen helfen, Herr?",
-                "english": "Can I help you, sir?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Herr",
+            "english": "Mr."
+        },
+        {
+            "german": "Guten Tag, Herr Müller.",
+            "english": "Good day, Mr. Müller."
+        },
+        {
+            "german": "Herr Schmidt ist mein Chef.",
+            "english": "Mr. Schmidt is my boss."
+        },
+        {
+            "german": "Herr und Frau Müller sind meine Nachbarn.",
+            "english": "Mr. and Mrs. Müller are my neighbors."
+        },
+        {
+            "german": "Kann ich Ihnen helfen, Herr?",
+            "english": "Can I help you, sir?"
+        }
+    ]
 }

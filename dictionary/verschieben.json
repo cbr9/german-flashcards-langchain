@@ -1,28 +1,26 @@
 {
     "word": "verschieben, verschob, verschoben",
     "definition": "To move or shift something from its original position or time to another, often implying a delay or postponement. This word is commonly used when referring to rescheduling appointments, changing the order of tasks, or shifting the timing of events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich muss meinen Termin verschieben.",
-                "english": "I have to reschedule my appointment."
-            },
-            {
-                "german": "Können wir das Meeting auf nächste Woche verschieben?",
-                "english": "Can we postpone the meeting to next week?"
-            },
-            {
-                "german": "Der Flug wurde aufgrund des Wetters verschoben.",
-                "english": "The flight was delayed due to the weather."
-            },
-            {
-                "german": "Bitte verschieben Sie den Liefertermin um eine Woche.",
-                "english": "Please move the delivery date by one week."
-            },
-            {
-                "german": "Die Veranstaltung wurde auf unbestimmte Zeit verschoben.",
-                "english": "The event has been postponed indefinitely."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich muss meinen Termin verschieben.",
+            "english": "I have to reschedule my appointment."
+        },
+        {
+            "german": "Können wir das Meeting auf nächste Woche verschieben?",
+            "english": "Can we postpone the meeting to next week?"
+        },
+        {
+            "german": "Der Flug wurde aufgrund des Wetters verschoben.",
+            "english": "The flight was delayed due to the weather."
+        },
+        {
+            "german": "Bitte verschieben Sie den Liefertermin um eine Woche.",
+            "english": "Please move the delivery date by one week."
+        },
+        {
+            "german": "Die Veranstaltung wurde auf unbestimmte Zeit verschoben.",
+            "english": "The event has been postponed indefinitely."
+        }
+    ]
 }

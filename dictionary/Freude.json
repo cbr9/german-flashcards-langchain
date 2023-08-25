@@ -1,28 +1,26 @@
 {
     "word": "die Freude, die Freuden",
     "definition": "A feeling of immense happiness and delight, often associated with positive experiences, achievements, or moments of joy. It is commonly used to describe the state of being joyful or experiencing great pleasure.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Freude ist die beste Medizin.",
-                "english": "Joy is the best medicine."
-            },
-            {
-                "german": "Sie strahlte vor Freude.",
-                "english": "She beamed with joy."
-            },
-            {
-                "german": "Die Freude am Leben genießen.",
-                "english": "Enjoy the joy of life."
-            },
-            {
-                "german": "Er schrie vor Freude.",
-                "english": "He screamed with joy."
-            },
-            {
-                "german": "Freude und Glück sind eng miteinander verbunden.",
-                "english": "Joy and happiness are closely connected."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Freude ist die beste Medizin.",
+            "english": "Joy is the best medicine."
+        },
+        {
+            "german": "Sie strahlte vor Freude.",
+            "english": "She beamed with joy."
+        },
+        {
+            "german": "Die Freude am Leben genießen.",
+            "english": "Enjoy the joy of life."
+        },
+        {
+            "german": "Er schrie vor Freude.",
+            "english": "He screamed with joy."
+        },
+        {
+            "german": "Freude und Glück sind eng miteinander verbunden.",
+            "english": "Joy and happiness are closely connected."
+        }
+    ]
 }

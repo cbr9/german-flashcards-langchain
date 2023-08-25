@@ -1,28 +1,26 @@
 {
     "word": "die Romantik, die Romantiken",
     "definition": "A cultural and artistic movement characterized by an emphasis on emotion, imagination, and individual expression, often associated with literature, music, and visual arts. It typically refers to a period in history and is commonly used to describe a specific artistic style or genre.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Romantik war eine künstlerische und intellektuelle Bewegung im 18. und 19. Jahrhundert.",
-                "english": "Romanticism was an artistic and intellectual movement in the 18th and 19th centuries."
-            },
-            {
-                "german": "Die Romantik betonte die Bedeutung von Emotionen, Individualität und Natur.",
-                "english": "Romanticism emphasized the importance of emotions, individuality, and nature."
-            },
-            {
-                "german": "Die Romantik beeinflusste die Literatur, Musik, Kunst und Philosophie dieser Zeit.",
-                "english": "Romanticism influenced the literature, music, art, and philosophy of that time."
-            },
-            {
-                "german": "Die Romantik war eine Reaktion auf die Rationalität der Aufklärung.",
-                "english": "Romanticism was a reaction to the rationality of the Enlightenment."
-            },
-            {
-                "german": "Die Romantik wird oft mit Gefühlen wie Sehnsucht, Melancholie und Liebe in Verbindung gebracht.",
-                "english": "Romanticism is often associated with feelings such as longing, melancholy, and love."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Romantik war eine künstlerische und intellektuelle Bewegung im 18. und 19. Jahrhundert.",
+            "english": "Romanticism was an artistic and intellectual movement in the 18th and 19th centuries."
+        },
+        {
+            "german": "Die Romantik betonte die Bedeutung von Emotionen, Individualität und Natur.",
+            "english": "Romanticism emphasized the importance of emotions, individuality, and nature."
+        },
+        {
+            "german": "Die Romantik beeinflusste die Literatur, Musik, Kunst und Philosophie dieser Zeit.",
+            "english": "Romanticism influenced the literature, music, art, and philosophy of that time."
+        },
+        {
+            "german": "Die Romantik war eine Reaktion auf die Rationalität der Aufklärung.",
+            "english": "Romanticism was a reaction to the rationality of the Enlightenment."
+        },
+        {
+            "german": "Die Romantik wird oft mit Gefühlen wie Sehnsucht, Melancholie und Liebe in Verbindung gebracht.",
+            "english": "Romanticism is often associated with feelings such as longing, melancholy, and love."
+        }
+    ]
 }

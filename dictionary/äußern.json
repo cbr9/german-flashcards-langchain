@@ -1,28 +1,26 @@
 {
     "word": "äußern, äußerte, geäußert",
     "definition": "To express or articulate thoughts, opinions, or feelings verbally or in written form, often in response to a specific topic or situation. It is commonly used when referring to the act of sharing one's viewpoint, making a statement, or voicing an opinion.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte meine Meinung äußern.",
-                "english": "I want to express my opinion."
-            },
-            {
-                "german": "Er äußerte seine Bedenken über das Projekt.",
-                "english": "He voiced his concerns about the project."
-            },
-            {
-                "german": "Sie äußerte ihre Freude über die Nachricht.",
-                "english": "She expressed her joy about the news."
-            },
-            {
-                "german": "Der Politiker äußerte sich zu den aktuellen Ereignissen.",
-                "english": "The politician commented on the current events."
-            },
-            {
-                "german": "Kannst du dich zu diesem Thema äußern?",
-                "english": "Can you comment on this topic?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte meine Meinung äußern.",
+            "english": "I want to express my opinion."
+        },
+        {
+            "german": "Er äußerte seine Bedenken über das Projekt.",
+            "english": "He voiced his concerns about the project."
+        },
+        {
+            "german": "Sie äußerte ihre Freude über die Nachricht.",
+            "english": "She expressed her joy about the news."
+        },
+        {
+            "german": "Der Politiker äußerte sich zu den aktuellen Ereignissen.",
+            "english": "The politician commented on the current events."
+        },
+        {
+            "german": "Kannst du dich zu diesem Thema äußern?",
+            "english": "Can you comment on this topic?"
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Autofahrer, die Autofahrer",
     "definition": "A person who operates a motor vehicle, typically used to refer to someone who drives a car.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Autofahrer fuhr zu schnell.",
-                "english": "The driver was driving too fast."
-            },
-            {
-                "german": "Die Autofahrer müssen an der Ampel warten.",
-                "english": "The drivers have to wait at the traffic light."
-            },
-            {
-                "german": "Der Autofahrer parkte sein Auto am Straßenrand.",
-                "english": "The driver parked his car on the side of the road."
-            },
-            {
-                "german": "Die Autofahrer müssen den Verkehrsstau umfahren.",
-                "english": "The drivers have to bypass the traffic jam."
-            },
-            {
-                "german": "Der Autofahrer wurde von der Polizei angehalten.",
-                "english": "The driver was stopped by the police."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Autofahrer fuhr zu schnell.",
+            "english": "The driver was driving too fast."
+        },
+        {
+            "german": "Die Autofahrer müssen an der Ampel warten.",
+            "english": "The drivers have to wait at the traffic light."
+        },
+        {
+            "german": "Der Autofahrer parkte sein Auto am Straßenrand.",
+            "english": "The driver parked his car on the side of the road."
+        },
+        {
+            "german": "Die Autofahrer müssen den Verkehrsstau umfahren.",
+            "english": "The drivers have to bypass the traffic jam."
+        },
+        {
+            "german": "Der Autofahrer wurde von der Polizei angehalten.",
+            "english": "The driver was stopped by the police."
+        }
+    ]
 }

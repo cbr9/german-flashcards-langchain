@@ -1,28 +1,26 @@
 {
     "word": "die Katastrophe, die Katastrophen",
     "definition": "A severe event or situation that causes great damage, destruction, or distress, often resulting in significant negative consequences. It is commonly used to describe a disastrous event, a major failure, or an overwhelming setback that leads to chaos or calamity.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Flutkatastrophe hat große Schäden verursacht.",
-                "english": "The flood disaster caused extensive damage."
-            },
-            {
-                "german": "Der Unfall war eine absolute Katastrophe.",
-                "english": "The accident was an absolute catastrophe."
-            },
-            {
-                "german": "Die Veranstaltung endete in einer Katastrophe.",
-                "english": "The event ended in a disaster."
-            },
-            {
-                "german": "Die wirtschaftliche Lage ist eine Katastrophe.",
-                "english": "The economic situation is a catastrophe."
-            },
-            {
-                "german": "Der Film war eine totale Katastrophe.",
-                "english": "The movie was a total disaster."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Flutkatastrophe hat große Schäden verursacht.",
+            "english": "The flood disaster caused extensive damage."
+        },
+        {
+            "german": "Der Unfall war eine absolute Katastrophe.",
+            "english": "The accident was an absolute catastrophe."
+        },
+        {
+            "german": "Die Veranstaltung endete in einer Katastrophe.",
+            "english": "The event ended in a disaster."
+        },
+        {
+            "german": "Die wirtschaftliche Lage ist eine Katastrophe.",
+            "english": "The economic situation is a catastrophe."
+        },
+        {
+            "german": "Der Film war eine totale Katastrophe.",
+            "english": "The movie was a total disaster."
+        }
+    ]
 }

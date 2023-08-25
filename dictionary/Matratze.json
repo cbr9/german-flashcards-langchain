@@ -1,28 +1,26 @@
 {
     "word": "die Matratze, die Matratzen",
     "definition": "A soft, rectangular object typically placed on a bed frame, designed to provide comfort and support for sleeping or resting. It is commonly used in bedrooms and is an essential component of a sleeping surface.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Matratze ist sehr bequem.",
-                "english": "The mattress is very comfortable."
-            },
-            {
-                "german": "Ich brauche eine neue Matratze.",
-                "english": "I need a new mattress."
-            },
-            {
-                "german": "Die Matratze ist zu hart.",
-                "english": "The mattress is too hard."
-            },
-            {
-                "german": "Die Matratze hat einen Fleck.",
-                "english": "The mattress has a stain."
-            },
-            {
-                "german": "Die Matratze ist zu klein für das Bett.",
-                "english": "The mattress is too small for the bed."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Matratze ist sehr bequem.",
+            "english": "The mattress is very comfortable."
+        },
+        {
+            "german": "Ich brauche eine neue Matratze.",
+            "english": "I need a new mattress."
+        },
+        {
+            "german": "Die Matratze ist zu hart.",
+            "english": "The mattress is too hard."
+        },
+        {
+            "german": "Die Matratze hat einen Fleck.",
+            "english": "The mattress has a stain."
+        },
+        {
+            "german": "Die Matratze ist zu klein für das Bett.",
+            "english": "The mattress is too small for the bed."
+        }
+    ]
 }

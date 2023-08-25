@@ -1,28 +1,26 @@
 {
     "word": "der Fluss, die Flüsse",
     "definition": "A natural watercourse, typically flowing towards a larger body of water, often used to refer to a significant and continuous stream of water that plays a crucial role in the landscape and ecosystems. It is commonly used to describe a geographical feature and is frequently encountered in discussions related to geography, hydrology, and environmental sciences.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Rhein ist ein großer Fluss in Europa.",
-                "english": "The Rhine is a large river in Europe."
-            },
-            {
-                "german": "Der Amazonas ist der längste Fluss der Welt.",
-                "english": "The Amazon is the longest river in the world."
-            },
-            {
-                "german": "Die Donau fließt durch mehrere Länder.",
-                "english": "The Danube flows through several countries."
-            },
-            {
-                "german": "Der Mississippi ist ein wichtiger Fluss in den USA.",
-                "english": "The Mississippi is an important river in the USA."
-            },
-            {
-                "german": "Der Nil ist ein bedeutender Fluss in Afrika.",
-                "english": "The Nile is a significant river in Africa."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Rhein ist ein großer Fluss in Europa.",
+            "english": "The Rhine is a large river in Europe."
+        },
+        {
+            "german": "Der Amazonas ist der längste Fluss der Welt.",
+            "english": "The Amazon is the longest river in the world."
+        },
+        {
+            "german": "Die Donau fließt durch mehrere Länder.",
+            "english": "The Danube flows through several countries."
+        },
+        {
+            "german": "Der Mississippi ist ein wichtiger Fluss in den USA.",
+            "english": "The Mississippi is an important river in the USA."
+        },
+        {
+            "german": "Der Nil ist ein bedeutender Fluss in Afrika.",
+            "english": "The Nile is a significant river in Africa."
+        }
+    ]
 }

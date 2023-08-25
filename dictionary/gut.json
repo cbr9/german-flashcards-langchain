@@ -1,28 +1,26 @@
 {
     "word": "gut",
     "definition": "A term commonly employed to describe something that is considered positive, beneficial, or satisfactory. It is frequently used to express approval or to indicate that something is of high quality. Additionally, it can be used to describe a state of well-being or good health.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Essen schmeckt gut.",
-                "english": "The food tastes good."
-            },
-            {
-                "german": "Er ist ein guter Freund.",
-                "english": "He is a good friend."
-            },
-            {
-                "german": "Das Buch ist gut geschrieben.",
-                "english": "The book is well written."
-            },
-            {
-                "german": "Sie spricht gut Deutsch.",
-                "english": "She speaks German well."
-            },
-            {
-                "german": "Das ist eine gute Idee.",
-                "english": "That is a good idea."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Essen schmeckt gut.",
+            "english": "The food tastes good."
+        },
+        {
+            "german": "Er ist ein guter Freund.",
+            "english": "He is a good friend."
+        },
+        {
+            "german": "Das Buch ist gut geschrieben.",
+            "english": "The book is well written."
+        },
+        {
+            "german": "Sie spricht gut Deutsch.",
+            "english": "She speaks German well."
+        },
+        {
+            "german": "Das ist eine gute Idee.",
+            "english": "That is a good idea."
+        }
+    ]
 }

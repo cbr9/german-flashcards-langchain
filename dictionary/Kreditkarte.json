@@ -1,28 +1,26 @@
 {
     "word": "die Kreditkarte, die Kreditkarten",
     "definition": "A plastic card that allows the holder to make purchases or obtain cash advances on credit, typically issued by a financial institution. It is commonly used for making payments and transactions in various establishments, both online and offline.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bezahle immer mit meiner Kreditkarte.",
-                "english": "I always pay with my credit card."
-            },
-            {
-                "german": "Kann ich mit meiner Kreditkarte hier bezahlen?",
-                "english": "Can I pay with my credit card here?"
-            },
-            {
-                "german": "Die Kreditkarte wurde abgelehnt.",
-                "english": "The credit card was declined."
-            },
-            {
-                "german": "Bitte geben Sie Ihre Kreditkartennummer ein.",
-                "english": "Please enter your credit card number."
-            },
-            {
-                "german": "Die Kreditkarte ist abgelaufen.",
-                "english": "The credit card has expired."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bezahle immer mit meiner Kreditkarte.",
+            "english": "I always pay with my credit card."
+        },
+        {
+            "german": "Kann ich mit meiner Kreditkarte hier bezahlen?",
+            "english": "Can I pay with my credit card here?"
+        },
+        {
+            "german": "Die Kreditkarte wurde abgelehnt.",
+            "english": "The credit card was declined."
+        },
+        {
+            "german": "Bitte geben Sie Ihre Kreditkartennummer ein.",
+            "english": "Please enter your credit card number."
+        },
+        {
+            "german": "Die Kreditkarte ist abgelaufen.",
+            "english": "The credit card has expired."
+        }
+    ]
 }

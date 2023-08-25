@@ -1,28 +1,26 @@
 {
     "word": "durchnässen, durchnässte, durchnässt",
     "definition": "The term \"durchnässt\" refers to the state of being thoroughly soaked or drenched with liquid. It is commonly used to describe objects, clothing, or individuals that have become completely wet due to rain, water, or any other form of moisture.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Meine Kleidung war durchnässt vom Regen.",
-                "english": "My clothes were soaked from the rain."
-            },
-            {
-                "german": "Der Hund kam durchnässt nach Hause.",
-                "english": "The dog came home drenched."
-            },
-            {
-                "german": "Sie war durchnässt bis auf die Haut.",
-                "english": "She was soaked to the skin."
-            },
-            {
-                "german": "Die Straßen waren durchnässt nach dem Gewitter.",
-                "english": "The streets were wet after the thunderstorm."
-            },
-            {
-                "german": "Er kam durchnässt und erschöpft an.",
-                "english": "He arrived soaked and exhausted."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Meine Kleidung war durchnässt vom Regen.",
+            "english": "My clothes were soaked from the rain."
+        },
+        {
+            "german": "Der Hund kam durchnässt nach Hause.",
+            "english": "The dog came home drenched."
+        },
+        {
+            "german": "Sie war durchnässt bis auf die Haut.",
+            "english": "She was soaked to the skin."
+        },
+        {
+            "german": "Die Straßen waren durchnässt nach dem Gewitter.",
+            "english": "The streets were wet after the thunderstorm."
+        },
+        {
+            "german": "Er kam durchnässt und erschöpft an.",
+            "english": "He arrived soaked and exhausted."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "gewährleisten, gewährleistete, gewährleistet",
     "definition": "To ensure or guarantee the provision of something, typically used in the context of providing security, protection, or assurance for a certain outcome or condition.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Sicherheitsmaßnahmen gewährleisten den Schutz der Daten.",
-                "english": "The security measures ensure the protection of the data."
-            },
-            {
-                "german": "Wir können Ihnen eine reibungslose Abwicklung gewährleisten.",
-                "english": "We can guarantee you a smooth process."
-            },
-            {
-                "german": "Der Hersteller gewährleistet eine Garantie von zwei Jahren.",
-                "english": "The manufacturer provides a two-year warranty."
-            },
-            {
-                "german": "Das Gesetz gewährleistet die Meinungsfreiheit.",
-                "english": "The law guarantees freedom of speech."
-            },
-            {
-                "german": "Die Maßnahmen sollen die Sicherheit gewährleisten.",
-                "english": "The measures are intended to ensure safety."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Sicherheitsmaßnahmen gewährleisten den Schutz der Daten.",
+            "english": "The security measures ensure the protection of the data."
+        },
+        {
+            "german": "Wir können Ihnen eine reibungslose Abwicklung gewährleisten.",
+            "english": "We can guarantee you a smooth process."
+        },
+        {
+            "german": "Der Hersteller gewährleistet eine Garantie von zwei Jahren.",
+            "english": "The manufacturer provides a two-year warranty."
+        },
+        {
+            "german": "Das Gesetz gewährleistet die Meinungsfreiheit.",
+            "english": "The law guarantees freedom of speech."
+        },
+        {
+            "german": "Die Maßnahmen sollen die Sicherheit gewährleisten.",
+            "english": "The measures are intended to ensure safety."
+        }
+    ]
 }

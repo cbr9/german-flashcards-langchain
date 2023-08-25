@@ -1,28 +1,26 @@
 {
     "word": "der Termin, die Terminen",
     "definition": "A specific point in time that is scheduled or appointed for a particular purpose, often used to refer to an arranged meeting, appointment, or deadline.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe einen Termin beim Arzt.",
-                "english": "I have an appointment with the doctor."
-            },
-            {
-                "german": "Können wir den Termin verschieben?",
-                "english": "Can we reschedule the appointment?"
-            },
-            {
-                "german": "Der Termin wurde abgesagt.",
-                "english": "The appointment was canceled."
-            },
-            {
-                "german": "Ich habe einen Termin für morgen vereinbart.",
-                "english": "I have scheduled an appointment for tomorrow."
-            },
-            {
-                "german": "Bitte bestätigen Sie den Termin.",
-                "english": "Please confirm the appointment."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe einen Termin beim Arzt.",
+            "english": "I have an appointment with the doctor."
+        },
+        {
+            "german": "Können wir den Termin verschieben?",
+            "english": "Can we reschedule the appointment?"
+        },
+        {
+            "german": "Der Termin wurde abgesagt.",
+            "english": "The appointment was canceled."
+        },
+        {
+            "german": "Ich habe einen Termin für morgen vereinbart.",
+            "english": "I have scheduled an appointment for tomorrow."
+        },
+        {
+            "german": "Bitte bestätigen Sie den Termin.",
+            "english": "Please confirm the appointment."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Naturkatastrophe, die Naturkatastrophen",
     "definition": "A severe event or occurrence in the environment that causes extensive damage or loss of life, typically resulting from natural forces such as earthquakes, hurricanes, floods, or wildfires. This term is commonly used to describe large-scale disasters caused by natural phenomena.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Eine Naturkatastrophe kann verheerende Auswirkungen haben.",
-                "english": "A natural disaster can have devastating effects."
-            },
-            {
-                "german": "Die Naturkatastrophe hat zu zahlreichen Todesfällen geführt.",
-                "english": "The natural disaster has resulted in numerous deaths."
-            },
-            {
-                "german": "Die Region wurde von einer schweren Naturkatastrophe heimgesucht.",
-                "english": "The region was struck by a severe natural disaster."
-            },
-            {
-                "german": "Die Naturkatastrophe hat große Schäden an der Infrastruktur verursacht.",
-                "english": "The natural disaster caused significant damage to the infrastructure."
-            },
-            {
-                "german": "Die Bewohner wurden evakuiert, um sie vor der Naturkatastrophe zu schützen.",
-                "english": "The residents were evacuated to protect them from the natural disaster."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Eine Naturkatastrophe kann verheerende Auswirkungen haben.",
+            "english": "A natural disaster can have devastating effects."
+        },
+        {
+            "german": "Die Naturkatastrophe hat zu zahlreichen Todesfällen geführt.",
+            "english": "The natural disaster has resulted in numerous deaths."
+        },
+        {
+            "german": "Die Region wurde von einer schweren Naturkatastrophe heimgesucht.",
+            "english": "The region was struck by a severe natural disaster."
+        },
+        {
+            "german": "Die Naturkatastrophe hat große Schäden an der Infrastruktur verursacht.",
+            "english": "The natural disaster caused significant damage to the infrastructure."
+        },
+        {
+            "german": "Die Bewohner wurden evakuiert, um sie vor der Naturkatastrophe zu schützen.",
+            "english": "The residents were evacuated to protect them from the natural disaster."
+        }
+    ]
 }

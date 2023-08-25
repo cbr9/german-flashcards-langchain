@@ -1,28 +1,26 @@
 {
     "word": "die Perspektive, die Perspektiven",
     "definition": "A term used to describe a particular viewpoint or vantage point that allows one to perceive and interpret situations, events, or circumstances from a specific angle or standpoint. It is commonly employed in discussions related to art, photography, psychology, and various fields where the interpretation of different perspectives is essential.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Perspektive des Fotografen ist einzigartig.",
-                "english": "The photographer's perspective is unique."
-            },
-            {
-                "german": "Aus meiner Perspektive ist das die beste Lösung.",
-                "english": "From my perspective, this is the best solution."
-            },
-            {
-                "german": "Die Perspektive des Buches ist interessant.",
-                "english": "The book's perspective is interesting."
-            },
-            {
-                "german": "Er hat eine andere Perspektive auf das Problem.",
-                "english": "He has a different perspective on the problem."
-            },
-            {
-                "german": "Die Perspektive der Kinder sollte berücksichtigt werden.",
-                "english": "The children's perspective should be taken into account."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Perspektive des Fotografen ist einzigartig.",
+            "english": "The photographer's perspective is unique."
+        },
+        {
+            "german": "Aus meiner Perspektive ist das die beste Lösung.",
+            "english": "From my perspective, this is the best solution."
+        },
+        {
+            "german": "Die Perspektive des Buches ist interessant.",
+            "english": "The book's perspective is interesting."
+        },
+        {
+            "german": "Er hat eine andere Perspektive auf das Problem.",
+            "english": "He has a different perspective on the problem."
+        },
+        {
+            "german": "Die Perspektive der Kinder sollte berücksichtigt werden.",
+            "english": "The children's perspective should be taken into account."
+        }
+    ]
 }

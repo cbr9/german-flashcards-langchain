@@ -1,28 +1,26 @@
 {
     "word": "einsteigen, stieg ein, eingestiegen",
     "definition": "To board or get on a vehicle, typically used when referring to entering a mode of transportation such as a train, bus, or car.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Kann ich hier einsteigen?",
-                "english": "Can I get on here?"
-            },
-            {
-                "german": "Bitte einsteigen!",
-                "english": "Please board!"
-            },
-            {
-                "german": "Ich steige in den Zug ein.",
-                "english": "I am getting on the train."
-            },
-            {
-                "german": "Sie müssen hier einsteigen.",
-                "english": "You have to board here."
-            },
-            {
-                "german": "Wir sind gerade eingestiegen.",
-                "english": "We just got on."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Kann ich hier einsteigen?",
+            "english": "Can I get on here?"
+        },
+        {
+            "german": "Bitte einsteigen!",
+            "english": "Please board!"
+        },
+        {
+            "german": "Ich steige in den Zug ein.",
+            "english": "I am getting on the train."
+        },
+        {
+            "german": "Sie müssen hier einsteigen.",
+            "english": "You have to board here."
+        },
+        {
+            "german": "Wir sind gerade eingestiegen.",
+            "english": "We just got on."
+        }
+    ]
 }

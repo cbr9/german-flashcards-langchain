@@ -1,28 +1,26 @@
 {
     "word": "der Zuschauer, die Zuschauer",
     "definition": "A person who observes an event or activity, typically used to refer to someone who watches a performance, sports game, or any public gathering.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Zuschauer klatschte begeistert.",
-                "english": "The spectator applauded enthusiastically."
-            },
-            {
-                "german": "Die Zuschauer jubelten dem Gewinner zu.",
-                "english": "The spectators cheered for the winner."
-            },
-            {
-                "german": "Der Zuschauer verfolgte gespannt das Spiel.",
-                "english": "The viewer watched the game eagerly."
-            },
-            {
-                "german": "Die Zuschauer waren von der Vorstellung begeistert.",
-                "english": "The audience was thrilled by the performance."
-            },
-            {
-                "german": "Der Zuschauer konnte das Geschehen auf der Bühne gut sehen.",
-                "english": "The spectator had a good view of the stage."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Zuschauer klatschte begeistert.",
+            "english": "The spectator applauded enthusiastically."
+        },
+        {
+            "german": "Die Zuschauer jubelten dem Gewinner zu.",
+            "english": "The spectators cheered for the winner."
+        },
+        {
+            "german": "Der Zuschauer verfolgte gespannt das Spiel.",
+            "english": "The viewer watched the game eagerly."
+        },
+        {
+            "german": "Die Zuschauer waren von der Vorstellung begeistert.",
+            "english": "The audience was thrilled by the performance."
+        },
+        {
+            "german": "Der Zuschauer konnte das Geschehen auf der Bühne gut sehen.",
+            "english": "The spectator had a good view of the stage."
+        }
+    ]
 }

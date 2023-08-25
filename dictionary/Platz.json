@@ -1,28 +1,26 @@
 {
     "word": "der Platz, die Plätze",
     "definition": "A designated area or space, often found in urban environments, where people gather, walk, or engage in various activities. It is commonly used for socializing, leisure, and public events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Platz ist leer.",
-                "english": "The square is empty."
-            },
-            {
-                "german": "Wir treffen uns auf dem Platz.",
-                "english": "We meet at the square."
-            },
-            {
-                "german": "Der Parkplatz ist voll.",
-                "english": "The parking lot is full."
-            },
-            {
-                "german": "Sie hat einen Platz im Zug reserviert.",
-                "english": "She has reserved a seat on the train."
-            },
-            {
-                "german": "Er hat den ersten Platz im Wettbewerb gewonnen.",
-                "english": "He won first place in the competition."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Platz ist leer.",
+            "english": "The square is empty."
+        },
+        {
+            "german": "Wir treffen uns auf dem Platz.",
+            "english": "We meet at the square."
+        },
+        {
+            "german": "Der Parkplatz ist voll.",
+            "english": "The parking lot is full."
+        },
+        {
+            "german": "Sie hat einen Platz im Zug reserviert.",
+            "english": "She has reserved a seat on the train."
+        },
+        {
+            "german": "Er hat den ersten Platz im Wettbewerb gewonnen.",
+            "english": "He won first place in the competition."
+        }
+    ]
 }

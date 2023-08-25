@@ -1,28 +1,26 @@
 {
     "word": "die Tugend, die Tugenden",
     "definition": "A desirable quality or characteristic that is often associated with moral excellence and virtuous behavior. It is commonly used to describe a positive attribute or trait that is admired and valued in individuals, particularly in the context of ethics and personal conduct.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Tugend ist eine gute Eigenschaft.",
-                "english": "Virtue is a good quality."
-            },
-            {
-                "german": "Sie verkörpert die Tugenden der Ehrlichkeit und Bescheidenheit.",
-                "english": "She embodies the virtues of honesty and humility."
-            },
-            {
-                "german": "Die Tugend des Mitgefühls ist in unserer Gesellschaft oft vernachlässigt.",
-                "english": "The virtue of compassion is often neglected in our society."
-            },
-            {
-                "german": "Er hat eine Tugend, die man selten findet: Geduld.",
-                "english": "He has a virtue that is rarely found: patience."
-            },
-            {
-                "german": "Die Tugend der Tapferkeit wird in Kriegszeiten besonders geschätzt.",
-                "english": "The virtue of bravery is highly valued in times of war."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Tugend ist eine gute Eigenschaft.",
+            "english": "Virtue is a good quality."
+        },
+        {
+            "german": "Sie verkörpert die Tugenden der Ehrlichkeit und Bescheidenheit.",
+            "english": "She embodies the virtues of honesty and humility."
+        },
+        {
+            "german": "Die Tugend des Mitgefühls ist in unserer Gesellschaft oft vernachlässigt.",
+            "english": "The virtue of compassion is often neglected in our society."
+        },
+        {
+            "german": "Er hat eine Tugend, die man selten findet: Geduld.",
+            "english": "He has a virtue that is rarely found: patience."
+        },
+        {
+            "german": "Die Tugend der Tapferkeit wird in Kriegszeiten besonders geschätzt.",
+            "english": "The virtue of bravery is highly valued in times of war."
+        }
+    ]
 }

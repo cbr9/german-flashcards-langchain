@@ -1,28 +1,26 @@
 {
     "word": "talentieren, talentierte, talentiert",
     "definition": "To exhibit a natural aptitude or skill in a particular area, often associated with creative or artistic abilities. It is commonly used to describe someone's talent or proficiency in a specific domain, such as music, art, or sports.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er talentiert im Klavierspielen.",
-                "english": "He has a talent for playing the piano."
-            },
-            {
-                "german": "Sie talentiert im Zeichnen.",
-                "english": "She has a talent for drawing."
-            },
-            {
-                "german": "Das Kind talentiert im Singen.",
-                "english": "The child has a talent for singing."
-            },
-            {
-                "german": "Er talentiert im Schreiben von Gedichten.",
-                "english": "He has a talent for writing poems."
-            },
-            {
-                "german": "Sie talentiert im Programmieren.",
-                "english": "She has a talent for programming."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er talentiert im Klavierspielen.",
+            "english": "He has a talent for playing the piano."
+        },
+        {
+            "german": "Sie talentiert im Zeichnen.",
+            "english": "She has a talent for drawing."
+        },
+        {
+            "german": "Das Kind talentiert im Singen.",
+            "english": "The child has a talent for singing."
+        },
+        {
+            "german": "Er talentiert im Schreiben von Gedichten.",
+            "english": "He has a talent for writing poems."
+        },
+        {
+            "german": "Sie talentiert im Programmieren.",
+            "english": "She has a talent for programming."
+        }
+    ]
 }

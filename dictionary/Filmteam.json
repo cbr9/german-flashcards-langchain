@@ -1,28 +1,26 @@
 {
     "word": "der Filmteam, die Filmteams",
     "definition": "A group of individuals working collaboratively on the production of a visual project, typically involving the creation of motion pictures or television shows. This term commonly refers to the collective team responsible for various aspects of filmmaking, including directing, producing, cinematography, editing, and sound design.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Filmteam dreht eine Szene.",
-                "english": "The film crew is shooting a scene."
-            },
-            {
-                "german": "Das Filmteam besteht aus Regisseur, Kameramann und Tontechniker.",
-                "english": "The film crew consists of a director, cameraman, and sound technician."
-            },
-            {
-                "german": "Das Filmteam arbeitet hart, um den Film rechtzeitig fertigzustellen.",
-                "english": "The film crew is working hard to finish the film on time."
-            },
-            {
-                "german": "Das Filmteam reist um die Welt, um an verschiedenen Drehorten zu arbeiten.",
-                "english": "The film crew travels around the world to work at different shooting locations."
-            },
-            {
-                "german": "Das Filmteam hat einen Oscar für die beste Kameraführung gewonnen.",
-                "english": "The film crew won an Oscar for Best Cinematography."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Filmteam dreht eine Szene.",
+            "english": "The film crew is shooting a scene."
+        },
+        {
+            "german": "Das Filmteam besteht aus Regisseur, Kameramann und Tontechniker.",
+            "english": "The film crew consists of a director, cameraman, and sound technician."
+        },
+        {
+            "german": "Das Filmteam arbeitet hart, um den Film rechtzeitig fertigzustellen.",
+            "english": "The film crew is working hard to finish the film on time."
+        },
+        {
+            "german": "Das Filmteam reist um die Welt, um an verschiedenen Drehorten zu arbeiten.",
+            "english": "The film crew travels around the world to work at different shooting locations."
+        },
+        {
+            "german": "Das Filmteam hat einen Oscar für die beste Kameraführung gewonnen.",
+            "english": "The film crew won an Oscar for Best Cinematography."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Bahnhof, die Bahnhöfe",
     "definition": "A place where people arrive and depart, typically by train, often serving as a central hub for transportation within a city or region. It commonly includes platforms, ticket counters, waiting areas, and other facilities to facilitate the movement of passengers.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Bahnhof ist sehr groß.",
-                "english": "The train station is very big."
-            },
-            {
-                "german": "Ich warte am Bahnhof auf dich.",
-                "english": "I'm waiting for you at the train station."
-            },
-            {
-                "german": "Der Zug fährt vom Bahnhof ab.",
-                "english": "The train departs from the train station."
-            },
-            {
-                "german": "Kannst du mir den Weg zum Bahnhof zeigen?",
-                "english": "Can you show me the way to the train station?"
-            },
-            {
-                "german": "Der Bahnhof hat eine gute Anbindung an die Innenstadt.",
-                "english": "The train station has good connections to the city center."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Bahnhof ist sehr groß.",
+            "english": "The train station is very big."
+        },
+        {
+            "german": "Ich warte am Bahnhof auf dich.",
+            "english": "I'm waiting for you at the train station."
+        },
+        {
+            "german": "Der Zug fährt vom Bahnhof ab.",
+            "english": "The train departs from the train station."
+        },
+        {
+            "german": "Kannst du mir den Weg zum Bahnhof zeigen?",
+            "english": "Can you show me the way to the train station?"
+        },
+        {
+            "german": "Der Bahnhof hat eine gute Anbindung an die Innenstadt.",
+            "english": "The train station has good connections to the city center."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "der Angriff, die Angriffe",
     "definition": "A forceful action or assault, typically employed in a military or competitive context, aimed at gaining control, causing damage, or overpowering an opponent. It is commonly used to describe an aggressive attack or offensive maneuver.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Angriff auf das Dorf war verheerend.",
-                "english": "The attack on the village was devastating."
-            },
-            {
-                "german": "Die Mannschaft startete einen Angriff auf das gegnerische Tor.",
-                "english": "The team launched an attack on the opponent's goal."
-            },
-            {
-                "german": "Der Angriff des Virus auf den Computer führte zu Datenverlust.",
-                "english": "The virus attack on the computer resulted in data loss."
-            },
-            {
-                "german": "Die Politikerin kritisierte den Angriff auf die Pressefreiheit.",
-                "english": "The politician criticized the attack on press freedom."
-            },
-            {
-                "german": "Der Angriff der Löwen auf die Gazelle war erfolgreich.",
-                "english": "The lion's attack on the gazelle was successful."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Angriff auf das Dorf war verheerend.",
+            "english": "The attack on the village was devastating."
+        },
+        {
+            "german": "Die Mannschaft startete einen Angriff auf das gegnerische Tor.",
+            "english": "The team launched an attack on the opponent's goal."
+        },
+        {
+            "german": "Der Angriff des Virus auf den Computer führte zu Datenverlust.",
+            "english": "The virus attack on the computer resulted in data loss."
+        },
+        {
+            "german": "Die Politikerin kritisierte den Angriff auf die Pressefreiheit.",
+            "english": "The politician criticized the attack on press freedom."
+        },
+        {
+            "german": "Der Angriff der Löwen auf die Gazelle war erfolgreich.",
+            "english": "The lion's attack on the gazelle was successful."
+        }
+    ]
 }

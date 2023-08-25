@@ -1,28 +1,26 @@
 {
     "word": "der Himmel, die Himmel (no change in plural)",
     "definition": "A term commonly employed to refer to the celestial expanse above the Earth's surface, often associated with the sky, heavens, or firmament. It is frequently used in various contexts, including discussions about weather, astronomy, spirituality, and poetic descriptions of the natural world.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Himmel ist blau.",
-                "english": "The sky is blue."
-            },
-            {
-                "german": "Die Sterne leuchten am Himmel.",
-                "english": "The stars are shining in the sky."
-            },
-            {
-                "german": "Es gibt viele Wolken am Himmel.",
-                "english": "There are many clouds in the sky."
-            },
-            {
-                "german": "Der Himmel ist heute bewölkt.",
-                "english": "The sky is cloudy today."
-            },
-            {
-                "german": "Am Abend erstrahlt der Himmel in den schönsten Farben.",
-                "english": "In the evening, the sky shines in the most beautiful colors."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Himmel ist blau.",
+            "english": "The sky is blue."
+        },
+        {
+            "german": "Die Sterne leuchten am Himmel.",
+            "english": "The stars are shining in the sky."
+        },
+        {
+            "german": "Es gibt viele Wolken am Himmel.",
+            "english": "There are many clouds in the sky."
+        },
+        {
+            "german": "Der Himmel ist heute bewölkt.",
+            "english": "The sky is cloudy today."
+        },
+        {
+            "german": "Am Abend erstrahlt der Himmel in den schönsten Farben.",
+            "english": "In the evening, the sky shines in the most beautiful colors."
+        }
+    ]
 }

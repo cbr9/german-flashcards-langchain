@@ -1,28 +1,26 @@
 {
     "word": "folgen, folgte, gefolgt",
     "definition": "To adhere to or comply with a sequence of actions, instructions, or events, often in response to a preceding action or as a consequence of a decision. It is commonly used to describe the act of following someone's lead, instructions, or advice.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich folge dir.",
-                "english": "I am following you."
-            },
-            {
-                "german": "Er folgt den Anweisungen.",
-                "english": "He is following the instructions."
-            },
-            {
-                "german": "Wir folgen dem Wegweiser.",
-                "english": "We are following the signpost."
-            },
-            {
-                "german": "Sie folgt ihrem Herzen.",
-                "english": "She is following her heart."
-            },
-            {
-                "german": "Folgst du mir?",
-                "english": "Are you following me?"
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich folge dir.",
+            "english": "I am following you."
+        },
+        {
+            "german": "Er folgt den Anweisungen.",
+            "english": "He is following the instructions."
+        },
+        {
+            "german": "Wir folgen dem Wegweiser.",
+            "english": "We are following the signpost."
+        },
+        {
+            "german": "Sie folgt ihrem Herzen.",
+            "english": "She is following her heart."
+        },
+        {
+            "german": "Folgst du mir?",
+            "english": "Are you following me?"
+        }
+    ]
 }

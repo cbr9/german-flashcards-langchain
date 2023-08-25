@@ -1,28 +1,26 @@
 {
     "word": "gleich",
     "definition": "The term \"gleich\" refers to a concept that denotes a state of equality or similarity between two or more entities. It is commonly employed to express the idea of equivalence, similarity, or sameness in various contexts. This word is frequently used to compare objects, actions, or qualities, highlighting their equal or similar nature. Additionally, \"gleich\" can also convey the notion of immediacy or simultaneity, indicating that something is happening or will happen without delay or interruption.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Gleichzeitig",
-                "english": "At the same time"
-            },
-            {
-                "german": "Wir sind gleich groß.",
-                "english": "We are the same height."
-            },
-            {
-                "german": "Er hat gleich geantwortet.",
-                "english": "He responded immediately."
-            },
-            {
-                "german": "Gleich um die Ecke",
-                "english": "Just around the corner"
-            },
-            {
-                "german": "Das ist mir gleich.",
-                "english": "I don't care."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Gleichzeitig",
+            "english": "At the same time"
+        },
+        {
+            "german": "Wir sind gleich groß.",
+            "english": "We are the same height."
+        },
+        {
+            "german": "Er hat gleich geantwortet.",
+            "english": "He responded immediately."
+        },
+        {
+            "german": "Gleich um die Ecke",
+            "english": "Just around the corner"
+        },
+        {
+            "german": "Das ist mir gleich.",
+            "english": "I don't care."
+        }
+    ]
 }

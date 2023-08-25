@@ -1,28 +1,26 @@
 {
     "word": "die Km, die Kilometers",
     "definition": "The abbreviation \"km\" refers to a unit of measurement commonly used to quantify distance. It is frequently employed in various contexts, such as transportation, geography, and sports.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich bin 5 km gelaufen.",
-                "english": "I ran 5 km."
-            },
-            {
-                "german": "Die Entfernung beträgt 10 km.",
-                "english": "The distance is 10 km."
-            },
-            {
-                "german": "Die Autobahn hat eine Länge von 50 km.",
-                "english": "The highway has a length of 50 km."
-            },
-            {
-                "german": "Der nächste Ort ist 3 km entfernt.",
-                "english": "The next town is 3 km away."
-            },
-            {
-                "german": "Die Wanderung dauert etwa 8 km.",
-                "english": "The hike is about 8 km long."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich bin 5 km gelaufen.",
+            "english": "I ran 5 km."
+        },
+        {
+            "german": "Die Entfernung beträgt 10 km.",
+            "english": "The distance is 10 km."
+        },
+        {
+            "german": "Die Autobahn hat eine Länge von 50 km.",
+            "english": "The highway has a length of 50 km."
+        },
+        {
+            "german": "Der nächste Ort ist 3 km entfernt.",
+            "english": "The next town is 3 km away."
+        },
+        {
+            "german": "Die Wanderung dauert etwa 8 km.",
+            "english": "The hike is about 8 km long."
+        }
+    ]
 }

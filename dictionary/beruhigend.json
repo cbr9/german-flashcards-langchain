@@ -1,28 +1,26 @@
 {
     "word": "beruhigend",
     "definition": "A term used to describe something that has a calming or soothing effect on one's emotions or state of mind. It is commonly used to refer to actions, situations, or substances that bring about a sense of tranquility, relaxation, or reassurance.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das beruhigende Lied half ihm einzuschlafen.",
-                "english": "The soothing song helped him fall asleep."
-            },
-            {
-                "german": "Die beruhigende Wirkung der Medizin war sofort spürbar.",
-                "english": "The calming effect of the medicine was immediately noticeable."
-            },
-            {
-                "german": "Sie fand die Aussicht auf das Meer sehr beruhigend.",
-                "english": "She found the view of the sea very soothing."
-            },
-            {
-                "german": "Die beruhigende Stimme des Arztes gab ihm Hoffnung.",
-                "english": "The reassuring voice of the doctor gave him hope."
-            },
-            {
-                "german": "Das beruhigende Aroma des Lavendels half ihr zu entspannen.",
-                "english": "The calming aroma of lavender helped her relax."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das beruhigende Lied half ihm einzuschlafen.",
+            "english": "The soothing song helped him fall asleep."
+        },
+        {
+            "german": "Die beruhigende Wirkung der Medizin war sofort spürbar.",
+            "english": "The calming effect of the medicine was immediately noticeable."
+        },
+        {
+            "german": "Sie fand die Aussicht auf das Meer sehr beruhigend.",
+            "english": "She found the view of the sea very soothing."
+        },
+        {
+            "german": "Die beruhigende Stimme des Arztes gab ihm Hoffnung.",
+            "english": "The reassuring voice of the doctor gave him hope."
+        },
+        {
+            "german": "Das beruhigende Aroma des Lavendels half ihr zu entspannen.",
+            "english": "The calming aroma of lavender helped her relax."
+        }
+    ]
 }

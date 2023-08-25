@@ -1,28 +1,26 @@
 {
     "word": "das Event, die Events",
     "definition": "A happening or occurrence, typically organized and planned, often involving a gathering of people for a specific purpose or to celebrate a particular occasion. It is commonly used to refer to a social, cultural, or entertainment-related gathering that is designed to provide an enjoyable experience or promote a specific cause.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Event findet am Samstag statt.",
-                "english": "The event takes place on Saturday."
-            },
-            {
-                "german": "Wir haben ein großes Event geplant.",
-                "english": "We have a big event planned."
-            },
-            {
-                "german": "Das Event war ein großer Erfolg.",
-                "english": "The event was a great success."
-            },
-            {
-                "german": "Ich habe Tickets für das Event gekauft.",
-                "english": "I bought tickets for the event."
-            },
-            {
-                "german": "Das Event beginnt um 19 Uhr.",
-                "english": "The event starts at 7 PM."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Event findet am Samstag statt.",
+            "english": "The event takes place on Saturday."
+        },
+        {
+            "german": "Wir haben ein großes Event geplant.",
+            "english": "We have a big event planned."
+        },
+        {
+            "german": "Das Event war ein großer Erfolg.",
+            "english": "The event was a great success."
+        },
+        {
+            "german": "Ich habe Tickets für das Event gekauft.",
+            "english": "I bought tickets for the event."
+        },
+        {
+            "german": "Das Event beginnt um 19 Uhr.",
+            "english": "The event starts at 7 PM."
+        }
+    ]
 }

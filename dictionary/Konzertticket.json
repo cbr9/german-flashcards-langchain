@@ -1,28 +1,26 @@
 {
     "word": "das Konzertticket, die Konzerttickets",
     "definition": "A document that grants admission to a live musical performance, typically involving a soloist, an ensemble, or an orchestra, and is commonly purchased by individuals seeking to attend a concert.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich habe ein Konzertticket für morgen.",
-                "english": "I have a concert ticket for tomorrow."
-            },
-            {
-                "german": "Die Konzerttickets sind bereits ausverkauft.",
-                "english": "The concert tickets are already sold out."
-            },
-            {
-                "german": "Wo kann ich Konzerttickets kaufen?",
-                "english": "Where can I buy concert tickets?"
-            },
-            {
-                "german": "Ich habe zwei Konzerttickets gewonnen.",
-                "english": "I won two concert tickets."
-            },
-            {
-                "german": "Das Konzertticket kostet 50 Euro.",
-                "english": "The concert ticket costs 50 euros."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich habe ein Konzertticket für morgen.",
+            "english": "I have a concert ticket for tomorrow."
+        },
+        {
+            "german": "Die Konzerttickets sind bereits ausverkauft.",
+            "english": "The concert tickets are already sold out."
+        },
+        {
+            "german": "Wo kann ich Konzerttickets kaufen?",
+            "english": "Where can I buy concert tickets?"
+        },
+        {
+            "german": "Ich habe zwei Konzerttickets gewonnen.",
+            "english": "I won two concert tickets."
+        },
+        {
+            "german": "Das Konzertticket kostet 50 Euro.",
+            "english": "The concert ticket costs 50 euros."
+        }
+    ]
 }

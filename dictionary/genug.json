@@ -1,28 +1,26 @@
 {
     "word": "genug",
     "definition": "A sufficient amount or degree of something, often used to indicate that there is enough or an adequate quantity of it. It is commonly used to express satisfaction or contentment with the current state or quantity of something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Genug ist genug.",
-                "english": "Enough is enough."
-            },
-            {
-                "german": "Ich habe genug Geld.",
-                "english": "I have enough money."
-            },
-            {
-                "german": "Das Essen ist genug für alle.",
-                "english": "The food is enough for everyone."
-            },
-            {
-                "german": "Ich habe genug von diesem Lärm.",
-                "english": "I've had enough of this noise."
-            },
-            {
-                "german": "Genug geredet, lass uns handeln.",
-                "english": "Enough talking, let's take action."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Genug ist genug.",
+            "english": "Enough is enough."
+        },
+        {
+            "german": "Ich habe genug Geld.",
+            "english": "I have enough money."
+        },
+        {
+            "german": "Das Essen ist genug für alle.",
+            "english": "The food is enough for everyone."
+        },
+        {
+            "german": "Ich habe genug von diesem Lärm.",
+            "english": "I've had enough of this noise."
+        },
+        {
+            "german": "Genug geredet, lass uns handeln.",
+            "english": "Enough talking, let's take action."
+        }
+    ]
 }

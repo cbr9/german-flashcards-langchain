@@ -1,28 +1,26 @@
 {
     "word": "eröffnen, eröffnete, eröffnet",
     "definition": "To initiate an activity or event, often used in the context of formally commencing a meeting, presentation, or ceremony.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich eröffne ein neues Geschäft.",
-                "english": "I am opening a new store."
-            },
-            {
-                "german": "Er eröffnete die Sitzung mit einer kurzen Ansprache.",
-                "english": "He opened the meeting with a short speech."
-            },
-            {
-                "german": "Sie eröffnete das Konzert mit einem beeindruckenden Solo.",
-                "english": "She opened the concert with an impressive solo."
-            },
-            {
-                "german": "Der Bürgermeister eröffnete das Festival offiziell.",
-                "english": "The mayor officially opened the festival."
-            },
-            {
-                "german": "Wir eröffnen eine neue Filiale in der Innenstadt.",
-                "english": "We are opening a new branch in the city center."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich eröffne ein neues Geschäft.",
+            "english": "I am opening a new store."
+        },
+        {
+            "german": "Er eröffnete die Sitzung mit einer kurzen Ansprache.",
+            "english": "He opened the meeting with a short speech."
+        },
+        {
+            "german": "Sie eröffnete das Konzert mit einem beeindruckenden Solo.",
+            "english": "She opened the concert with an impressive solo."
+        },
+        {
+            "german": "Der Bürgermeister eröffnete das Festival offiziell.",
+            "english": "The mayor officially opened the festival."
+        },
+        {
+            "german": "Wir eröffnen eine neue Filiale in der Innenstadt.",
+            "english": "We are opening a new branch in the city center."
+        }
+    ]
 }

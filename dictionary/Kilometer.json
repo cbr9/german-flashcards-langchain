@@ -1,28 +1,26 @@
 {
     "word": "der Kilometer, die Kilometer",
     "definition": "A unit of measurement commonly used to quantify distances, particularly in the context of transportation and navigation. It is often employed to express the length of journeys, the extent between two locations, or the distance covered by vehicles.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ein Kilometer entspricht 1000 Metern.",
-                "english": "One kilometer is equal to 1000 meters."
-            },
-            {
-                "german": "Die Strecke beträgt 5 Kilometer.",
-                "english": "The distance is 5 kilometers."
-            },
-            {
-                "german": "Der Marathonlauf hat eine Länge von 42,195 Kilometern.",
-                "english": "The marathon race has a length of 42.195 kilometers."
-            },
-            {
-                "german": "Die Autobahn ist 200 Kilometer lang.",
-                "english": "The highway is 200 kilometers long."
-            },
-            {
-                "german": "Die Geschwindigkeitsbegrenzung beträgt 80 Kilometer pro Stunde.",
-                "english": "The speed limit is 80 kilometers per hour."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ein Kilometer entspricht 1000 Metern.",
+            "english": "One kilometer is equal to 1000 meters."
+        },
+        {
+            "german": "Die Strecke beträgt 5 Kilometer.",
+            "english": "The distance is 5 kilometers."
+        },
+        {
+            "german": "Der Marathonlauf hat eine Länge von 42,195 Kilometern.",
+            "english": "The marathon race has a length of 42.195 kilometers."
+        },
+        {
+            "german": "Die Autobahn ist 200 Kilometer lang.",
+            "english": "The highway is 200 kilometers long."
+        },
+        {
+            "german": "Die Geschwindigkeitsbegrenzung beträgt 80 Kilometer pro Stunde.",
+            "english": "The speed limit is 80 kilometers per hour."
+        }
+    ]
 }

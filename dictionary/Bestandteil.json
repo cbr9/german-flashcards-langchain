@@ -1,28 +1,26 @@
 {
     "word": "der Bestandteil, die Bestandteile",
     "definition": "A component or element that is typically used to describe the constituent parts of a whole. It is commonly employed in various contexts, such as when discussing the composition of a mixture, the ingredients of a recipe, or the essential parts of a system or structure.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Bestandteil eines Computers",
-                "english": "Component of a computer"
-            },
-            {
-                "german": "Der Stoff ist ein wichtiger Bestandteil des Medikaments.",
-                "english": "The substance is an important component of the medication."
-            },
-            {
-                "german": "Die Sicherheit ist ein Bestandteil unserer Unternehmenskultur.",
-                "english": "Safety is a part of our company culture."
-            },
-            {
-                "german": "Die Prüfung besteht aus mehreren Bestandteilen.",
-                "english": "The exam consists of several components."
-            },
-            {
-                "german": "Die Bestandteile des Gerichts sind frische Zutaten.",
-                "english": "The ingredients of the dish are fresh."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Bestandteil eines Computers",
+            "english": "Component of a computer"
+        },
+        {
+            "german": "Der Stoff ist ein wichtiger Bestandteil des Medikaments.",
+            "english": "The substance is an important component of the medication."
+        },
+        {
+            "german": "Die Sicherheit ist ein Bestandteil unserer Unternehmenskultur.",
+            "english": "Safety is a part of our company culture."
+        },
+        {
+            "german": "Die Prüfung besteht aus mehreren Bestandteilen.",
+            "english": "The exam consists of several components."
+        },
+        {
+            "german": "Die Bestandteile des Gerichts sind frische Zutaten.",
+            "english": "The ingredients of the dish are fresh."
+        }
+    ]
 }

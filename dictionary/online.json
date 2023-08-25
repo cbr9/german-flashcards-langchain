@@ -1,28 +1,26 @@
 {
     "word": "online",
     "definition": "A term commonly employed to describe the state of being connected to the internet, typically used to refer to activities or services that are accessible or available through digital means.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Online-Banking ist sehr praktisch.",
-                "english": "Online banking is very convenient."
-            },
-            {
-                "german": "Ich habe gestern online eingekauft.",
-                "english": "I shopped online yesterday."
-            },
-            {
-                "german": "Wir können das Problem online lösen.",
-                "english": "We can solve the problem online."
-            },
-            {
-                "german": "Die Veranstaltung findet online statt.",
-                "english": "The event takes place online."
-            },
-            {
-                "german": "Ich habe einen Online-Kurs belegt.",
-                "english": "I enrolled in an online course."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Online-Banking ist sehr praktisch.",
+            "english": "Online banking is very convenient."
+        },
+        {
+            "german": "Ich habe gestern online eingekauft.",
+            "english": "I shopped online yesterday."
+        },
+        {
+            "german": "Wir können das Problem online lösen.",
+            "english": "We can solve the problem online."
+        },
+        {
+            "german": "Die Veranstaltung findet online statt.",
+            "english": "The event takes place online."
+        },
+        {
+            "german": "Ich habe einen Online-Kurs belegt.",
+            "english": "I enrolled in an online course."
+        }
+    ]
 }

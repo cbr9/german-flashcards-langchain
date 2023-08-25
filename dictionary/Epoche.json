@@ -1,28 +1,26 @@
 {
     "word": "die Epoche, die Epochen",
     "definition": "A period of time characterized by significant events, developments, or changes, often marking a distinct era or turning point in history. It is commonly used in the context of historical, cultural, or artistic analysis to refer to a specific epoch or era.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Romantik war eine Epoche der deutschen Literatur.",
-                "english": "Romanticism was an epoch of German literature."
-            },
-            {
-                "german": "Die Renaissance war eine bedeutende Epoche in der europäischen Geschichte.",
-                "english": "The Renaissance was a significant epoch in European history."
-            },
-            {
-                "german": "Die Epoche des Barocks war geprägt von opulenten Kunstwerken.",
-                "english": "The Baroque epoch was characterized by opulent artworks."
-            },
-            {
-                "german": "Die industrielle Revolution markierte eine neue Epoche in der Menschheitsgeschichte.",
-                "english": "The Industrial Revolution marked a new epoch in human history."
-            },
-            {
-                "german": "Die Epoche der Aufklärung brachte wichtige philosophische Ideen hervor.",
-                "english": "The Enlightenment epoch brought forth important philosophical ideas."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Romantik war eine Epoche der deutschen Literatur.",
+            "english": "Romanticism was an epoch of German literature."
+        },
+        {
+            "german": "Die Renaissance war eine bedeutende Epoche in der europäischen Geschichte.",
+            "english": "The Renaissance was a significant epoch in European history."
+        },
+        {
+            "german": "Die Epoche des Barocks war geprägt von opulenten Kunstwerken.",
+            "english": "The Baroque epoch was characterized by opulent artworks."
+        },
+        {
+            "german": "Die industrielle Revolution markierte eine neue Epoche in der Menschheitsgeschichte.",
+            "english": "The Industrial Revolution marked a new epoch in human history."
+        },
+        {
+            "german": "Die Epoche der Aufklärung brachte wichtige philosophische Ideen hervor.",
+            "english": "The Enlightenment epoch brought forth important philosophical ideas."
+        }
+    ]
 }

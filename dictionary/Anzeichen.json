@@ -1,28 +1,26 @@
 {
     "word": "das Anzeichen, die Anzeichen",
     "definition": "A term used to describe observable indications or signs that suggest the presence or onset of something, often used in the context of identifying or predicting a particular condition, event, or phenomenon.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das sind Anzeichen für eine Erkältung.",
-                "english": "These are signs of a cold."
-            },
-            {
-                "german": "Die dunklen Wolken sind ein Anzeichen für Regen.",
-                "english": "The dark clouds are a sign of rain."
-            },
-            {
-                "german": "Ein hoher Puls kann ein Anzeichen für Stress sein.",
-                "english": "A high pulse can be a sign of stress."
-            },
-            {
-                "german": "Das Fieber ist ein Anzeichen für eine Infektion.",
-                "english": "The fever is a sign of an infection."
-            },
-            {
-                "german": "Ein plötzlicher Gewichtsverlust kann ein Anzeichen für eine Krankheit sein.",
-                "english": "Sudden weight loss can be a sign of an illness."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das sind Anzeichen für eine Erkältung.",
+            "english": "These are signs of a cold."
+        },
+        {
+            "german": "Die dunklen Wolken sind ein Anzeichen für Regen.",
+            "english": "The dark clouds are a sign of rain."
+        },
+        {
+            "german": "Ein hoher Puls kann ein Anzeichen für Stress sein.",
+            "english": "A high pulse can be a sign of stress."
+        },
+        {
+            "german": "Das Fieber ist ein Anzeichen für eine Infektion.",
+            "english": "The fever is a sign of an infection."
+        },
+        {
+            "german": "Ein plötzlicher Gewichtsverlust kann ein Anzeichen für eine Krankheit sein.",
+            "english": "Sudden weight loss can be a sign of an illness."
+        }
+    ]
 }

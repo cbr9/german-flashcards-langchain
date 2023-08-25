@@ -1,28 +1,26 @@
 {
     "word": "das Gewehr, die Gewehre",
     "definition": "A device designed to discharge projectiles at high speeds, typically held and operated by an individual. It is commonly utilized for various purposes, including hunting, sport shooting, and military applications.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Gewehr ist eine Waffe.",
-                "english": "The rifle is a weapon."
-            },
-            {
-                "german": "Er hat ein Gewehr gekauft.",
-                "english": "He bought a rifle."
-            },
-            {
-                "german": "Das Gewehr wurde im Krieg eingesetzt.",
-                "english": "The rifle was used in the war."
-            },
-            {
-                "german": "Sie hat das Gewehr abgefeuert.",
-                "english": "She fired the rifle."
-            },
-            {
-                "german": "Das Gewehr hat eine hohe Präzision.",
-                "english": "The rifle has high precision."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Gewehr ist eine Waffe.",
+            "english": "The rifle is a weapon."
+        },
+        {
+            "german": "Er hat ein Gewehr gekauft.",
+            "english": "He bought a rifle."
+        },
+        {
+            "german": "Das Gewehr wurde im Krieg eingesetzt.",
+            "english": "The rifle was used in the war."
+        },
+        {
+            "german": "Sie hat das Gewehr abgefeuert.",
+            "english": "She fired the rifle."
+        },
+        {
+            "german": "Das Gewehr hat eine hohe Präzision.",
+            "english": "The rifle has high precision."
+        }
+    ]
 }

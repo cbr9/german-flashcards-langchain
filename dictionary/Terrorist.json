@@ -1,28 +1,26 @@
 {
     "word": "der Terrorist, die Terroristen",
     "definition": "A person who engages in acts of violence or intimidation, often targeting civilians, with the aim of promoting a specific ideology or political agenda. This term is commonly used to describe individuals involved in activities that are considered illegal, dangerous, and harmful to society.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Terrorist hat einen Anschlag verübt.",
-                "english": "The terrorist carried out an attack."
-            },
-            {
-                "german": "Die Polizei hat den Terroristen festgenommen.",
-                "english": "The police arrested the terrorist."
-            },
-            {
-                "german": "Der Terrorist wurde zu lebenslanger Haft verurteilt.",
-                "english": "The terrorist was sentenced to life imprisonment."
-            },
-            {
-                "german": "Die Regierung bekämpft den Terrorismus mit allen Mitteln.",
-                "english": "The government is fighting terrorism by all means."
-            },
-            {
-                "german": "Die Terroristen haben eine Geiselnahme durchgeführt.",
-                "english": "The terrorists carried out a hostage-taking."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Terrorist hat einen Anschlag verübt.",
+            "english": "The terrorist carried out an attack."
+        },
+        {
+            "german": "Die Polizei hat den Terroristen festgenommen.",
+            "english": "The police arrested the terrorist."
+        },
+        {
+            "german": "Der Terrorist wurde zu lebenslanger Haft verurteilt.",
+            "english": "The terrorist was sentenced to life imprisonment."
+        },
+        {
+            "german": "Die Regierung bekämpft den Terrorismus mit allen Mitteln.",
+            "english": "The government is fighting terrorism by all means."
+        },
+        {
+            "german": "Die Terroristen haben eine Geiselnahme durchgeführt.",
+            "english": "The terrorists carried out a hostage-taking."
+        }
+    ]
 }

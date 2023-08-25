@@ -1,28 +1,26 @@
 {
     "word": "wohnen, wohnte, gewohnt",
     "definition": "The word \"wohnst\" is a verb form that is typically used to describe the action of residing or living in a specific place. It is commonly used in the second person singular form, addressing someone directly.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Wo wohnst du?",
-                "english": "Where do you live?"
-            },
-            {
-                "german": "Ich wohne in Berlin.",
-                "english": "I live in Berlin."
-            },
-            {
-                "german": "Sie wohnt in einem großen Haus.",
-                "english": "She lives in a big house."
-            },
-            {
-                "german": "Wo wohnt ihr?",
-                "english": "Where do you (plural) live?"
-            },
-            {
-                "german": "Wir wohnen in einer Wohnung.",
-                "english": "We live in an apartment."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Wo wohnst du?",
+            "english": "Where do you live?"
+        },
+        {
+            "german": "Ich wohne in Berlin.",
+            "english": "I live in Berlin."
+        },
+        {
+            "german": "Sie wohnt in einem großen Haus.",
+            "english": "She lives in a big house."
+        },
+        {
+            "german": "Wo wohnt ihr?",
+            "english": "Where do you (plural) live?"
+        },
+        {
+            "german": "Wir wohnen in einer Wohnung.",
+            "english": "We live in an apartment."
+        }
+    ]
 }

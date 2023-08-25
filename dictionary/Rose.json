@@ -1,28 +1,26 @@
 {
     "word": "die Rose, die Rosen",
     "definition": "A fragrant and beautiful flower typically associated with love and romance, often given as a gift or used to symbolize affection. It is commonly found in gardens, used in floral arrangements, and admired for its vibrant colors and delicate petals.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Rose blüht im Frühling.",
-                "english": "The rose blooms in spring."
-            },
-            {
-                "german": "Sie schenkte ihm eine rote Rose.",
-                "english": "She gave him a red rose."
-            },
-            {
-                "german": "Die Rosen im Garten duften herrlich.",
-                "english": "The roses in the garden smell wonderful."
-            },
-            {
-                "german": "Er pflückte eine Rose für seine Mutter.",
-                "english": "He picked a rose for his mother."
-            },
-            {
-                "german": "Die Rose ist eine beliebte Blume.",
-                "english": "The rose is a popular flower."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Rose blüht im Frühling.",
+            "english": "The rose blooms in spring."
+        },
+        {
+            "german": "Sie schenkte ihm eine rote Rose.",
+            "english": "She gave him a red rose."
+        },
+        {
+            "german": "Die Rosen im Garten duften herrlich.",
+            "english": "The roses in the garden smell wonderful."
+        },
+        {
+            "german": "Er pflückte eine Rose für seine Mutter.",
+            "english": "He picked a rose for his mother."
+        },
+        {
+            "german": "Die Rose ist eine beliebte Blume.",
+            "english": "The rose is a popular flower."
+        }
+    ]
 }

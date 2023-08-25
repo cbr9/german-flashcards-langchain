@@ -1,28 +1,26 @@
 {
     "word": "ausrotten, rottete aus, ausgerottet",
     "definition": "To completely eradicate or eliminate something, typically used to describe the action of eradicating a specific problem, threat, or undesirable element.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Regierung versucht, die Korruption auszurotten.",
-                "english": "The government is trying to eradicate corruption."
-            },
-            {
-                "german": "Es ist wichtig, diese gefährliche Krankheit auszurotten.",
-                "english": "It is important to eradicate this dangerous disease."
-            },
-            {
-                "german": "Die Maßnahmen zur Ausrottung der Schädlinge waren erfolgreich.",
-                "english": "The measures to exterminate the pests were successful."
-            },
-            {
-                "german": "Wir müssen den Terrorismus auszurotten, um Frieden zu erreichen.",
-                "english": "We must eradicate terrorism to achieve peace."
-            },
-            {
-                "german": "Die Bemühungen, die Armut auszurotten, müssen verstärkt werden.",
-                "english": "Efforts to eradicate poverty need to be intensified."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Regierung versucht, die Korruption auszurotten.",
+            "english": "The government is trying to eradicate corruption."
+        },
+        {
+            "german": "Es ist wichtig, diese gefährliche Krankheit auszurotten.",
+            "english": "It is important to eradicate this dangerous disease."
+        },
+        {
+            "german": "Die Maßnahmen zur Ausrottung der Schädlinge waren erfolgreich.",
+            "english": "The measures to exterminate the pests were successful."
+        },
+        {
+            "german": "Wir müssen den Terrorismus auszurotten, um Frieden zu erreichen.",
+            "english": "We must eradicate terrorism to achieve peace."
+        },
+        {
+            "german": "Die Bemühungen, die Armut auszurotten, müssen verstärkt werden.",
+            "english": "Efforts to eradicate poverty need to be intensified."
+        }
+    ]
 }

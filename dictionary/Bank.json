@@ -1,28 +1,26 @@
 {
     "word": "die Bank, die Banken",
     "definition": "A piece of furniture or structure typically found in public spaces, often made of wood or stone, with a long, flat surface and a backrest, designed for multiple people to sit on simultaneously. It is commonly used in parks, gardens, and outdoor areas for resting, socializing, or enjoying the surroundings.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Bank steht am Fluss.",
-                "english": "The bank is by the river."
-            },
-            {
-                "german": "Ich habe mein Geld auf der Bank.",
-                "english": "I have my money in the bank."
-            },
-            {
-                "german": "Er arbeitet bei einer Bank.",
-                "english": "He works at a bank."
-            },
-            {
-                "german": "Kannst du mir etwas Geld von der Bank abheben?",
-                "english": "Can you withdraw some money from the bank for me?"
-            },
-            {
-                "german": "Die Bank hat heute geschlossen.",
-                "english": "The bank is closed today."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Bank steht am Fluss.",
+            "english": "The bank is by the river."
+        },
+        {
+            "german": "Ich habe mein Geld auf der Bank.",
+            "english": "I have my money in the bank."
+        },
+        {
+            "german": "Er arbeitet bei einer Bank.",
+            "english": "He works at a bank."
+        },
+        {
+            "german": "Kannst du mir etwas Geld von der Bank abheben?",
+            "english": "Can you withdraw some money from the bank for me?"
+        },
+        {
+            "german": "Die Bank hat heute geschlossen.",
+            "english": "The bank is closed today."
+        }
+    ]
 }

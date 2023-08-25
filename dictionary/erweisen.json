@@ -1,28 +1,26 @@
 {
     "word": "erweisen, erwies, erwiesen",
     "definition": "To demonstrate or prove the truth, validity, or accuracy of something, often through evidence, facts, or actions. It is commonly used when referring to providing evidence or showing the veracity of a statement, theory, or claim.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er hat sich als zuverlässig erwiesen.",
-                "english": "He has proven to be reliable."
-            },
-            {
-                "german": "Es hat sich als Fehler erwiesen.",
-                "english": "It has turned out to be a mistake."
-            },
-            {
-                "german": "Er hat seine Unschuld erwiesen.",
-                "english": "He has proven his innocence."
-            },
-            {
-                "german": "Die Entscheidung hat sich als richtig erwiesen.",
-                "english": "The decision has proven to be correct."
-            },
-            {
-                "german": "Sie hat sich als gute Freundin erwiesen.",
-                "english": "She has proven to be a good friend."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er hat sich als zuverlässig erwiesen.",
+            "english": "He has proven to be reliable."
+        },
+        {
+            "german": "Es hat sich als Fehler erwiesen.",
+            "english": "It has turned out to be a mistake."
+        },
+        {
+            "german": "Er hat seine Unschuld erwiesen.",
+            "english": "He has proven his innocence."
+        },
+        {
+            "german": "Die Entscheidung hat sich als richtig erwiesen.",
+            "english": "The decision has proven to be correct."
+        },
+        {
+            "german": "Sie hat sich als gute Freundin erwiesen.",
+            "english": "She has proven to be a good friend."
+        }
+    ]
 }

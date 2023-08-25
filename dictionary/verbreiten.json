@@ -1,28 +1,26 @@
 {
     "word": "verbreiten, verbreitete, verbreitet",
     "definition": "To disseminate or spread information, ideas, or news widely, often through various channels or platforms. It is commonly used to describe the act of sharing or circulating something, such as rumors, gossip, knowledge, or opinions, among a large audience or community.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich möchte meine Ideen verbreiten.",
-                "english": "I want to spread my ideas."
-            },
-            {
-                "german": "Die Krankheit kann sich schnell verbreiten.",
-                "english": "The disease can spread quickly."
-            },
-            {
-                "german": "Sie verbreiten Gerüchte über mich.",
-                "english": "They spread rumors about me."
-            },
-            {
-                "german": "Die Zeitung verbreitet falsche Informationen.",
-                "english": "The newspaper disseminates false information."
-            },
-            {
-                "german": "Der Wind verbreitet den Duft der Blumen.",
-                "english": "The wind carries the scent of the flowers."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich möchte meine Ideen verbreiten.",
+            "english": "I want to spread my ideas."
+        },
+        {
+            "german": "Die Krankheit kann sich schnell verbreiten.",
+            "english": "The disease can spread quickly."
+        },
+        {
+            "german": "Sie verbreiten Gerüchte über mich.",
+            "english": "They spread rumors about me."
+        },
+        {
+            "german": "Die Zeitung verbreitet falsche Informationen.",
+            "english": "The newspaper disseminates false information."
+        },
+        {
+            "german": "Der Wind verbreitet den Duft der Blumen.",
+            "english": "The wind carries the scent of the flowers."
+        }
+    ]
 }

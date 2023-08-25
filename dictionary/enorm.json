@@ -1,28 +1,26 @@
 {
     "word": "enorm",
     "definition": "A term used to describe something of significant magnitude or size, often indicating an exceptional or remarkable degree. It is commonly employed to emphasize the vastness, intensity, or importance of a particular object, event, or situation.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Haus ist enorm groß.",
-                "english": "The house is enormous."
-            },
-            {
-                "german": "Die Kosten sind enorm gestiegen.",
-                "english": "The costs have increased enormously."
-            },
-            {
-                "german": "Sie hat ein enormes Talent für Musik.",
-                "english": "She has an enormous talent for music."
-            },
-            {
-                "german": "Das war ein enormer Erfolg.",
-                "english": "That was an enormous success."
-            },
-            {
-                "german": "Die Aufgabe erfordert enorm viel Geduld.",
-                "english": "The task requires an enormous amount of patience."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Haus ist enorm groß.",
+            "english": "The house is enormous."
+        },
+        {
+            "german": "Die Kosten sind enorm gestiegen.",
+            "english": "The costs have increased enormously."
+        },
+        {
+            "german": "Sie hat ein enormes Talent für Musik.",
+            "english": "She has an enormous talent for music."
+        },
+        {
+            "german": "Das war ein enormer Erfolg.",
+            "english": "That was an enormous success."
+        },
+        {
+            "german": "Die Aufgabe erfordert enorm viel Geduld.",
+            "english": "The task requires an enormous amount of patience."
+        }
+    ]
 }

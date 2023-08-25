@@ -1,28 +1,26 @@
 {
     "word": "die Hausaufgabe, die Hausaufgaben",
     "definition": "A task or assignment given to students by a teacher, typically to be completed outside of class time. It often involves practicing or applying knowledge learned in the classroom and is intended to reinforce understanding or develop skills.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Hausaufgabe muss bis morgen fertig sein.",
-                "english": "The homework must be finished by tomorrow."
-            },
-            {
-                "german": "Ich habe meine Hausaufgaben vergessen.",
-                "english": "I forgot my homework."
-            },
-            {
-                "german": "Die Hausaufgabe war sehr schwierig.",
-                "english": "The homework was very difficult."
-            },
-            {
-                "german": "Hast du deine Hausaufgaben gemacht?",
-                "english": "Did you do your homework?"
-            },
-            {
-                "german": "Die Lehrerin hat unsere Hausaufgaben eingesammelt.",
-                "english": "The teacher collected our homework."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Hausaufgabe muss bis morgen fertig sein.",
+            "english": "The homework must be finished by tomorrow."
+        },
+        {
+            "german": "Ich habe meine Hausaufgaben vergessen.",
+            "english": "I forgot my homework."
+        },
+        {
+            "german": "Die Hausaufgabe war sehr schwierig.",
+            "english": "The homework was very difficult."
+        },
+        {
+            "german": "Hast du deine Hausaufgaben gemacht?",
+            "english": "Did you do your homework?"
+        },
+        {
+            "german": "Die Lehrerin hat unsere Hausaufgaben eingesammelt.",
+            "english": "The teacher collected our homework."
+        }
+    ]
 }

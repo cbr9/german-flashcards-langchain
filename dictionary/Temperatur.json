@@ -1,28 +1,26 @@
 {
     "word": "die Temperatur, die Temperaturen",
     "definition": "A numerical value that represents the degree of hotness or coldness of an object or environment, typically measured using a thermometer. It is commonly used in scientific, meteorological, and everyday contexts to describe the level of heat or coldness.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Temperatur steigt langsam an.",
-                "english": "The temperature is slowly rising."
-            },
-            {
-                "german": "Die durchschnittliche Temperatur im Sommer beträgt 25 Grad Celsius.",
-                "english": "The average temperature in summer is 25 degrees Celsius."
-            },
-            {
-                "german": "Die Temperatur kann stark schwanken.",
-                "english": "The temperature can vary greatly."
-            },
-            {
-                "german": "Die Temperatur sinkt unter den Gefrierpunkt.",
-                "english": "The temperature drops below freezing."
-            },
-            {
-                "german": "Die Temperaturmessung erfolgt mit einem Thermometer.",
-                "english": "The temperature measurement is done with a thermometer."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Temperatur steigt langsam an.",
+            "english": "The temperature is slowly rising."
+        },
+        {
+            "german": "Die durchschnittliche Temperatur im Sommer beträgt 25 Grad Celsius.",
+            "english": "The average temperature in summer is 25 degrees Celsius."
+        },
+        {
+            "german": "Die Temperatur kann stark schwanken.",
+            "english": "The temperature can vary greatly."
+        },
+        {
+            "german": "Die Temperatur sinkt unter den Gefrierpunkt.",
+            "english": "The temperature drops below freezing."
+        },
+        {
+            "german": "Die Temperaturmessung erfolgt mit einem Thermometer.",
+            "english": "The temperature measurement is done with a thermometer."
+        }
+    ]
 }

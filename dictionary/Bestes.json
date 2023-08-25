@@ -1,28 +1,26 @@
 {
     "word": "das Bestes, die There is no plural form for the singular noun \"article bestes.\"",
     "definition": "The superlative form of a positive adjective, used to describe something of the highest quality or excellence. It is commonly used to express admiration or preference for a particular thing or person.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das ist das beste Buch, das ich je gelesen habe.",
-                "english": "This is the best book I have ever read."
-            },
-            {
-                "german": "Er hat den besten Platz im Theater bekommen.",
-                "english": "He got the best seat in the theater."
-            },
-            {
-                "german": "Sie hat das beste Ergebnis in der Prüfung erzielt.",
-                "english": "She achieved the best result in the exam."
-            },
-            {
-                "german": "Das ist das beste Restaurant in der Stadt.",
-                "english": "This is the best restaurant in town."
-            },
-            {
-                "german": "Er hat den besten Job der Welt.",
-                "english": "He has the best job in the world."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das ist das beste Buch, das ich je gelesen habe.",
+            "english": "This is the best book I have ever read."
+        },
+        {
+            "german": "Er hat den besten Platz im Theater bekommen.",
+            "english": "He got the best seat in the theater."
+        },
+        {
+            "german": "Sie hat das beste Ergebnis in der Prüfung erzielt.",
+            "english": "She achieved the best result in the exam."
+        },
+        {
+            "german": "Das ist das beste Restaurant in der Stadt.",
+            "english": "This is the best restaurant in town."
+        },
+        {
+            "german": "Er hat den besten Job der Welt.",
+            "english": "He has the best job in the world."
+        }
+    ]
 }

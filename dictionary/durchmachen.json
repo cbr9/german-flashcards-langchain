@@ -1,28 +1,26 @@
 {
     "word": "durchmachen, machte durch, durchgemacht",
     "definition": "To experience a series of challenging or difficult events, often implying a prolonged and intense process. It is commonly used to describe enduring or going through a demanding period, such as a difficult phase in life, a challenging task, or a grueling experience.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich musste eine schwierige Zeit durchmachen.",
-                "english": "I had to go through a difficult time."
-            },
-            {
-                "german": "Sie hat eine Operation durchgemacht.",
-                "english": "She underwent surgery."
-            },
-            {
-                "german": "Er musste eine harte Ausbildung durchmachen.",
-                "english": "He had to go through a tough training."
-            },
-            {
-                "german": "Wir müssen alle diese Prüfung durchmachen.",
-                "english": "We all have to go through this exam."
-            },
-            {
-                "german": "Die Stadt hat schwere Zeiten durchgemacht.",
-                "english": "The city has gone through difficult times."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich musste eine schwierige Zeit durchmachen.",
+            "english": "I had to go through a difficult time."
+        },
+        {
+            "german": "Sie hat eine Operation durchgemacht.",
+            "english": "She underwent surgery."
+        },
+        {
+            "german": "Er musste eine harte Ausbildung durchmachen.",
+            "english": "He had to go through a tough training."
+        },
+        {
+            "german": "Wir müssen alle diese Prüfung durchmachen.",
+            "english": "We all have to go through this exam."
+        },
+        {
+            "german": "Die Stadt hat schwere Zeiten durchgemacht.",
+            "english": "The city has gone through difficult times."
+        }
+    ]
 }

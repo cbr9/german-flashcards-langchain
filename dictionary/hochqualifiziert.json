@@ -1,28 +1,26 @@
 {
     "word": "hochqualifiziert",
     "definition": "The term \"hochqualifiziert\" refers to individuals who possess a high level of expertise, skills, or qualifications in a particular field. It is commonly used to describe professionals who have undergone extensive training or education and have acquired advanced knowledge in their respective areas. This word is often used in contexts related to employment, job descriptions, or discussions about highly skilled workers.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist hochqualifiziert und hat einen Doktortitel.",
-                "english": "She is highly qualified and has a PhD."
-            },
-            {
-                "german": "Der hochqualifizierte Ingenieur entwickelt innovative Technologien.",
-                "english": "The highly qualified engineer develops innovative technologies."
-            },
-            {
-                "german": "Die Firma sucht hochqualifizierte Mitarbeiter mit langjähriger Erfahrung.",
-                "english": "The company is looking for highly qualified employees with years of experience."
-            },
-            {
-                "german": "Er hat sich durch seine hochqualifizierte Arbeit einen guten Ruf erworben.",
-                "english": "He has earned a good reputation through his highly qualified work."
-            },
-            {
-                "german": "Die hochqualifizierte Ärztin behandelt komplexe medizinische Fälle.",
-                "english": "The highly qualified doctor treats complex medical cases."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist hochqualifiziert und hat einen Doktortitel.",
+            "english": "She is highly qualified and has a PhD."
+        },
+        {
+            "german": "Der hochqualifizierte Ingenieur entwickelt innovative Technologien.",
+            "english": "The highly qualified engineer develops innovative technologies."
+        },
+        {
+            "german": "Die Firma sucht hochqualifizierte Mitarbeiter mit langjähriger Erfahrung.",
+            "english": "The company is looking for highly qualified employees with years of experience."
+        },
+        {
+            "german": "Er hat sich durch seine hochqualifizierte Arbeit einen guten Ruf erworben.",
+            "english": "He has earned a good reputation through his highly qualified work."
+        },
+        {
+            "german": "Die hochqualifizierte Ärztin behandelt komplexe medizinische Fälle.",
+            "english": "The highly qualified doctor treats complex medical cases."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "emotional",
     "definition": "A term used to describe the state or quality of being deeply affected by or expressing strong feelings, often associated with personal experiences, relationships, or reactions to various stimuli. It is commonly used to refer to the expression or experience of intense emotions, such as joy, sadness, anger, or love.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Sie ist sehr emotional und weint oft.",
-                "english": "She is very emotional and cries often."
-            },
-            {
-                "german": "Seine Rede war sehr emotional und hat viele Menschen berührt.",
-                "english": "His speech was very emotional and touched many people."
-            },
-            {
-                "german": "Der Film hat mich emotional sehr mitgenommen.",
-                "english": "The movie really took me on an emotional journey."
-            },
-            {
-                "german": "Er reagiert oft sehr emotional auf Kritik.",
-                "english": "He often reacts very emotionally to criticism."
-            },
-            {
-                "german": "Die Musik hat eine starke emotionale Wirkung auf mich.",
-                "english": "The music has a strong emotional impact on me."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Sie ist sehr emotional und weint oft.",
+            "english": "She is very emotional and cries often."
+        },
+        {
+            "german": "Seine Rede war sehr emotional und hat viele Menschen berührt.",
+            "english": "His speech was very emotional and touched many people."
+        },
+        {
+            "german": "Der Film hat mich emotional sehr mitgenommen.",
+            "english": "The movie really took me on an emotional journey."
+        },
+        {
+            "german": "Er reagiert oft sehr emotional auf Kritik.",
+            "english": "He often reacts very emotionally to criticism."
+        },
+        {
+            "german": "Die Musik hat eine starke emotionale Wirkung auf mich.",
+            "english": "The music has a strong emotional impact on me."
+        }
+    ]
 }

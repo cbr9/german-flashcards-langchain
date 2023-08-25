@@ -1,28 +1,26 @@
 {
     "word": "der Vertreter, die Vertreter",
     "definition": "A person who acts on behalf of someone else, representing their interests or carrying out tasks on their behalf. This term is commonly used to refer to individuals who represent a company, organization, or group in various contexts, such as sales representatives, delegates, or agents.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er ist ein Vertreter der Firma.",
-                "english": "He is a representative of the company."
-            },
-            {
-                "german": "Der Vertreter hat uns ein Angebot gemacht.",
-                "english": "The representative made us an offer."
-            },
-            {
-                "german": "Sie ist die Vertreterin des Kunden.",
-                "english": "She is the representative of the customer."
-            },
-            {
-                "german": "Der Vertreter besucht regelmäßig die Geschäftspartner.",
-                "english": "The representative regularly visits the business partners."
-            },
-            {
-                "german": "Die Vertreterin hat die Verträge unterzeichnet.",
-                "english": "The representative (female) signed the contracts."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er ist ein Vertreter der Firma.",
+            "english": "He is a representative of the company."
+        },
+        {
+            "german": "Der Vertreter hat uns ein Angebot gemacht.",
+            "english": "The representative made us an offer."
+        },
+        {
+            "german": "Sie ist die Vertreterin des Kunden.",
+            "english": "She is the representative of the customer."
+        },
+        {
+            "german": "Der Vertreter besucht regelmäßig die Geschäftspartner.",
+            "english": "The representative regularly visits the business partners."
+        },
+        {
+            "german": "Die Vertreterin hat die Verträge unterzeichnet.",
+            "english": "The representative (female) signed the contracts."
+        }
+    ]
 }

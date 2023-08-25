@@ -1,28 +1,26 @@
 {
     "word": "wohnen, wohnte, gewohnt",
     "definition": "To reside or dwell in a particular place, typically referring to the act of living in a permanent or temporary location. This word is commonly used to describe the action of inhabiting a house, apartment, or any other type of living space.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich wohne in Berlin.",
-                "english": "I live in Berlin."
-            },
-            {
-                "german": "Wo wohnst du?",
-                "english": "Where do you live?"
-            },
-            {
-                "german": "Sie wohnen in einem großen Haus.",
-                "english": "They live in a big house."
-            },
-            {
-                "german": "Wir wollen zusammenwohnen.",
-                "english": "We want to live together."
-            },
-            {
-                "german": "Meine Eltern wohnen auf dem Land.",
-                "english": "My parents live in the countryside."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich wohne in Berlin.",
+            "english": "I live in Berlin."
+        },
+        {
+            "german": "Wo wohnst du?",
+            "english": "Where do you live?"
+        },
+        {
+            "german": "Sie wohnen in einem großen Haus.",
+            "english": "They live in a big house."
+        },
+        {
+            "german": "Wir wollen zusammenwohnen.",
+            "english": "We want to live together."
+        },
+        {
+            "german": "Meine Eltern wohnen auf dem Land.",
+            "english": "My parents live in the countryside."
+        }
+    ]
 }

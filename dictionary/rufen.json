@@ -1,28 +1,26 @@
 {
     "word": "rufen, rief, gerufen",
     "definition": "To vocally express a message or call out to someone, typically done to attract their attention or communicate with them. This word is commonly used in various contexts, such as summoning someone, shouting, or simply speaking out loud to get someone's notice.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich rufe dich an.",
-                "english": "I'm calling you."
-            },
-            {
-                "german": "Er ruft nach Hilfe.",
-                "english": "He's calling for help."
-            },
-            {
-                "german": "Sie rief den Namen ihres Hundes.",
-                "english": "She called her dog's name."
-            },
-            {
-                "german": "Wir rufen den Arzt.",
-                "english": "We're calling the doctor."
-            },
-            {
-                "german": "Ihr könnt mich jederzeit anrufen.",
-                "english": "You can call me anytime."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich rufe dich an.",
+            "english": "I'm calling you."
+        },
+        {
+            "german": "Er ruft nach Hilfe.",
+            "english": "He's calling for help."
+        },
+        {
+            "german": "Sie rief den Namen ihres Hundes.",
+            "english": "She called her dog's name."
+        },
+        {
+            "german": "Wir rufen den Arzt.",
+            "english": "We're calling the doctor."
+        },
+        {
+            "german": "Ihr könnt mich jederzeit anrufen.",
+            "english": "You can call me anytime."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "auslösen, löste aus, ausgelöst",
     "definition": "To initiate a particular action or event, often resulting in a series of consequences or reactions. It is commonly used in the context of triggering or setting off a mechanism, process, or chain of events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das laute Geräusch löste einen Alarm aus.",
-                "english": "The loud noise triggered an alarm."
-            },
-            {
-                "german": "Die Nachricht löste Panik aus.",
-                "english": "The news caused panic."
-            },
-            {
-                "german": "Das Feuer wurde durch einen Funken ausgelöst.",
-                "english": "The fire was ignited by a spark."
-            },
-            {
-                "german": "Die Entscheidung des Richters löste Kontroversen aus.",
-                "english": "The judge's decision sparked controversies."
-            },
-            {
-                "german": "Die Werbung löste großes Interesse bei den Kunden aus.",
-                "english": "The advertisement generated great interest among the customers."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das laute Geräusch löste einen Alarm aus.",
+            "english": "The loud noise triggered an alarm."
+        },
+        {
+            "german": "Die Nachricht löste Panik aus.",
+            "english": "The news caused panic."
+        },
+        {
+            "german": "Das Feuer wurde durch einen Funken ausgelöst.",
+            "english": "The fire was ignited by a spark."
+        },
+        {
+            "german": "Die Entscheidung des Richters löste Kontroversen aus.",
+            "english": "The judge's decision sparked controversies."
+        },
+        {
+            "german": "Die Werbung löste großes Interesse bei den Kunden aus.",
+            "english": "The advertisement generated great interest among the customers."
+        }
+    ]
 }

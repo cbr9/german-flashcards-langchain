@@ -1,28 +1,26 @@
 {
     "word": "der Menschenmeng, die Menschenmengen",
     "definition": "A term commonly employed to describe a large gathering or crowd of individuals, typically used to refer to a multitude of people congregating in a specific location or event.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Die Menschenmenge jubelte dem Sieger zu.",
-                "english": "The crowd cheered for the winner."
-            },
-            {
-                "german": "Die Menschenmenge drängte sich vor dem Eingang.",
-                "english": "The crowd pushed forward in front of the entrance."
-            },
-            {
-                "german": "Die Menschenmenge versammelte sich auf dem Marktplatz.",
-                "english": "The crowd gathered in the marketplace."
-            },
-            {
-                "german": "Die Menschenmenge löste sich langsam auf.",
-                "english": "The crowd slowly dispersed."
-            },
-            {
-                "german": "Die Menschenmenge warf Steine auf die Polizei.",
-                "english": "The crowd threw stones at the police."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Die Menschenmenge jubelte dem Sieger zu.",
+            "english": "The crowd cheered for the winner."
+        },
+        {
+            "german": "Die Menschenmenge drängte sich vor dem Eingang.",
+            "english": "The crowd pushed forward in front of the entrance."
+        },
+        {
+            "german": "Die Menschenmenge versammelte sich auf dem Marktplatz.",
+            "english": "The crowd gathered in the marketplace."
+        },
+        {
+            "german": "Die Menschenmenge löste sich langsam auf.",
+            "english": "The crowd slowly dispersed."
+        },
+        {
+            "german": "Die Menschenmenge warf Steine auf die Polizei.",
+            "english": "The crowd threw stones at the police."
+        }
+    ]
 }

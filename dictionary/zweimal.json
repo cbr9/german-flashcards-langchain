@@ -1,28 +1,26 @@
 {
     "word": "zweimal",
     "definition": "The term \"zweimal\" refers to the numerical value of two occurrences or instances of an action or event. It is commonly used to indicate the repetition or frequency of an action, often in relation to time or events.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich war zweimal in Berlin.",
-                "english": "I have been to Berlin twice."
-            },
-            {
-                "german": "Er hat zweimal angerufen.",
-                "english": "He called twice."
-            },
-            {
-                "german": "Sie hat zweimal gewonnen.",
-                "english": "She won twice."
-            },
-            {
-                "german": "Wir treffen uns zweimal pro Woche.",
-                "english": "We meet twice a week."
-            },
-            {
-                "german": "Ich habe zweimal nachgefragt.",
-                "english": "I asked twice."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich war zweimal in Berlin.",
+            "english": "I have been to Berlin twice."
+        },
+        {
+            "german": "Er hat zweimal angerufen.",
+            "english": "He called twice."
+        },
+        {
+            "german": "Sie hat zweimal gewonnen.",
+            "english": "She won twice."
+        },
+        {
+            "german": "Wir treffen uns zweimal pro Woche.",
+            "english": "We meet twice a week."
+        },
+        {
+            "german": "Ich habe zweimal nachgefragt.",
+            "english": "I asked twice."
+        }
+    ]
 }

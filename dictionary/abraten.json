@@ -1,28 +1,26 @@
 {
     "word": "abraten, riet ab, abgeraten",
     "definition": "To advise against or discourage someone from pursuing a particular course of action, typically by highlighting potential negative consequences or risks. This verb is commonly used when giving guidance or recommendations to dissuade someone from doing something.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich rate dir ab, das zu tun.",
-                "english": "I advise you against doing that."
-            },
-            {
-                "german": "Er rät mir ab, den Job anzunehmen.",
-                "english": "He advises me not to take the job."
-            },
-            {
-                "german": "Sie rät ihm ab, das Buch zu lesen.",
-                "english": "She advises him not to read the book."
-            },
-            {
-                "german": "Wir raten ab, diese Investition zu tätigen.",
-                "english": "We advise against making this investment."
-            },
-            {
-                "german": "Die Ärzte raten ab, das Medikament einzunehmen.",
-                "english": "The doctors advise against taking the medication."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich rate dir ab, das zu tun.",
+            "english": "I advise you against doing that."
+        },
+        {
+            "german": "Er rät mir ab, den Job anzunehmen.",
+            "english": "He advises me not to take the job."
+        },
+        {
+            "german": "Sie rät ihm ab, das Buch zu lesen.",
+            "english": "She advises him not to read the book."
+        },
+        {
+            "german": "Wir raten ab, diese Investition zu tätigen.",
+            "english": "We advise against making this investment."
+        },
+        {
+            "german": "Die Ärzte raten ab, das Medikament einzunehmen.",
+            "english": "The doctors advise against taking the medication."
+        }
+    ]
 }

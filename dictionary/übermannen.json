@@ -1,28 +1,26 @@
 {
     "word": "übermannen, übermannte, übermannt",
     "definition": "To overcome or overpower one's fears, limitations, or obstacles by summoning exceptional strength, courage, or determination. This term is often used in the context of personal growth, self-improvement, or facing challenging situations head-on.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Er versuchte, seine Ängste zu übermannen.",
-                "english": "He tried to overcome his fears."
-            },
-            {
-                "german": "Sie konnte ihre Wut nicht übermannen.",
-                "english": "She couldn't control her anger."
-            },
-            {
-                "german": "Er musste sich übermannen, um die Präsentation zu halten.",
-                "english": "He had to gather his strength to give the presentation."
-            },
-            {
-                "german": "Sie übermannte ihn eine Welle der Traurigkeit.",
-                "english": "A wave of sadness overwhelmed him."
-            },
-            {
-                "german": "Er konnte seine Freude kaum übermannen.",
-                "english": "He could hardly contain his joy."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Er versuchte, seine Ängste zu übermannen.",
+            "english": "He tried to overcome his fears."
+        },
+        {
+            "german": "Sie konnte ihre Wut nicht übermannen.",
+            "english": "She couldn't control her anger."
+        },
+        {
+            "german": "Er musste sich übermannen, um die Präsentation zu halten.",
+            "english": "He had to gather his strength to give the presentation."
+        },
+        {
+            "german": "Sie übermannte ihn eine Welle der Traurigkeit.",
+            "english": "A wave of sadness overwhelmed him."
+        },
+        {
+            "german": "Er konnte seine Freude kaum übermannen.",
+            "english": "He could hardly contain his joy."
+        }
+    ]
 }

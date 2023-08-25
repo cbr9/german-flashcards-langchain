@@ -1,28 +1,26 @@
 {
     "word": "das Regal, die Regale",
     "definition": "A piece of furniture typically found in living spaces, used for storing and organizing various items such as books, decorative objects, or household belongings. It often consists of multiple shelves or compartments and is commonly placed against a wall.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Das Regal ist voller Bücher.",
-                "english": "The shelf is full of books."
-            },
-            {
-                "german": "Ich habe ein neues Regal gekauft.",
-                "english": "I bought a new shelf."
-            },
-            {
-                "german": "Das Regal ist aus Holz.",
-                "english": "The shelf is made of wood."
-            },
-            {
-                "german": "Kannst du mir bitte das Regal hochheben?",
-                "english": "Can you please lift the shelf for me?"
-            },
-            {
-                "german": "Das Regal steht neben dem Schreibtisch.",
-                "english": "The shelf is next to the desk."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Das Regal ist voller Bücher.",
+            "english": "The shelf is full of books."
+        },
+        {
+            "german": "Ich habe ein neues Regal gekauft.",
+            "english": "I bought a new shelf."
+        },
+        {
+            "german": "Das Regal ist aus Holz.",
+            "english": "The shelf is made of wood."
+        },
+        {
+            "german": "Kannst du mir bitte das Regal hochheben?",
+            "english": "Can you please lift the shelf for me?"
+        },
+        {
+            "german": "Das Regal steht neben dem Schreibtisch.",
+            "english": "The shelf is next to the desk."
+        }
+    ]
 }

@@ -1,28 +1,26 @@
 {
     "word": "die Rockmusik, die Rockmusiken",
     "definition": "A genre of music characterized by amplified instruments, energetic rhythms, and often featuring electric guitars, drums, and vocals. It is commonly associated with rebellion, youth culture, and live performances.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Rockmusik ist meine Lieblingsmusikrichtung.",
-                "english": "Rock music is my favorite genre of music."
-            },
-            {
-                "german": "Die Band spielt Rockmusik seit über 20 Jahren.",
-                "english": "The band has been playing rock music for over 20 years."
-            },
-            {
-                "german": "Rockmusik hat eine starke rhythmische Struktur.",
-                "english": "Rock music has a strong rhythmic structure."
-            },
-            {
-                "german": "Rockmusik wird oft mit lauten Gitarren und Schlagzeug gespielt.",
-                "english": "Rock music is often played with loud guitars and drums."
-            },
-            {
-                "german": "Rockmusik hat ihren Ursprung in den 1950er Jahren.",
-                "english": "Rock music originated in the 1950s."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Rockmusik ist meine Lieblingsmusikrichtung.",
+            "english": "Rock music is my favorite genre of music."
+        },
+        {
+            "german": "Die Band spielt Rockmusik seit über 20 Jahren.",
+            "english": "The band has been playing rock music for over 20 years."
+        },
+        {
+            "german": "Rockmusik hat eine starke rhythmische Struktur.",
+            "english": "Rock music has a strong rhythmic structure."
+        },
+        {
+            "german": "Rockmusik wird oft mit lauten Gitarren und Schlagzeug gespielt.",
+            "english": "Rock music is often played with loud guitars and drums."
+        },
+        {
+            "german": "Rockmusik hat ihren Ursprung in den 1950er Jahren.",
+            "english": "Rock music originated in the 1950s."
+        }
+    ]
 }

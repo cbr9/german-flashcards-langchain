@@ -1,28 +1,26 @@
 {
     "word": "fahren, fuhr, gefahren",
     "definition": "To transport people or goods across a body of water, typically using a vessel. This word is commonly used to describe the action of moving passengers or cargo from one side of a river, lake, or sea to the other.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich fahre mit der Fähre nach Schweden.",
-                "english": "I am taking the ferry to Sweden."
-            },
-            {
-                "german": "Die Fähre legt um 10 Uhr ab.",
-                "english": "The ferry departs at 10 o'clock."
-            },
-            {
-                "german": "Wir müssen die Fähre rechtzeitig erreichen.",
-                "english": "We need to reach the ferry on time."
-            },
-            {
-                "german": "Die Fähre fährt regelmäßig zwischen den Inseln.",
-                "english": "The ferry operates regularly between the islands."
-            },
-            {
-                "german": "Die Fähre ist eine beliebte Transportmöglichkeit für Touristen.",
-                "english": "The ferry is a popular means of transportation for tourists."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich fahre mit der Fähre nach Schweden.",
+            "english": "I am taking the ferry to Sweden."
+        },
+        {
+            "german": "Die Fähre legt um 10 Uhr ab.",
+            "english": "The ferry departs at 10 o'clock."
+        },
+        {
+            "german": "Wir müssen die Fähre rechtzeitig erreichen.",
+            "english": "We need to reach the ferry on time."
+        },
+        {
+            "german": "Die Fähre fährt regelmäßig zwischen den Inseln.",
+            "english": "The ferry operates regularly between the islands."
+        },
+        {
+            "german": "Die Fähre ist eine beliebte Transportmöglichkeit für Touristen.",
+            "english": "The ferry is a popular means of transportation for tourists."
+        }
+    ]
 }

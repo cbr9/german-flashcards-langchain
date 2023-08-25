@@ -1,28 +1,26 @@
 {
     "word": "ankommen, kam an, angekommen",
     "definition": "To reach a destination or arrive at a place, typically referring to the act of physically arriving at a location. It is commonly used to describe the action of someone or something reaching a specific place or reaching a certain point in a journey.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Ich komme um 8 Uhr an.",
-                "english": "I arrive at 8 o'clock."
-            },
-            {
-                "german": "Wann kommt der Zug an?",
-                "english": "When does the train arrive?"
-            },
-            {
-                "german": "Er ist gestern in Berlin angekommen.",
-                "english": "He arrived in Berlin yesterday."
-            },
-            {
-                "german": "Es kommt darauf an, wie das Wetter wird.",
-                "english": "It depends on how the weather turns out."
-            },
-            {
-                "german": "Sie kommt immer pünktlich an.",
-                "english": "She always arrives on time."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Ich komme um 8 Uhr an.",
+            "english": "I arrive at 8 o'clock."
+        },
+        {
+            "german": "Wann kommt der Zug an?",
+            "english": "When does the train arrive?"
+        },
+        {
+            "german": "Er ist gestern in Berlin angekommen.",
+            "english": "He arrived in Berlin yesterday."
+        },
+        {
+            "german": "Es kommt darauf an, wie das Wetter wird.",
+            "english": "It depends on how the weather turns out."
+        },
+        {
+            "german": "Sie kommt immer pünktlich an.",
+            "english": "She always arrives on time."
+        }
+    ]
 }

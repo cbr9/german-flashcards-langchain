@@ -1,28 +1,26 @@
 {
     "word": "das Nahrungsmittel, die Nahrungsmittel",
     "definition": "A substance or product that is consumed by living organisms to provide nourishment and sustain life. It typically refers to various edible items that are consumed by humans for their nutritional value and energy.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Nahrungsmittel sind Lebensmittel, die zur Ernährung dienen.",
-                "english": "Food is any substance consumed to provide nutritional support for an organism."
-            },
-            {
-                "german": "Die Qualität der Nahrungsmittel ist entscheidend für die Gesundheit.",
-                "english": "The quality of food is crucial for health."
-            },
-            {
-                "german": "Nahrungsmittel sollten ausgewogen und abwechslungsreich sein.",
-                "english": "Food should be balanced and varied."
-            },
-            {
-                "german": "Der Supermarkt bietet eine große Auswahl an Nahrungsmitteln.",
-                "english": "The supermarket offers a wide range of food products."
-            },
-            {
-                "german": "Die Produktion von Nahrungsmitteln hat einen großen Einfluss auf die Umwelt.",
-                "english": "The production of food has a significant impact on the environment."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Nahrungsmittel sind Lebensmittel, die zur Ernährung dienen.",
+            "english": "Food is any substance consumed to provide nutritional support for an organism."
+        },
+        {
+            "german": "Die Qualität der Nahrungsmittel ist entscheidend für die Gesundheit.",
+            "english": "The quality of food is crucial for health."
+        },
+        {
+            "german": "Nahrungsmittel sollten ausgewogen und abwechslungsreich sein.",
+            "english": "Food should be balanced and varied."
+        },
+        {
+            "german": "Der Supermarkt bietet eine große Auswahl an Nahrungsmitteln.",
+            "english": "The supermarket offers a wide range of food products."
+        },
+        {
+            "german": "Die Produktion von Nahrungsmitteln hat einen großen Einfluss auf die Umwelt.",
+            "english": "The production of food has a significant impact on the environment."
+        }
+    ]
 }

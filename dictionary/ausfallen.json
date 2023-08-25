@@ -1,28 +1,26 @@
 {
     "word": "ausfallen, fiel aus, ausgefallen",
     "definition": "To not occur or take place as expected, especially in the context of events, activities, or plans. This word is commonly used to describe the cancellation or failure of something that was scheduled or anticipated.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Zugverkehr fällt heute aus.",
-                "english": "The train service is cancelled today."
-            },
-            {
-                "german": "Das Konzert ist wegen des schlechten Wetters ausgefallen.",
-                "english": "The concert has been cancelled due to bad weather."
-            },
-            {
-                "german": "Die Stromversorgung ist ausgefallen.",
-                "english": "The power supply has failed."
-            },
-            {
-                "german": "Der Computer ist plötzlich ausgefallen.",
-                "english": "The computer suddenly crashed."
-            },
-            {
-                "german": "Die Prüfung fällt aus, weil der Professor krank ist.",
-                "english": "The exam is cancelled because the professor is sick."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Zugverkehr fällt heute aus.",
+            "english": "The train service is cancelled today."
+        },
+        {
+            "german": "Das Konzert ist wegen des schlechten Wetters ausgefallen.",
+            "english": "The concert has been cancelled due to bad weather."
+        },
+        {
+            "german": "Die Stromversorgung ist ausgefallen.",
+            "english": "The power supply has failed."
+        },
+        {
+            "german": "Der Computer ist plötzlich ausgefallen.",
+            "english": "The computer suddenly crashed."
+        },
+        {
+            "german": "Die Prüfung fällt aus, weil der Professor krank ist.",
+            "english": "The exam is cancelled because the professor is sick."
+        }
+    ]
 }

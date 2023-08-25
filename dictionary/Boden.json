@@ -1,28 +1,26 @@
 {
     "word": "der Boden, die Böden",
     "definition": "The term refers to the solid surface of the Earth, typically used to describe the ground or floor. It is commonly utilized to indicate the physical foundation or base of a structure or area.",
-    "examples": {
-        "examples": [
-            {
-                "german": "Der Boden ist nass.",
-                "english": "The floor is wet."
-            },
-            {
-                "german": "Sie hat den Boden gekehrt.",
-                "english": "She swept the floor."
-            },
-            {
-                "german": "Der Boden ist aus Holz.",
-                "english": "The floor is made of wood."
-            },
-            {
-                "german": "Der Boden ist gefliest.",
-                "english": "The floor is tiled."
-            },
-            {
-                "german": "Er liegt auf dem Boden.",
-                "english": "He is lying on the ground."
-            }
-        ]
-    }
+    "examples": [
+        {
+            "german": "Der Boden ist nass.",
+            "english": "The floor is wet."
+        },
+        {
+            "german": "Sie hat den Boden gekehrt.",
+            "english": "She swept the floor."
+        },
+        {
+            "german": "Der Boden ist aus Holz.",
+            "english": "The floor is made of wood."
+        },
+        {
+            "german": "Der Boden ist gefliest.",
+            "english": "The floor is tiled."
+        },
+        {
+            "german": "Er liegt auf dem Boden.",
+            "english": "He is lying on the ground."
+        }
+    ]
 }
