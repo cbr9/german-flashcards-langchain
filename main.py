@@ -205,6 +205,7 @@ def process_lemma(
         if depth > MAX_DEPTH:
             return None
 
+        pbar.set_description(lemma)
         word = Word(word=lemma, token=token).define(llm).get_examples(llm).inflect(llm)
         deck += word
 
@@ -225,7 +226,6 @@ def process_lemma(
                     and token.lemma_.lower() not in word.word
                     and token.is_alpha
                 ):
-                    pbar.set_description(token.lemma_)
                     if token.lemma_ in ignored_lemmas:
                         continue
                     try:
