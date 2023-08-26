@@ -1,12 +1,13 @@
+from enum import Enum
 import json
 from langchain import PromptTemplate
 from langchain.schema.language_model import BaseLanguageModel
 from langchain.schema.output_parser import BaseOutputParser
 from spacy.language import Language
-from spacy.tokens import Token
+from spacy.tokens import MorphAnalysis, Token
 from tqdm import tqdm
 from langchain.chat_models import ChatOpenAI
-from langchain.output_parsers import PydanticOutputParser
+from langchain.output_parsers import EnumOutputParser, PydanticOutputParser
 from typing import Any, Iterator, Optional
 from pathlib import Path
 from pydantic import BaseModel, Field
@@ -25,6 +26,22 @@ class Inflection(BaseModel):
     infinitive: str
     past: str
     participle: str
+
+
+class Gender(Enum):
+    Neuter = "neuter"
+    Feminine = "feminine"
+    Masculine = "masculine"
+
+    @property
+    def article(self) -> str:
+        match self.name:
+            case "Neuter":
+                return "das"
+            case "Feminine":
+                return "die"
+            case "Masculine":
+                return "der"
 
 
 class Example(BaseModel):
@@ -88,7 +105,7 @@ class Word(BaseModel):
 
     def get_examples(self, llm: BaseLanguageModel) -> Self:
         assert self.token is not None
-        parser = PydanticOutputParser(pydantic_object=Examples)
+        parser = PydanticOutputParser(pydantic_object=Examples)  # type: ignore
         template = load_template("examples", parser=parser)
         prediction = llm.predict(template.format(word=self.word))
         self.examples = parser.parse(prediction).examples
@@ -106,21 +123,36 @@ class Word(BaseModel):
                 llm.predict(template.format(word=self.word))
             )
             self.word = f"{inflections.infinitive}, {inflections.past}, {inflections.participle}"
+
         elif self.token.pos_ in {"NOUN", "PROPN"}:
             gender = self.token.morph.get(field="Gender", default=None)
+            singular = None
+            plural = None
+
             if len(gender) == 0:
-                plural = f"die {self.word.capitalize()}"
                 number = self.token.morph.get(field="Number", default=None)[0]
-                assert number == "Plur"
-                template = load_template("singular")
-                singular = llm.predict(template.format(word=plural))
+                if number == "Plur":
+                    plural = self.word.capitalize()
+                    assert number == "Plur"
+                    template = load_template("singular")
+                    singular = llm.predict(template.format(word=plural))
+                    article = singular.split(" ")[0]
+                else:
+                    # SpaCy couldn't determine the gender, will retry with GPT
+                    parser = EnumOutputParser(enum=Gender)
+                    template = load_template("gender", parser=parser)
+                    gender = llm.predict(template.format(word=self.word))
+                    gender = parser.parse(gender)
+                    article = gender.article
+                    singular = self.word.capitalize()
+
             else:
                 article = gender2article[gender[0]]
-                singular = f"{article} {self.word.capitalize()}"
+
+            if plural is None:
+                singular = f"{article.lower()} {self.word.capitalize()}"
                 template = load_template("plural")
-                plural = llm.predict(
-                    template.format(word=f"article {self.word.capitalize()}")
-                )
+                plural = llm.predict(template.format(word=f"{article} {singular}"))
                 plural = f"die {plural.capitalize()}"
 
             self.word = f"{singular}, {plural}"
