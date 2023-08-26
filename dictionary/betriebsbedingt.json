@@ -1,0 +1,26 @@
+{
+    "word": "betriebsbedingt",
+    "definition": "This term is typically used to describe a situation or condition that arises as a result of operational or functional requirements within a specific context. It is commonly employed in discussions related to work environments, industries, or systems, indicating that something is caused or influenced by the operational needs or constraints of a particular entity.",
+    "examples": [
+        {
+            "german": "Aufgrund der betriebsbedingten Umstrukturierung müssen einige Mitarbeiter entlassen werden.",
+            "english": "Due to the restructuring caused by operational reasons, some employees have to be laid off."
+        },
+        {
+            "german": "Die vorübergehende Schließung des Werks ist betriebsbedingt und nicht auf externe Faktoren zurückzuführen.",
+            "english": "The temporary closure of the factory is due to operational reasons and not attributable to external factors."
+        },
+        {
+            "german": "Die Verzögerung der Lieferung ist betriebsbedingt und kann nicht vermieden werden.",
+            "english": "The delay in delivery is due to operational reasons and cannot be avoided."
+        },
+        {
+            "german": "Die Produktionsausfälle sind betriebsbedingt und werden voraussichtlich in den nächsten Tagen behoben sein.",
+            "english": "The production outages are due to operational reasons and are expected to be resolved in the next few days."
+        },
+        {
+            "german": "Die Änderungen im Arbeitsplan sind betriebsbedingt und gelten ab sofort.",
+            "english": "The changes in the work schedule are due to operational reasons and are effective immediately."
+        }
+    ]
+}

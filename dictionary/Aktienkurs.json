@@ -1,0 +1,26 @@
+{
+    "word": "der Aktienkurs, die Aktienkurse",
+    "definition": "A numerical value that represents the current value or price of shares in a company, typically used in financial contexts to track and analyze the performance of stocks.",
+    "examples": [
+        {
+            "german": "Der Aktienkurs ist gestiegen.",
+            "english": "The stock price has risen."
+        },
+        {
+            "german": "Der Aktienkurs ist gefallen.",
+            "english": "The stock price has fallen."
+        },
+        {
+            "german": "Der Aktienkurs schwankt täglich.",
+            "english": "The stock price fluctuates daily."
+        },
+        {
+            "german": "Der Aktienkurs erreichte ein neues Allzeithoch.",
+            "english": "The stock price reached a new all-time high."
+        },
+        {
+            "german": "Der Aktienkurs wird von verschiedenen Faktoren beeinflusst.",
+            "english": "The stock price is influenced by various factors."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "word": "die Summe, die Summen",
+    "definition": "A numerical value obtained by adding two or more numbers together. It is commonly used to represent the total or the result of an arithmetic operation.",
+    "examples": [
+        {
+            "german": "Die Summe der Zahlen ist 10.",
+            "english": "The sum of the numbers is 10."
+        },
+        {
+            "german": "Die Summe aller Teile ergibt das Ganze.",
+            "english": "The sum of all parts equals the whole."
+        },
+        {
+            "german": "Die Summe der Rechnung beträgt 50 Euro.",
+            "english": "The sum of the bill is 50 euros."
+        },
+        {
+            "german": "Die Summe der Anwesenden ist 20 Personen.",
+            "english": "The sum of the attendees is 20 people."
+        },
+        {
+            "german": "Die Summe der Bestellungen wurde korrekt berechnet.",
+            "english": "The sum of the orders was calculated correctly."
+        }
+    ]
+}

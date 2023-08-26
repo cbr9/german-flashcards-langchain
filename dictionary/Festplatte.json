@@ -1,0 +1,26 @@
+{
+    "word": "die Festplatte, die Festplatten",
+    "definition": "A device commonly utilized for storing and retrieving digital information, typically found in computers and electronic devices. It is often employed to permanently store data, such as files, documents, and software programs, allowing for easy access and retrieval.",
+    "examples": [
+        {
+            "german": "Die Festplatte meines Computers ist voll.",
+            "english": "The hard drive of my computer is full."
+        },
+        {
+            "german": "Ich habe eine neue Festplatte gekauft.",
+            "english": "I bought a new hard drive."
+        },
+        {
+            "german": "Die Festplatte wird formatiert.",
+            "english": "The hard drive is being formatted."
+        },
+        {
+            "german": "Meine Festplatte ist kaputt.",
+            "english": "My hard drive is broken."
+        },
+        {
+            "german": "Die Festplatte hat eine Speicherkapazität von 1 Terabyte.",
+            "english": "The hard drive has a storage capacity of 1 terabyte."
+        }
+    ]
+}
