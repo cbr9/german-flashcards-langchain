@@ -1,0 +1,26 @@
+{
+    "word": "abbuchen, buchte ab, abgebucht",
+    "definition": "To remove funds from a bank account, typically through an electronic transaction. This term is commonly used in the context of financial transactions and online banking.",
+    "examples": [
+        {
+            "german": "Ich lasse den Betrag von meinem Konto abbuchen.",
+            "english": "I have the amount debited from my account."
+        },
+        {
+            "german": "Kann ich den Betrag von meiner Kreditkarte abbuchen lassen?",
+            "english": "Can I have the amount debited from my credit card?"
+        },
+        {
+            "german": "Bitte buchen Sie den fälligen Betrag von meinem Konto ab.",
+            "english": "Please debit the due amount from my account."
+        },
+        {
+            "german": "Der Betrag wird automatisch von Ihrem Konto abgebucht.",
+            "english": "The amount will be automatically debited from your account."
+        },
+        {
+            "german": "Sie können den Betrag auch per Lastschrift abbuchen lassen.",
+            "english": "You can also have the amount debited by direct debit."
+        }
+    ]
+}

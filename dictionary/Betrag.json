@@ -1,0 +1,26 @@
+{
+    "word": "der Betrag, die Die beträge",
+    "definition": "A numerical value that represents the quantity or amount of something, often used in financial or mathematical contexts to refer to a specific sum or total. It is commonly used when discussing calculations, transactions, or financial matters.",
+    "examples": [
+        {
+            "german": "Der Betrag auf dem Konto ist zu hoch.",
+            "english": "The amount in the account is too high."
+        },
+        {
+            "german": "Bitte überweisen Sie den Betrag bis zum 15. des Monats.",
+            "english": "Please transfer the amount by the 15th of the month."
+        },
+        {
+            "german": "Der Betrag wurde erfolgreich überwiesen.",
+            "english": "The amount has been successfully transferred."
+        },
+        {
+            "german": "Der Betrag wird automatisch von Ihrem Konto abgebucht.",
+            "english": "The amount will be automatically debited from your account."
+        },
+        {
+            "german": "Bitte geben Sie den Betrag in Euro an.",
+            "english": "Please specify the amount in euros."
+        }
+    ]
+}

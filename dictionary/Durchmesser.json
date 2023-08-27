@@ -1,0 +1,26 @@
+{
+    "word": "der Durchmesser, die Durchmesser",
+    "definition": "The measurement of a straight line passing through the center of a circular object, typically used to describe the size or width of the object.",
+    "examples": [
+        {
+            "german": "Der Durchmesser des Kreises beträgt 10 Zentimeter.",
+            "english": "The diameter of the circle is 10 centimeters."
+        },
+        {
+            "german": "Der Durchmesser des Rohrs beträgt 5 Zoll.",
+            "english": "The diameter of the pipe is 5 inches."
+        },
+        {
+            "german": "Der Durchmesser der Kugel wurde gemessen.",
+            "english": "The diameter of the sphere was measured."
+        },
+        {
+            "german": "Der Durchmesser des Baumstamms ist beeindruckend.",
+            "english": "The diameter of the tree trunk is impressive."
+        },
+        {
+            "german": "Der Durchmesser der Erde beträgt etwa 12.742 Kilometer.",
+            "english": "The diameter of the Earth is approximately 12,742 kilometers."
+        }
+    ]
+}

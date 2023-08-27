@@ -1,0 +1,26 @@
+{
+    "word": "aufsteigend",
+    "definition": "The term \"aufsteigend\" refers to a manner of organizing or arranging elements in a specific order. It commonly denotes the action of arranging items or values in an ascending or increasing sequence. This term is frequently used in various contexts, such as mathematics, data analysis, and sorting algorithms, to describe the process of arranging elements from the lowest to the highest value or in a rising order.",
+    "examples": [
+        {
+            "german": "Die Zahlen sind aufsteigend sortiert.",
+            "english": "The numbers are sorted in ascending order."
+        },
+        {
+            "german": "Die Preise steigen aufsteigend an.",
+            "english": "The prices increase in ascending order."
+        },
+        {
+            "german": "Die Schwierigkeitsstufen sind aufsteigend geordnet.",
+            "english": "The difficulty levels are arranged in ascending order."
+        },
+        {
+            "german": "Die Temperaturen steigen aufsteigend an.",
+            "english": "The temperatures rise in ascending order."
+        },
+        {
+            "german": "Die Buchstaben sind aufsteigend alphabetisch sortiert.",
+            "english": "The letters are sorted in ascending alphabetical order."
+        }
+    ]
+}

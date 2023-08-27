@@ -1,0 +1,26 @@
+{
+    "word": "der Buchstabe, die Buchstaben",
+    "definition": "A symbol representing a sound or combination of sounds in a written system, typically forming part of a larger unit of written language. It is commonly used to convey meaning and construct words, sentences, and texts.",
+    "examples": [
+        {
+            "german": "Der Buchstabe A steht am Anfang des Alphabets.",
+            "english": "The letter A is at the beginning of the alphabet."
+        },
+        {
+            "german": "In diesem Wort fehlt ein Buchstabe.",
+            "english": "This word is missing a letter."
+        },
+        {
+            "german": "Kannst du den Buchstaben auf der Tafel erkennen?",
+            "english": "Can you recognize the letter on the blackboard?"
+        },
+        {
+            "german": "Der Buchstabe B wird wie 'be' ausgesprochen.",
+            "english": "The letter B is pronounced like 'be'."
+        },
+        {
+            "german": "Schreib deinen Namen mit Buchstaben, nicht mit Zahlen.",
+            "english": "Write your name with letters, not with numbers."
+        }
+    ]
+}

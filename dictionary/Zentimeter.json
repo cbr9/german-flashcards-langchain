@@ -1,0 +1,26 @@
+{
+    "word": "der Zentimeter, die Zentimeter",
+    "definition": "A unit of measurement commonly used to express length or distance, particularly in scientific, mathematical, and everyday contexts. It is often employed to measure small-scale objects or dimensions, such as the length of a pencil, the width of a book, or the height of a person.",
+    "examples": [
+        {
+            "german": "Der Tisch ist 80 Zentimeter lang.",
+            "english": "The table is 80 centimeters long."
+        },
+        {
+            "german": "Die Flasche hat einen Durchmesser von 10 Zentimetern.",
+            "english": "The bottle has a diameter of 10 centimeters."
+        },
+        {
+            "german": "Er ist 1,85 Meter groß, das sind 185 Zentimeter.",
+            "english": "He is 1.85 meters tall, which is 185 centimeters."
+        },
+        {
+            "german": "Die Breite des Fensters beträgt 120 Zentimeter.",
+            "english": "The width of the window is 120 centimeters."
+        },
+        {
+            "german": "Das Lineal ist 30 Zentimeter lang.",
+            "english": "The ruler is 30 centimeters long."
+        }
+    ]
+}
