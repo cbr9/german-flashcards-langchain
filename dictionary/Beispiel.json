@@ -1,0 +1,26 @@
+{
+    "word": "das Beispiel, die Die beispiele",
+    "definition": "A representation or instance that serves as a model or demonstration, typically employed to illustrate or explain a concept, theory, or principle. It is commonly used in educational settings, presentations, and discussions to provide concrete examples for better understanding or clarification.",
+    "examples": [
+        {
+            "german": "Kannst du mir bitte ein Beispiel geben?",
+            "english": "Can you please give me an example?"
+        },
+        {
+            "german": "Hier ist ein Beispiel für dich.",
+            "english": "Here is an example for you."
+        },
+        {
+            "german": "Lass mich dir ein Beispiel zeigen.",
+            "english": "Let me show you an example."
+        },
+        {
+            "german": "Könntest du das anhand eines Beispiels erklären?",
+            "english": "Could you explain that using an example?"
+        },
+        {
+            "german": "Ich habe ein Beispiel gefunden, das dir helfen könnte.",
+            "english": "I found an example that could help you."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "word": "die Versandadres, die Die versandadressen",
+    "definition": "A term referring to the specific location where an item or package is intended to be delivered, typically associated with online shopping or mail order transactions.",
+    "examples": [
+        {
+            "german": "Bitte geben Sie das Versandadresse an.",
+            "english": "Please provide the shipping address."
+        },
+        {
+            "german": "Das Versandadresse wurde erfolgreich geändert.",
+            "english": "The shipping address has been successfully changed."
+        },
+        {
+            "german": "Wir benötigen Ihr Versandadresse, um Ihnen die Bestellung zuzustellen.",
+            "english": "We need your shipping address to deliver the order to you."
+        },
+        {
+            "german": "Bitte überprüfen Sie Ihre Versandadresse, bevor Sie die Bestellung abschließen.",
+            "english": "Please verify your shipping address before completing the order."
+        },
+        {
+            "german": "Das Versandadresse ist nicht gültig. Bitte korrigieren Sie es.",
+            "english": "The shipping address is not valid. Please correct it."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "word": "die Lieferzeit, die Die lieferzeiten",
+    "definition": "The duration of time between the placement of an order and the delivery of the requested item(s), commonly used in the context of online shopping or product delivery.",
+    "examples": [
+        {
+            "german": "Die Lieferzeit beträgt zwei Tage.",
+            "english": "The delivery time is two days."
+        },
+        {
+            "german": "Bitte beachten Sie die längere Lieferzeit während der Feiertage.",
+            "english": "Please note the longer delivery time during the holidays."
+        },
+        {
+            "german": "Die Lieferzeit kann je nach Standort variieren.",
+            "english": "The delivery time may vary depending on the location."
+        },
+        {
+            "german": "Die Lieferzeit für dieses Produkt beträgt 1-2 Wochen.",
+            "english": "The delivery time for this product is 1-2 weeks."
+        },
+        {
+            "german": "Wir entschuldigen uns für die längere Lieferzeit aufgrund von Engpässen.",
+            "english": "We apologize for the longer delivery time due to shortages."
+        }
+    ]
+}

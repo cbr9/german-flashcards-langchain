@@ -1,0 +1,26 @@
+{
+    "word": "der Sicherheitscode, die Sicherheitscodes",
+    "definition": "A sequence of characters or numbers that serves as a means of verification or authentication, typically used in various digital platforms or transactions to ensure security and prevent unauthorized access or fraudulent activities. It is commonly required during online purchases, account registrations, or when accessing sensitive information.",
+    "examples": [
+        {
+            "german": "Geben Sie den Sicherheitscode ein.",
+            "english": "Enter the security code."
+        },
+        {
+            "german": "Der Sicherheitscode ist abgelaufen.",
+            "english": "The security code has expired."
+        },
+        {
+            "german": "Bitte geben Sie den Sicherheitscode erneut ein.",
+            "english": "Please enter the security code again."
+        },
+        {
+            "german": "Der Sicherheitscode wird per SMS gesendet.",
+            "english": "The security code will be sent via SMS."
+        },
+        {
+            "german": "Der Sicherheitscode besteht aus sechs Ziffern.",
+            "english": "The security code consists of six digits."
+        }
+    ]
+}

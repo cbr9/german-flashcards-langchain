@@ -1,0 +1,26 @@
+{
+    "word": "das Thermometer, die Thermometer",
+    "definition": "A device used to measure and display the temperature of objects or the surrounding environment, typically consisting of a long, narrow glass tube filled with a liquid that expands or contracts with changes in temperature. It is commonly utilized in various scientific, medical, and everyday settings to monitor and record temperature levels accurately.",
+    "examples": [
+        {
+            "german": "Das Thermometer zeigt 25 Grad Celsius an.",
+            "english": "The thermometer shows 25 degrees Celsius."
+        },
+        {
+            "german": "Das Thermometer wird zur Temperaturmessung verwendet.",
+            "english": "The thermometer is used for temperature measurement."
+        },
+        {
+            "german": "Das Thermometer ist kaputt und zeigt falsche Werte an.",
+            "english": "The thermometer is broken and shows incorrect values."
+        },
+        {
+            "german": "Das Thermometer wird in der Medizin eingesetzt.",
+            "english": "The thermometer is used in medicine."
+        },
+        {
+            "german": "Das Thermometer besteht aus Glas und Quecksilber.",
+            "english": "The thermometer is made of glass and mercury."
+        }
+    ]
+}

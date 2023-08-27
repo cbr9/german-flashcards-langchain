@@ -1,0 +1,26 @@
+{
+    "word": "der Speicherfehler, die Speicherfehler",
+    "definition": "A technical term referring to an error or fault that occurs within a computer system, specifically related to the storage or memory component. It commonly describes a malfunction or mistake that affects the proper functioning of data storage, resulting in incorrect or corrupted information. This term is frequently used in the context of computer programming, software development, and troubleshooting.",
+    "examples": [
+        {
+            "german": "Es gab einen Speicherfehler.",
+            "english": "There was a memory error."
+        },
+        {
+            "german": "Der Speicherfehler führte zum Absturz des Programms.",
+            "english": "The memory error caused the program to crash."
+        },
+        {
+            "german": "Ein Speicherfehler wurde im System gefunden.",
+            "english": "A memory error was found in the system."
+        },
+        {
+            "german": "Der Speicherfehler wurde behoben.",
+            "english": "The memory error has been fixed."
+        },
+        {
+            "german": "Ein Speicherfehler kann zu Datenverlust führen.",
+            "english": "A memory error can lead to data loss."
+        }
+    ]
+}

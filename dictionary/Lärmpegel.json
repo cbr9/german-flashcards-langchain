@@ -1,0 +1,26 @@
+{
+    "word": "der Lärmpegel, die Lärmpegel",
+    "definition": "The term \"Lärmpegel\" refers to the measurement or quantification of noise levels in a specific environment. It is commonly used in various fields, such as acoustics, engineering, and environmental studies, to assess and describe the intensity or volume of sound present in a particular area.",
+    "examples": [
+        {
+            "german": "Der Lärmpegel in der Stadt ist sehr hoch.",
+            "english": "The noise level in the city is very high."
+        },
+        {
+            "german": "Der Lärmpegel im Konzertsaal war ohrenbetäubend.",
+            "english": "The noise level in the concert hall was deafening."
+        },
+        {
+            "german": "Der Lärmpegel des Verkehrslärms ist gesundheitsschädlich.",
+            "english": "The noise level of traffic noise is harmful to health."
+        },
+        {
+            "german": "Der Lärmpegel in der Nachbarschaft stört meinen Schlaf.",
+            "english": "The noise level in the neighborhood disturbs my sleep."
+        },
+        {
+            "german": "Der Lärmpegel im Flugzeug ist während des Starts am höchsten.",
+            "english": "The noise level in the airplane is highest during takeoff."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "word": "die Mehrwertsteuer, die Die mehrwertsteuern",
+    "definition": "A tax levied on the value added to goods or services at each stage of production or distribution, typically expressed as a percentage. It is commonly applied in various countries and is often used to generate revenue for the government.",
+    "examples": [
+        {
+            "german": "Die Mehrwertsteuer beträgt 19%.",
+            "english": "The value added tax is 19%."
+        },
+        {
+            "german": "Der Preis ist inklusive Mehrwertsteuer.",
+            "english": "The price includes value added tax."
+        },
+        {
+            "german": "Die Mehrwertsteuer wird auf den Nettopreis aufgeschlagen.",
+            "english": "The value added tax is added to the net price."
+        },
+        {
+            "german": "Die Mehrwertsteuer wird vom Verkäufer an das Finanzamt abgeführt.",
+            "english": "The value added tax is paid by the seller to the tax office."
+        },
+        {
+            "german": "Die Mehrwertsteuer ist in vielen Ländern eine indirekte Steuer.",
+            "english": "Value added tax is an indirect tax in many countries."
+        }
+    ]
+}

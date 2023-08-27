@@ -1,0 +1,26 @@
+{
+    "word": "durchschnittlich",
+    "definition": "The term refers to a value or quality that represents the typical or average level within a given context. It is commonly used to describe something that is neither exceptional nor below average, but rather falls within the middle range or standard.",
+    "examples": [
+        {
+            "german": "Die durchschnittliche Lebenserwartung in Deutschland beträgt 80 Jahre.",
+            "english": "The average life expectancy in Germany is 80 years."
+        },
+        {
+            "german": "Der durchschnittliche Preis für ein Haus in dieser Gegend liegt bei 500.000 Euro.",
+            "english": "The average price for a house in this area is 500,000 euros."
+        },
+        {
+            "german": "Die durchschnittliche Arbeitszeit beträgt 8 Stunden pro Tag.",
+            "english": "The average working time is 8 hours per day."
+        },
+        {
+            "german": "Die durchschnittliche Temperatur im Sommer liegt bei 25 Grad Celsius.",
+            "english": "The average temperature in summer is 25 degrees Celsius."
+        },
+        {
+            "german": "Die durchschnittliche Punktzahl in der Prüfung war 75.",
+            "english": "The average score on the exam was 75."
+        }
+    ]
+}

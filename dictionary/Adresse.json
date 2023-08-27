@@ -1,0 +1,26 @@
+{
+    "word": "die Adresse, die Die adressen",
+    "definition": "A sequence of characters that represents the location of a person, business, or organization, typically consisting of a street name, house number, postal code, and city name. It is commonly used for sending mail or packages, as well as for identifying the physical location of individuals or establishments.",
+    "examples": [
+        {
+            "german": "Meine Adresse ist Hauptstraße 123.",
+            "english": "My address is Main Street 123."
+        },
+        {
+            "german": "Kannst du mir deine Adresse geben?",
+            "english": "Can you give me your address?"
+        },
+        {
+            "german": "Die Adresse des Restaurants ist Am Markt 5.",
+            "english": "The address of the restaurant is Market Street 5."
+        },
+        {
+            "german": "Bitte schreiben Sie Ihre Adresse auf das Formular.",
+            "english": "Please write your address on the form."
+        },
+        {
+            "german": "Die Adresse des Hotels ist nicht weit vom Bahnhof entfernt.",
+            "english": "The address of the hotel is not far from the train station."
+        }
+    ]
+}

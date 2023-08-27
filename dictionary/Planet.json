@@ -1,0 +1,26 @@
+{
+    "word": "der Planet, die Planeten",
+    "definition": "A celestial body that orbits around a star, typically spherical in shape, and is not a satellite of another celestial body. It is most commonly used to refer to the celestial bodies in our solar system, including Earth, Mars, Jupiter, and Saturn.",
+    "examples": [
+        {
+            "german": "Der Planet Erde ist der dritte Planet in unserem Sonnensystem.",
+            "english": "The planet Earth is the third planet in our solar system."
+        },
+        {
+            "german": "Der Mars ist ein roter Planet.",
+            "english": "Mars is a red planet."
+        },
+        {
+            "german": "Die Erde ist der einzige bewohnbare Planet in unserem Sonnensystem.",
+            "english": "Earth is the only habitable planet in our solar system."
+        },
+        {
+            "german": "Der Jupiter ist der größte Planet in unserem Sonnensystem.",
+            "english": "Jupiter is the largest planet in our solar system."
+        },
+        {
+            "german": "Die Venus ist der zweitinnerste Planet in unserem Sonnensystem.",
+            "english": "Venus is the second innermost planet in our solar system."
+        }
+    ]
+}

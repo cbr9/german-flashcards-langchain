@@ -1,0 +1,26 @@
+{
+    "word": "der Gefrierpunkt, die Gefrierpunkte",
+    "definition": "The temperature at which a substance changes from a liquid to a solid state, typically used to describe the freezing point of water.",
+    "examples": [
+        {
+            "german": "Der Gefrierpunkt von Wasser liegt bei 0 Grad Celsius.",
+            "english": "The freezing point of water is 0 degrees Celsius."
+        },
+        {
+            "german": "Bei niedrigen Temperaturen kann der Gefrierpunkt von Benzin sinken.",
+            "english": "At low temperatures, the freezing point of gasoline can decrease."
+        },
+        {
+            "german": "Der Gefrierpunkt von Alkohol liegt je nach Art und Konzentration zwischen -114 und -97 Grad Celsius.",
+            "english": "The freezing point of alcohol varies between -114 and -97 degrees Celsius depending on the type and concentration."
+        },
+        {
+            "german": "Der Gefrierpunkt ist der Punkt, an dem eine Substanz vom flüssigen in den festen Zustand übergeht.",
+            "english": "The freezing point is the point at which a substance changes from the liquid to the solid state."
+        },
+        {
+            "german": "Der Gefrierpunkt kann durch Zugabe von Salz zu Wasser gesenkt werden.",
+            "english": "The freezing point can be lowered by adding salt to water."
+        }
+    ]
+}

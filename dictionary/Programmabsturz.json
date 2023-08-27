@@ -1,0 +1,26 @@
+{
+    "word": "der Programmabsturz, die Programmabstürze",
+    "definition": "A situation where a computer application unexpectedly terminates or crashes, resulting in the abrupt cessation of its normal functioning. This term is commonly employed to describe the occurrence of a software crash or system failure, causing the program to abruptly stop running and potentially losing unsaved data.",
+    "examples": [
+        {
+            "german": "Der Programmabsturz hat den gesamten Computer lahmgelegt.",
+            "english": "The program crash has caused the entire computer to freeze."
+        },
+        {
+            "german": "Ein unerwarteter Programmabsturz führte zum Verlust aller Daten.",
+            "english": "An unexpected program crash resulted in the loss of all data."
+        },
+        {
+            "german": "Der Programmabsturz wurde durch einen Speicherfehler verursacht.",
+            "english": "The program crash was caused by a memory error."
+        },
+        {
+            "german": "Nach dem Programmabsturz musste die Anwendung neu gestartet werden.",
+            "english": "After the program crash, the application had to be restarted."
+        },
+        {
+            "german": "Der Programmabsturz trat während der Ausführung einer komplexen Berechnung auf.",
+            "english": "The program crash occurred during the execution of a complex calculation."
+        }
+    ]
+}

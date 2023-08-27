@@ -1,0 +1,26 @@
+{
+    "word": "das Prozent, die Prozente",
+    "definition": "A numerical value representing a fraction of a whole, typically expressed as a percentage. It is commonly used in various contexts to indicate a portion, share, or rate in relation to a total or whole.",
+    "examples": [
+        {
+            "german": "Prozent",
+            "english": "percent"
+        },
+        {
+            "german": "50 Prozent",
+            "english": "50 percent"
+        },
+        {
+            "german": "10 Prozent Rabatt",
+            "english": "10 percent discount"
+        },
+        {
+            "german": "Die Inflation beträgt 2 Prozent.",
+            "english": "The inflation rate is 2 percent."
+        },
+        {
+            "german": "Er hat einen Anteil von 25 Prozent.",
+            "english": "He has a share of 25 percent."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "word": "barrierefrei",
+    "definition": "A term used to describe an environment, structure, or design that is intentionally created to be accessible and accommodating for individuals with disabilities or limited mobility. It refers to the absence of physical or architectural barriers that might hinder or restrict the movement, participation, or engagement of people with disabilities. This concept is commonly applied to public spaces, buildings, transportation systems, websites, and other facilities to ensure equal access and inclusion for all individuals.",
+    "examples": [
+        {
+            "german": "Das Hotel ist barrierefrei.",
+            "english": "The hotel is wheelchair accessible."
+        },
+        {
+            "german": "Der barrierefreie Zugang zur U-Bahn-Station wurde verbessert.",
+            "english": "The wheelchair accessible entrance to the subway station has been improved."
+        },
+        {
+            "german": "Das barrierefreie Badezimmer ist mit Haltegriffen ausgestattet.",
+            "english": "The accessible bathroom is equipped with handrails."
+        },
+        {
+            "german": "Die Website wurde barrierefrei gestaltet.",
+            "english": "The website has been made accessible."
+        },
+        {
+            "german": "Das barrierefreie Wohnhaus verfügt über einen Aufzug.",
+            "english": "The accessible residential building has an elevator."
+        }
+    ]
+}

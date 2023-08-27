@@ -1,0 +1,26 @@
+{
+    "word": "der Celsius, die Celsiuse",
+    "definition": "A unit of measurement commonly employed to quantify temperature, particularly in scientific and everyday contexts. It is widely used across the globe for measuring temperatures in various settings, including weather forecasts, scientific experiments, and household thermometers.",
+    "examples": [
+        {
+            "german": "Die Temperatur beträgt 25 Grad Celsius.",
+            "english": "The temperature is 25 degrees Celsius."
+        },
+        {
+            "german": "Wasser gefriert bei null Grad Celsius.",
+            "english": "Water freezes at zero degrees Celsius."
+        },
+        {
+            "german": "Heute wird es 30 Grad Celsius warm sein.",
+            "english": "Today it will be 30 degrees Celsius."
+        },
+        {
+            "german": "Die maximale Temperatur beträgt 35 Grad Celsius.",
+            "english": "The maximum temperature is 35 degrees Celsius."
+        },
+        {
+            "german": "Der Ofen ist auf 200 Grad Celsius vorgeheizt.",
+            "english": "The oven is preheated to 200 degrees Celsius."
+        }
+    ]
+}

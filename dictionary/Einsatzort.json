@@ -1,0 +1,26 @@
+{
+    "word": "der Einsatzort, die Einsatzorte",
+    "definition": "A location or place where someone is assigned to work or carry out a specific task, often referring to a specific site or area where an operation, mission, or project is conducted. This term is commonly used in the context of employment, military operations, emergency services, or any situation where individuals are deployed to a particular site for a specific purpose.",
+    "examples": [
+        {
+            "german": "Der Einsatzort des Unfalls war eine Baustelle.",
+            "english": "The scene of the accident was a construction site."
+        },
+        {
+            "german": "Der Einsatzort der Feuerwehr war ein brennendes Gebäude.",
+            "english": "The fire department's deployment location was a burning building."
+        },
+        {
+            "german": "Der Einsatzort der Polizei war ein Banküberfall.",
+            "english": "The police's operation site was a bank robbery."
+        },
+        {
+            "german": "Der Einsatzort des Rettungsdienstes war ein Verkehrsunfall.",
+            "english": "The emergency medical service's deployment location was a traffic accident."
+        },
+        {
+            "german": "Der Einsatzort der Bergrettung war ein abgestürzter Wanderer.",
+            "english": "The mountain rescue's operation site was a fallen hiker."
+        }
+    ]
+}

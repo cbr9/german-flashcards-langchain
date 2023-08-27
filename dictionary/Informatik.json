@@ -1,0 +1,26 @@
+{
+    "word": "die Informatik, die Die informatiken",
+    "definition": "The study and application of computers, computational systems, and information processing, including their theoretical foundations and practical implementations. It encompasses the analysis, design, development, and management of software, hardware, and data structures. This field is commonly used to refer to the academic discipline and professional practice related to computer science and information technology.",
+    "examples": [
+        {
+            "german": "Informatik ist die Wissenschaft von der systematischen Verarbeitung von Informationen.",
+            "english": "Computer science is the science of systematic processing of information."
+        },
+        {
+            "german": "Informatik befasst sich mit der Entwicklung und Anwendung von Software und Hardware.",
+            "english": "Computer science deals with the development and application of software and hardware."
+        },
+        {
+            "german": "Informatik umfasst Bereiche wie Algorithmen, Datenstrukturen und künstliche Intelligenz.",
+            "english": "Computer science includes areas such as algorithms, data structures, and artificial intelligence."
+        },
+        {
+            "german": "Informatik spielt eine wichtige Rolle in der modernen Gesellschaft.",
+            "english": "Computer science plays an important role in modern society."
+        },
+        {
+            "german": "Informatik ermöglicht die Automatisierung von Prozessen und die effiziente Verarbeitung großer Datenmengen.",
+            "english": "Computer science enables the automation of processes and the efficient processing of large amounts of data."
+        }
+    ]
+}

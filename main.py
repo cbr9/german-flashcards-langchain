@@ -219,58 +219,57 @@ def process_lemma(
     deck: Deck,
     ignored_lemmas: set[str],
     pbar: Any,
+    token: Token,
+    llm: BaseLanguageModel,
+    nlp: Language,
     depth: int = 0,
-    token: Optional[Token] = None,
-    llm: Optional[BaseLanguageModel] = None,
-    nlp: Optional[Language] = None,
 ) -> Word | None:
+    if depth > MAX_DEPTH:
+        return None
     if not (dictionary / f"{lemma}.json").exists():
         assert token is not None and llm is not None and nlp is not None
-
-        if depth > MAX_DEPTH:
-            return None
-
         pbar.set_description(lemma)
         word = Word(word=lemma, token=token).define(llm).get_examples(llm).inflect(llm)
         deck += word
-
-        assert word.token is not None
-
-        with open(
-            file=dictionary / f"{lemma}.json",
-            mode="w",
-            encoding="utf-8",
-        ) as f:
-            f.write(word.model_dump_json(indent=4))
-
-        for example in word.examples:
-            doc = nlp(example.german)
-            for token in doc:
-                if (
-                    token.pos_ in {"VERB", "NOUN", "ADV", "ADJ"}
-                    and token.lemma_.lower() not in word.word
-                    and token.is_alpha
-                ):
-                    if token.lemma_ in ignored_lemmas:
-                        continue
-                    try:
-                        deck += process_lemma(
-                            dictionary,
-                            token.lemma_,
-                            deck,
-                            ignored_lemmas,
-                            pbar,
-                            depth + 1,
-                            token,
-                            llm,
-                            nlp,
-                        )
-                    except KeyboardInterrupt:
-                        continue
     else:
         with open(file=dictionary / f"{lemma}.json", mode="r", encoding="utf8") as f:
+            pbar.set_description(lemma)
             word = Word(**json.load(f))
             deck += word
+
+    # assert word.token is not None
+
+    with open(
+        file=dictionary / f"{lemma}.json",
+        mode="w",
+        encoding="utf-8",
+    ) as f:
+        f.write(word.model_dump_json(indent=4))
+
+    for example in word.examples:
+        doc = nlp(example.german)
+        for token in doc:
+            if (
+                token.pos_ in {"VERB", "NOUN", "ADV", "ADJ"}
+                and token.lemma_.lower() not in word.word
+                and token.is_alpha
+            ):
+                if token.lemma_ in ignored_lemmas:
+                    continue
+                try:
+                    deck += process_lemma(
+                        dictionary,
+                        token.lemma_,
+                        deck,
+                        ignored_lemmas,
+                        pbar,
+                        token,
+                        llm,
+                        nlp,
+                        depth + 1,
+                    )
+                except KeyboardInterrupt:
+                    continue
     return word
 
 
@@ -305,10 +304,10 @@ def main():
                 deck,
                 ignored_lemmas,
                 pbar,
-                0,
                 doc[0],
                 llm,
                 nlp,
+                0,
             )
         except KeyboardInterrupt:
             continue

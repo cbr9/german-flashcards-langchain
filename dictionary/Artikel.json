@@ -1,0 +1,26 @@
+{
+    "word": "der Artikel, die Die artikel",
+    "definition": "A grammatical element that typically precedes a noun and provides information about its definiteness, specificity, or generalization. It is commonly used in sentences to indicate the type or category of a noun, and can also convey information about the number or gender of the noun.",
+    "examples": [
+        {
+            "german": "Der Artikel ist gut geschrieben.",
+            "english": "The article is well written."
+        },
+        {
+            "german": "Ich habe einen interessanten Artikel gelesen.",
+            "english": "I read an interesting article."
+        },
+        {
+            "german": "In diesem Artikel wird das Thema ausführlich behandelt.",
+            "english": "This article extensively covers the topic."
+        },
+        {
+            "german": "Der Artikel wurde in der Zeitung veröffentlicht.",
+            "english": "The article was published in the newspaper."
+        },
+        {
+            "german": "Der Artikel hat mir neue Informationen gegeben.",
+            "english": "The article gave me new information."
+        }
+    ]
+}

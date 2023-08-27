@@ -1,0 +1,26 @@
+{
+    "word": "das Verkehrsschild, die Verkehrsschilder",
+    "definition": "A sign typically found on roads or streets, providing important information or instructions to drivers and pedestrians. It is commonly used to regulate traffic, indicate speed limits, give directions, warn of potential hazards, or provide information about nearby facilities or landmarks.",
+    "examples": [
+        {
+            "german": "Das Verkehrsschild zeigt an, dass hier eine Einbahnstraße beginnt.",
+            "english": "The traffic sign indicates that a one-way street begins here."
+        },
+        {
+            "german": "Das Verkehrsschild warnt vor Wildwechsel.",
+            "english": "The traffic sign warns of wild animals crossing."
+        },
+        {
+            "german": "Das Verkehrsschild zeigt an, dass hier eine Baustelle ist.",
+            "english": "The traffic sign indicates that there is a construction site here."
+        },
+        {
+            "german": "Das Verkehrsschild verbietet das Parken in diesem Bereich.",
+            "english": "The traffic sign prohibits parking in this area."
+        },
+        {
+            "german": "Das Verkehrsschild weist auf eine Geschwindigkeitsbegrenzung hin.",
+            "english": "The traffic sign indicates a speed limit."
+        }
+    ]
+}

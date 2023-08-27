@@ -1,0 +1,26 @@
+{
+    "word": "vorhanden",
+    "definition": "The term refers to something that is present or available, typically used to describe the existence or availability of an object, item, or resource. It is commonly used in various contexts to indicate the presence or availability of something, often in relation to physical objects or tangible resources.",
+    "examples": [
+        {
+            "german": "Ist das Buch vorhanden?",
+            "english": "Is the book available?"
+        },
+        {
+            "german": "Es sind keine Informationen darüber vorhanden.",
+            "english": "There is no information available about it."
+        },
+        {
+            "german": "Die benötigten Materialien sind vorhanden.",
+            "english": "The necessary materials are present."
+        },
+        {
+            "german": "Ist ein Arzt vor Ort vorhanden?",
+            "english": "Is there a doctor available on site?"
+        },
+        {
+            "german": "Es sind keine freien Plätze mehr vorhanden.",
+            "english": "There are no more available seats."
+        }
+    ]
+}

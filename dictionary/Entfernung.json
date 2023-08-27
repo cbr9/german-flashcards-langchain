@@ -1,0 +1,26 @@
+{
+    "word": "die Entfernung, die Die entfernungen",
+    "definition": "A measure of the spatial gap between two points, often used to describe the physical distance or separation between objects, locations, or individuals. It is commonly employed in various contexts, such as navigation, transportation, or describing the length between two places.",
+    "examples": [
+        {
+            "german": "Die Entfernung zwischen den beiden Städten beträgt 100 Kilometer.",
+            "english": "The distance between the two cities is 100 kilometers."
+        },
+        {
+            "german": "Die Entfernung von meinem Haus zur Arbeit beträgt 10 Kilometer.",
+            "english": "The distance from my house to work is 10 kilometers."
+        },
+        {
+            "german": "Die Entfernung zum nächsten Supermarkt beträgt nur 500 Meter.",
+            "english": "The distance to the nearest supermarket is only 500 meters."
+        },
+        {
+            "german": "Die Entfernung zwischen den Planeten im Sonnensystem ist enorm.",
+            "english": "The distance between the planets in the solar system is enormous."
+        },
+        {
+            "german": "Die Entfernung von der Erde zum Mond beträgt etwa 384.400 Kilometer.",
+            "english": "The distance from the Earth to the Moon is about 384,400 kilometers."
+        }
+    ]
+}

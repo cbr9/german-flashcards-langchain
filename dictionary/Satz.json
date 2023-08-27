@@ -1,0 +1,26 @@
+{
+    "word": "der Satz, die Die sätze",
+    "definition": "A group of words that forms a complete thought or expresses a statement, question, command, or exclamation. It is typically used to convey meaning and communicate ideas in both written and spoken forms.",
+    "examples": [
+        {
+            "german": "Das ist ein einfacher Satz.",
+            "english": "This is a simple sentence."
+        },
+        {
+            "german": "Der Satz hat fünf Wörter.",
+            "english": "The sentence has five words."
+        },
+        {
+            "german": "Kannst du diesen Satz übersetzen?",
+            "english": "Can you translate this sentence?"
+        },
+        {
+            "german": "Der Satz endet mit einem Punkt.",
+            "english": "The sentence ends with a period."
+        },
+        {
+            "german": "Ich habe den Satz verstanden.",
+            "english": "I understood the sentence."
+        }
+    ]
+}
