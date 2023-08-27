@@ -286,9 +286,10 @@ def main():
         ignored_lemmas = {w.strip() for w in f.readlines() if not w.startswith("//")}
 
     with open(file="words.txt", mode="r", encoding="utf8") as f:
-        lemmas = {w.strip() for w in f.readlines() if not w.startswith("//")} | {
-            word.stem for word in dictionary.glob("*.json")
-        }
+        lemmas = sorted(
+            {w.strip() for w in f.readlines() if not w.startswith("//")}
+            | {word.stem for word in dictionary.glob("*.json")}
+        )
 
     pbar = tqdm(lemmas)
     for lemma in pbar:
