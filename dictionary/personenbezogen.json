@@ -1,0 +1,26 @@
+{
+    "word": "personenbezogen",
+    "definition": "A term used to describe information, data, or actions that are directly related to individuals, typically referring to personal or private matters. It is commonly used in the context of data protection, privacy regulations, and legal frameworks.",
+    "examples": [
+        {
+            "german": "Die personenbezogenen Daten müssen geschützt werden.",
+            "english": "The personal data must be protected."
+        },
+        {
+            "german": "Die personenbezogenen Informationen werden vertraulich behandelt.",
+            "english": "The personal information is treated confidentially."
+        },
+        {
+            "german": "Die personenbezogenen Angaben sind freiwillig.",
+            "english": "The personal details are voluntary."
+        },
+        {
+            "german": "Die personenbezogenen Merkmale werden anonymisiert.",
+            "english": "The personal characteristics are anonymized."
+        },
+        {
+            "german": "Die personenbezogenen Daten dürfen nicht weitergegeben werden.",
+            "english": "The personal data must not be disclosed."
+        }
+    ]
+}

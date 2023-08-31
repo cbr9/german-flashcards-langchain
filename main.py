@@ -1,10 +1,11 @@
 from enum import Enum
 import json
+import os
 from langchain import PromptTemplate
 from langchain.schema.language_model import BaseLanguageModel
 from langchain.schema.output_parser import BaseOutputParser
 from spacy.language import Language
-from spacy.tokens import MorphAnalysis, Token
+from spacy.tokens import Token
 from tqdm import tqdm
 from langchain.chat_models import ChatOpenAI
 from langchain.output_parsers import EnumOutputParser, PydanticOutputParser
@@ -19,7 +20,7 @@ import re
 input_variables_pattern = re.compile(pattern=r"\{\w+\}")
 gender2article = {"Masc": "der", "Fem": "die", "Neut": "das"}
 
-MAX_DEPTH = 3
+MAX_DEPTH = 2
 
 
 class Inflection(BaseModel):
@@ -231,45 +232,61 @@ def process_lemma(
         pbar.set_description(lemma)
         word = Word(word=lemma, token=token).define(llm).get_examples(llm).inflect(llm)
         deck += word
+        assert word.token is not None
+
+        with open(
+            file=dictionary / f"{lemma}.json",
+            mode="w",
+            encoding="utf-8",
+        ) as f:
+            f.write(word.model_dump_json(indent=4))
+
+        for example in word.examples:
+            doc = nlp(example.german)
+            for token in doc:
+                if (
+                    token.pos_ in {"VERB", "NOUN", "ADV", "ADJ"}
+                    and token.lemma_.lower() not in word.word
+                    and token.is_alpha
+                ):
+                    if token.lemma_ in ignored_lemmas:
+                        continue
+                    try:
+                        deck += process_lemma(
+                            dictionary,
+                            token.lemma_,
+                            deck,
+                            ignored_lemmas,
+                            pbar,
+                            token,
+                            llm,
+                            nlp,
+                            depth + 1,
+                        )
+                    except KeyboardInterrupt:
+                        continue
     else:
-        with open(file=dictionary / f"{lemma}.json", mode="r", encoding="utf8") as f:
+        path = dictionary / f"{lemma}.json"
+        with open(file=path, mode="r", encoding="utf8") as f:
             pbar.set_description(lemma)
-            word = Word(**json.load(f))
-            deck += word
+            try:
+                word = Word(**json.load(f))
+                deck += word
+            except json.JSONDecodeError:
+                os.remove(path)
+                word = process_lemma(
+                    dictionary,
+                    lemma,
+                    deck,
+                    ignored_lemmas,
+                    pbar,
+                    token,
+                    llm,
+                    nlp,
+                    0,
+                )
+                assert word is not None
 
-    # assert word.token is not None
-
-    with open(
-        file=dictionary / f"{lemma}.json",
-        mode="w",
-        encoding="utf-8",
-    ) as f:
-        f.write(word.model_dump_json(indent=4))
-
-    for example in word.examples:
-        doc = nlp(example.german)
-        for token in doc:
-            if (
-                token.pos_ in {"VERB", "NOUN", "ADV", "ADJ"}
-                and token.lemma_.lower() not in word.word
-                and token.is_alpha
-            ):
-                if token.lemma_ in ignored_lemmas:
-                    continue
-                try:
-                    deck += process_lemma(
-                        dictionary,
-                        token.lemma_,
-                        deck,
-                        ignored_lemmas,
-                        pbar,
-                        token,
-                        llm,
-                        nlp,
-                        depth + 1,
-                    )
-                except KeyboardInterrupt:
-                    continue
     return word
 
 
@@ -278,7 +295,7 @@ def main():
     dictionary.mkdir(parents=True, exist_ok=True)
 
     deck = Deck()
-    llm = ChatOpenAI(temperature=0)
+    llm = ChatOpenAI(temperature=0.2)
     nlp = spacy.load("de_core_news_lg")
 
     with open(file="ignored_lemmas.txt", mode="r", encoding="utf8") as f:

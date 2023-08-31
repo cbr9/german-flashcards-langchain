@@ -1,0 +1,26 @@
+{
+    "word": "die Liste, die Die listen",
+    "definition": "A collection of items or names organized in a specific order, typically used for reference, categorization, or enumeration. It is commonly employed to keep track of various things, such as tasks, requirements, inventory, or preferences.",
+    "examples": [
+        {
+            "german": "Ich habe eine Liste mit Einkäufen.",
+            "english": "I have a list of groceries."
+        },
+        {
+            "german": "Bitte tragen Sie sich in die Liste ein.",
+            "english": "Please sign your name on the list."
+        },
+        {
+            "german": "Die Liste der Gewinner wird morgen bekannt gegeben.",
+            "english": "The list of winners will be announced tomorrow."
+        },
+        {
+            "german": "Er hat eine Liste mit seinen Lieblingsbüchern erstellt.",
+            "english": "He created a list of his favorite books."
+        },
+        {
+            "german": "Die Liste der Teilnehmer ist noch nicht vollständig.",
+            "english": "The list of participants is not complete yet."
+        }
+    ]
+}

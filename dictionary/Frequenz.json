@@ -1,0 +1,26 @@
+{
+    "word": "die Frequenz, die Die frequenzen",
+    "definition": "A measure of the number of occurrences of a repeating event per unit of time, commonly used in the context of waves, signals, or oscillations. It is often utilized to describe the rate at which a particular event or phenomenon repeats within a given timeframe.",
+    "examples": [
+        {
+            "german": "Die Frequenz des Radiosenders beträgt 98.5 MHz.",
+            "english": "The frequency of the radio station is 98.5 MHz."
+        },
+        {
+            "german": "Die Frequenz des WLAN-Netzwerks ist stabil.",
+            "english": "The frequency of the Wi-Fi network is stable."
+        },
+        {
+            "german": "Die Frequenz des Herzschlags kann gemessen werden.",
+            "english": "The frequency of the heartbeat can be measured."
+        },
+        {
+            "german": "Die Frequenz der Schallwellen beeinflusst den Klang.",
+            "english": "The frequency of the sound waves affects the tone."
+        },
+        {
+            "german": "Die Frequenz der Lichtwellen bestimmt die Farbe.",
+            "english": "The frequency of the light waves determines the color."
+        }
+    ]
+}

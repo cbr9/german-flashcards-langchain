@@ -1,0 +1,26 @@
+{
+    "word": "das Haltbarkeitsdatum, die Haltbarkeitsdaten",
+    "definition": "The term refers to a specific date or time period associated with a product, indicating its expected duration of quality, freshness, or usability. It is commonly found on food items, beverages, and other perishable goods, serving as a guideline for consumers to determine the product's expiration or best-before date.",
+    "examples": [
+        {
+            "german": "Das Haltbarkeitsdatum ist abgelaufen.",
+            "english": "The expiration date has passed."
+        },
+        {
+            "german": "Bitte prüfen Sie das Haltbarkeitsdatum vor dem Verzehr.",
+            "english": "Please check the expiration date before consuming."
+        },
+        {
+            "german": "Das Haltbarkeitsdatum beträgt zwei Jahre.",
+            "english": "The expiration date is two years."
+        },
+        {
+            "german": "Das Haltbarkeitsdatum ist auf der Verpackung angegeben.",
+            "english": "The expiration date is indicated on the packaging."
+        },
+        {
+            "german": "Das Haltbarkeitsdatum kann verlängert werden.",
+            "english": "The expiration date can be extended."
+        }
+    ]
+}

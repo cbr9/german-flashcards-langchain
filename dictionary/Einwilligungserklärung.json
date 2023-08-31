@@ -1,0 +1,26 @@
+{
+    "word": "die Einwilligungserklärung, die Die einwilligungserklärungen",
+    "definition": "A formal document that signifies an individual's agreement or consent to a specific action or request, often used in legal or administrative contexts. It is commonly employed in situations where permission, authorization, or approval is required from an individual for a particular purpose.",
+    "examples": [
+        {
+            "german": "Die Einwilligungserklärung muss schriftlich erfolgen.",
+            "english": "The consent declaration must be in writing."
+        },
+        {
+            "german": "Ohne Einwilligungserklärung dürfen personenbezogene Daten nicht verarbeitet werden.",
+            "english": "Personal data may not be processed without a consent declaration."
+        },
+        {
+            "german": "Die Einwilligungserklärung kann jederzeit widerrufen werden.",
+            "english": "The consent declaration can be revoked at any time."
+        },
+        {
+            "german": "Die Einwilligungserklärung muss freiwillig abgegeben werden.",
+            "english": "The consent declaration must be given voluntarily."
+        },
+        {
+            "german": "Die Einwilligungserklärung ist für die Datenverarbeitung unerlässlich.",
+            "english": "The consent declaration is essential for data processing."
+        }
+    ]
+}
