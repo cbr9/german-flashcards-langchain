@@ -3,13 +3,14 @@ import json
 import os
 from langchain import PromptTemplate
 from langchain.schema.language_model import BaseLanguageModel
-from langchain.schema.output_parser import BaseOutputParser
+from langchain.schema.output_parser import BaseOutputParser, OutputParserException
+from pydantic import validate_call
 from spacy.language import Language
 from spacy.tokens import Token
 from tqdm import tqdm
 from langchain.chat_models import ChatOpenAI
 from langchain.output_parsers import EnumOutputParser, PydanticOutputParser
-from typing import Any, Iterator, Optional
+from typing import Any, Iterator, Literal, Optional
 from pathlib import Path
 from pydantic import BaseModel, Field
 import genanki
@@ -33,6 +34,17 @@ class Gender(Enum):
     Neuter = "neuter"
     Feminine = "feminine"
     Masculine = "masculine"
+
+    @classmethod
+    @validate_call
+    def from_str(cls, s: Literal["neuter", "feminine", "masculine"]) -> Self:
+        match s:
+            case "neuter":
+                return Gender.Neuter
+            case "feminine":
+                return Gender.Feminine
+            case "masculine":
+                return Gender.Masculine
 
     @property
     def article(self) -> str:
@@ -142,8 +154,16 @@ class Word(BaseModel):
                     # SpaCy couldn't determine the gender, will retry with GPT
                     parser = EnumOutputParser(enum=Gender)
                     template = load_template("gender", parser=parser)
-                    gender = llm.predict(template.format(word=self.word))
-                    gender = parser.parse(gender)
+                    prediction = llm.predict(template.format(word=self.word))
+                    try:
+                        gender = parser.parse(prediction)
+                    except OutputParserException:
+                        parsed = re.findall(
+                            pattern=r"neuter|masculine|feminine",
+                            string=prediction,
+                        )
+                        gender = Gender.from_str(parsed[0])
+
                     article = gender.article
                     singular = self.word.capitalize()
 
