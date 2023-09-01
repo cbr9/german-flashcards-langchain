@@ -1,0 +1,26 @@
+{
+    "word": "der Atom, die Atome",
+    "definition": "A fundamental unit of matter that retains its chemical properties in chemical reactions, typically composed of a positively charged nucleus and negatively charged electrons orbiting around it. It is commonly referred to in the context of physics, chemistry, and atomic theory.",
+    "examples": [
+        {
+            "german": "Das Atom besteht aus einem Atomkern und Elektronen.",
+            "english": "The atom consists of a nucleus and electrons."
+        },
+        {
+            "german": "Die Kernspaltung eines Atoms kann Energie freisetzen.",
+            "english": "Nuclear fission of an atom can release energy."
+        },
+        {
+            "german": "Das Atommodell von Bohr beschreibt Elektronen in Schalen um den Atomkern.",
+            "english": "Bohr's atomic model describes electrons in shells around the nucleus."
+        },
+        {
+            "german": "Die Anzahl der Protonen im Atomkern bestimmt das chemische Element.",
+            "english": "The number of protons in the nucleus determines the chemical element."
+        },
+        {
+            "german": "Ein Atom ist die kleinste Einheit eines chemischen Elements.",
+            "english": "An atom is the smallest unit of a chemical element."
+        }
+    ]
+}

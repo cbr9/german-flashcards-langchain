@@ -1,0 +1,26 @@
+{
+    "word": "der Kurzschluss, die Kurzschlüsse",
+    "definition": "A phenomenon that occurs when an unintended connection or direct path is created between two points, resulting in a disruption or bypassing of the normal flow or circuit. It is commonly used in the context of electrical systems and circuits, where it refers to a short circuit.",
+    "examples": [
+        {
+            "german": "Ein Kurzschluss in der Elektrik kann zu einem Brand führen.",
+            "english": "A short circuit in the electrical system can cause a fire."
+        },
+        {
+            "german": "Der Kurzschluss hat die Sicherungen durchgebrannt.",
+            "english": "The short circuit blew the fuses."
+        },
+        {
+            "german": "Durch einen Kurzschluss ist die ganze Anlage ausgefallen.",
+            "english": "The entire system failed due to a short circuit."
+        },
+        {
+            "german": "Ein Kurzschluss kann zu schweren Schäden an den Geräten führen.",
+            "english": "A short circuit can cause severe damage to the devices."
+        },
+        {
+            "german": "Der Techniker hat den Kurzschluss schnell behoben.",
+            "english": "The technician quickly fixed the short circuit."
+        }
+    ]
+}

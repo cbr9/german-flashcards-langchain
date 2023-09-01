@@ -1,0 +1,26 @@
+{
+    "word": "der Server, die Die server",
+    "definition": "A computer system that provides services and resources to other computers or devices, typically over a network. It is commonly utilized for hosting websites, managing databases, or facilitating communication and data storage between multiple devices.",
+    "examples": [
+        {
+            "german": "Der Server ist abgestürzt.",
+            "english": "The server crashed."
+        },
+        {
+            "german": "Wir haben einen neuen Server gekauft.",
+            "english": "We bought a new server."
+        },
+        {
+            "german": "Der Server ist überlastet.",
+            "english": "The server is overloaded."
+        },
+        {
+            "german": "Der Server ist offline.",
+            "english": "The server is offline."
+        },
+        {
+            "german": "Der Server wurde gehackt.",
+            "english": "The server was hacked."
+        }
+    ]
+}
