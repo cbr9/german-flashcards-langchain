@@ -1,0 +1,26 @@
+{
+    "word": "das Sicherheitsrisiko, die Sicherheitsrisiken",
+    "definition": "A term used to describe a situation, condition, or factor that poses potential harm, danger, or threat to safety and security. It is commonly employed in contexts related to assessing and managing risks, particularly in the fields of technology, infrastructure, and public safety.",
+    "examples": [
+        {
+            "german": "Sicherheitsrisiko",
+            "english": "security risk"
+        },
+        {
+            "german": "Das Unternehmen hat ein Sicherheitsrisiko identifiziert.",
+            "english": "The company has identified a security risk."
+        },
+        {
+            "german": "Die Verwendung veralteter Software stellt ein Sicherheitsrisiko dar.",
+            "english": "Using outdated software represents a security risk."
+        },
+        {
+            "german": "Der Verlust des Passworts kann ein Sicherheitsrisiko darstellen.",
+            "english": "Losing the password can pose a security risk."
+        },
+        {
+            "german": "Die ungesicherte WLAN-Verbindung ist ein Sicherheitsrisiko.",
+            "english": "The unsecured Wi-Fi connection is a security risk."
+        }
+    ]
+}
