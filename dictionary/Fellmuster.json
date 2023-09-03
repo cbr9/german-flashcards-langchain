@@ -1,0 +1,26 @@
+{
+    "word": "der Fellmuster, die Fellmuster",
+    "definition": "A pattern or design typically found on the exterior of an animal's coat, often used to identify or distinguish different species or individuals within a species. It is commonly referenced in the context of studying and categorizing various animal species based on their unique fur patterns.",
+    "examples": [
+        {
+            "german": "Das Fellmuster des Tigers ist gestreift.",
+            "english": "The fur pattern of the tiger is striped."
+        },
+        {
+            "german": "Das Fellmuster des Leoparden ist gefleckt.",
+            "english": "The fur pattern of the leopard is spotted."
+        },
+        {
+            "german": "Das Fellmuster des Zebra ist gestreift.",
+            "english": "The fur pattern of the zebra is striped."
+        },
+        {
+            "german": "Das Fellmuster des Dalmatiners ist gepunktet.",
+            "english": "The fur pattern of the Dalmatian is spotted."
+        },
+        {
+            "german": "Das Fellmuster des Schäferhunds ist einfarbig.",
+            "english": "The fur pattern of the German Shepherd is solid."
+        }
+    ]
+}

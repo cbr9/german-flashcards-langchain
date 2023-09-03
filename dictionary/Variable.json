@@ -1,0 +1,26 @@
+{
+    "word": "die Variable, die Die variablen",
+    "definition": "A term used in mathematics, computer programming, and scientific contexts to describe a quantity or symbol that can take on different values or be assigned different meanings within a given context. It is commonly utilized to represent unknowns, placeholders, or changing values in equations, algorithms, or scientific experiments.",
+    "examples": [
+        {
+            "german": "Die Variable x hat den Wert 5.",
+            "english": "The variable x has the value 5."
+        },
+        {
+            "german": "Die Variable wird in der Schleife aktualisiert.",
+            "english": "The variable is updated in the loop."
+        },
+        {
+            "german": "Die Funktion akzeptiert eine Variable als Parameter.",
+            "english": "The function accepts a variable as a parameter."
+        },
+        {
+            "german": "Die Variable kann verschiedene Datentypen speichern.",
+            "english": "The variable can store different data types."
+        },
+        {
+            "german": "Die Variable wird deklariert, bevor sie verwendet wird.",
+            "english": "The variable is declared before it is used."
+        }
+    ]
+}

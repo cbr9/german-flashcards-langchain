@@ -1,0 +1,26 @@
+{
+    "word": "die Gleichung, die Die gleichungen",
+    "definition": "A mathematical statement that expresses the equality of two quantities or expressions, typically consisting of variables, constants, and mathematical operations. It is commonly used in the field of mathematics to represent equations and solve for unknown values.",
+    "examples": [
+        {
+            "german": "Die Gleichung hat eine Lösung.",
+            "english": "The equation has a solution."
+        },
+        {
+            "german": "Die Gleichung ist komplex.",
+            "english": "The equation is complex."
+        },
+        {
+            "german": "Die Gleichung kann nicht gelöst werden.",
+            "english": "The equation cannot be solved."
+        },
+        {
+            "german": "Die Gleichung enthält Variablen.",
+            "english": "The equation contains variables."
+        },
+        {
+            "german": "Die Gleichung ist quadratisch.",
+            "english": "The equation is quadratic."
+        }
+    ]
+}

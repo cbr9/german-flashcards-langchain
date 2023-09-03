@@ -1,0 +1,26 @@
+{
+    "word": "die Echtzeit, die Die echtzeiten",
+    "definition": "A term used to describe the immediate or real-time processing and transmission of data or information, typically in the context of technology, computing, or communication systems. It refers to the ability to process and respond to data instantaneously, without any noticeable delay. This term is commonly used in various fields, including telecommunications, data analysis, and interactive systems.",
+    "examples": [
+        {
+            "german": "Echtzeit ist eine Form der Datenverarbeitung, bei der die Daten sofort verarbeitet und angezeigt werden.",
+            "english": "Real-time is a form of data processing where the data is processed and displayed immediately."
+        },
+        {
+            "german": "In der Echtzeitkommunikation werden Informationen in Echtzeit übertragen und empfangen.",
+            "english": "Real-time communication involves transmitting and receiving information in real-time."
+        },
+        {
+            "german": "Echtzeitbetriebssysteme ermöglichen die Ausführung von Aufgaben ohne Verzögerung.",
+            "english": "Real-time operating systems allow tasks to be executed without delay."
+        },
+        {
+            "german": "Die Echtzeitanalyse von Daten ermöglicht es Unternehmen, sofortige Einblicke in ihre Geschäftsprozesse zu erhalten.",
+            "english": "Real-time data analysis enables companies to gain immediate insights into their business processes."
+        },
+        {
+            "german": "Echtzeitüberwachungssysteme können kontinuierlich Daten erfassen und in Echtzeit analysieren.",
+            "english": "Real-time monitoring systems can continuously capture and analyze data in real-time."
+        }
+    ]
+}

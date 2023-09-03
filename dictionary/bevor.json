@@ -1,0 +1,26 @@
+{
+    "word": "bevor",
+    "definition": "A conjunction used to express the temporal relationship between two events or actions, indicating that the first event/action occurs prior to the second event/action. It is commonly used to introduce a subordinate clause that describes an action happening before another action in time.",
+    "examples": [
+        {
+            "german": "Bevor ich zur Arbeit gehe, trinke ich immer einen Kaffee.",
+            "english": "Before I go to work, I always have a coffee."
+        },
+        {
+            "german": "Ich muss noch einkaufen gehen, bevor der Laden schließt.",
+            "english": "I still have to go shopping before the store closes."
+        },
+        {
+            "german": "Bevor du ins Bett gehst, vergiss nicht, das Licht auszuschalten.",
+            "english": "Before you go to bed, don't forget to turn off the light."
+        },
+        {
+            "german": "Ich möchte noch duschen, bevor wir zum Abendessen gehen.",
+            "english": "I want to take a shower before we go to dinner."
+        },
+        {
+            "german": "Bevor du das Buch liest, solltest du den ersten Teil verstehen.",
+            "english": "Before you read the book, you should understand the first part."
+        }
+    ]
+}

@@ -1,8 +1,7 @@
 {
     "word": "auch",
     "definition": "The word \"auch\" is an adverb that is commonly used to indicate inclusion or addition. It is often employed to express similarity, similarity of actions, or agreement. It can also be used to emphasize a point or to add emphasis to a statement.",
-    "examples": {
-        "examples": [
+    "examples":  [
             {
                 "german": "Ich bin auch da.",
                 "english": "I am also here."
@@ -24,5 +23,5 @@
                 "english": "You can also do it."
             }
         ]
-    }
+    
 }
