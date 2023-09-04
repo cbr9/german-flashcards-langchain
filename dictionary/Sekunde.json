@@ -1,0 +1,26 @@
+{
+    "word": "die Sekunde, die Die sekunden",
+    "definition": "A unit of time that is commonly used to measure short durations, typically equal to 1/60th of a minute. It is often utilized in scientific contexts, such as in physics or astronomy, to denote precise time intervals or to measure the duration of events.",
+    "examples": [
+        {
+            "german": "Eine Sekunde hat 1000 Millisekunden.",
+            "english": "One second has 1000 milliseconds."
+        },
+        {
+            "german": "Warte bitte eine Sekunde.",
+            "english": "Please wait a second."
+        },
+        {
+            "german": "Ich komme in einer Sekunde.",
+            "english": "I'll be there in a second."
+        },
+        {
+            "german": "Die Uhr tickt jede Sekunde.",
+            "english": "The clock ticks every second."
+        },
+        {
+            "german": "Er hat den Rekord in der 100-Meter-Sprint in 9,58 Sekunden gebrochen.",
+            "english": "He broke the record in the 100-meter sprint in 9.58 seconds."
+        }
+    ]
+}
