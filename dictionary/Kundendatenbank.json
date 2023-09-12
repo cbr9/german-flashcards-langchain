@@ -1,0 +1,26 @@
+{
+    "word": "die Kundendatenbank, die Die kundendatenbanken",
+    "definition": "A database that stores information related to individuals who have engaged in transactions or interactions with a business, typically used for managing customer records and facilitating customer relationship management.",
+    "examples": [
+        {
+            "german": "Die Kundendatenbank enthält alle Informationen über unsere Kunden.",
+            "english": "The customer database contains all information about our customers."
+        },
+        {
+            "german": "Wir haben eine Kundendatenbank, um den Kontakt zu unseren Kunden zu pflegen.",
+            "english": "We have a customer database to maintain contact with our customers."
+        },
+        {
+            "german": "Die Kundendatenbank wird regelmäßig aktualisiert, um genaue Informationen bereitzustellen.",
+            "english": "The customer database is regularly updated to provide accurate information."
+        },
+        {
+            "german": "In der Kundendatenbank sind alle Bestellungen der Kunden gespeichert.",
+            "english": "All customer orders are stored in the customer database."
+        },
+        {
+            "german": "Die Kundendatenbank ermöglicht es uns, personalisierte Angebote zu erstellen.",
+            "english": "The customer database allows us to create personalized offers."
+        }
+    ]
+}

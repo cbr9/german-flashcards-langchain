@@ -1,3 +1,4 @@
+from dotenv import load_dotenv
 from enum import Enum
 import json
 import os

@@ -56,6 +56,7 @@
                     pydantic
                     genanki
                     spacy
+                    python_dotenv
                   '';
                 };
               };
