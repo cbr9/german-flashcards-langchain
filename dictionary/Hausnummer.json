@@ -1,0 +1,26 @@
+{
+    "word": "die Hausnummer, die Die hausnummern",
+    "definition": "A numerical identifier affixed to a building or property, typically displayed prominently on the exterior, serving as a means of identification for postal purposes, navigation, and locating specific addresses within a city or town.",
+    "examples": [
+        {
+            "german": "Die Hausnummer 10",
+            "english": "House number 10"
+        },
+        {
+            "german": "Bitte geben Sie Ihre Hausnummer an.",
+            "english": "Please provide your house number."
+        },
+        {
+            "german": "Die Hausnummer ist schwer zu erkennen.",
+            "english": "The house number is hard to recognize."
+        },
+        {
+            "german": "Die Hausnummer steht auf dem Briefkasten.",
+            "english": "The house number is on the mailbox."
+        },
+        {
+            "german": "Die Hausnummer fehlt auf dem Klingelschild.",
+            "english": "The house number is missing on the doorbell plate."
+        }
+    ]
+}

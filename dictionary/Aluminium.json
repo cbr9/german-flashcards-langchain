@@ -1,0 +1,26 @@
+{
+    "word": "das Aluminium, die Aluminium",
+    "definition": "A lightweight, silvery-white metallic element commonly utilized in various industries due to its excellent conductivity, corrosion resistance, and low density. It is frequently employed in the production of aircraft, packaging materials, electrical wiring, and construction materials.",
+    "examples": [
+        {
+            "german": "Aluminium ist ein leichtes Metall.",
+            "english": "Aluminium is a lightweight metal."
+        },
+        {
+            "german": "Die Getränkedose besteht aus Aluminium.",
+            "english": "The beverage can is made of aluminium."
+        },
+        {
+            "german": "Aluminium wird häufig für Verpackungen verwendet.",
+            "english": "Aluminium is commonly used for packaging."
+        },
+        {
+            "german": "Das Flugzeug ist aus Aluminium gefertigt.",
+            "english": "The airplane is made of aluminium."
+        },
+        {
+            "german": "Aluminium ist korrosionsbeständig.",
+            "english": "Aluminium is corrosion-resistant."
+        }
+    ]
+}
