@@ -1,0 +1,26 @@
+{
+    "word": "der Haftbefehl, die Haftbefehle",
+    "definition": "A legal document issued by a court, typically in criminal cases, authorizing the arrest or detention of an individual. It is commonly used to ensure the presence of the person in question during legal proceedings.",
+    "examples": [
+        {
+            "german": "Der Richter erließ einen Haftbefehl gegen den Angeklagten.",
+            "english": "The judge issued an arrest warrant against the defendant."
+        },
+        {
+            "german": "Die Polizei vollstreckte den Haftbefehl und nahm den Flüchtigen fest.",
+            "english": "The police executed the arrest warrant and apprehended the fugitive."
+        },
+        {
+            "german": "Der Haftbefehl wurde aufgrund fehlender Beweise aufgehoben.",
+            "english": "The arrest warrant was lifted due to lack of evidence."
+        },
+        {
+            "german": "Der Verdächtige wurde aufgrund eines Haftbefehls in Untersuchungshaft genommen.",
+            "english": "The suspect was taken into custody pending trial based on an arrest warrant."
+        },
+        {
+            "german": "Der Haftbefehl wurde gegen Kaution außer Vollzug gesetzt.",
+            "english": "The arrest warrant was suspended on bail."
+        }
+    ]
+}

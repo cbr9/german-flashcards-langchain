@@ -1,0 +1,26 @@
+{
+    "word": "das Benutzerkonto, die Die benutzerkonten",
+    "definition": "A personal account created by an individual to access and utilize various services, applications, or systems, typically requiring a unique username and password. It is commonly employed in the context of digital platforms, websites, or software, enabling users to personalize their settings, store information, and engage in specific activities.",
+    "examples": [
+        {
+            "german": "Ich habe mein Benutzerkonto gelöscht.",
+            "english": "I deleted my user account."
+        },
+        {
+            "german": "Um sich anzumelden, benötigen Sie ein Benutzerkonto.",
+            "english": "To log in, you need a user account."
+        },
+        {
+            "german": "Bitte geben Sie Ihren Benutzernamen und Ihr Passwort ein, um auf Ihr Benutzerkonto zuzugreifen.",
+            "english": "Please enter your username and password to access your user account."
+        },
+        {
+            "german": "Sie können Ihr Benutzerkonto jederzeit ändern oder löschen.",
+            "english": "You can change or delete your user account at any time."
+        },
+        {
+            "german": "Das Benutzerkonto wurde erfolgreich erstellt.",
+            "english": "The user account has been successfully created."
+        }
+    ]
+}

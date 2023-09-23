@@ -1,0 +1,26 @@
+{
+    "word": "die Datensicherung, die Die datensicherungen",
+    "definition": "A process or action of creating copies or backups of digital information or data, typically performed to prevent loss or damage to important files, documents, or databases. It is commonly used in the context of computer systems, networks, and storage devices to ensure data integrity and facilitate recovery in case of accidental deletion, hardware failure, or security breaches.",
+    "examples": [
+        {
+            "german": "Die Datensicherung erfolgt automatisch.",
+            "english": "The data backup is done automatically."
+        },
+        {
+            "german": "Vergessen Sie nicht, regelmäßig eine Datensicherung durchzuführen.",
+            "english": "Don't forget to perform regular data backups."
+        },
+        {
+            "german": "Die Datensicherung kann auf externen Festplatten gespeichert werden.",
+            "english": "The data backup can be stored on external hard drives."
+        },
+        {
+            "german": "Die Datensicherung ist ein wichtiger Schutz vor Datenverlust.",
+            "english": "Data backup is an important protection against data loss."
+        },
+        {
+            "german": "Die Datensicherung dauert nur wenige Minuten.",
+            "english": "The data backup takes only a few minutes."
+        }
+    ]
+}

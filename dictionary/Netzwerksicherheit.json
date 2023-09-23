@@ -1,0 +1,26 @@
+{
+    "word": "die Netzwerksicherheit, die Die netzwerksicherheiten",
+    "definition": "The term refers to the protection and preservation of computer networks, encompassing various measures and protocols implemented to safeguard the integrity, confidentiality, and availability of data transmitted within a network. It commonly involves the implementation of security mechanisms, such as firewalls, encryption, authentication, and intrusion detection systems, to prevent unauthorized access, data breaches, and other cyber threats.",
+    "examples": [
+        {
+            "german": "Netzwerksicherheit ist ein wichtiger Aspekt der IT-Sicherheit.",
+            "english": "Network security is an important aspect of IT security."
+        },
+        {
+            "german": "Die Netzwerksicherheit umfasst Maßnahmen zum Schutz von Netzwerken vor unbefugtem Zugriff.",
+            "english": "Network security includes measures to protect networks from unauthorized access."
+        },
+        {
+            "german": "Ein Firewall ist ein gängiges Instrument zur Netzwerksicherheit.",
+            "english": "A firewall is a common tool for network security."
+        },
+        {
+            "german": "Die Netzwerksicherheit befasst sich mit der Verhinderung von Datenlecks und Angriffen.",
+            "english": "Network security deals with preventing data leaks and attacks."
+        },
+        {
+            "german": "Die Netzwerksicherheit spielt eine entscheidende Rolle in Unternehmen, um sensible Informationen zu schützen.",
+            "english": "Network security plays a crucial role in protecting sensitive information in companies."
+        }
+    ]
+}

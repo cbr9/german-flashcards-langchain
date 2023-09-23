@@ -1,0 +1,26 @@
+{
+    "word": "der Quadratmeter, die Quadratmeter",
+    "definition": "A unit of measurement commonly used to quantify the area of a two-dimensional space. It is often employed to describe the size of rooms, land, or other flat surfaces.",
+    "examples": [
+        {
+            "german": "Der Raum hat eine Fläche von 50 Quadratmetern.",
+            "english": "The room has an area of 50 square meters."
+        },
+        {
+            "german": "Die Wohnung ist 80 Quadratmeter groß.",
+            "english": "The apartment is 80 square meters in size."
+        },
+        {
+            "german": "Das Grundstück hat eine Fläche von 5000 Quadratmetern.",
+            "english": "The plot of land has an area of 5000 square meters."
+        },
+        {
+            "german": "Die Küche ist 10 Quadratmeter groß.",
+            "english": "The kitchen is 10 square meters in size."
+        },
+        {
+            "german": "Die Fläche des Gartens beträgt 200 Quadratmeter.",
+            "english": "The area of the garden is 200 square meters."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "word": "die Fläche, die Die flächen",
+    "definition": "A term commonly employed to describe a two-dimensional geometric entity that lacks depth, typically used to quantify the extent or size of a surface. It is frequently utilized in various fields such as mathematics, architecture, and geography to measure the area of an object or a region.",
+    "examples": [
+        {
+            "german": "Die Fläche des Raumes beträgt 50 Quadratmeter.",
+            "english": "The area of the room is 50 square meters."
+        },
+        {
+            "german": "Die Fläche des Sees beträgt 100 Hektar.",
+            "english": "The area of the lake is 100 hectares."
+        },
+        {
+            "german": "Die Fläche des Grundstücks ist sehr groß.",
+            "english": "The area of the plot is very large."
+        },
+        {
+            "german": "Die Fläche des Landes ist von Wäldern bedeckt.",
+            "english": "The area of the country is covered with forests."
+        },
+        {
+            "german": "Die Fläche des Parks ist für alle Besucher zugänglich.",
+            "english": "The area of the park is accessible to all visitors."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "word": "der Benutzernamen, die Die benutzernamen",
+    "definition": "A unique identifier chosen by individuals when accessing online platforms or services, typically consisting of a combination of letters, numbers, or symbols. It is commonly used to distinguish and represent users in various digital contexts, such as social media, email accounts, or online forums.",
+    "examples": [
+        {
+            "german": "Der Benutzername muss mindestens 6 Zeichen lang sein.",
+            "english": "The username must be at least 6 characters long."
+        },
+        {
+            "german": "Bitte geben Sie Ihren Benutzernamen ein.",
+            "english": "Please enter your username."
+        },
+        {
+            "german": "Der Benutzername ist bereits vergeben.",
+            "english": "The username is already taken."
+        },
+        {
+            "german": "Der Benutzername darf keine Sonderzeichen enthalten.",
+            "english": "The username must not contain any special characters."
+        },
+        {
+            "german": "Der Benutzername kann aus Buchstaben und Zahlen bestehen.",
+            "english": "The username can consist of letters and numbers."
+        }
+    ]
+}

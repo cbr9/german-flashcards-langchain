@@ -1,0 +1,26 @@
+{
+    "word": "die Ordnungszahl, die Die ordnungszahlen",
+    "definition": "The term refers to a numerical value assigned to elements or items in a specific sequence or order. It is commonly utilized in scientific and mathematical contexts, particularly in the field of chemistry, to identify and classify elements based on their position in the periodic table.",
+    "examples": [
+        {
+            "german": "Die Ordnungszahl des Elements ist 8.",
+            "english": "The atomic number of the element is 8."
+        },
+        {
+            "german": "Die Ordnungszahl gibt die Anzahl der Protonen im Atomkern an.",
+            "english": "The atomic number indicates the number of protons in the atomic nucleus."
+        },
+        {
+            "german": "Die Ordnungszahl bestimmt die Position des Elements im Periodensystem.",
+            "english": "The atomic number determines the position of the element in the periodic table."
+        },
+        {
+            "german": "Die Ordnungszahl eines Elements kann nicht negativ sein.",
+            "english": "The atomic number of an element cannot be negative."
+        },
+        {
+            "german": "Die Ordnungszahl eines Elements kann auch als Kernladungszahl bezeichnet werden.",
+            "english": "The atomic number of an element can also be referred to as the nuclear charge."
+        }
+    ]
+}
