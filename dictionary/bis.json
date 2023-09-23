@@ -1,0 +1,26 @@
+{
+    "word": "bis",
+    "definition": "A preposition or adverb that indicates a temporal or spatial limit, often used to express a point in time or a location that marks the end of a range or extent. It is commonly used to denote \"until\" or \"up to\" in various contexts, such as indicating a time frame, a destination, or a limit in quantity.",
+    "examples": [
+        {
+            "german": "Ich bleibe bis morgen.",
+            "english": "I will stay until tomorrow."
+        },
+        {
+            "german": "Er arbeitet von Montag bis Freitag.",
+            "english": "He works from Monday to Friday."
+        },
+        {
+            "german": "Wir haben bis spät in die Nacht gefeiert.",
+            "english": "We partied until late at night."
+        },
+        {
+            "german": "Sie hat bis zum Ende durchgehalten.",
+            "english": "She persisted until the end."
+        },
+        {
+            "german": "Ich warte hier bis du kommst.",
+            "english": "I'll wait here until you come."
+        }
+    ]
+}
