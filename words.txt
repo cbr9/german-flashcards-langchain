@@ -12,6 +12,7 @@ Antrag
 Aufbau
 Aufenthalt
 Aufmerksamkeit
+Aufruhr
 Auskunft
 Ausnahme
 Außenseiter
@@ -134,11 +135,13 @@ Schwätzen
 Schärfe
 Seele
 Selbstbild
+Sonderling
 Spannung
 Speis
 Spiegelbacken
 Spur
 Streichholz
+Stufe
 Stärke
 Sämtlich
 Sünde
@@ -189,6 +192,7 @@ abnutzen
 abordnen
 abraten
 abraten
+abschlagen
 abschliessen
 abschliessen
 abspeisen
@@ -433,13 +437,17 @@ gedeihen
 gegenüber
 gehen
 geißeln
+gelangen
 gelingen
 gelten
 genesen
 genießen
+gepanzert
 geschehen
 geschmeidig
 gestehen
+gesund und munter
+gesättigt
 gewagt
 gewinnen
 gießen
@@ -447,6 +455,7 @@ gleichen
 gleiten
 graben
 grausig
+greifbar
 greifen
 grunzen
 grässlich
@@ -555,6 +564,7 @@ rennen
 riechen
 ringen
 rinnen
+roh
 rufe
 rufen
 rutschen

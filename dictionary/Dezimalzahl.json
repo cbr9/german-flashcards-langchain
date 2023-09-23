@@ -1,0 +1,26 @@
+{
+    "word": "die Dezimalzahl, die Die dezimalzahlen",
+    "definition": "A numerical representation that consists of digits and a decimal point, commonly used for expressing fractions or portions of a whole. It is frequently employed in mathematical calculations and financial contexts.",
+    "examples": [
+        {
+            "german": "Eine Dezimalzahl ist eine Zahl, die einen Bruchteil einer Einheit darstellt.",
+            "english": "A decimal number is a number that represents a fraction of a unit."
+        },
+        {
+            "german": "Die Zahl 3,14 ist eine Dezimalzahl.",
+            "english": "The number 3.14 is a decimal number."
+        },
+        {
+            "german": "Dezimalzahlen werden oft zur Darstellung von Geldbeträgen verwendet.",
+            "english": "Decimal numbers are often used to represent monetary amounts."
+        },
+        {
+            "german": "Um eine Dezimalzahl in einen Bruch umzuwandeln, wird der Dezimalteil als Zähler und der Zehnerpotenz des Dezimalteils als Nenner verwendet.",
+            "english": "To convert a decimal number into a fraction, the decimal part is used as the numerator and the power of ten of the decimal part is used as the denominator."
+        },
+        {
+            "german": "Dezimalzahlen können unendlich viele Nachkommastellen haben.",
+            "english": "Decimal numbers can have infinitely many decimal places."
+        }
+    ]
+}

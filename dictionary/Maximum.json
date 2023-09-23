@@ -1,0 +1,26 @@
+{
+    "word": "das Maximum, die Die maxima",
+    "definition": "The highest or greatest possible amount, quantity, or degree that can be reached or achieved in a particular context. It is commonly used to describe the upper limit or threshold of something, often in relation to numbers, measurements, or limits.",
+    "examples": [
+        {
+            "german": "Das Maximum der Temperatur liegt bei 30 Grad.",
+            "english": "The maximum temperature is 30 degrees."
+        },
+        {
+            "german": "Die Geschwindigkeit darf das Maximum von 120 km/h nicht überschreiten.",
+            "english": "The speed must not exceed the maximum of 120 km/h."
+        },
+        {
+            "german": "Das Maximum an Gästen für die Veranstaltung beträgt 500 Personen.",
+            "english": "The maximum number of guests for the event is 500 people."
+        },
+        {
+            "german": "Der Preis liegt bei einem Maximum von 100 Euro.",
+            "english": "The price is at a maximum of 100 euros."
+        },
+        {
+            "german": "Die Software unterstützt ein Maximum von 10 Benutzern gleichzeitig.",
+            "english": "The software supports a maximum of 10 users simultaneously."
+        }
+    ]
+}

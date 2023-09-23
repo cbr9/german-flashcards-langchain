@@ -1,0 +1,26 @@
+{
+    "word": "die Division, die Die divisionen",
+    "definition": "A mathematical operation that involves splitting a whole into equal parts or groups, often used to determine the quotient or the number of times one quantity is contained within another. It is commonly employed in arithmetic and algebraic calculations to solve problems involving sharing, distributing, or partitioning quantities.",
+    "examples": [
+        {
+            "german": "Die Division von 12 durch 3 ergibt 4.",
+            "english": "The division of 12 by 3 equals 4."
+        },
+        {
+            "german": "Die Division ist eine mathematische Operation.",
+            "english": "Division is a mathematical operation."
+        },
+        {
+            "german": "Die Division wird oft mit dem Schrägstrich (/) dargestellt.",
+            "english": "Division is often represented by the forward slash (/)."
+        },
+        {
+            "german": "Die Division zweier Zahlen kann eine Dezimalzahl ergeben.",
+            "english": "The division of two numbers can result in a decimal."
+        },
+        {
+            "german": "Die Division ist das Gegenteil der Multiplikation.",
+            "english": "Division is the opposite of multiplication."
+        }
+    ]
+}

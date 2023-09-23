@@ -1,0 +1,26 @@
+{
+    "word": "der Schrägstrich, die Schrägstriche",
+    "definition": "A punctuation mark that is commonly used to separate two related but distinct elements or options within a sentence or phrase. It is often utilized to indicate alternatives, options, or divisions in various contexts, such as in writing, programming, or mathematical expressions.",
+    "examples": [
+        {
+            "german": "Der Schrägstrich wird oft als Trennzeichen verwendet.",
+            "english": "The slash is often used as a separator."
+        },
+        {
+            "german": "Bitte schreiben Sie Ihre Adresse mit Schrägstrich zwischen Hausnummer und Straßenname.",
+            "english": "Please write your address with a slash between the house number and street name."
+        },
+        {
+            "german": "Die Schrägstriche in diesem Text müssen entfernt werden.",
+            "english": "The slashes in this text need to be removed."
+        },
+        {
+            "german": "Der Schrägstrich kann auch als alternatives Zeichen für das Wort 'oder' verwendet werden.",
+            "english": "The slash can also be used as an alternative symbol for the word 'or'."
+        },
+        {
+            "german": "Der Schrägstrich wird in der Informatik oft zur Angabe von Pfaden verwendet.",
+            "english": "The slash is often used in computer science to indicate paths."
+        }
+    ]
+}
