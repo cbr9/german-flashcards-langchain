@@ -4,6 +4,7 @@ Abrede
 Achsel
 Ampel
 Anflug
+Angehörige
 Angelegenheit
 Angst
 Angst machen
@@ -61,6 +62,7 @@ Gedicht
 Gegensatz
 Gegenteil
 Gehabe
+Geheiß
 Gelegenheit
 Gemahlin
 Gemeinde
@@ -88,6 +90,7 @@ Hinrichtung
 Hinweis
 Hirsch
 Hoheit
+Hufeisen
 Jäger
 Kamm
 Kaserne
@@ -195,10 +198,12 @@ abgrenzen
 abgrenzen
 abhandenkommen
 abhängig
+abkaufen
 abnutzen
 abordnen
 abraten
 abraten
+abreißen
 abschlagen
 abschliessen
 abschliessen
@@ -215,6 +220,7 @@ ahnungslos
 allerdings
 allgemein
 allzu
+anbeißen
 anfangen
 anfassen
 angehen
@@ -274,6 +280,7 @@ ausschlafen
 aussehen
 austauschen
 austoben
+austrinken
 ausziehen
 baden
 barfuß
@@ -431,6 +438,7 @@ fliegen
 fliehen
 fließen
 folgsam
+foltern
 freilich
 freischalten
 freischalten
@@ -484,6 +492,7 @@ hektisch
 helfen
 herabsinken
 herabsinken
+herausfinden
 heutig
 hinaus
 hinein
@@ -502,6 +511,7 @@ inzwischen
 irgendein
 irgendetwas
 irgendwas
+irren
 irren
 jeden Augenblick
 kennen
@@ -574,6 +584,7 @@ reiten
 reißen
 rennen
 riechen
+riesig
 ringen
 rinnen
 roh
@@ -704,9 +715,11 @@ verderben
 vereinigen
 verflucht
 verfolgen
+vergelten
 vergessen
 verhelien
 verhungern
+verirren
 verirren
 verklingen
 verlangen
